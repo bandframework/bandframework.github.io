@@ -1,6 +1,4 @@
-# Test website for BAND Framework project
-
-This is a development website.
+# Main website for BAND Framework project
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch. 
 
