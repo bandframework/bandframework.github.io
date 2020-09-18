@@ -1,0 +1,80 @@
+- name: Dick Furnstahl
+  photo: furnstahl2_21Jun2017_headshot.jpg
+  info: Professor of Physics, The Ohio State University
+  email: furnstahl.1@osu.edu
+  number_educ: 0
+  education1: 
+  bio: Dr. Furnstahl is a theoretical nuclear physicist specializing in the application of effective field theory (EFT) and renormalization group methods to low-energy nuclear structure and reactions. He has been applying Bayesian methods to nuclear-physics problems for many years.  Together with Daniel Phillips he founded the <a href="https://buqeye.github.io/">BUQEYE collaboration</a>, which aims to use statistical tools to answer fundamental problems in the construction and application of  EFTs, with particular attention to low-energy nuclear physics. This includes Bayesian parameter estimation, model checking, model selection, and experimental design. 
+
+- name: Ulrich Heinz
+  photo: UH_cropped.jpg
+  info: Distinguished University Professor of Physics, <br> The Ohio State University
+  email: heinz.9@osu.edu
+  number_educ: 0
+  education1: 
+  bio: Dr. Heinz has been applying Bayesian methods for years to the calibration of large numerical models for the dynamical evolution of highly excited  forms of nuclear matter created in ultra-relativistic heavy-ion collisions. His interests focus in particular on the quantitative extraction of information on the initial state and medium properties of quark-gluon plasma produced in such collisions. Within BAND he hopes to achieve unprecedented predictive power through full theoretical and experimental uncertainty quantification on quark-gluon plasma properties. 
+
+- name: Taps Maiti
+  photo: taps-maiti_2.jpg
+  info: Professor  of Statistics &amp; Probability, <br> Michigan State University
+  email: maiti@msu.edu
+  number_educ: 0
+  education1:
+  bio: 
+
+- name: Witek Nazarewicz
+  photo: witek.jpg
+  info: FRIB Chief Scientist and Hannah Distinguished Professor, Michigan State University
+  email: witek@frib.msu.edu
+  number_educ: 0
+  education1:
+  bio: Dr. Nazarewicz is a nuclear theorist. His research invites a strong interaction between nuclear physics, many-body problem, high-performance computing, and statistics.  He has been applying statistical methods of uncertainty quantification  to nuclear-physics problems for more than ten years. Most of his statistical work pertains to nuclear density functional theory. It includes  various applications of parameter estimation, principal component analysis, correlation analysis, Bayesian model calibration, and model averaging and mixing - especially in the context of the science program of the Facility for Rare Isotope Beams at MSU.  He is particularly interested in using Bayesian model averaging and model mixing to quantify the uncertainty of nuclear models extrapolations.
+
+- name: Filomena Nunes
+  photo: nunes.png
+  info: Professor of Physics and FRIB Theory Alliance Managing Director, Michigan State University
+  email: nunes@frib.msu.edu
+  number_educ: 0
+  education1:
+  bio: Dr. Nunes is interested in using reactions to address big questions in our field, such as where are the limits of stability, how does matter organize itself and where did heavy matter come from? While some of her work focuses on developing models for reactions with exotic unstable nuclei, another important theme relates to uncertainty quantification, model comparison and experimental design. The few-body methods used rely on effective potentials between constituents that are not well known and thus are the main source of uncertainty in current reaction models. Her group uses Bayesian statistical tools to quantify the uncertainty of the model predictions, to discriminate between models and help in identifying the optimum conditions for an experiment. 
+
+- name: Matt Plumlee
+  photo: plumlee-matthew.jpg
+  info: Assistant Professor of Industrial Engineering and Management Sciences, Northwestern University
+  email: mplumlee@northwestern.edu
+  number_educ: 0
+  education1:
+  bio: 
+
+- name: Matt Pratola
+  photo: matt_pratola.jpg
+  info: Associate Professor of Statistics, <br> The Ohio State University
+  email: mpratola@stat.osu.edu
+  number_educ: 0
+  education1:
+  bio: Dr. Pratola’s research program is focused on two areas of statistical methodology&colon; (1) statistical models and methodology for calibrating complex simulation models to real-world observations for parameter estimation, prediction and uncertainty quantification; and (2) statistical models and methodology for computationally scalable and flexible Bayesian non-parametric regression models for high-dimensional "big data" and parallel computation.  His work is motivated by applied collaborations and has worked with researchers at the National Center for Atmospheric Research, Los Alamos National Laboratories, the Biocomplexity Institute of Virginia Tech, King Abdullah University of Science and Technology and the JADS Institute.  You can follow his research at <a href="www.matthewpratola.com">www.matthewpratola.com</a> or on twitter @MattPratola.
+
+
+- name: Scott Pratt
+  photo: scott_2009.jpg
+  info: Professor, Theoretical Nuclear Physics, National Superconducting Cyclotron Laboratory, <br> Michigan State University
+  email: prattsc@msu.edu
+  number_educ: 0
+  education1:
+  bio: Dr. Pratt is a theoretical nuclear physicist specializing in the theory, phenomenology and modeling of relativistic heavy-ion collisions. The main goal of Dr. Pratt’s research is to extract bulk properties of the quark-gluon plasma (QGP) by advancing theory and modeling, and comparing models to data from the Relativistic Heavy Ion Collider at Brookhaven National Lab and from the heavy ion program at the LHC. To that end, he has spearheaded efforts to develop strategies involving model emulators based on Bayesian statistics to constrain fundamental properties of the QGP, such as the equation of state, from experiment. 
+
+- name: Frederi Viens
+  photo: frederi-viens.jpg
+  info: Professor  of Statistics &amp; Probability, <br> Michigan State University
+  email: viens@msu.edu
+  number_educ: 0
+  education1:
+  bio: 
+
+- name: Stefan Wild
+  photo: Wild-Stefan-32129D38.jpg
+  info: Computational Mathematician and Deputy Director, Mathematics and Computer Science Division, Argonne National Laboratory; Senior Fellow, Northwestern University
+  email: wild@anl.gov
+  number_educ: 0
+  education1:
+  bio:   

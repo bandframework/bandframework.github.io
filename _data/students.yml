@@ -1,0 +1,17 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Rebecca Gharibaan
+  photo: rock.jpg
+  info: Master student
+  email: R.Gharibaan@student.tudelft.nl
+  number_educ: 0
+  education1:
+

@@ -1,0 +1,8 @@
+
+- name: Daniel Phillips
+  photo: phillips_cropped.jpg
+  info: Professor of Physics &amp; Astronomy, Ohio University
+  email: phillid1@ohio.edu
+  number_educ: 0
+  educational1:
+  bio: Dr. Phillips has been applying Bayesian methods to nuclear-physics problems for more than ten years. He is particularly interested in using Bayesian methods to quantify the uncertainty in effective field theory (EFT) treatments of nuclear physics. Together with Dick Furnstahl he founded the <a href="https://buqeye.github.io/">BUQEYE collaboration</a>, which aims to use statistical tools to answer fundamental problems in the construction and application of  EFTs, with particular attention to low-energy nuclear physics. This includes Bayesian parameter estimation, model checking, model selection, and experimental design. Phillips is the Principal Investigator of the BAND collaboration. 
