@@ -94,7 +94,7 @@
   number_educ: 0
   education1:
   bio: >
-     Dr. Pratola’s research program is focused on two areas of statistical methodology&colon; 
+     Dr. Pratola’s research program is focused on two areas of statistical methodology: 
      (1) statistical models and methodology for calibrating complex simulation models to 
      real-world observations for parameter estimation, prediction and uncertainty 
      quantification; and (2) statistical models and methodology for computationally scalable 
@@ -137,7 +137,7 @@
      of science for more than twenty years, from climate science, to agricultural economics, 
      and to quantitative finance. In nuclear physics, he is particularly interested in 
      using Bayesian methods to assess the efficiency and honesty of uncertainty quantification 
-     for the limits of stability in the nuclear lanscape, and to develop more efficient 
+     for the limits of stability in the nuclear landscape, and to develop more efficient 
      numerical implementations. Together with his MSU colleagues Tapabrata Maiti, and 
      Witek Nazarewicz and his team, he is working on systematic principles for Bayesian 
      model averaging in the presence of varied nuclear models, where improved predictive 
