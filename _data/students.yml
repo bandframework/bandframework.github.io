@@ -8,10 +8,10 @@
 #  education3:
 #  education4:
 
-- name: Rebecca Gharibaan
-  photo: rock.jpg
-  info: Master student
-  email: R.Gharibaan@student.tudelft.nl
+- name: <a href='https://physics.osu.edu/people/liyanage.5'>Dananjaya Liyanage</a>
+  photo: liyanage.5_cropped.jpg
+  info: Physics Department, <br> The Ohio State University
+  email: liyanage.5@osu.edu
   number_educ: 0
   education1:
 
