@@ -146,10 +146,21 @@
      likelihood of discovery, impact of discovery, and risk preferences. 
      Viens is the lead co-PI at MSU for the BAND collaboration.
 
-- name: Stefan Wild
+- name: <a href='https://wildsm.github.io/'>Stefan Wild</a>
   photo: Wild-Stefan-32129D38.jpg
   info: Computational Mathematician and Deputy Director, Mathematics and Computer Science Division, Argonne National Laboratory; Senior Fellow, Northwestern University
-  email: wild@anl.gov
+  email: stefanwild@northwestern.edu
   number_educ: 0
   education1:
-  bio:   
+  bio: >
+     Dr. Wild is a computational mathematician whose primary research focus is developing 
+     surrogate-model-based algorithms and software for challenging numerical optimization 
+     problems. He applies these techniques for data analysis, machine learning, and the 
+     solution of nonlinear inverse and model calibration problems. 
+     In BAND, he is especially interested in the interplay among numerical optimization, 
+     Bayesian statistics, and computationally expensive simulations of nuclei. 
+     Wild is the co-director for mathematics and computer science of the 
+     <a href="http://computingnuclei.org/">NUCLEI</a> collaboration and 
+     leads <a href="https://www.anl.gov/mcs/lans">LANS, the Laboratory for Applied 
+     Mathematics, Numerical Software, and Statistics</a> at Argonne National Laboratory.
+  
