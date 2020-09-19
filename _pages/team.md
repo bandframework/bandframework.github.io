@@ -9,9 +9,7 @@ permalink: /team/
 # BAND Members and Associates
 
 
-<!--
-Jump to [senior](#senior), [postdocs](#postdocs), [graduate students](#grads), [collaborators](#collaborators).
--->
+Jump to [senior investigators](#senior-investigators), [graduate students](#graduate-students).
 
 ## BAND Leader
 {% assign number_printed = 0 %}
