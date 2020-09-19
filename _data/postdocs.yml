@@ -1,0 +1,17 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: SP
+  photo: Wild-Stefan-32129D38.jpg
+  info: X, <br>Northwestern University
+  email: ssss@b.edu
+  number_educ: 0
+  education1:
+
