@@ -16,11 +16,11 @@
 
 - name: Taps Maiti
   photo: taps-maiti_2.jpg
-  info: Professor  of Statistics &amp; Probability, <br> Michigan State University
+  info: Professor, Department of Statistics &amp; Probability, <br> Michigan State University Foundation Professor, <br> Michigan State University
   email: maiti@msu.edu
   number_educ: 0
   education1:
-  bio: 
+  bio: Dr. Maiti's research expertise is in statistical theory and methods with a focus on applications to real-life data. He is developing cutting-edge statistical theory and methods encompassing diverse research fields in biomedical engineering, genetics, nuclear physics, imaging, computational modeling, uncertainty quantifications with specific emphasis on artificial intelligence and machine learning for solving complex data science problems.  He is a Fellow of the American Statistical Association (ASA) and the Institute of Mathematical Statistics (IMS).
 
 - name: Witek Nazarewicz
   photo: witek.jpg
