@@ -9,7 +9,7 @@ permalink: /team/
 # BAND Members and Associates
 
 
-Jump to [senior investigators](#senior-investigators), [postdoctoral associates](#postdoctoral-associates), [graduate students](#graduate-students).
+Jump to [senior investigators](#senior-investigators), [postdoctoral researchers](#postdoctoral-researchers), [graduate students](#graduate-students).
 
 ## BAND Leader
 {% assign number_printed = 0 %}
@@ -140,7 +140,7 @@ Jump to [senior investigators](#senior-investigators), [postdoctoral associates]
 </div>
 {% endif %}
 
-## Postdoctoral Associates
+## Postdoctoral Researchers
 {% assign number_printed = 0 %}
 {% for member in site.data.postdocs %}
 
