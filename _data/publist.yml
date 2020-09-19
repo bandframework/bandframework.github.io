@@ -1,6 +1,10 @@
 - title: "Efficient emulators for scattering using eigenvector continuation"
   image: EC_parameters.png
-  description: Eigenvector continuation (EC), which accurately and efficiently reproduces ground states for targeted sets of Hamiltonian parameters, is extended to scattering using the Kohn variational principle. Proofs-of-principle imply EC will be a valuable emulator for applying Bayesian inference to parameter estimation constrained by scattering observables. 
+  description: >
+    Eigenvector continuation (EC), which accurately and efficiently reproduces ground states 
+    for targeted sets of Hamiltonian parameters, is extended to scattering using the Kohn 
+    variational principle. Proofs-of-principle imply EC will be a valuable emulator for 
+    applying Bayesian inference to parameter estimation constrained by scattering observables. 
   authors: R.J. Furnstahl, A.J. Garcia, P.J. Millican, and Xilin Zhang
   link:
     url: https://doi.org/10.1016/j.physletb.2020.135719
