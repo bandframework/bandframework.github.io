@@ -124,12 +124,27 @@
      the equation of state, from experiment. 
 
 - name: Frederi Viens
-  photo: frederi-viens.jpg
+  photo: frederi-viens.2018.3960medres_cropped.jpg
   info: Professor  of Statistics &amp; Probability, <br> Michigan State University
   email: viens@msu.edu
   number_educ: 0
   education1:
-  bio: 
+  bio: >
+     Dr. Viens directs the Actuarial Science and Quantitative Risk Analytics program, 
+     helps to develop academic programs in data science, and assists in the university's 
+     Statistical Training and Consulting service. His core training is in probability 
+     theory and stochastic processes. He has been applying Bayesian methods to many areas 
+     of science for more than twenty years, from climate science, to agricultural economics, 
+     and to quantitative finance. In nuclear physics, he is particularly interested in 
+     using Bayesian methods to assess the efficiency and honesty of uncertainty quantification 
+     for the limits of stability in the nuclear lanscape, and to develop more efficient 
+     numerical implementations. Together with his MSU colleagues Tapabrata Maiti, and 
+     Witek Nazarewicz and his team, he is working on systematic principles for Bayesian 
+     model averaging in the presence of varied nuclear models, where improved predictive 
+     power is the goal. He is also interested in orienting his BAND collaborators towards 
+     a data-informed framework of optimal experimental design based on experiment costs, 
+     likelihood of discovery, impact of discovery, and risk preferences. 
+     Viens is the lead co-PI at MSU for the BAND collaboration.
 
 - name: Stefan Wild
   photo: Wild-Stefan-32129D38.jpg
