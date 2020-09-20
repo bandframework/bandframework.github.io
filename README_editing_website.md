@@ -2,7 +2,7 @@
 
 The website is powered by Jekyll, with all of the content in text files, which are in subdirectories in the bandframework.github.io respository of the bandframework organization. The website is [https://github.com/bandframework/bandframework.github.io](https://github.com/bandframework/bandframework.github.io). Note that you can make edits directly on the files in your web browser from this website.
 
-If you want to preview changes locally, see guides such as [https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll](Testing your GitHub Pages site locally with Jekyll).
+If you want to preview changes locally, see guides such as [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll).
 
 If, after your changes have been made to the respository, you received an email that there was an error in the Jekyll processing that you cannot fix (e.g., you don't understand it), please forward the email to Dick (furnstahl.1@osu.ed).
 
