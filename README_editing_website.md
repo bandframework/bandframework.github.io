@@ -17,6 +17,7 @@ If, after your changes have been made to the respository, you received an email 
     * For text that runs over one line you can use `>` after the keyword and then as many lines with linebreaks as you want. But they must be indented. (Note: you can also use `|`.)
     * A new item in a list (e.g., a new team member) starts with a hyphen: `-`.
     * Most of the entries are key-value pairs, which are separated by a colon. E.g., `photo: phillips_cropped.jpg` or `date: July 1, 2020`. The order in which you put the key-value pairs doesn't matter, but for consistency and readability, please follow the order used by the other examples.
+    * Do not use Word to edit the files or any other word processor that inserts control sequences.
 
 ## Adding or editing News items
 
