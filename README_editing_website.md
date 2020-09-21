@@ -1,6 +1,8 @@
 # Instructions for the BAND Framework website
 
-The website is powered by Jekyll, with all of the content in text files, which are in subdirectories in the bandframework.github.io respository of the bandframework organization. The website is [https://github.com/bandframework/bandframework.github.io](https://github.com/bandframework/bandframework.github.io). Note that you can make edits directly on the files in your web browser from this website.
+The website is powered by Jekyll, with all of the content in text files, which are in subdirectories in the bandframework.github.io respository of the bandframework organization. The website is [https://github.com/bandframework/bandframework.github.io](https://github.com/bandframework/bandframework.github.io). 
+
+Note that you can make edits directly on the files in your web browser from the github repository. Just go to the link above, find the file you want to edit, and click on it. You'll see the file contents and a row of icons just above it. Click on the edit icon (looks something like a pencil, just to the left of the trashcan icon). Make your edits, then scroll down to the "Commit Changes" section. Put in a description of what changes you made and press `Commit changes` (or `Cancel` to back out). That's it!
 
 If you want to preview changes locally, see guides such as [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll).
 
