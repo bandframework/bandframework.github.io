@@ -86,15 +86,15 @@
   number_educ: 0
   education1:
   bio: >
-      Dr. Plumlee studies statistical methodology with a specific focus on uncertainty
-      quantification for expensive computational models.  This includes the development
-      and deployment of statistical learning tools in high dimensional environments.  
-      Statistical procedures of scientific interest include model emulation, parameter
-      estimation, discrepancy detection and correction.  Specific interests lie in
-      large-scale implementations and well-justified uncertainty quantification of
-      estimates.  Within BAND, his role will be in the design, use, and implementation of
-      cutting edge statistical tools to solve complicated nuclear physics problems
-      in the presence of multiple models.
+    Dr. Plumlee studies statistical methodology with a specific focus on uncertainty
+    quantification for expensive computational models.  This includes the development
+    and deployment of statistical learning tools in high dimensional environments.  
+    Statistical procedures of scientific interest include model emulation, parameter
+    estimation, discrepancy detection and correction.  Specific interests lie in
+    large-scale implementations and well-justified uncertainty quantification of
+    estimates.  Within BAND, his role will be in the design, use, and implementation of
+    cutting edge statistical tools to solve complicated nuclear physics problems
+    in the presence of multiple models.
 
 - name: Matt Pratola
   photo: matt_pratola.jpg
