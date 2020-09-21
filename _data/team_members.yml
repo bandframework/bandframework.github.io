@@ -3,31 +3,31 @@
   info: Professor of Physics, The Ohio State University
   email: furnstahl.1@osu.edu
   number_educ: 0
-  education1: 
+  education1:
   bio: >
-     Dr. Furnstahl is a theoretical nuclear physicist specializing in the application of 
-     effective field theory (EFT) and renormalization group methods to low-energy nuclear 
-     structure and reactions. He has been applying Bayesian methods to nuclear-physics 
-     problems for many years.  Together with Daniel Phillips he founded the 
-     <a href="https://buqeye.github.io/">BUQEYE collaboration</a>, which aims to use 
-     statistical tools to answer fundamental problems in the construction and application 
-     of EFTs, with particular attention to low-energy nuclear physics. This includes Bayesian 
-     parameter estimation, model checking, model selection, and experimental design. 
+     Dr. Furnstahl is a theoretical nuclear physicist specializing in the application of
+     effective field theory (EFT) and renormalization group methods to low-energy nuclear
+     structure and reactions. He has been applying Bayesian methods to nuclear-physics
+     problems for many years.  Together with Daniel Phillips he founded the
+     <a href="https://buqeye.github.io/">BUQEYE collaboration</a>, which aims to use
+     statistical tools to answer fundamental problems in the construction and application
+     of EFTs, with particular attention to low-energy nuclear physics. This includes Bayesian
+     parameter estimation, model checking, model selection, and experimental design.
 
 - name: Ulrich Heinz
   photo: UH_cropped.jpg
   info: Distinguished University Professor of Physics, <br> The Ohio State University
   email: heinz.9@osu.edu
   number_educ: 0
-  education1: 
+  education1:
   bio: >
-     Dr. Heinz has been applying Bayesian methods for years to the calibration of large 
-     numerical models for the dynamical evolution of highly excited  forms of nuclear 
-     matter created in ultra-relativistic heavy-ion collisions. His interests focus in 
-     particular on the quantitative extraction of information on the initial state and 
-     medium properties of quark-gluon plasma produced in such collisions. Within BAND 
-     he hopes to achieve unprecedented predictive power through full theoretical and 
-     experimental uncertainty quantification on quark-gluon plasma properties. 
+     Dr. Heinz has been applying Bayesian methods for years to the calibration of large
+     numerical models for the dynamical evolution of highly excited  forms of nuclear
+     matter created in ultra-relativistic heavy-ion collisions. His interests focus in
+     particular on the quantitative extraction of information on the initial state and
+     medium properties of quark-gluon plasma produced in such collisions. Within BAND
+     he hopes to achieve unprecedented predictive power through full theoretical and
+     experimental uncertainty quantification on quark-gluon plasma properties.
 
 - name: Taps Maiti
   photo: taps-maiti_2.jpg
@@ -36,12 +36,12 @@
   number_educ: 0
   education1:
   bio: >
-     Dr. Maiti's research expertise is in statistical theory and methods with a focus on 
-     applications to real-life data. He is developing cutting-edge statistical theory and 
-     methods encompassing diverse research fields in biomedical engineering, genetics, 
-     nuclear physics, imaging, computational modeling, uncertainty quantifications with 
-     specific emphasis on artificial intelligence and machine learning for solving complex 
-     data science problems.  He is a Fellow of the American Statistical Association (ASA) 
+     Dr. Maiti's research expertise is in statistical theory and methods with a focus on
+     applications to real-life data. He is developing cutting-edge statistical theory and
+     methods encompassing diverse research fields in biomedical engineering, genetics,
+     nuclear physics, imaging, computational modeling, uncertainty quantifications with
+     specific emphasis on artificial intelligence and machine learning for solving complex
+     data science problems.  He is a Fellow of the American Statistical Association (ASA)
      and the Institute of Mathematical Statistics (IMS).
 
 - name: Witek Nazarewicz
@@ -51,15 +51,15 @@
   number_educ: 0
   education1:
   bio: >
-     Dr. Nazarewicz is a nuclear theorist. His research invites a strong interaction between 
-     nuclear physics, many-body problem, high-performance computing, and statistics.  He has 
-     been applying statistical methods of uncertainty quantification to nuclear-physics 
-     problems for more than ten years. Most of his statistical work pertains to nuclear 
-     density functional theory. It includes various applications of parameter estimation, 
-     principal component analysis, correlation analysis, Bayesian model calibration, and 
-     model averaging and mixing - especially in the context of the science program of the 
-     Facility for Rare Isotope Beams at MSU.  He is particularly interested in using 
-     Bayesian model averaging and model mixing to quantify the uncertainty of nuclear models 
+     Dr. Nazarewicz is a nuclear theorist. His research invites a strong interaction between
+     nuclear physics, many-body problem, high-performance computing, and statistics.  He has
+     been applying statistical methods of uncertainty quantification to nuclear-physics
+     problems for more than ten years. Most of his statistical work pertains to nuclear
+     density functional theory. It includes various applications of parameter estimation,
+     principal component analysis, correlation analysis, Bayesian model calibration, and
+     model averaging and mixing - especially in the context of the science program of the
+     Facility for Rare Isotope Beams at MSU.  He is particularly interested in using
+     Bayesian model averaging and model mixing to quantify the uncertainty of nuclear models
      extrapolations.
 
 - name: Filomena Nunes
@@ -69,15 +69,15 @@
   number_educ: 0
   education1:
   bio: >
-     Dr. Nunes is interested in using reactions to address big questions in our field, 
-     such as where are the limits of stability, how does matter organize itself and where 
-     did heavy matter come from? While some of her work focuses on developing models for 
-     reactions with exotic unstable nuclei, another important theme relates to uncertainty 
-     quantification, model comparison and experimental design. The few-body methods used 
-     rely on effective potentials between constituents that are not well known and thus 
-     are the main source of uncertainty in current reaction models. Her group uses Bayesian 
-     statistical tools to quantify the uncertainty of the model predictions, to discriminate 
-     between models and help in identifying the optimum conditions for an experiment. 
+     Dr. Nunes is interested in using reactions to address big questions in our field,
+     such as where are the limits of stability, how does matter organize itself and where
+     did heavy matter come from? While some of her work focuses on developing models for
+     reactions with exotic unstable nuclei, another important theme relates to uncertainty
+     quantification, model comparison and experimental design. The few-body methods used
+     rely on effective potentials between constituents that are not well known and thus
+     are the main source of uncertainty in current reaction models. Her group uses Bayesian
+     statistical tools to quantify the uncertainty of the model predictions, to discriminate
+     between models and help in identifying the optimum conditions for an experiment.
 
 - name: Matt Plumlee
   photo: plumlee-matthew.jpg
@@ -85,7 +85,16 @@
   email: mplumlee@northwestern.edu
   number_educ: 0
   education1:
-  bio: 
+  bio: >
+      Dr. Plumlee studies statistical methodology with a specific focus on uncertainty
+      quantification for expensive computational models.  This includes the development
+      and deployment of statistical learning tools in high dimensional environments.  
+      Statistical procedures of scientific interest include model emulation, parameter
+      estimation, discrepancy detection and correction.  Specific interests lie in
+      large-scale implementations and well-justified uncertainty quantification of
+      estimates.  Within BAND, his role will be in the design, use, and implementation of
+      cutting edge statistical tools to solve complicated nuclear physics problems
+      in the presence of multiple models.
 
 - name: Matt Pratola
   photo: matt_pratola.jpg
@@ -94,16 +103,16 @@
   number_educ: 0
   education1:
   bio: >
-     Dr. Pratola’s research program is focused on two areas of statistical methodology: 
-     (1) statistical models and methodology for calibrating complex simulation models to 
-     real-world observations for parameter estimation, prediction and uncertainty 
-     quantification; and (2) statistical models and methodology for computationally scalable 
-     and flexible Bayesian non-parametric regression models for high-dimensional "big data" 
-     and parallel computation.  His work is motivated by applied collaborations and has 
-     worked with researchers at the National Center for Atmospheric Research, Los Alamos 
-     National Laboratories, the Biocomplexity Institute of Virginia Tech, King Abdullah 
-     University of Science and Technology and the JADS Institute.  You can follow his 
-     research at <a href="http://www.matthewpratola.com">www.matthewpratola.com</a> or on 
+     Dr. Pratola’s research program is focused on two areas of statistical methodology:
+     (1) statistical models and methodology for calibrating complex simulation models to
+     real-world observations for parameter estimation, prediction and uncertainty
+     quantification; and (2) statistical models and methodology for computationally scalable
+     and flexible Bayesian non-parametric regression models for high-dimensional "big data"
+     and parallel computation.  His work is motivated by applied collaborations and has
+     worked with researchers at the National Center for Atmospheric Research, Los Alamos
+     National Laboratories, the Biocomplexity Institute of Virginia Tech, King Abdullah
+     University of Science and Technology and the JADS Institute.  You can follow his
+     research at <a href="http://www.matthewpratola.com">www.matthewpratola.com</a> or on
      twitter @MattPratola.
 
 
@@ -114,14 +123,14 @@
   number_educ: 0
   education1:
   bio: >
-     Dr. Pratt is a theoretical nuclear physicist specializing in the theory, phenomenology 
-     and modeling of relativistic heavy-ion collisions. The main goal of Dr. Pratt’s 
-     research is to extract bulk properties of the quark-gluon plasma (QGP) by advancing 
-     theory and modeling, and comparing models to data from the Relativistic Heavy Ion 
-     Collider at Brookhaven National Lab and from the heavy ion program at the LHC. 
-     To that end, he has spearheaded efforts to develop strategies involving model emulators 
-     based on Bayesian statistics to constrain fundamental properties of the QGP, such as 
-     the equation of state, from experiment. 
+     Dr. Pratt is a theoretical nuclear physicist specializing in the theory, phenomenology
+     and modeling of relativistic heavy-ion collisions. The main goal of Dr. Pratt’s
+     research is to extract bulk properties of the quark-gluon plasma (QGP) by advancing
+     theory and modeling, and comparing models to data from the Relativistic Heavy Ion
+     Collider at Brookhaven National Lab and from the heavy ion program at the LHC.
+     To that end, he has spearheaded efforts to develop strategies involving model emulators
+     based on Bayesian statistics to constrain fundamental properties of the QGP, such as
+     the equation of state, from experiment.
 
 - name: Frederi Viens
   photo: frederi-viens.2018.3960medres_cropped.jpg
@@ -130,20 +139,20 @@
   number_educ: 0
   education1:
   bio: >
-     Dr. Viens directs the Actuarial Science and Quantitative Risk Analytics program, 
-     helps to develop academic programs in data science, and assists in the university's 
-     Statistical Training and Consulting service. His core training is in probability 
-     theory and stochastic processes. He has been applying Bayesian methods to many areas 
-     of science for more than twenty years, from climate science, to agricultural economics, 
-     and to quantitative finance. In nuclear physics, he is particularly interested in 
-     using Bayesian methods to assess the efficiency and honesty of uncertainty quantification 
-     for the limits of stability in the nuclear landscape, and to develop more efficient 
-     numerical implementations. Together with his MSU colleagues Tapabrata Maiti, and 
-     Witek Nazarewicz and his team, he is working on systematic principles for Bayesian 
-     model averaging in the presence of varied nuclear models, where improved predictive 
-     power is the goal. He is also interested in orienting his BAND collaborators towards 
-     a data-informed framework of optimal experimental design based on experiment costs, 
-     likelihood of discovery, impact of discovery, and risk preferences. 
+     Dr. Viens directs the Actuarial Science and Quantitative Risk Analytics program,
+     helps to develop academic programs in data science, and assists in the university's
+     Statistical Training and Consulting service. His core training is in probability
+     theory and stochastic processes. He has been applying Bayesian methods to many areas
+     of science for more than twenty years, from climate science, to agricultural economics,
+     and to quantitative finance. In nuclear physics, he is particularly interested in
+     using Bayesian methods to assess the efficiency and honesty of uncertainty quantification
+     for the limits of stability in the nuclear landscape, and to develop more efficient
+     numerical implementations. Together with his MSU colleagues Tapabrata Maiti, and
+     Witek Nazarewicz and his team, he is working on systematic principles for Bayesian
+     model averaging in the presence of varied nuclear models, where improved predictive
+     power is the goal. He is also interested in orienting his BAND collaborators towards
+     a data-informed framework of optimal experimental design based on experiment costs,
+     likelihood of discovery, impact of discovery, and risk preferences.
      Viens is the lead co-PI at MSU for the BAND collaboration.
 
 - name: <a href='https://wildsm.github.io/'>Stefan Wild</a>
@@ -153,14 +162,13 @@
   number_educ: 0
   education1:
   bio: >
-     Dr. Wild is a computational mathematician whose primary research focus is developing 
-     surrogate-model-based algorithms and software for challenging numerical optimization 
-     problems. He applies these techniques for data analysis, machine learning, and the 
-     solution of nonlinear inverse and model calibration problems. 
-     In BAND, he is especially interested in the interplay among numerical optimization, 
-     Bayesian statistics, and computationally expensive simulations of nuclei. 
-     Wild is the co-director for mathematics and computer science of the 
-     <a href="http://computingnuclei.org/">NUCLEI</a> collaboration and 
-     leads <a href="https://www.anl.gov/mcs/lans">LANS, the Laboratory for Applied 
+     Dr. Wild is a computational mathematician whose primary research focus is developing
+     surrogate-model-based algorithms and software for challenging numerical optimization
+     problems. He applies these techniques for data analysis, machine learning, and the
+     solution of nonlinear inverse and model calibration problems.
+     In BAND, he is especially interested in the interplay among numerical optimization,
+     Bayesian statistics, and computationally expensive simulations of nuclei.
+     Wild is the co-director for mathematics and computer science of the
+     <a href="http://computingnuclei.org/">NUCLEI</a> collaboration and
+     leads <a href="https://www.anl.gov/mcs/lans">LANS, the Laboratory for Applied
      Mathematics, Numerical Software, and Statistics</a> at Argonne National Laboratory.
-  
