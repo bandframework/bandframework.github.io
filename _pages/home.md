@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<figure class="fourth">
+<figure class="fourth" style="text-align:center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BAND_logo_v1.png" style="width: 560px">
 </figure>
 
