@@ -6,6 +6,16 @@ sitemap: false
 permalink: /
 ---
 
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BAND_logo_v1.png" style="width: 560px">
+</figure>
+
+<!--
+<figure class="fourth" style="text-align:center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BAND_logo_alt_v1.png" style="width: 450px; ">
+</figure>
+-->
+
 <p>
 Nuclear physicists seek an accurate description of the properties of atomic nuclei, collisions between nuclei, and extreme environments such as the first few seconds of our universe or the interior of a neutron star. These situations involve many particles interacting through complex forces. They’re each described by a number of different models: these typically do a good job of explaining the results of experiments that have already occurred. The models don’t do as well predicting what will happen in future experiments or in environments that are inaccessible here on Earth. 
 </p>
