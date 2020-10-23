@@ -66,7 +66,6 @@
   photo: nunes.png
   info: Professor of Physics and FRIB Theory Alliance Managing Director, Michigan State University
   email: nunes@frib.msu.edu
-  website: people.nscl.msu.edu/~nunes
   number_educ: 0
   education1:
   bio: >
@@ -78,7 +77,8 @@
      rely on effective potentials between constituents that are not well known and thus
      are the main source of uncertainty in current reaction models. Her group uses Bayesian
      statistical tools to quantify the uncertainty of the model predictions, to discriminate
-     between models and help in identifying the optimum conditions for an experiment.
+     between models and help in identifying the optimum conditions for an experiment. 
+     More details at <a href="https://people.nscl.msu.edu/~nunes">people.nscl.msu.edu</a>
 
 - name: Matt Plumlee
   photo: plumlee-matthew.jpg
