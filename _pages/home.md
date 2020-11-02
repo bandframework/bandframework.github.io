@@ -25,7 +25,7 @@ The <b>Bayesian Analysis of Nuclear Dynamics</b> (BAND) Framework will use advan
 </p>
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/frameworkpic/flowchart_website_v3.png" style="width: 660px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/frameworkpic/flowchart_website_v4.png" style="width: 660px">
 </figure>
 
 
