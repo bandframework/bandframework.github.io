@@ -22,7 +22,7 @@ Bayesian statistical methodology, it will also include a software tool to mix di
 This flowchart illustrates the BAND software framework:
 
 <figure class="fourth" style="text-align:center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/frameworkpic/flowchart_website_v5.png" style="width: 810px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/frameworkpic/flowchart_website.png" style="width: 810px">
 </figure>
 </p>
 

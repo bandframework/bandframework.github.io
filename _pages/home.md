@@ -23,7 +23,7 @@ permalink: /
 -->
 
 <p>
-Nuclear physicists seek an accurate description of the properties of atomic nuclei, collisions between nuclei, and extreme environments such as the first few seconds of our universe or the interior of a neutron star. These situations involve many particles interacting through complex forces. They’re each described by a number of different models: these typically do a good job of explaining the results of experiments that have already occurred. The models don’t do as well predicting what will happen in future experiments or in environments that are inaccessible here on Earth. 
+Nuclear physicists seek an accurate description of the properties of atomic nuclei, collisions between nuclei, and extreme environments such as the first few seconds of our universe or the interior of a neutron star. These situations involve many particles interacting through complex forces. They’re each described by a number of different models: these typically do a good job of explaining the results of experiments that have already occurred. The models don’t do as well predicting what will happen in future experiments or in environments that are inaccessible here on Earth.
 </p>
 
 <p>
@@ -31,7 +31,7 @@ The <b>Bayesian Analysis of Nuclear Dynamics</b> (BAND) Framework will use advan
 </p>
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/frameworkpic/flowchart_website_v4.png" style="width: 660px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/frameworkpic/flowchart_website.png" style="width: 660px">
 </figure>
 
 
