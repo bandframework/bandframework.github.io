@@ -30,9 +30,11 @@ Nuclear physicists seek an accurate description of the properties of atomic nucl
 The <b>Bayesian Analysis of Nuclear Dynamics</b> (BAND) Framework will use advanced statistical methods to produce forecasts for as-yet-unexplored situations that combine nuclear-physics models in an optimal way. These will be more reliable than the predictions of any individual model. BAND’s forefront computer codes will be widely available and will facilitate the design of nuclear-physics experiments that can deliver the largest gain in understanding. The adoption of BAND’s tools in other sciences dealing with “model uncertainty” could spur broad scientific innovation. Undergraduate and graduate students working on BAND will gain a broad range of technical skills in data science, machine learning, nuclear physics, and high-performance computing.
 </p>
 
+
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/frameworkpic/flowchart_website.png" style="width: 660px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/frameworkpic/flowchart_website.png" style="width: 660px; border-radius:0">
 </figure>
+
 
 
 <!--
