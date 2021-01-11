@@ -1,3 +1,22 @@
+- title: "Get on the BAND Wagon: A Bayesian Framework for Quantifying Model Uncertainties in Nuclear Dynamics"
+  image: flowchart_tikz_paper_truncated.png
+  description: >
+    We describe the Bayesian Analysis of Nuclear Dynamics (BAND) framework, 
+    a cyberinfrastructure that we are developing which will unify the treatment of nuclear models, 
+    experimental data, and associated uncertainties. 
+    We overview the statistical principles and nuclear-physics contexts underlying the BAND toolset,
+    with an emphasis on Bayesian methodology's ability to leverage insight from multiple models. 
+    In order to facilitate understanding of these tools we provide a simple and accessible example of the BAND framework's application. 
+    Four case studies are presented to highlight how elements of the framework will enable progress on complex, far-ranging problems in nuclear physics. 
+    By collecting notation and terminology, providing illustrative examples, and giving an overview of the associated techniques, 
+    this paper aims to open paths through which the nuclear physics and statistics communities can contribute to and build upon the BAND framework. 
+  authors: D.R. Phillips, R.J. Furnstahl, U. Heinz, T. Maiti, W. Nazarewicz, F.M. Nunes, M. Plumlee, M.T. Pratola, S. Pratt, F.G. Viens, and S.M. Wild
+  link:
+    url: https://arxiv.org/abs/2012.07704
+    display:  arXiv:2012.07704 (submitted to Journal of Physics G)
+  highlight: 1
+  news2:
+
 - title: "Efficient emulators for scattering using eigenvector continuation"
   image: EC_parameters.png
   description: >

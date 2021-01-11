@@ -22,6 +22,10 @@ permalink: /
 </figure>
 -->
 
+<p style="text-align:center">
+<b>See the BAND Manifesto <a href='https://arxiv.org/abs/2012.07704'>on arXiv</a>!</b>
+</p>
+
 <p>
 Nuclear physicists seek an accurate description of the properties of atomic nuclei, collisions between nuclei, and extreme environments such as the first few seconds of our universe or the interior of a neutron star. These situations involve many particles interacting through complex forces. They’re each described by a number of different models: these typically do a good job of explaining the results of experiments that have already occurred. The models don’t do as well predicting what will happen in future experiments or in environments that are inaccessible here on Earth.
 </p>
