@@ -22,26 +22,32 @@ Bayesian statistical methodology, it will also include a software tool to mix di
 This flowchart illustrates the BAND software framework:
 
 <figure class="fourth" style="text-align:center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/frameworkpic/flowchart_tikz_paper.png" style="width: 810px">
+</figure>
+
+<!--
+<figure class="fourth" style="text-align:center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/frameworkpic/flowchart_website.png" style="width: 810px">
 </figure>
+-->
 </p>
 
 1. The ingredients for Bayesian inference in a nuclear physics---or any---problem include the Bayesian prior, which encodes extrinsic information and expert opinion about the parameters of the model, and the likelihood, which expresses the way in which the data to be considered constrains those parameters.
 Within BAND, Bayesian statisticians will work with nuclear physicists to develop appropriate formulations of the prior and likelihood. The results will be incorporated into the software framework as <b>Input Tools </b>, and constitute the first step in the flowchart.
 
-1. Nuclear physicists using BAND will also specify the set of models from which they want to obtain a prediction. Very often, these models will be a forefront nuclear-physics calculation that consumes a large amount of supercomputer time to obtain the observables of interest for just one instance of the model parameters. Consequently it is important to build computationally cheap model interpolators for each model. Only then can UQ be accomplished accurately and in a realistic amount of time. This is resolved in the <i>Model Emulation</i> block of the chart.
+1. Nuclear physicists using BAND will also specify the set of models from which they want to obtain a prediction. Very often, these models will be a forefront nuclear-physics calculation that consumes a large amount of supercomputer time to obtain the observables of interest for just one instance of the model parameters. Consequently it is important to build computationally cheap model interpolators for each model. Only then can UQ be accomplished accurately and in a realistic amount of time. This is resolved in the <b>Model Emulation</b> block of the chart (<b>Computational Tool A</b>).
 
 1. Once observed data is also specified by the user, BAND will combine the likelihood and prior and use emulator samples to obtain
-the posterior probability density function for the parameters of each model in the <b> Model Calibration </b> block.
+the posterior probability density function for the parameters of each model in the <b> Model Calibration </b> block (<b>Computational Tool B</b>).
 
-1. Even after calibration and emulation have been achieved, we have still only obtained information on the individual models. Calibrating models to data, while including prior information, is a practice that is gaining increasing currency in nuclear physics. But BAND will push the field further, by taking a set of individual models, each of which have been calibrated to data, and use them to obtain a <i>model-mixed</i> prediction. This will be implemented in <b>Model Mixing</b> block.
+1. Even after calibration and emulation have been achieved, we have still only obtained information on the individual models. Calibrating models to data, while including prior information, is a practice that is gaining increasing currency in nuclear physics. But BAND will push the field further, by taking a set of individual models, each of which have been calibrated to data, and use them to obtain a <i>model-mixed</i> prediction. This will be implemented in <b>Model Mixing</b> block (<b>Computational Tool C</b>).
 
 1. A major challenge in NP, as in many other advanced disciplines, is the optimal design of experiments.
 Not all measurements are equally useful, and beam time is expensive.
 The costs of running an experiment include not only the workforce, time and money invested, but also the opportunity cost of alternative measurements that were not carried out.
 Thus, when planning an experiment, it is important to consider which data are most likely to provide the largest information gain.  The process of making the best selection in this regard is known as <i>experimental design</i>.
 In order to ensure that the substantial resources necessary for modern experiments are focused on acquiring the most valuable data, both the theory uncertainty and the expected pattern of experimental errors must be considered.
-BAND's model-mixed prediction is therefore important if nuclear physicists are to have  guidance on experimental design that reflects the true extent of model uncertainty. Providing such guidance will be the job of the <b>Hypothetical Experimentation</b> block.
+BAND's model-mixed prediction is therefore important if nuclear physicists are to have  guidance on experimental design that reflects the true extent of model uncertainty. Providing such guidance will be the job of the <b>Experimentation Design</b> block (<b>Computational Tool D</b>).
 
 1. The suite of codes in the BAND Framework will serve a broad community of nuclear physicists, and be coupled with a support database that helps users to apply the framework intelligently and effectively by reliably incorporating their expert prior knowledge.
 Inferential users usually struggle to borrow information from other similar studies and experimental design users cannot easily get quantitative summaries of what important questions remain in an area.  The BAND <i>case study database</i> will give access to both the inputs and the results from previous studies.   <b>Case Study Reference</b> will save prior and posterior summaries of parameters of the individual models, hyperparameters in the prior and posterior, model probabilities, and observable posteriors.   A new user can
