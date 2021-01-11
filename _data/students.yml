@@ -22,6 +22,13 @@
   number_educ: 0
   education1:
 
+- name: <a href='https://pa.msu.edu/profile/quinonez/'>Michael Quinonez</a>
+  photo: michael.webp
+  info: Department of Physics and Facility for Rare Isotope Beams, <br> Michigan State University
+  email: quinonez@nscl.msu.edu
+  number_educ: 0
+  education1:
+
 - name: Mookyong Son
   photo: Mookyong_Son.jpg
   info: Department of Statistics and Probability and FRIB, <br> Michigan State University
