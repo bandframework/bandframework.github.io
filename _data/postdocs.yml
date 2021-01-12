@@ -8,6 +8,14 @@
 #  education3:
 #  education4:
 
+
+- name: Pablo Giuliani
+  photo: pablo.jpg
+  info: Department of Statistics and Probability, and Facility for Rare Isotope Beams, <br> Michigan State University
+  email: pabggpn@gmail.com
+  number_educ: 0
+  education1:
+
 - name: <a href="https://ozgesurer.github.io/OS">Ozge Surer</a>
   photo: OzgeSurer_cropped.jpg
   info: Northwestern University
