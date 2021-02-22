@@ -18,7 +18,7 @@
   news2:
 
 - title: "Machine-Learning-Based Inversion of Nuclear Responses"
-  image: 
+  image: bestworstresponse6.png
   description: >
     A microscopic description of the interaction of atomic nuclei with external electroweak probes is required for elucidating 
     aspects of short-range nuclear dynamics and for the correct interpretation of neutrino oscillation experiments. Nuclear 
@@ -33,7 +33,7 @@
   link:
     url: https://arxiv.org/abs/2010.12703
     display:  arXiv:2010.12703 (to appear in Physical Review C)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Efficient emulators for scattering using eigenvector continuation"
