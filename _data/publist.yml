@@ -17,6 +17,25 @@
   highlight: 1
   news2:
 
+- title: "Machine-Learning-Based Inversion of Nuclear Responses"
+  image: 
+  description: >
+    A microscopic description of the interaction of atomic nuclei with external electroweak probes is required for elucidating 
+    aspects of short-range nuclear dynamics and for the correct interpretation of neutrino oscillation experiments. Nuclear 
+    quantum Monte Carlo methods infer the nuclear electroweak response functions from their Laplace transforms. Inverting the 
+    Laplace transform is a notoriously ill-posed problem; and Bayesian techniques, such as maximum entropy, are typically used 
+    to reconstruct the original response functions in the quasielastic region. In this work, we present a physics-informed 
+    artificial neural network architecture suitable for approximating the inverse of the Laplace transform. Utilizing simulated, 
+    albeit realistic, electromagnetic response functions, we show that this physics-informed artificial neural network outperforms 
+    maximum entropy in both the low-energy transfer and the quasielastic regions, thereby allowing for robust calculations of 
+    electron scattering and neutrino scattering on nuclei and inclusive muon capture rates. 
+  authors: K. Raghavan, P. Balaprakash, A. Lovato, N. Rocco, and S.M. Wild
+  link:
+    url: https://arxiv.org/abs/2010.12703
+    display:  arXiv:2010.12703 (to appear in Physical Review C)
+  highlight: 0
+  news2:
+
 - title: "Efficient emulators for scattering using eigenvector continuation"
   image: EC_parameters.png
   description: >
