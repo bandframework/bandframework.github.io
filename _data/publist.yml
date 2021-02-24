@@ -10,7 +10,7 @@
     Four case studies are presented to highlight how elements of the framework will enable progress on complex, far-ranging problems in nuclear physics. 
     By collecting notation and terminology, providing illustrative examples, and giving an overview of the associated techniques, 
     this paper aims to open paths through which the nuclear physics and statistics communities can contribute to and build upon the BAND framework.
-    [The R code used to generate the toy model is available as a <a href="/code/manifesto-code.zip">zipfile</a>.] 
+    [The R code used to generate the toy model figures is available as a <a href="/code/manifesto-code.zip">zipfile</a>.] 
   authors: D.R. Phillips, R.J. Furnstahl, U. Heinz, T. Maiti, W. Nazarewicz, F.M. Nunes, M. Plumlee, M.T. Pratola, S. Pratt, F.G. Viens, and S.M. Wild
   link:
     url: https://arxiv.org/abs/2012.07704
