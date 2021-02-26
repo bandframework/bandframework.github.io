@@ -8,7 +8,7 @@ permalink: /software/
 
 # Software
 
-{% includes bandsdk.md %}
+{% include bandsdk.md %}
 
 
 <hr>
