@@ -1,0 +1,3 @@
+[submodule "submodules/bandframework"]
+	path = submodules/bandframework
+	url = https://github.com/bandframework/bandframework
