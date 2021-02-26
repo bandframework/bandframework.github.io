@@ -8,7 +8,7 @@ permalink: /software/
 
 # Software
 
-{% remote_markdown https://raw.githubusercontent.com/bandframework/bandframework/main/resources/sdkpolicies/bandsdk.md %}
+{% includes bandsdk.md %}
 
 
 <hr>
