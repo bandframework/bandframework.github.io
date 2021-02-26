@@ -1,3 +1,3 @@
 [submodule "submodules/bandframework"]
-	path = submodules/bandframework
+	path = _pages/submodules/bandframework
 	url = https://github.com/bandframework/bandframework
