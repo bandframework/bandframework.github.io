@@ -8,7 +8,7 @@ permalink: /software/
 
 # Software
 
-{% include bandsdk.md %}
+{% include_relative submodules/bandframework/resources/sdkpolicies/bandsdk.md %}
 
 
 <hr>
