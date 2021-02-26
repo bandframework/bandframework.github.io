@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <figure class="fourth" style="text-align:left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BAND_logo_v2.png" style="width: 580px">
+  <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/BAND_logo_v2.png"  max-width="580px">
 </figure>
 
 <!--
