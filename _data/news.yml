@@ -6,9 +6,9 @@
 - date: February 6, 2021
   headline: >
     We've released <a href='https://surmise.readthedocs.io/en/latest/'>surmise</a>. surmise is a Python package that's designed to provide a
-    surrogate model interface for calibration, uncertainty quantification, and sensitivity analysis. An example is provided with the package 
-    so please go ahead and get in and play! Comments & questions to <a <a href="mailto:ozgesurer2019@u.northwestern.edu">Ozge Surer</a> who, 
-    together with Moses Chan & Matt Plumlee, developed this very useful tool. 
+    surrogate model interface for calibration, uncertainty quantification, and sensitivity analysis. An example is provided with the package
+    so please go ahead and get in and play! Comments & questions to <a href="mailto:ozgesurer2019@u.northwestern.edu">Ozge Surer</a> who,
+    together with Moses Chan, Matt Plumlee and Stefan Wild, developed this very useful tool.
 
 - date: January 1, 2021
   headline: >
@@ -21,7 +21,7 @@
   headline: >
     Post-doc <a href='https://stt.natsci.msu.edu/directory/faculty/pablo-giuliani/'>Pablo Giuliani</a> joined the BAND team!
     Pablo completed his Ph.D. at Florida State University under the direction of Jorge Piekarewicz in
-    December 2020. He will be working at Michigan State University with a joint appointment in the Department of Statistics 
+    December 2020. He will be working at Michigan State University with a joint appointment in the Department of Statistics
     and Probability under the supervision of Frederi Viens and the Facility for Rare Isotope Beams.
 
 - date: December 18, 2020
