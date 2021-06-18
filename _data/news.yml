@@ -3,6 +3,11 @@
     The BAND Manifesto, <i>Get on the BAND Wagon: A Bayesian Framework for Quantifying Model Uncertainties in Nuclear Dynamics</i>,
     is now published in Journal of Physics G. Full text <a href='https://iopscience.iop.org/article/10.1088/1361-6471/abf1df'>here</a>.
 
+- date: February 6, 2021
+  headline: >
+    Initial release of <a href='https://surmise.readthedocs.io/en/latest/'>surmise</a>, a Python package that is designed to provide a
+    surrogate model interface for calibration, uncertainty quantification, and sensitivity analysis.
+
 - date: January 1, 2021
   headline: >
     Post-doc <a href='https://ozgesurer.github.io/OS/'>Ozge Surer</a> joined the BAND team!
