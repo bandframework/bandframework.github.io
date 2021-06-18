@@ -5,8 +5,10 @@
 
 - date: February 6, 2021
   headline: >
-    Initial release of <a href='https://surmise.readthedocs.io/en/latest/'>surmise</a>, a Python package that is designed to provide a
-    surrogate model interface for calibration, uncertainty quantification, and sensitivity analysis.
+    We've released <a href='https://surmise.readthedocs.io/en/latest/'>surmise</a>. surmise is a Python package that's designed to provide a
+    surrogate model interface for calibration, uncertainty quantification, and sensitivity analysis. An example is provided with the package 
+    so please go ahead and get in and play! Comments & questions to <a <a href="mailto:ozgesurer2019@u.northwestern.edu">Ozge Surer</a> who, 
+    together with Moses Chan & Matt Plumlee, developed this very useful tool. 
 
 - date: January 1, 2021
   headline: >
