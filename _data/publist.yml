@@ -37,6 +37,22 @@
   highlight: 1
   news2:
 
+- title: "Fast & accurate emulation of two-body scattering observables without wave functions"
+  image: np_tot_cs_werr_SMS_n4lo_plus_Lambda450MeV.png
+  description: >
+    We combine Newton's variational method with ideas from eigenvector continuation to construct a fast & accurate emulator 
+    for two-body scattering observables. The emulator will facilitate the application of rigorous statistical methods for 
+    interactions that depend smoothly on a set of free parameters. It is shown that the emulator can accurately extrapolate far from the support of the training data. 
+    When used to emulate the neutron-proton cross section with a modern chiral interaction as a function of 26 free parameters, 
+    it reproduces the exact calculation with negligible error and provides an over 300x improvement in CPU time.
+  authors: J.A. Melendez, C. Drischler, A.J. Garcia, R.J. Furnstahl, and Xilin Zhang
+  link:
+    url: https://doi.org/10.1016/j.physletb.2021.136608
+    display:  Physics Letters B 8021, 136608 (2021)
+  highlight: 1
+  news2:
+
+
 - title: "Efficient emulators for scattering using eigenvector continuation"
   image: EC_parameters.png
   description: >
