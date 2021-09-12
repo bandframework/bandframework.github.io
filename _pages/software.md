@@ -6,7 +6,9 @@ sitemap: false
 permalink: /software/
 ---
 
-# Software (code in [bandframework github repository](https://github.com/bandframework/bandframework))
+# Software 
+
+External code delivery will be from the [bandframework github repository](https://github.com/bandframework/bandframework)
 
 
 {% assign number_printed = 0 %}
