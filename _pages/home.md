@@ -23,7 +23,7 @@ permalink: /
 -->
 
 <p style="text-align:center">
-<b>See the <a href='<a href='https://iopscience.iop.org/article/10.1088/1361-6471/abf1df'>'>BAND Manifesto</a> in Journal of Physics G or <a href='https://arxiv.org/abs/2012.07704'>on arXiv</a>!</b>
+<b>See the <a href='<a href=https://iopscience.iop.org/article/10.1088/1361-6471/abf1df'>BAND Manifesto</a> in Journal of Physics G or <a href='https://arxiv.org/abs/2012.07704'>on arXiv</a>!</b>
 </p>
 
 <p>
