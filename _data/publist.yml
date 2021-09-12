@@ -42,7 +42,7 @@
   description: >
     We combine Newton's variational method with ideas from eigenvector continuation to construct a fast & accurate emulator 
     for two-body scattering observables. The emulator will facilitate the application of rigorous statistical methods for 
-    interactions that depend smoothly on a set of free parameters. It is shown that the emulator can accurately extrapolate far from the support of the training data. 
+    interactions that depend smoothly on a set of free parameters. 
     When used to emulate the neutron-proton cross section with a modern chiral interaction as a function of 26 free parameters, 
     it reproduces the exact calculation with negligible error and provides an over 300x improvement in CPU time.
   authors: J.A. Melendez, C. Drischler, A.J. Garcia, R.J. Furnstahl, and Xilin Zhang
