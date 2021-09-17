@@ -68,11 +68,11 @@
   news2:
   
   - title: "Does Bayesian Model Averaging improve polynomial extrapolations? Two toy problems as tests"
-  image: EC_parameters.png
+  image: g2far.png
   description: >
     We assess the accuracy of Bayesian polynomial extrapolations from small parameter values
     to large ones. We employ Bayesian Model Averaging (BMA) to combine results from different order polynomials. 
-    Our study considers two ``toy problems'' where the underlying function used to generate data sets is known. 
+    Our study considers two "toy problems" where the underlying function used to generate data sets is known. 
     We use Bayesian parameter estimation to extract the polynomial coefficients and BMA different polynomial degrees 
     by weighting each according to its Bayesian evidence. We compare the predictive performance of this Bayesian Model Average
     with that of the individual polynomials. 
