@@ -26,9 +26,7 @@
   
 - name: Daniel Odell
   photo: DanielOdell.jpg
-  info: Department of hysics and Astronomy
-Institute of Nuclear and Particle Physics
-Ohio University
+  info: Department of Physics and Astronomy and Institute of Nuclear and Particle Physics, <br> Ohio University
   email: dodell@ohio.edu
   number_educ: 0
   education1:
