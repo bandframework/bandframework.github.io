@@ -99,6 +99,28 @@
     display: Physics Letters B 823, 136777 (2021)
   highlight: 1
   news2:
+  
+  - title: "Precision measurement of lightweight self-conjugate nucleus 80Zr"
+  image: 80ZrBMAEDFs.png
+  description: >
+        Protons and neutrons in the atomic nucleus move in shells analogous to the electronic shell structures of atoms. 
+        The nuclear shell structure varies as a result of changes in the nuclear mean field with the number of neutrons N 
+        and protons Z, and these variations can be probed by measuring the mass differences between nuclei. The N = Z = 40 
+        self-conjugate nucleus 80Zr is of particular interest, as its proton and neutron shell structures are expected to 
+        be very similar, and its ground state is highly deformed. Here we provide evidence for the existence of a deformed 
+        double-shell closure in 80Zr through high-precision Penning trap mass measurements of 80–83Zr. Our mass values show 
+        that 80Zr is substantially lighter, and thus more strongly bound than predicted. This can be attributed to the 
+        deformed shell closure at N = Z = 40 and the large Wigner energy. A statistical Bayesian-model mixing analysis 
+        employing several global nuclear mass models demonstrates difficulties with reproducing the observed mass anomaly 
+        using current theory.
+  authors: A. Hamaker, E. Leistenschneider, R. Jain, G. Bollen, S. A. Giuliani, K. Lund, W. Nazarewicz, L. Neufcourt, C. R. Nicoloff, 
+            D. Puentes, R. Ringle, C. S. Sumithrarachchi and I. T. Yandow 
+  link:
+    url: https://www.nature.com/articles/s41567-021-01395-w
+    display: Nature Physics (2021)
+  highlight: 1
+  news2:
+
 
 
 
