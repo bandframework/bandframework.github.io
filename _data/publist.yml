@@ -135,12 +135,12 @@
          calculations of the few-nucleon observables. This facilitates sampling of the posterior probability 
          distribution, allowing us to also determine the distributions of the parameters that quantify the truncation error. 
          We find a ChiEFT expansion parameter of Q=0.33 ± 0.06 for these observables.
-    authors: S. Wesolowski, I. Svensson, A. Ekström, C. Forssén, R. J. Furnstahl, J. A. Melendez, and D. R. Phillips
-    link:
-      url: https://doi.org/10.1103/PhysRevC.104.064001
-      display: Physical Review C 104, 064001 (2021)
-    highlight: 1
-    news2:
+  authors: S. Wesolowski, I. Svensson, A. Ekström, C. Forssén, R. J. Furnstahl, J. A. Melendez, and D. R. Phillips
+  link:
+    url: https://doi.org/10.1103/PhysRevC.104.064001
+    display: Physical Review C 104, 064001 (2021)
+  highlight: 1
+  news2:
 
 
 
