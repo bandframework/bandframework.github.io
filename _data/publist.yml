@@ -121,9 +121,9 @@
   highlight: 1
   news2:
   
-  - title: "Rigorous constraints on three-nucleon forces in chiral effective field theory from fast and accurate calculations of few-body observables"
-    image: Qcbarposterior.png
-    description: >
+- title: "Rigorous constraints on three-nucleon forces in chiral effective field theory from fast and accurate calculations of few-body observables"
+  image: Qcbarposterior.png
+  description: >
          We explore the constraints on the three-nucleon force (3NF) of chiral effective field theory (ChiEFT)
          that are provided by bound-state observables in the A=3 and A=4 sectors. Our statistically rigorous 
          analysis incorporates experimental error, computational method uncertainty, and the uncertainty due to 
