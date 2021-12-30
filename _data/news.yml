@@ -1,3 +1,28 @@
+- date: December 17, 2021
+  headline: > 
+    The Second Annual BAND camp was a lot of fun. We had 47 particpants, 21 of whom attended in person. Talk .pdfs can be downloaded 
+    <a href="https://indico.frib.msu.edu/event/47/timetable/#20211213">here</a>. Ozge Surer's excellent tutorial on BFRESCOX is 
+    available on <a href="https://github.com/bandframework/bandframework/blob/development/software/Bfrescox/Tutorial_I/BANDCamp21.rst">github</a>.
+    
+- date: December 7, 2021
+  headline: > 
+    Join the BAND team! The Ohio State University has a post-doc <a href="https://academicjobsonline.org/ajo/jobs/20766">opening</a>. The successful candidate will 
+    work effectively in an inter-disciplinary team to build a sustainable code base that can solve problems at the statistics-physics interface. 
+    The position will focus on Bayesian modeling and methodology development for mixing multiple physics simulation models of nuclear dynamics, and building 
+    scalable computational algorithms for inference, prediction and uncertainty quantification. 
+    
+- date: November 30, 2021
+  headline: > 
+    The <a href="https://indico.frib.msu.edu/event/47/timetable/#20211213">schedule</a> for the Second Annual BAND Camp is now set! We are looking forward to 
+    pedagogical presentations on BAND research by Frederi Viens, Ozge Surer, and Jordan Melendez. BAND leader Daniel Phillips will preview 
+    BAND's "comming attractions". And we'll hear talks by recent Ph.D.s in this area who now work in the insurance industry. 
+
+- date: November 26, 2021
+  headline: > 
+    The paper <a href='https://www.nature.com/articles/s41567-021-01395-w'>Precision mass measurement of light self-conjugate nucleus 80Zr</a> by BAND team member 
+    Witek Nazarewicz and his experimental and theoretical collaborators has been published in Nature Physics. The journal selected the paper as a 
+    <a href='https://www.nature.com/articles/s41567-021-01443-5'>highlight</a> pointing in particular to the use of one of the techniques at the heart of BAND, 
+    Bayesian Model Averaging. 
 
 - date: September 13, 2021
   headline: > 
@@ -8,7 +33,7 @@
 - date: August 18, 2021
   headline: >
     Check out BAND-supported research on emulators: <a href='https://www.sciencedirect.com/science/article/pii/S0370269321005487?via%3Dihub'><i>Fast & accurate emulation of two-body scattering observables without wave functions</i></a> and 
-    <a href='https://arxiv.org/abs/2108.08269'><i>Toward emulating nuclear reactions using eigenvector continuation</i></a>.
+    <a href='https://doi.org/10.1016/j.physletb.2021.136777'><i>Toward emulating nuclear reactions using eigenvector continuation</i></a>.
 
 - date: August 2, 2021
   headline: >

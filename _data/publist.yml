@@ -99,6 +99,68 @@
     display: Physics Letters B 823, 136777 (2021)
   highlight: 1
   news2:
-
-
-
+  
+- title: "Precision measurement of lightweight self-conjugate nucleus 80Zr"
+  image: 80ZrBMAEDFs.png
+  description: >
+        Protons and neutrons in the atomic nucleus move in shells analogous to the electronic shell structures of atoms. 
+        The nuclear shell structure varies as a result of changes in the nuclear mean field with the number of neutrons N 
+        and protons Z, and these variations can be probed by measuring the mass differences between nuclei. The N = Z = 40 
+        self-conjugate nucleus 80Zr is of particular interest, as its proton and neutron shell structures are expected to 
+        be very similar, and its ground state is highly deformed. Here we provide evidence for the existence of a deformed 
+        double-shell closure in 80Zr through high-precision Penning trap mass measurements of 80–83Zr. Our mass values show 
+        that 80Zr is substantially lighter, and thus more strongly bound than predicted. This can be attributed to the 
+        deformed shell closure at N = Z = 40 and the large Wigner energy. A statistical Bayesian-model mixing analysis 
+        employing several global nuclear mass models demonstrates difficulties with reproducing the observed mass anomaly 
+        using current theory.
+  authors: A. Hamaker, E. Leistenschneider, R. Jain, G. Bollen, S. A. Giuliani, K. Lund, W. Nazarewicz, L. Neufcourt, C. R. Nicoloff, 
+            D. Puentes, R. Ringle, C. S. Sumithrarachchi, and I. T. Yandow 
+  link:
+    url: https://www.nature.com/articles/s41567-021-01395-w
+    display: Nature Physics (2021)
+  highlight: 1
+  news2:
+  
+- title: "Rigorous constraints on three-nucleon forces in chiral effective field theory from fast and accurate calculations of few-body observables"
+  image: Qcbarposterior.png
+  description: >
+         We explore the constraints on the three-nucleon force (3NF) of chiral effective field theory (ChiEFT)
+         that are provided by bound-state observables in the A=3 and A=4 sectors. Our statistically rigorous 
+         analysis incorporates experimental error, computational method uncertainty, and the uncertainty due to 
+         truncation of the ChiEFT expansion at next-to-next-to-leading order. A consistent solution for the 
+         3H binding energy, the 4He binding energy and radius, and the 3H beta-decay rate can only be obtained if 
+         ChiEFT truncation errors are included in the analysis. The beta-decay rate is the only one of these that 
+         yields a nondegenerate constraint on the 3NF low-energy constants, which makes it crucial for the parameter 
+         estimation. We use eigenvector continuation for fast and accurate emulation of no-core shell model 
+         calculations of the few-nucleon observables. This facilitates sampling of the posterior probability 
+         distribution, allowing us to also determine the distributions of the parameters that quantify the truncation error. 
+         We find a ChiEFT expansion parameter of Q=0.33 ± 0.06 for these observables.
+  authors: S. Wesolowski, I. Svensson, A. Ekström, C. Forssén, R. J. Furnstahl, J. A. Melendez, and D. R. Phillips
+  link:
+    url: https://doi.org/10.1103/PhysRevC.104.064001
+    display: Physical Review C 104, 064001 (2021)
+  highlight: 1
+  news2:
+  
+- title: "Statistical tools for a better optical model"
+  image: 48CaSensitivities.png
+  description: >
+         Modern statistical tools provide the ability to compare the information content of observables and 
+         provide a path to explore which experiments would be most useful to give insight into and constrain theoretical models.
+         In this work we study three such tools, (i) the principal component analysis, (ii) the sensitivity analysis based on derivatives, 
+         and (iii) the Bayesian evidence. This is done in the context of nuclear reactions with the goal of constraining the optical potential.
+         We first apply these tools to a toy-model case. Then we consider two different reaction observables, elastic angular distributions
+         and polarization data for reactions on 48Ca and 208Pb at two different beam energies. For the toy-model case, we find significant 
+         discrimination power in the sensitivities and the Bayesian evidence, showing clearly that the volume imaginary term is more useful 
+         to describe scattering at higher energies. When comparing between elastic cross sections and polarization data using realistic optical 
+         models, sensitivity studies indicate that both observables are roughly equally sensitive but the variability of the optical model 
+         parameters is strongly angle dependent. The Bayesian evidence shows some variability between the two observables, but the Bayes factor 
+         obtained is not sufficient to discriminate between angular distributions and polarization.
+  authors: M. Catacora-Rios, G. B. King, A. E. Lovell, and F. M. Nunes
+  link:
+    url: https://doi.org/10.1103/PhysRevC.104.064611
+    display: Physical Review C 104, 064611 (2021)
+  highlight: 1
+  news2:
+  
+  
