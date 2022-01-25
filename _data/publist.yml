@@ -163,24 +163,24 @@
   highlight: 1
   news2:
   
-  - title: "Efficient emulation of relativistic heavy ion collisions with transfer learning"
-    image: cpu_hours.png
-    description: >
-          Measurements from the Large Hadron Collider (LHC) and the Relativistic Heavy Ion Collider (RHIC) can be used to study the properties
-          of quark-gluon plasma. Systematic constraints on these properties must combine measurements from different collision systems and methodically 
-          account for experimental and theoretical uncertainties. Such studies require a vast number of costly numerical simulations. While computationally 
-          inexpensive surrogate models ("emulators") can be used to efficiently approximate the predictions of heavy ion simulations across a broad range of
-          model parameters, training a reliable emulator remains a computationally expensive task. We use transfer learning to map the parameter dependencies
-          of one model emulator onto another, leveraging similarities between different simulations of heavy ion collisions. By limiting the need for large 
-          numbers of simulations to only one of the emulators, this technique reduces the numerical cost of comprehensive uncertainty quantification when 
-          studying multiple collision systems and exploring different models.
-    authors: D. Liyanage, Y. Ji, D. Everett, M. Heffernan, U. Heinz, S. Mak, J-F. Paquet
-    link:
-      url: https://arxiv.org/abs/2201.07302
-      display: arXiv:2201.07302
-     highlight: 1
-     news2:
-          
+- title: "Efficient emulation of relativistic heavy ion collisions with transfer learning"
+  image: cpu_hours.png
+  description: >
+        Measurements from the Large Hadron Collider (LHC) and the Relativistic Heavy Ion Collider (RHIC) can be used to study the properties
+        of quark-gluon plasma. Systematic constraints on these properties must combine measurements from different collision systems and methodically 
+        account for experimental and theoretical uncertainties. Such studies require a vast number of costly numerical simulations. While computationally 
+        inexpensive surrogate models ("emulators") can be used to efficiently approximate the predictions of heavy ion simulations across a broad range of
+        model parameters, training a reliable emulator remains a computationally expensive task. We use transfer learning to map the parameter dependencies
+        of one model emulator onto another, leveraging similarities between different simulations of heavy ion collisions. By limiting the need for large 
+        numbers of simulations to only one of the emulators, this technique reduces the numerical cost of comprehensive uncertainty quantification when 
+        studying multiple collision systems and exploring different models.
+  authors: D. Liyanage, Y. Ji, D. Everett, M. Heffernan, U. Heinz, S. Mak, J-F. Paquet
+  link:
+    url: https://arxiv.org/abs/2201.07302
+    display: arXiv:2201.07302
+   highlight: 1
+   news2:
+        
 
   
   
