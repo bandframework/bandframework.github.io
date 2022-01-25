@@ -164,7 +164,7 @@
   news2:
   
 - title: "Efficient emulation of relativistic heavy ion collisions with transfer learning"
-  image: cpu_hours.png
+  image: 
   description: >
         Measurements from the Large Hadron Collider (LHC) and the Relativistic Heavy Ion Collider (RHIC) can be used to study the properties
         of quark-gluon plasma. Systematic constraints on these properties must combine measurements from different collision systems and methodically 
