@@ -1,12 +1,13 @@
 - title: Lightweight self-conjugate nucleus <sup>80</sup>Zr
   description: >
-    This work provides evidence for the existence of a deformed double shell closure in 80Zr 
-    through high precision Penning trap mass measurements of 80-83Zr.
+    This work provides evidence for the existence of a deformed double shell closure in <sup>80</sup>Zr 
+    through high precision Penning trap mass measurements of <sub>80-83</sup>Zr.
+    A statistical Bayesian model mixing analysis was used to interpret an observed mass anomaly.
   image: 80Zr_fig.png
-  contact: Witek Nazarewicz
+  contact: Witek Nazarewicz (witek@frib.msu.edu)
   link:
     pdf: 80Zr.pdf
-    text: Click for pdf slide
+    text: Click for pdf highlight slide
   display: 1  
 
 - title: Fast &amp; Accurate Two-Body Scattering Emulator
@@ -15,10 +16,10 @@
     different parameters, which is too expensive. Here we extend Eigenvector Continuation
     to create emulators that calculate two-body scattering observables directly (i.e., without needing wave functions).
   image: Emulator_BAND_Highlight_fig.png
-  contact: Dick Furnstahl
+  contact: Dick Furnstahl (furnstahl.1@osu.edu)
   link:
     pdf: Emulator_BAND_Highlight.pdf
-    text: Click for pdf slide
+    text: Click for pdf highlight slide
   display: 1  
 
 - title: Two-body scattering emulator without Kohn anomalies
@@ -27,10 +28,10 @@
     We construct an emulator using Eigenvector Continuation applied to the (general) Kohn variational principle (KVP)
     but without Kohn anomalies.
   image: emulator-eckohn_fig.png
-  contact: Filomena Nunes
+  contact: Filomena Nunes (<nunes@frib.msu.edu>)
   link:
     pdf: emulator-eckohn.pdf
-    text: Click for pdf slide
+    text: Click for pdf highlight slide
   display: 1  
 
 
