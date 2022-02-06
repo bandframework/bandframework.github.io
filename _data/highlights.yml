@@ -4,7 +4,7 @@
     through high precision Penning trap mass measurements of <sup>80-83</sup>Zr.
     A statistical Bayesian model mixing analysis was used to interpret an observed mass anomaly.
   image: 80Zr_fig.png
-  contact: Witek Nazarewicz (witek@frib.msu.edu)
+  contact: Witek Nazarewicz (<witek@frib.msu.edu>)
   link:
     pdf: 80Zr.pdf
     text: Click for pdf highlight slide
@@ -16,7 +16,7 @@
     different parameters, which is too expensive. Here we extend Eigenvector Continuation
     to create emulators that calculate two-body scattering observables directly (i.e., without needing wave functions).
   image: Emulator_BAND_Highlight_fig.png
-  contact: Dick Furnstahl (furnstahl.1@osu.edu)
+  contact: Dick Furnstahl (<furnstahl.1@osu.edu>)
   link:
     pdf: Emulator_BAND_Highlight.pdf
     text: Click for pdf highlight slide
