@@ -9,3 +9,28 @@
     text: Click for pdf slide
   display: 1  
 
+- title: Fast &amp; Accurate Two-Body Scattering Emulator
+  description: >
+    Bayesian analysis for experimental design often requires very many calculations with 
+    different parameters, which is too expensive. Here we extend Eigenvector Continuation
+    to create emulators that calculate two-body scattering observables directly (i.e., without needing wave functions).
+  image: Emulator_BAND_Highlight_fig.png
+  contact: Dick Furnstahl
+  link:
+    pdf: Emulator_BAND_Highlight.pdf
+    text: Click for pdf slide
+  display: 1  
+
+- title: Two-body scattering emulator without Kohn anomalies
+  description: >
+    Fast &amp; accurate emulators are needed to perform Bayesian analyses for complex nuclear reactions. 
+    We construct an emulator using Eigenvector Continuation applied to the (general) Kohn variational principle (KVP)
+    but without Kohn anomalies.
+  image: emulator-eckohn_fig.png
+  contact: Filomena Nunes
+  link:
+    pdf: emulator-eckohn.pdf
+    text: Click for pdf slide
+  display: 1  
+
+
