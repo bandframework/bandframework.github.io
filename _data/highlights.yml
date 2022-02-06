@@ -10,7 +10,7 @@
     text: Click for one-page pdf highlight slide
   display: 1  
 
-- title: Fast &amp; Accurate Two-Body Scattering Emulator
+- title: Fast &amp; accurate two-body scattering emulator
   description: >
     Bayesian analysis for experimental design often requires very many calculations with 
     different parameters, which is too expensive. Here we extend Eigenvector Continuation
