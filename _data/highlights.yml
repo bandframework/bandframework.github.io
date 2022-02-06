@@ -1,8 +1,8 @@
 - title: Lightweight self-conjugate nucleus <sup>80</sup>Zr
   description: >
     This work provides evidence for the existence of a deformed double shell closure in <sup>80</sup>Zr 
-    through high precision Penning trap mass measurements of <sup>80-83</sup>Zr.
-    A statistical Bayesian model mixing analysis was used to interpret an observed mass anomaly.
+    through high precision Penning trap mass measurements of <span style="white-space: nowrap"><sup>80-83</sup>Zr</span>.
+    A statistical Bayesian model mixing analysis is used to interpret an observed mass anomaly.
   image: 80Zr_fig.png
   contact: Witek Nazarewicz (<witek@frib.msu.edu>)
   link:
