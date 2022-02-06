@@ -28,7 +28,7 @@ permalink: /highlights/
   <img src="{{ site.url }}{{ site.baseurl }}/images/highlightpic/{{ highlight.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ highlight.description }}</p>
   <p><b>Contact: </b><em>{{ highlight.contact }}</em></p>
-  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/highlights/{{ highlight.link.pdf }}">{{ highlight.link.text }}</a></strong></p>
+  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/highlights/{{ highlight.link.pdf }}" target="_blank">{{ highlight.link.text }}</a></strong></p>
  </div>
 </div>
 
