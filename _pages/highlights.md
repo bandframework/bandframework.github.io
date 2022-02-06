@@ -27,8 +27,8 @@ permalink: /highlights/
   <pubtit>{{ highlight.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/highlightpic/{{ highlight.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ highlight.description }}</p>
-  <p><em>{{ highlight.contact }}</em></p>
-  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/highlights/{{ higlight.link.pdf }}">{{ highlight.link.text }}</a></strong></p>
+  <p><b>Contact: </b><em>{{ highlight.contact }}</em></p>
+  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/highlights/{{ highlight.link.pdf }}">{{ highlight.link.text }}</a></strong></p>
  </div>
 </div>
 
