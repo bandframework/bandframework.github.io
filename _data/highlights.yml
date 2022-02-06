@@ -7,7 +7,7 @@
   contact: Witek Nazarewicz (<witek@frib.msu.edu>)
   link:
     pdf: 80Zr.pdf
-    text: Click for pdf highlight slide
+    text: Click for one-page pdf highlight slide
   display: 1  
 
 - title: Fast &amp; Accurate Two-Body Scattering Emulator
@@ -19,7 +19,7 @@
   contact: Dick Furnstahl (<furnstahl.1@osu.edu>)
   link:
     pdf: Emulator_BAND_Highlight.pdf
-    text: Click for pdf highlight slide
+    text: Click for one-page pdf highlight slide
   display: 1  
 
 - title: Two-body scattering emulator without Kohn anomalies
@@ -31,7 +31,7 @@
   contact: Filomena Nunes (<nunes@frib.msu.edu>)
   link:
     pdf: emulator-eckohn.pdf
-    text: Click for pdf highlight slide
+    text: Click for one-page pdf highlight slide
   display: 1  
 
 
