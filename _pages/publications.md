@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-## Project highlights
+## Selected abstracts
 
 (For a full list of publications see [below](#full-list))
 
