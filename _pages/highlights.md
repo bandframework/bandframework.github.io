@@ -7,7 +7,7 @@ permalink: /highlights/
 ---
 
 
-# Highlights
+# Highlights (one pagers)
 
 ## Scientific Highlights
 
