@@ -8,7 +8,8 @@
   link:
     pdf: 80Zr.pdf
     text: Click for one-page pdf highlight slide
-  display: 1  
+  type: physics 
+  display: 1 
 
 - title: Fast &amp; accurate two-body scattering emulator
   description: >
@@ -20,7 +21,8 @@
   link:
     pdf: Emulator_BAND_Highlight.pdf
     text: Click for one-page pdf highlight slide
-  display: 1  
+  type: methodology  
+  display: 1
 
 - title: Two-body scattering emulator without Kohn anomalies
   description: >
@@ -32,6 +34,7 @@
   link:
     pdf: emulator-eckohn.pdf
     text: Click for one-page pdf highlight slide
-  display: 1  
+  type: methodology 
+  display: 1 
 
 
