@@ -9,7 +9,7 @@ permalink: /highlights/
 
 # Highlights (one pagers)
 
-## Scientific Highlights
+## Physics Highlights
 
 
 {% assign number_printed = 0 %}
