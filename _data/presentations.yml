@@ -9,7 +9,56 @@
     url: https://www.dropbox.com/s/xqansckrp950isv/BANDComingAttractions.pdf?dl=0
   highlight: 0
   news2:
+  
+- title: "Transfer Learning Emulation"
+  image:
+  location: > 
+    Talk at 2021 BAND camp
+  date: >
+    December 14, 2021
+  presenter: Dan Liyanage (OSU)
+  link:
+    url: https://indico.frib.msu.edu/event/47/sessions/55/#20211214
+  highlight: 0
+  news2:
+  
+- title: "Transfer Learning for Emulation of Hydrodynamic Simulations"
+  image:
+  location: > 
+    Talk at 2021 Fall Meeting of the APS DNP
+  date: >
+    Octomber 13, 2021
+  presenter: Dan Liyanage (OSU)
+  link:
+    url: https://meetings.aps.org/Meeting/DNP21/Session/KH.3
+  highlight: 0
+  news2:
+  
+  
+- title: "Transfer Learning Emulation of Relativistic Heavy Ion Simulations"
+  image:
+  location: > 
+    Virtual Seminar for University of Tennessee Heavy Ion Group
+  date: >
+    August 10, 2021
+  presenter: Dan Liyanage (OSU)
+  link:
+    url: https://www.dropbox.com/s/cb9nktby9t59l4g/TL_talk_UTenn.pdf?dl=0
+  highlight: 0
+  news2:
 
+- title: "Bayesian Parameter Estimation For Relativistic Heavy Ion Collisions"
+  image:
+  location: > 
+    Workshop at 2021 JETSCAPE Summer School
+  date: >
+    July 29, 2021
+  presenter: Dan Liyanage (OSU)
+  link:
+    url: https://www.youtube.com/watch?v=MCdzAZQBnhc&t=1684s
+  highlight: 0
+  news2:
+  
 - title: "The Bayesian Analysis of Nuclear Dynamics (BAND) Framework: An Introduction"
   image:
   location: > 
@@ -33,5 +82,4 @@
     url: https://www.dropbox.com/s/3w0r3hpa3212r9l/Nazarewicz-BMA-ECT2020.pdf?dl=0
   highlight: 0
   news2:
-
 
