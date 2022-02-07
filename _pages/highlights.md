@@ -50,7 +50,7 @@ Jump to [physics highlights](#physics-highlights).
 
 <p> &nbsp; </p>
 
-Jump to [physics highlights](#physics-highlights).
+Jump to [methodology highlights](#methodology-highlights).
 
 ## Physics Highlights
 
