@@ -9,6 +9,8 @@ permalink: /highlights/
 
 # Highlights (one pagers)
 
+Jump to [physics highlights](#physics-highlights).
+
 ## Methodology Highlights
 
 
