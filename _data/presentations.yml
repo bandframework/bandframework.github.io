@@ -44,7 +44,7 @@
   highlight: 0
   news2:
 
-  - title: "Bayesian Surrogate Constructions for Calibration of Expensive Simulation Model"
+- title: "Bayesian Surrogate Constructions for Calibration of Expensive Simulation Model"
   image:
   location: > 
     Talk at 2021 INFORMS Annual Meeting
