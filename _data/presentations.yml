@@ -1,15 +1,3 @@
-- title: "The Bayesian Analysis of Nuclear Dynamics (BAND) CI Framework: Coming Attractions"
-  image:
-  location: > 
-    Talk at 2021 BAND camp
-  date: >
-    December 13, 2021
-  presenter: Daniel Phillips (Ohio)
-  link:
-    url: https://www.dropbox.com/s/xqansckrp950isv/BANDComingAttractions.pdf?dl=0
-  highlight: 0
-  news2:
-  
 - title: "Transfer Learning Emulation"
   image:
   location: > 
@@ -21,7 +9,31 @@
     url: https://indico.frib.msu.edu/event/47/sessions/55/#20211214
   highlight: 0
   news2:
+  
+  - title: "On the Horizon"
+  image:
+  location: > 
+    Talk at 2021 ISNET
+  date: >
+    December 14, 2021
+  presenter: Pablo Giuliani (MSU/FRIB)
+  link:
+    url: https://indico.frib.msu.edu/event/47/contributions/510/attachments/173/1408/BANDHorizon.pdf
+  highlight: 0
+  news2:
  
+ - title: "The Bayesian Analysis of Nuclear Dynamics (BAND) CI Framework: Coming Attractions"
+  image:
+  location: > 
+    Talk at 2021 BAND camp
+  date: >
+    December 13, 2021
+  presenter: Daniel Phillips (Ohio)
+  link:
+    url: https://www.dropbox.com/s/xqansckrp950isv/BANDComingAttractions.pdf?dl=0
+  highlight: 0
+  news2:
+  
 - title: "Artificial intelligence and machine learning in nuclear structure theory"
   image:
   location: >
@@ -44,6 +56,15 @@
   highlight: 0
   news2:
   
+- title: "The Ultimate Shortcut"
+  image:
+  location: > 
+    Nuclear Seminar at Florida State University
+  date: >
+    September 10, 2021
+  presenter: Pablo Giuliani (MSU/FRIB)
+  highlight: 0
+  news2
   
 - title: "Transfer Learning Emulation of Relativistic Heavy Ion Simulations"
   image:
