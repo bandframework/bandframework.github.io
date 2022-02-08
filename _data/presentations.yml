@@ -21,7 +21,17 @@
     url: https://indico.frib.msu.edu/event/47/sessions/55/#20211214
   highlight: 0
   news2:
-  
+ 
+- title: "Artificial intelligence and machine learning in nuclear structure theory"
+  image:
+  location: >
+    IAEA Virtual Meeting on Artificial Intelligence for Nuclear Technology and Applications, Vienna
+  date: >
+    October 25-29, 2021
+  presenter: Witold Nazarewicz (MSU/FRIB)
+  highlight: 0
+  news2:
+
 - title: "Transfer Learning for Emulation of Hydrodynamic Simulations"
   image:
   location: > 
