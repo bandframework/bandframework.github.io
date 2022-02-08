@@ -56,6 +56,18 @@
   highlight: 0
   news2:
   
+- title: "The Ultimate Shortcut"
+  image:
+  location: > 
+    Nuclear Seminar at Florida State University
+  date: >
+    September 10, 2021
+  presenter: Pablo Giuliani (MSU/FRIB)
+  link:
+    url:
+  highlight: 0
+  news2:
+  
 - title: "Transfer Learning Emulation of Relativistic Heavy Ion Simulations"
   image:
   location: > 
