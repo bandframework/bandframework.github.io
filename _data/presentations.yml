@@ -44,6 +44,18 @@
   highlight: 0
   news2:
 
+  - title: "Bayesian Surrogate Constructions for Calibration of Expensive Simulation Model"
+  image:
+  location: > 
+    Talk at 2021 INFORMS Annual Meeting
+  date: >
+    October 24-27, 2021
+  presenter: Moses Chan (Northwestern)
+  link:
+    url: https://f.hubspotusercontent30.net/hubfs/3449182/Sunday%20FINAL.pdf?utm_referrer=https%3A%2F%2Fmeetings.informs.org%2F#page=2
+  highlight: 0
+  news2:
+
 - title: "Transfer Learning for Emulation of Hydrodynamic Simulations"
   image:
   location: > 
