@@ -9,6 +9,18 @@
     url: https://indico.frib.msu.edu/event/47/sessions/55/#20211214
   highlight: 0
   news2:
+  
+- title: "On the Horizon"
+  image:
+  location: > 
+    Talk at 2021 ISNET
+  date: >
+    December 14, 2021
+  presenter: Pablo Giuliani (MSU/FRIB)
+  link:
+    url: https://indico.frib.msu.edu/event/47/contributions/510/attachments/173/1408/BANDHorizon.pdf
+  highlight: 0
+  news2:
  
 - title: "The Bayesian Analysis of Nuclear Dynamics (BAND) CI Framework: Coming Attractions"
   image:
