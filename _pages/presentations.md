@@ -11,9 +11,11 @@ permalink: /presentations/
 
 ----
 
-Jump to talks about [BAND methodology](#band-methodology) or [BAND physics applications](#band-physics-applications).
+Jump to talks about [BAND methodology](#methodology-talks) or [BAND physics applications](#physics-talks).
 
+<div id="band-talks">
 ----
+</div>
 
 ## About BAND
 
@@ -30,11 +32,13 @@ Jump to talks about [BAND methodology](#band-methodology) or [BAND physics appli
 
 ----
 
-Jump to talks about [BAND](#about-band) or [BAND physics applications](#band-physics-applications).
+Jump to talks about [BAND](#band-talks) or [BAND physics applications](#physics-talks).
 
+<div id="methodology-talks">
 ----
+</div>
 
-<div id="methodology-talks">&nbsp;</div>
+
 ## BAND methodology
 
 
@@ -52,9 +56,11 @@ Jump to talks about [BAND](#about-band) or [BAND physics applications](#band-phy
 
 ----
 
-Jump to talks about [BAND](#about-band) or [BAND methodology](#methodology-talks).
+Jump to talks about [BAND](#band-talks) or [BAND methodology](#methodology-talks).
 
+<div id="physics-talks">
 ----
+</div>
 
 ## BAND physics applications
 
