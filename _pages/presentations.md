@@ -34,6 +34,7 @@ Jump to talks about [BAND](#about-band) or [BAND physics applications](#band-phy
 
 ----
 
+<div id="methodology-talks">&nbsp;</div>
 ## BAND methodology
 
 
@@ -51,7 +52,7 @@ Jump to talks about [BAND](#about-band) or [BAND physics applications](#band-phy
 
 ----
 
-Jump to talks about [BAND](#about-band) or [BAND methodology](#band-methodology).
+Jump to talks about [BAND](#about-band) or [BAND methodology](#methodology-talks).
 
 ----
 
