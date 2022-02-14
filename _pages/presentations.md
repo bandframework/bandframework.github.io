@@ -32,8 +32,33 @@ Jump to talks about [BAND](#about-band), [BAND physics applications](#band-physi
 ## BAND methodology
 
 
+{% for talk in site.data.presentations %}
+
+{% if talk.type == "methodology" %}
+
+  <a href="{{talk.link.url }}" target="_blank"><em>{{ talk.title }}</em></a> <br />
+  {{ talk.presenter }} <br />{{ talk.location }}<br />{{ talk.date}}
+
+{% endif %}
+
+{% endfor %}
+
+
+
 
 Jump to talks about [BAND](#about-band), [BAND methodology](#band-methodology).
 
 ## BAND physics applications
+
+{% for talk in site.data.presentations %}
+
+{% if talk.type == "physics" %}
+
+  <a href="{{talk.link.url }}" target="_blank"><em>{{ talk.title }}</em></a> <br />
+  {{ talk.presenter }} <br />{{ talk.location }}<br />{{ talk.date}}
+
+{% endif %}
+
+{% endfor %}
+
 
