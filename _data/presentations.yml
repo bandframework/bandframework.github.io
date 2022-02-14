@@ -8,6 +8,7 @@
   link:
     url: http://meetings.informs.org/wordpress/wsc2021/schedule/
   highlight: 0
+  type: methodology
   news2:
 
 - title: "Transfer Learning Emulation"
@@ -20,6 +21,7 @@
   link:
     url: https://indico.frib.msu.edu/event/47/sessions/55/#20211214
   highlight: 0
+  type: methodology
   news2:
   
 - title: "On the Horizon"
@@ -32,6 +34,7 @@
   link:
     url: https://indico.frib.msu.edu/event/47/contributions/510/attachments/173/1408/BANDHorizon.pdf
   highlight: 0
+  type: band
   news2:
  
 - title: "The Bayesian Analysis of Nuclear Dynamics (BAND) CI Framework: Coming Attractions"
@@ -44,6 +47,7 @@
   link:
     url: https://www.dropbox.com/s/xqansckrp950isv/BANDComingAttractions.pdf?dl=0
   highlight: 0
+  type: band
   news2:
   
 - title: "Artificial intelligence and machine learning in nuclear structure theory"
@@ -54,6 +58,7 @@
     October 25-29, 2021
   presenter: Witold Nazarewicz (MSU/FRIB)
   highlight: 0
+  type: physics
   news2:
 
 - title: "Bayesian Surrogate Constructions for Calibration of Expensive Simulation Model"
@@ -66,6 +71,7 @@
   link:
     url: https://f.hubspotusercontent30.net/hubfs/3449182/Sunday%20FINAL.pdf?utm_referrer=https%3A%2F%2Fmeetings.informs.org%2F#page=2
   highlight: 0
+  type: methodology
   news2:
 
 - title: "Calibration Using Emulation of Filtered Simulation Results"
@@ -78,6 +84,7 @@
   link:
     url: https://f.hubspotusercontent30.net/hubfs/3449182/Anaheim%20In%20Person.pdf?__hstc=194041586.fa7a2e118ec77956cf8f6c60daa56442.1644358458822.1644358458822.1644358458822.1&__hssc=194041586.1.1644358458822&__hsfp=714448275&hsCtaTracking=0894ce36-3b18-40e3-9d5e-1885f415a027%7Cfab926e4-b4e2-4b96-b86e-7da33ffe1894
   highlight: 0
+  type: methodology
   news2:
 
 - title: "Transfer Learning for Emulation of Hydrodynamic Simulations"
@@ -90,6 +97,7 @@
   link:
     url: https://meetings.aps.org/Meeting/DNP21/Session/KH.3
   highlight: 0
+  type: methodology
   news2:
   
 - title: "The Ultimate Shortcut"
@@ -102,6 +110,7 @@
   link:
     url:
   highlight: 0
+  type: methodology
   news2:
   
 - title: "Transfer Learning Emulation of Relativistic Heavy Ion Simulations"
@@ -114,6 +123,7 @@
   link:
     url: https://www.dropbox.com/s/cb9nktby9t59l4g/TL_talk_UTenn.pdf?dl=0
   highlight: 0
+  type: physics
   news2:
 
 - title: "Bayesian Parameter Estimation For Relativistic Heavy Ion Collisions"
@@ -126,6 +136,7 @@
   link:
     url: https://www.youtube.com/watch?v=MCdzAZQBnhc&t=1684s
   highlight: 0
+  type: physics
   news2:
   
 - title: "The Bayesian Analysis of Nuclear Dynamics (BAND) Framework: An Introduction"
@@ -138,6 +149,7 @@
   link:
     url: https://www.dropbox.com/s/e7wcgrwo7cj2hoo/BANDFrameworkIntro.pdf?dl=0
   highlight: 0
+  type: band
   news2:
 
 - title: "Bayesian Model Mixing: Nuclear Physics Applications"
