@@ -37,6 +37,19 @@
   type: band
   news2:
  
+- title: "Bayesian R-Matrix"
+  image:
+  location: > 
+    Talk at 2021 ISNET
+  date: >
+    December 14, 2021
+  presenter: Daniel Odell (Ohio University)
+  link:
+    url: https://indico.frib.msu.edu/event/47/contributions/515/attachments/186/1393/Odell_Daniel_Bayesian_R_Matrix_2021-12-14.pdf
+  highlight: 0
+  type: physics
+  news2:
+
 - title: "The Bayesian Analysis of Nuclear Dynamics (BAND) CI Framework: Coming Attractions"
   image:
   location: > 
@@ -100,6 +113,19 @@
   type: methodology
   news2:
   
+- title: "Improved Uncertainties Estimates with R-Matrix Theory"
+  image:
+  location: > 
+    Virtual Seminar at Tongji University
+  date: >
+    September 16, 2021
+  presenter: Daniel Odell (Ohio University)
+  link:
+    url:
+  highlight: 0
+  type: physics
+  news2:
+
 - title: "The Ultimate Shortcut"
   image:
   location: > 
@@ -111,6 +137,19 @@
     url:
   highlight: 0
   type: methodology
+  news2:
+
+- title: "Improved Uncertainties Estimates with R-Matrix Theory"
+  image:
+  location: > 
+    Virtual Seminar at the Joint Institute of Nuclear Astrophysics, University of Notre Dame
+  date: >
+    September 6, 2021
+  presenter: Daniel Odell (Ohio University)
+  link:
+    url:
+  highlight: 0
+  type: physics
   news2:
   
 - title: "Transfer Learning Emulation of Relativistic Heavy Ion Simulations"
