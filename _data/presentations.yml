@@ -1,3 +1,16 @@
+- title: "Bayesian Model Averaging: applications and perspectives"
+  image:
+  location: > 
+    Talk at INT program "Machine learning for nuclear theory" (INT-22-1)
+  date: >
+    March 30, 2022
+  presenter: Witek Nazarewicz (Michigan State)
+  link:
+    url: https://www.dropbox.com/s/hnoas0qzk859cxo/Nazarewicz-INT2022-ML.pptx?dl=0
+  highlight: 0
+  type: band
+  news2:
+
 - title: "Calibration Using Emulation of Filtered Simulation Results"
   image:
   location: > 
