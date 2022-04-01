@@ -126,6 +126,19 @@
   type: methodology
   news2:
   
+  - title: "Interpolating between small- and large-x expansions using Bayesian Model Mixing"
+  image:
+  location: > 
+    Talk at 2021 Fall Meeting of the APS DNP
+  date: >
+    October 12, 2021
+  presenter: Alexandra Semposki (Ohio University)
+  link:
+    url: https://meetings.aps.org/Meeting/DNP21/Session/FM.5
+  highlight: 0
+  type: methodology
+  news2:
+  
 - title: "Improved Uncertainties Estimates with R-Matrix Theory"
   image:
   location: > 
