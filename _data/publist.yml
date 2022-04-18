@@ -182,7 +182,7 @@
   news2:
   
 - title: "Black Box Variational Bayesian Model Averaging"
-  image: VMBAPredictiveCoverage.png
+  image: VBMAPredictiveCoverage.png
   description: >
         For many decades now, Bayesian Model Averaging (BMA) has been a popular framework to systematically account for model uncertainty 
         that arises in situations when multiple competing models are available to describe the same or similar physical process. The implementation 
