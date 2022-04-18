@@ -180,6 +180,26 @@
     display: Physical Review C 105, 034910 (2022)
   highlight: 1
   news2:
+  
+- title: "Black Box Variational Bayesian Model Averaging"
+  image: VMBAPredictiveCoverage.png
+  description: >
+        For many decades now, Bayesian Model Averaging (BMA) has been a popular framework to systematically account for model uncertainty 
+        that arises in situations when multiple competing models are available to describe the same or similar physical process. The implementation 
+        of this framework, however, comes with a multitude of practical challenges including posterior approximation via Markov Chain Monte Carlo 
+        and numerical integration. We present a Variational Bayesian Inference approach to BMA as a viable alternative to the standard solutions 
+        which avoids many of the aforementioned pitfalls. The proposed method is “black box” in the sense that it can be readily applied to many 
+        models with little to no model-specific derivation. We illustrate the utility of our variational approach on a suite of examples and discuss 
+        all the necessary implementation details. Fully documented Python code with all the examples is provided as well.
+  authors: V. Kejzlar, S. Bhattacharya, M. Son, T. Maiti
+  link:
+    url: https://www.tandfonline.com/doi/abs/10.1080/00031305.2022.2058611?journalCode=utas20
+    display: The American Statistician (2022)
+  highlight: 1
+  news2:
+  
+  
+  
 
   
   
