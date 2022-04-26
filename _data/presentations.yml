@@ -1,3 +1,29 @@
+- title: "A Sequential Approach to Calibration of a Computationally Intensive Model"
+  image:
+  location: > 
+    Talk at 2022 SIAM Conference on Uncertainty Quantification
+  date: >
+    April 12-15, 2022
+  presenter: Özge Sürer (Northwestern)
+  link:
+    url: https://meetings.siam.org/program.cfm?CONFCODE=uq22
+  highlight: 0
+  type: methodology
+  news2:
+  
+- title: "Calibration of a Computationally Intensive Model with Parallel Computing Aspects"
+  image:
+  location: > 
+    Talk at 2022 SIAM Conference on Parallel Processing for Scientific Computing
+  date: >
+    February 23-26, 2022
+  presenter: Özge Sürer (Northwestern)
+  link:
+    url: https://meetings.siam.org/program.cfm?CONFCODE=PP22
+  highlight: 0
+  type: methodology
+  news2:
+  
 - title: "Bayesian Model Averaging: applications and perspectives"
   image:
   location: > 
