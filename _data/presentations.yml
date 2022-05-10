@@ -1,16 +1,3 @@
-- title: "Taking Shortcuts: Accelerating scientific discovery through physics-informed emulators"
-  image:
-  location: > 
-    Research discussion at the Facility for Rare Isotope Beams
-  date: >
-    April 07 2022
-  presenter: Pablo Giuliani (MSU)
-  link:
-    url: https://drive.google.com/file/d/1c9axDICd8Q7_Q52g3zPQcp79GWZHL5kS/view?usp=sharing
-  highlight: 0
-  type: methodology
-  news2:
-
 - title: "A Sequential Approach to Calibration of a Computationally Intensive Model"
   image:
   location: > 
@@ -23,6 +10,20 @@
   highlight: 0
   type: methodology
   news2:
+  
+  - title: "Taking Shortcuts: Accelerating scientific discovery through physics-informed emulators"
+  image:
+  location: > 
+    Research discussion at the Facility for Rare Isotope Beams
+  date: >
+    April 07 2022
+  presenter: Pablo Giuliani (MSU)
+  link:
+    url: https://drive.google.com/file/d/1c9axDICd8Q7_Q52g3zPQcp79GWZHL5kS/view?usp=sharing
+  highlight: 0
+  type: methodology
+  news2:
+
   
 - title: "Calibration of a Computationally Intensive Model with Parallel Computing Aspects"
   image:
