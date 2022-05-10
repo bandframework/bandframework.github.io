@@ -198,7 +198,24 @@
   highlight: 1
   news2:
   
-  
+  - title: "Nudged elastic band approach to nuclear fission pathways"
+  image: NEBfission.png
+  description: >
+        The nuclear fission process is a dramatic example of the large-amplitude collective motion in which the nucleus undergoes a series of shape changes
+        before splitting into distinct fragments. This motion can be represented by a pathway in the many-dimensional space of collective coordinates. Within 
+        a stationary framework rooted in a static collective Schrödinger equation, the collective action along the fission pathway determines the spontaneous 
+        fission half-lives as well as mass and charge distributions of fission fragments. We study the performance and precision of various methods to 
+        determine the minimum-action and minimum-energy fission trajectories in two- and three-dimensional collective spaces. These methods include the nudged 
+        elastic band method (NEB), grid-based methods, and the Euler-Lagrange approach to the collective action minimization. The NEB method is capable of 
+        efficient determination of the exit points on the outer turning surface that characterize the most probable fission pathway and constitute the key 
+        input for fission studies. The NEB method will be particularly useful in large-scale static fission calculations of superheavy nuclei and neutron-rich 
+        fissioning nuclei contributing to the astrophysical r-process recycling.
+  authors: Eric Flynn, Daniel Lay, Sylvester Agbemava, Pablo Giuliani, Kyle Godbey, Witold Nazarewicz, Jhilam Sadhukhan
+  link:
+    url: https://doi.org/10.1103/PhysRevC.105.054302
+    display: Phys. Rev. C 105, 054302 (2022)
+  highlight: 1
+  news2:
   
 
   
