@@ -198,6 +198,24 @@
   highlight: 1
   news2:
   
+- title: "Effective field theory analysis of 3He-alpha scattering data"
+  image: Bimodal.png
+  description: > 
+        We treat low-energy 3He-alpha elastic scattering  in an Effective Field Theory (EFT) that exploits the separation of scales in this reaction. 
+        We compute the amplitude up to Next-to-Next-to-Leading Order (NNLO), developing a hierarchy of the effective-range parameters that contribute 
+        at various orders. We use the resulting formalism to analyze data for recent measurements at center-of-mass energies of 0.38-3.12 MeV using the 
+        SONIK gas target at TRIUMF as well as older data in this energy regime. We employ a likelihood function that incorporates the theoretical 
+        uncertainty due to truncation of the EFT and use Markov Chain Monte Carlo sampling to obtain the resulting posterior probability distribution. 
+        We find that the inclusion of a small amount of data on the analysing power $A_y$ is crucial to determine the sign of the p-wave splitting in 
+        such an analysis. The combination of Ay and SONIK data constrains all effective-range parameters up to O(p^4) in both s- and p-waves quite well. 
+        The ANCs and s-wave scattering length are consistent with a recent EFT analysis of the capture reaction 3He(alpha,gamma)7Be.
+  authors: M. Poudel, D. R. Phillips
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1361-6471/ac4da6
+    display: J. Phys. G: Nucl. Part. Phys. 49, 045102 (2022)
+  highight: 1
+  news2: 
+  
 - title: "Nudged elastic band approach to nuclear fission pathways"
   image: NEBfission.png
   description: >
