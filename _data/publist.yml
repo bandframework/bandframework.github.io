@@ -242,7 +242,8 @@
       of the high-temperature matter created in ultra-relativistic heavy ion collisions. Two-particle correlations driven by final-state interactions
       have allowed the extraction of critical femtoscopic space-time information about the expansion and dissolution of the same collisions. As first
       steps toward a Bayesian analysis of charge-balance functions, this study quantifies the contribution from final-state interactions, which needs to
-      be subtracted in order to quantitatively infer the diffusivity and chemical evolution of the QGP.
+      be subtracted in order to quantitatively infer the diffusivity and chemical evolution of the QGP. As seen in the figure, the correction from
+      final-state interactions is small.
   authors: Scott Pratt and Karina Martirosova
   link:
     url: https://journals.aps.org/prc/pdf/10.1103/PhysRevC.105.054906
