@@ -235,3 +235,17 @@
   highlight: 1
   news2: 
   
+  - title: "The Interplay of Femtoscopic and Charge-Balance Correlations"
+  image: bf_phi_onepanel.png
+  description: >
+      Correlations driven by the constraints of local charge conservationprovide insight into the chemical evolution and diffusivity
+      of the high-temperature matter created in ultra-relativistic heavy ion collisions. Two-particle correlations driven by final-state interactions
+      have allowed the extraction of critical femtoscopic space-time information about the expansion and dissolution of the same collisions. As first
+      steps toward a Bayesian analysis of charge-balance functions, this study quantifies the contribution from final-state interactions, which needs to
+      be subtracted in order to quantitatively infer the diffusivity and chemical evolution of the QGP.
+  authors: Scott Pratt and Karina Martirosova
+  link:
+    url: https://journals.aps.org/prc/pdf/10.1103/PhysRevC.105.054906
+    display: Phys. Rev. C 105, 054906 (2022)
+  highlight: 1
+  news2: 
