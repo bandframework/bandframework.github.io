@@ -216,7 +216,7 @@
   highlight: 1
   news2: 
   
-- title: "Nudged elastic band approach to nuclear fission pathways"
+  - title: "Nudged elastic band approach to nuclear fission pathways"
   image: NEBfission.png
   description: >
         The nuclear fission process is a dramatic example of the large-amplitude collective motion in which the nucleus undergoes a series of shape changes
@@ -235,7 +235,7 @@
   highlight: 1
   news2: 
   
-  - title: "The Interplay of Femtoscopic and Charge-Balance Correlations"
+- title: "The Interplay of Femtoscopic and Charge-Balance Correlations"
   image: bf_phi_onepanel.png
   description: >
       Correlations driven by the constraints of local charge conservationprovide insight into the chemical evolution and diffusivity
