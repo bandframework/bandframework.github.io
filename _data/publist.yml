@@ -249,3 +249,14 @@
     display: Phys. Rev. C 105, 054906 (2022)
   highlight: 1
   news2: 
+
+- title: "Statistical correlations of nuclear quadrupole deformations and charge radii"
+  image: quadrupolecorr.png
+  description: >
+      The statistical correlations between nuclear deformations and charge radii of different nuclei are affected by the underlying shell structure. Even for well deformed and superfluid nuclei for which these observables change smoothly, the correlation range is rather short. This result suggests that the frequently made assumption of reduced statistical errors for the differences between smoothly-varying observables cannot be generally justified.
+  authors: Paul-Gerhard Reinhard and Witold Nazarewicz
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.014303
+    display: Phys. Rev. C 106, 014303 (2022)
+  highlight: 1
+  news2: 
