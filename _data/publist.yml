@@ -260,3 +260,20 @@
     display: Phys. Rev. C 106, 014303 (2022)
   highlight: 1
   news2: 
+
+- title: "Fast emulation of quantum three-body scattering"
+  image: Emulator_roles_2.jpeg
+  description: >
+      We develop a class of emulators for solving quantum three-body scattering problems
+      based on combining the variational method for scattering observables and eigenvector continuation. 
+      The emulators are first trained by the exact scattering solutions for a small number of parameter sets, and then employed to make interpolations and extrapolations in the parameter space. 
+      Using a schematic nuclear-physics model with finite-range two and three-body interactions, we demonstrate the emulators to be extremely accurate and efficient. 
+      The general strategies used here may be applicable for building the same type of emulators in other fields, wherever variational methods can be developed for evaluating physical models.    
+  authors: Xilin Zhang and R. J. Furnstahl
+  link:
+    url: https://journals-aps-org/prc/abstract/10.1103/PhysRevC.105.064004
+    display: Phys. Rev. C 105, 064004 (2022)
+  highlight: 1
+  news2: 
+
+
