@@ -9,9 +9,9 @@ permalink: /retreat/
 # BAND Retreat in 2022
 
 <p>
-The 2022 retreat will be held at the Ohio University on July 21 and 22 at the
+The 2022 retreat will be held at the Ohio University
 <!-- College of Health Sciences and Professions -->
-<a href="https://www.ohio.edu/chsp/dublin-center/dublin-integrated-education-center">Dublin Integrated Education Center</a> in Dublin, Ohio.
+<a href="https://www.ohio.edu/chsp/dublin-center/dublin-integrated-education-center">Dublin Integrated Education Center</a> in Dublin, Ohio on July 21 and 22.
 
 </p>
 
