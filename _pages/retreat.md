@@ -60,21 +60,22 @@ All times are EDT.
 #### 1:45-2:30 v0.2 and beyond
 * Phillips (15 + 30)
 
-#### 2:30-3:50 Brainstorming tools for v0.3 (25 +15 each)
+#### 2:30-3:50 Brainstorming tools for v0.3 (25 + 15 each)
 * 2:30-3:10 Giuliani: Reduced-basis methods +
 * 3:10-3:50 Surer: ??? (remote) 
 
 #### 3:50-4:20 Coffee break
 
-#### 4:20-5:40 BMM software and VBI
+#### 4:20-5:40 More v0.3 tools brainstorming
 * 4:20-5:00 Pratola, Model-mixing software
 * 5:00-5:40 Maiti, Variational Bayesian inference 
 
-Dinner somewhere in Dublin….(suggestions welcome)
+#### Dinner
+Somewhere in Dublin (suggestions welcome)
 
 ### Friday, July 22
 
-#### 9:00-10:40 Brainstorming analyses for Year 3,
+#### 9:00-10:40 Brainstorming analyses for Year 3
 * 9:00-9:30 Furnstahl, Mixing EFTs (15 + 15)
 * 9:30-10:10 Nunes, Building a better optical model with BAND (25 + 15)
 * 10:10-10:40 Godbey, BMEX (15 + 15)
@@ -82,7 +83,7 @@ Dinner somewhere in Dublin….(suggestions welcome)
 #### 10:40-11:10 Coffee
 
 
-#### 11:10-12:40 More brainstorming
+#### 11:10-12:40 More brainstorming analyses
 * 11:10-11:40 Heinz, Model mixing for heavy ions: VAH vs VH (remote, 15 + 15)
 * 11:40-12:10 Odell, Emulating the R-matrix (15 + 15)
 * 12:10-12:40 Godbey, BAND & Quantum Computing (15 + 15)
