@@ -24,7 +24,8 @@ A map and driving directions to the Dublin Integrated Education Center are <a hr
 </p>
 
 <p>
-You can find information on the meeting hotel, the Hilton Garden Inn, Dublin <a href="https://www.hilton.com/en/hotels/cmhdhgi-hilton-garden-inn-columbus-dublin/?SEO_id=GMB-AMER-GI-CMHDHGI&y_source=1_MjA4NDMzOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D">here</a>. The hotel address is <a href="https://www.google.com/maps?q=500+Metro+Place+North,+Dublin,+Ohio,+43017,+USA">500 Metro Place North, Dublin, OH</a>.
+You can find information on the meeting hotel, the Hilton Garden Inn, Dublin <a href="https://www.hilton.com/en/hotels/cmhdhgi-hilton-garden-inn-columbus-dublin/?SEO_id=GMB-AMER-GI-CMHDHGI&y_source=1_MjA4NDMzOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D">here</a>. 
+The hotel address is <a href="https://www.google.com/maps?q=500+Metro+Place+North,+Dublin,+Ohio,+43017,+USA">500 Metro Place North, Dublin, OH</a>.
 </p>
 
 ---
@@ -59,20 +60,21 @@ All times are EDT.
 #### 1:45-2:30 v0.2 and beyond
 * Phillips (15 + 30)
 
-#### Brainstorming tools for v0.3 (25 +15 each)
+#### 2:30-3:50 Brainstorming tools for v0.3 (25 +15 each)
 * 2:30-3:10 Giuliani: Reduced-basis methods +
 * 3:10-3:50 Surer: ??? (remote) 
 
 #### 3:50-4:20 Coffee break
 
-4:20-5:00 Pratola, Model-mixing software
-5:00-5:40 Maiti, Variational Bayesian inference 
+#### 4:20-5:40 BMM software and VBI
+* 4:20-5:00 Pratola, Model-mixing software
+* 5:00-5:40 Maiti, Variational Bayesian inference 
 
 Dinner somewhere in Dublin….(suggestions welcome)
 
 ### Friday, July 22
 
-#### Brainstorming analyses for Year 3,
+#### 9:00-10:40 Brainstorming analyses for Year 3,
 * 9:00-9:30 Furnstahl, Mixing EFTs (15 + 15)
 * 9:30-10:10 Nunes, Building a better optical model with BAND (25 + 15)
 * 10:10-10:40 Godbey, BMEX (15 + 15)
@@ -80,13 +82,13 @@ Dinner somewhere in Dublin….(suggestions welcome)
 #### 10:40-11:10 Coffee
 
 
-#### More brainstorming
+#### 11:10-12:40 More brainstorming
 * 11:10-11:40 Heinz, Model mixing for heavy ions: VAH vs VH (remote, 15 + 15)
 * 11:40-12:10 Odell, Emulating the R-matrix (15 + 15)
 * 12:10-12:40 Godbey, BAND & Quantum Computing (15 + 15)
 
 
-#### Outstanding issues & closeout
+#### 12:40-1:20 Outstanding issues & closeout
 * 12:40-1:20 Phillips
 
 #### 1:20-2:30 Lunch & departure
