@@ -62,7 +62,7 @@ All times are EDT.
 
 #### 2:30-3:50 Brainstorming tools for v0.3 (25 + 15 each)
 * 2:30-3:10 Giuliani: Reduced-basis methods +
-* 3:10-3:50 Surer: ??? (remote) 
+* 3:10-3:50 Surer: Active learning for the calibration of computer models (remote) 
 
 #### 3:50-4:20 Coffee break
 
