@@ -58,7 +58,7 @@ All times are EDT.
 #### 12:30-1:45 Lunch
 
 #### 1:45-2:30 v0.2 and beyond
-* Phillips (15 + 30)
+* Phillips (remote, 15 + 30)
 
 #### 2:30-3:50 Brainstorming tools for v0.3 (25 + 15 each)
 * 2:30-3:10 Giuliani: Reduced-basis methods +
@@ -67,11 +67,11 @@ All times are EDT.
 #### 3:50-4:20 Coffee break
 
 #### 4:20-5:40 More v0.3 tools brainstorming
-* 4:20-5:00 Pratola, Model-mixing software
+* 4:20-5:00 Pratola, Model-mixing software (remote)
 * 5:00-5:40 Maiti, Variational Bayesian inference 
 
 #### Dinner
-Somewhere in Dublin (suggestions welcome)
+Somewhere in Dublin (Witek & Daniel suggest <a href="https://www.cafeistanbuldublin.com/">Cafe Istanbul</a>)
 
 ### Friday, July 22
 
