@@ -250,6 +250,24 @@
   highlight: 1
   news2: 
 
+- title: "Prehydrodynamic evolution and its impact on quark-gluon plasma signatures"
+  image: initial_mom_anisotropy.png
+  description: >
+         State-of-the-art hydrodynamic models of heavy-ion collisions have considerable theoretical model uncertainties in the description of the 
+         very early pre-hydrodynamic stage. We add a new computational module, KTIso, that describes the pre-hydrodynamic evolution kinetically, 
+         based on the relativistic Boltzmann equation with collisions treated in the Isotropization Time Approximation. As a novelty, KTIso allows 
+         for the inclusion and evolution of initial-state momentum anisotropies. To maintain computational efficiency KTIso assumes strict 
+         longitudinal boost invariance and allows collisions to isotropize only the transverse momenta. We use it to explore the sensitivity 
+         of hadronic observables measured in relativistic heavy-ion collisions to initial-state momentum anisotropies and microscopic scattering 
+         during the pre-hydrodynamic stage.
+  authors: D. Liyanage, D. Everett, C. Chattopadhyay, U. Heinz
+  link:
+    url: https://doi.org/10.1103/PhysRevC.105.064908
+    display: Physical Review C 105, 064908 (2022)
+  highlight: 1
+  news2:
+
+
 - title: "Statistical correlations of nuclear quadrupole deformations and charge radii"
   image: quadrupolecorr.png
   description: >
