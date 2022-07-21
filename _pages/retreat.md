@@ -40,7 +40,7 @@ All times are EDT.
 
 
 #### 9:00 Welcome and Intro
-* Phillips [<a href=""></a>] (10 minutes)
+* Phillips  (10 minutes)
 
 #### 9:10-10:50 Student talks, 15 + 5 each
 * Chan [<a href="BAND_20220721_update_mosesyhc.pdf">pdf</a>] 
