@@ -62,7 +62,7 @@ All times are EDT.
 
 #### 2:30-3:50 Brainstorming tools for v0.3 (25 + 15 each)
 * 2:30-3:10 Giuliani: Reduced-basis methods + [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/New_Instrument_RBM.pptx">pptx</a>] 
-* 3:10-3:50 Surer: Active learning for the calibration of computer models [<a href=""></a>] (remote) 
+* 3:10-3:50 Surer: Active learning for the calibration of computer models [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/Bub_BAND_retreat_talk.pdf"></a>] (remote) 
 
 #### 3:50-4:20 Coffee break
 
