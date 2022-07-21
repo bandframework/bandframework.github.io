@@ -46,19 +46,19 @@ All times are EDT.
 * Chan [<a href="BAND_20220721_update_mosesyhc.pdf">pdf</a>] 
 * Semposki [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/SAMBA_talk_split.pdf">pdf</a>]
 * Son [<a href=""></a>] 
-* Yanotty [<a href=""></a>] (remote)
+* Yanotty [<a href="Yannotty_BAND_Retreat_2022.pdf">pdf</a>] (remote)
 * Liyanage [<a href=""></a>] (remote)
 
 #### 10:50-11:20 Coffee break 
 
 * 11:20-11:50 Bub, BAND Fellow project [<a href=""></a>]  (20 + 10)
 * 11:50-12:10 Giuliani/Phillips, JAM session update, social-hour participation, meeting frequency, etc. [<a href="JAM_Sessions_Pres.pptx">pptx</a>]  
-* 12:10-12:30 Plans for next BAND camp [<a href=""></a>] 
+* 12:10-12:30 Plans for next BAND camp 
 
 #### 12:30-1:45 Lunch
 
 #### 1:45-2:30 v0.2 and beyond
-* Phillips [<a href=""></a>] (remote, 15 + 30)
+* Phillips [<a href="BANDv0.2andBeyond.pdf">pdf</a>] (remote, 15 + 30)
 
 #### 2:30-3:50 Brainstorming tools for v0.3 (25 + 15 each)
 * 2:30-3:10 Giuliani: Reduced-basis methods + [<a href="New_Instrument_RBM.pptx">pptx</a>] 
