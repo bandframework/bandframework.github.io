@@ -76,7 +76,7 @@ Somewhere in Dublin (Witek & Daniel suggest <a href="https://www.cafeistanbuldub
 ### Friday, July 22
 
 #### 9:00-10:40 Brainstorming analyses for Year 3
-* 9:00-9:30 Furnstahl, Mixing EFTs [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/"></a>] (15 + 15)
+* 9:00-9:30 Furnstahl, Mixing EFTs [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/Mixing_EFTs_Furnstahl_July2022.pdf">pdf</a>] (15 + 15)
 * 9:30-10:10 Nunes, Building a better optical model with BAND [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/"></a>] (25 + 15)
 * 10:10-10:40 Godbey, BMEX [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/"></a>] (15 + 15)
 
