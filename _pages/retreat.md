@@ -78,15 +78,15 @@ Somewhere in Dublin (Witek & Daniel suggest <a href="https://www.cafeistanbuldub
 #### 9:00-10:40 Brainstorming analyses for Year 3
 * 9:00-9:30 Furnstahl, Mixing EFTs [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/Mixing_EFTs_Furnstahl_July2022.pdf">pdf</a>] (15 + 15)
 * 9:30-10:10 Nunes, Building a better optical model with BAND [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/nunes-band2022.pdf">pdf</a>] (25 + 15)
-* 10:10-10:40 Godbey, BMEX [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/"></a>] (15 + 15)
+* 10:10-10:40 Godbey, BMEX [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/BMEX_BAND_Retreat.pdf">pdf</a>] (15 + 15)
 
 #### 10:40-11:10 Coffee
 
 
 #### 11:10-12:40 More brainstorming analyses
-* 11:10-11:40 Heinz, Model mixing for heavy ions: VAH vs VH [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/"></a>] (remote, 15 + 15)
+* 11:10-11:40 Heinz, Model mixing for heavy ions: VAH vs VH [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/model_mixing_BAND_retreat_2022.pptx">pptx</a>] (remote, 15 + 15)
 * 11:40-12:10 Odell, Emulating the R-matrix [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/Odell_BAND_Retreat_2022.pdf">pdf</a>] (15 + 15)
-* 12:10-12:40 Godbey, BAND & Quantum Computing [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/"></a>] (15 + 15)
+* 12:10-12:40 Godbey, BAND & Quantum Computing [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/QC_BAND_Retreat.pdf">pdf</a>] (15 + 15)
 
 
 #### 12:40-1:20 Outstanding issues & closeout
