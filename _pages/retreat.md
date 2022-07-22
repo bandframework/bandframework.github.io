@@ -47,7 +47,7 @@ All times are EDT.
 * Semposki [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/SAMBA_talk_split.pdf">pdf</a>]
 * Son [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/beta_fit_MK_simplified_Tong_2022_Summer_final-2.pptx">pptx</a>] 
 * Yanotty [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/Yannotty_BAND_Retreat_2022.pdf">pdf</a>] (remote)
-* Liyanage [<a href=""></a>] (remote)
+* Liyanage [<a href="VAH_final_dan_liyanage.pptx">pptx</a>] (remote)
 
 #### 10:50-11:20 Coffee break 
 
