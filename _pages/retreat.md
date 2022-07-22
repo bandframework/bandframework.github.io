@@ -85,7 +85,7 @@ Somewhere in Dublin (Witek & Daniel suggest <a href="https://www.cafeistanbuldub
 
 #### 11:10-12:40 More brainstorming analyses
 * 11:10-11:40 Heinz, Model mixing for heavy ions: VAH vs VH [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/"></a>] (remote, 15 + 15)
-* 11:40-12:10 Odell, Emulating the R-matrix [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/"></a>] (15 + 15)
+* 11:40-12:10 Odell, Emulating the R-matrix [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/Odell_BAND_Retreat_2022.pdf">pdf</a>] (15 + 15)
 * 12:10-12:40 Godbey, BAND & Quantum Computing [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/"></a>] (15 + 15)
 
 
