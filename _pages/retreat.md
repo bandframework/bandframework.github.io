@@ -68,7 +68,7 @@ All times are EDT.
 
 #### 4:20-5:40 More v0.3 tools brainstorming
 * 4:20-5:00 Pratola, Model-mixing software [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/Pratola_band.pdf">pdf</a>] (remote)
-* 5:00-5:40 Maiti, Variational Bayesian inference [<a href=""></a>]  
+* 5:00-5:40 Maiti, Variational Bayesian inference [<a href="VBI_talk_Kejzlar.pdf">pdf</a>]  
 
 #### Dinner
 Somewhere in Dublin (Witek & Daniel suggest <a href="https://www.cafeistanbuldublin.com/">Cafe Istanbul</a>)
