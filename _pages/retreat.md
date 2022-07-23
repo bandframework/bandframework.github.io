@@ -89,7 +89,8 @@ Somewhere in Dublin (Witek & Daniel suggest <a href="https://www.cafeistanbuldub
 * 12:10-12:40 Godbey, BAND & Quantum Computing [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/QC_BAND_Retreat.pdf">pdf</a>] (15 + 15)
 
 
-#### 12:40-1:20 Outstanding issues & closeout
+#### 12:40-1:30 Outstanding issues & closeout; Long Range Plan
 * 12:40-1:20 Phillips [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/"></a>] 
+* 1:20-1:30 Nazarewicz [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/LRP.pdf">pdf</a>] 
 
 #### 1:20-2:30 Lunch & departure
