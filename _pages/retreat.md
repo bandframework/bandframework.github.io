@@ -90,7 +90,7 @@ Somewhere in Dublin (Witek & Daniel suggest <a href="https://www.cafeistanbuldub
 
 
 #### 12:40-1:30 Outstanding issues & closeout; Long Range Plan
-* 12:40-1:20 Phillips [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/"></a>] 
+* 12:40-1:20 Phillips [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/Outstandingissues.pdf"></a>] 
 * 1:20-1:30 Nazarewicz [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/LRP.pdf">pdf</a>] 
 
 #### 1:30-2:30 Lunch & departure
