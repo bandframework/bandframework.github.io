@@ -129,7 +129,20 @@
   highlight: 0
   type: band
   news2:
-  
+   
+- title: "Statistically rigorous analyses of light nuclei with chiral interactions"
+  image:
+  location: >
+    Invite talk at Chiral Dynamics 2021 (virtual)
+  date: >
+    November 15-19, 2021
+  presenter: Dick furnstahl (OSU)
+  link:
+    url: https://www.dropbox.com/s/pxwrfbppvuoz9z2/Furnstahl-CD2021.pdf?dl=0
+  highlight: 0
+  type: physics
+  news2:
+
 - title: "Artificial intelligence and machine learning in nuclear structure theory"
   image:
   location: >
