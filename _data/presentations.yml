@@ -1,3 +1,17 @@
+- title: "Artificial intelligence and machine learning in nuclear structure theory"
+  image:
+  location: > 
+    Seminar at Fudan University, Shanghai, China
+  date: >
+    August 3, 2022
+  presenter: Witek Nazarewicz (MSU/FRIB)
+  link:
+    url: https://www.dropbox.com/s/5d38gm0mhulkm0x/Nazarewicz-NSTheory.pptx?dl=0
+  highlight: 0
+  type: physics
+  news2:
+
+
 - title: "A Sequential Approach to Calibration of a Computationally Intensive Model"
   image:
   location: > 
@@ -17,7 +31,7 @@
     Research discussion at the Facility for Rare Isotope Beams
   date: >
     April 07 2022
-  presenter: Pablo Giuliani (MSU)
+  presenter: Pablo Giuliani (MSU/FRIB)
   link:
     url: https://drive.google.com/file/d/1c9axDICd8Q7_Q52g3zPQcp79GWZHL5kS/view?usp=sharing
   highlight: 0
@@ -44,7 +58,7 @@
     Talk at INT program "Machine learning for nuclear theory" (INT-22-1)
   date: >
     March 30, 2022
-  presenter: Witek Nazarewicz (Michigan State)
+  presenter: Witek Nazarewicz (MSU/FRIB)
   link:
     url: https://www.dropbox.com/s/hnoas0qzk859cxo/Nazarewicz-INT2022-ML.pptx?dl=0
   highlight: 0
