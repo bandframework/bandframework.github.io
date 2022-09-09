@@ -297,7 +297,9 @@
   - title: "Colloquium: Machine Learning in Nuclear Physics"
   image: ML-NP.png
   description: >
-Advances in machine learning methods provide tools that have broad applicability in scientific research. These techniques are being applied across the diversity of nuclear physics research topics, leading to advances that will facilitate scientific discoveries and societal applications. This Colloquium provides a snapshot of nuclear physics research, which has been transformed by machine learning techniques.
+Advances in machine learning methods provide tools that have broad applicability in scientific research. These techniques are being applied across 
+the diversity of nuclear physics research topics, leading to advances that will facilitate scientific discoveries and societal applications. 
+This Colloquium provides a snapshot of nuclear physics research, which has been transformed by machine learning techniques.
   authors: A. Boehnlein, M. Diefenthaler, C. Fanelli, M. Hjorth-Jensen, T. Horn, M. P. Kuchera, D. Lee, W. Nazarewicz, K. Orginos, P. Ostroumov, L.-G. Pang, A. Poon, N. Sato, M. Schram, A. Scheinker, M. S. Smith,X.-N. Wang, V. Ziegler
   link:
     url: https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.031003
