@@ -315,7 +315,7 @@
       measurements in order to gain a better estimation of the true underlying cross sections. Yet a practical challenge has always been the estimation 
       of the uncertainty on both the cross sections at the energies of interest and the fit parameters, which can take the form of standard level 
       parameters. In this work, the emcee Markov Chain Monte Carlo sampler has been implemented for the R-matrix code AZURE2, creating the Bayesian 
-      R-matrix Inference Code Kit (\texttt{BRICK}). Bayesian uncertainty estimation has then been carried out for a simultaneous R-matrix fit of a capture
+      R-matrix Inference Code Kit (BRICK). Bayesian uncertainty estimation has then been carried out for a simultaneous R-matrix fit of a capture
       and scattering reaction in the 7Be system. 
   authors: D. Odell, C. R. Brune, D. R. Phillips, R. J. deBoer, S. N. Paneru
   link:
@@ -327,12 +327,12 @@
 - title: "Analyzing rotational bands in odd-mass nuclei using effective field theory and Bayesian methods"
   image: rotband.jpg
   description: >
-    We recently developed an Effective Field Theory (EFT) for rotational bands in odd-mass nuclei. Here we use EFT expressions to perform a 
-    Bayesian analysis of data on the rotational energy levels of several odd-mass nuclei. The error model in our Bayesian analysis includes both experimental 
-    and EFT truncation uncertainties. It also accounts for the fact that low-energy constants (LECs) at even and odd orders are expected to have 
+    We use a recently developed Effective Field Theory (EFT) for rotational bands in odd-mass nuclei to perform a 
+    Bayesian analysis of energy-level data in several nuclei. The error model in our Bayesian analysis includes both experimental 
+    and EFT truncation uncertainties. It also accounts for the fact that low-energy constants (LECs) at even and odd orders have 
     different sizes. We use Markov Chain Monte Carlo sampling to explore the joint posterior of the EFT and error-model parameters and show both can be 
-    reliably determined. We extract the LECs up to fourth order in the EFT and find that, provided we correctly account for EFT truncation errors in our
-    likelihood, results for lower-order LECs are stable as we go to higher orders. LEC results are also stable with respect to the addition of
+    reliably determined. We extract the LECs up to fourth order in the EFT and find that, provided we correctly account for EFT truncation errors, 
+    results for lower-order LECs are stable as we go to higher orders. LEC results are also stable with respect to the addition of
     higher-energy data. We find a clear correlation between the extracted and the expected value of the inverse breakdown scale. 
     The EFT turns out to converge markedly better than would be naively expected based on the scales of the problem
   authors: I.K. Alnamlah, E.A. Coello Pérez, D.R. Phillips
