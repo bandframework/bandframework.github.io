@@ -343,7 +343,7 @@
   news2: 
   
 - title: "Model reduction methods for nuclear emulators"
-  image: EC_parameters.png
+  image: MORguide.png
   description: >
       The field of model order reduction (MOR) is growing in importance due to its ability to extract the key insights from complex simulations while 
       discarding computationally burdensome and superfluous information. We provide an overview of MOR methods for the creation of fast & accurate 
