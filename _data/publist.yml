@@ -368,7 +368,7 @@
       together with a three-body reaction model to quantify the uncertainties on the breakup observables due to the parameters in the 
       effective potential describing the loosely bound projectile of interest. The combination of tools we develop opens the path for 
       a Bayesian analysis of a wide array of complex nuclear processes that require computationally intensive reaction models.
-  authors: O. Surer, F. Nunes, M. Plumlee, S. Wild
+  authors: O. Surer, F. M. Nunes, M. Plumlee, S. M. Wild
   link:
     url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.024607
     display: Phys. Rev. C 106, 024607 (2022)
