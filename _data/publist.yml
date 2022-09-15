@@ -345,7 +345,7 @@
 - title: "Model reduction methods for nuclear emulators"
   image: MORguide.png
   description: >
-    The field of model order reduction (MOR) is growing in importance due to its ability to extract the key insights from complex simulations while 
+      The field of model order reduction (MOR) is growing in importance due to its ability to extract the key insights from complex simulations while 
       discarding computationally burdensome and superfluous information. We provide an overview of MOR methods for the creation of fast & accurate 
       emulators of memory- and compute-intensive nuclear systems, focusing on eigen-emulators and variational emulators. As an example, we describe 
       how 'eigenvector continuation' is a special case of a much more general and well-studied MOR formalism for parameterized systems. We continue 
@@ -362,15 +362,16 @@
 - title: "Uncertainty quantification in breakup reactions"
   image: surmiseCDCC.png
   description: >
-    Breakup reactions are one of the favored probes to study loosely bound nuclei near the limits of stability. 
-    In order to interpret such breakup experiments, the continuum discretized coupled channel method is typically used. 
-    In this study, the first Bayesian analysis of a breakup reaction model is performed. We use a combination of statistical methods 
-    together with a three-body reaction model to quantify the uncertainties on the breakup observables due to the parameters in the 
-    effective potential describing the loosely bound projectile of interest. The combination of tools we develop opens the path for 
-    a Bayesian analysis of a wide array of complex nuclear processes that require computationally intensive reaction models.
+      Breakup reactions are one of the favored probes to study loosely bound nuclei near the limits of stability. 
+      In order to interpret such breakup experiments, the continuum discretized coupled channel method is typically used. 
+      In this study, the first Bayesian analysis of a breakup reaction model is performed. We use a combination of statistical methods 
+      together with a three-body reaction model to quantify the uncertainties on the breakup observables due to the parameters in the 
+      effective potential describing the loosely bound projectile of interest. The combination of tools we develop opens the path for 
+      a Bayesian analysis of a wide array of complex nuclear processes that require computationally intensive reaction models.
   authors: O. Surer, F. Nunes, M. Plumlee, S. Wild
   link:
     url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.024607
     display: Phys. Rev. C 106, 024607 (2022)
   highlight: 1
   news2: 
+
