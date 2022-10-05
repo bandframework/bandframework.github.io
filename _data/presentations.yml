@@ -1,3 +1,29 @@
+- title: "Uncertainties here, there, and everywhere: Bayesian Model Mixing in nuclear physics"
+  image:
+  location: > 
+    Talk at Mid-West Theory Get-together at Argonne National Laboratory
+  date: >
+    October 1, 2022
+  presenter: Alexandra Semposki (Ohio) 
+  link:
+    url: https://www.dropbox.com/s/imiclj2t57tngz9/Phillips_MWTGT.pdf?dl=0
+  highlight: 0
+  type: methodology
+  news2:
+
+- title: "The Bayesian Analysis of Nuclear Dynamics CI Framework"
+  image:
+  location: > 
+    Talk at Mid-West Theory Get-together at Argonne National Laboratory
+  date: >
+    September 30, 2022
+  presenter: Daniel Phillips (Ohio)
+  link:
+    url: https://www.dropbox.com/s/imiclj2t57tngz9/Phillips_MWTGT.pdf?dl=0
+  highlight: 0
+  type: band
+  news2:
+
 - title: "Artificial intelligence and machine learning in nuclear structure theory"
   image:
   location: > 
