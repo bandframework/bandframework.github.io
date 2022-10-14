@@ -1,3 +1,11 @@
+- date: October 14, 2022
+  headline: >
+     BAND has released <a href="https://github.com/bandframework/bandframework">v0.2 of our software framework</a>! This release includes two "BAND tools" 
+     intended to facilitate Bayesian analyses: surmise for model emulation & calibration and SaMBA for model mixing. It also includes three "BAND examples" 
+     where we apply these tools and methods to forefront Nuclear Physics problems: BFRESCOX for coupled-channel analyses of nuclear reactions, BRICK for 
+     R-matrix calculations, and a tutorial (QGP_Bayes) on the use of JETSCAPE_SIMS tools to analyze the quark-glion plasma. Pull the repo to get all of them, 
+     or pull some of it to get particular pieces you want, but please go ahead and play and tell us what you think when you do!
+
 - date: Setpember 13, 2022
   headline: >
     A guide to the use of <a href="https://iopscience.iop.org/article/10.1088/1361-6471/ac83dd">Order-Reduction Methods in Nuclear Physics</a>, 
