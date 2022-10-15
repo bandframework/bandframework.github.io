@@ -23,6 +23,10 @@ permalink: /
 -->
 
 <p style="text-align:center">
+<b>Check out the tools and examples in <a href='https://github.com/bandframework/bandframework'>BAND Framework v0.2</a>! And stay tuned for additional capabilities in v0.3!</b>
+</p>
+
+<p style="text-align:center">
 <b>See the <a href='https://iopscience.iop.org/article/10.1088/1361-6471/abf1df'>BAND Manifesto</a> in Journal of Physics G! (or <a href='https://arxiv.org/abs/2012.07704'>on arXiv</a>)</b>
 </p>
 
