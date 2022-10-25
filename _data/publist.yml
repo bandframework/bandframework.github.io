@@ -375,3 +375,13 @@
   highlight: 1
   news2: 
 
+- title: "Interpolating between small- and large-g expansions using Bayesian model mixing"
+  image: bmm_toy_model.png
+  description: >
+      Bayesian model mixing (BMM) is a statistical technique that can be used to combine models that are predictive in different input domains into a composite distribution that has improved predictive power over the entire input space. We explore the application of BMM to the mixing of two expansions of a function of a coupling constant g that are valid at small and large values of g respectively. This type of problem is quite common in nuclear physics, where physical properties are straightforwardly calculable in strong and weak interaction limits or at low and high densities or momentum transfers, but difficult to calculate in between. Interpolation between these limits is often accomplished by a suitable interpolating function, e.g., Padé approximants, but it is then unclear how to quantify the uncertainty of the interpolant. We address this problem in the simple context of the partition function of zero-dimensional $\phi^4$ theory, for which the (asymptotic) expansion at small g and the (convergent) expansion at large g are both known. We consider three mixing methods: linear mixture BMM, localized bivariate BMM, and localized multivariate BMM with Gaussian processes. We find that employing a Gaussian process in the intermediate region between the two predictive models leads to the best results of the three methods. The methods and validation strategies we present here should be generalizable to other nuclear physics settings.
+  authors: A. C. Semposki, R. J. Furnstahl, D. R. Phillips
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.044002
+    display: Phys. Rev. C 106, 044002 (2022)
+  highlight: 1
+  news2: 
