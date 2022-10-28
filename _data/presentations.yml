@@ -1,3 +1,42 @@
+- title: "Batch Sequential Calibration of a Computationally Intensive Simulation Model Using Parallel Computing"
+  image:
+  location: > 
+    Talk at 2022 INFORMS Annual Meeting
+  date: >
+    October 16-19, 2022
+  presenter: Özge Sürer (Northwestern)
+  link:
+    url: https://3449182.fs1.hubspotusercontent-na1.net/hubfs/3449182/2022_INFORMS_Annual_Meeting_Program.pdf#page=4
+  highlight: 0
+  type: methodology
+  news2:
+
+- title: "Model Mixing with Bayesian Additive Regression Trees"
+  image:
+  location: > 
+    Talk at 2022 INFORMS Annual Meeting
+  date: >
+    October 16-19, 2022
+  presenter: John Yannotty (OSU)
+  link:
+    url: https://3449182.fs1.hubspotusercontent-na1.net/hubfs/3449182/2022_INFORMS_Annual_Meeting_Program.pdf#page=4
+  highlight: 0
+  type: methodology
+  news2:
+
+- title: "Applying Variational Inference on High-dimensional Gaussian Processes with Inducing Points"
+  image:
+  location: > 
+    Talk at 2022 INFORMS Annual Meeting
+  date: >
+    October 16-19, 2022
+  presenter: Moses Chan (Northwestern)
+  link:
+    url: https://3449182.fs1.hubspotusercontent-na1.net/hubfs/3449182/2022_INFORMS_Annual_Meeting_Program.pdf#page=1038
+  highlight: 0
+  type: methodology
+  news2:
+
 - title: "Uncertainties here, there, and everywhere: Bayesian Model Mixing in nuclear physics"
   image:
   location: > 
