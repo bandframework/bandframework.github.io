@@ -77,7 +77,7 @@
      rely on effective potentials between constituents that are not well known and thus
      are the main source of uncertainty in current reaction models. Her group uses Bayesian
      statistical tools to quantify the uncertainty of the model predictions, to discriminate
-     between models and help in identifying the optimum conditions for an experiment. 
+     between models and help in identifying the optimum conditions for an experiment.
      More details at <a href="https://people.nscl.msu.edu/~nunes">people.nscl.msu.edu/~nunes</a>
 
 - name: Matt Plumlee
@@ -132,6 +132,21 @@
      To that end, he has spearheaded efforts to develop strategies involving model emulators
      based on Bayesian statistics to constrain fundamental properties of the QGP, such as
      the equation of state, from experiment.
+
+- name: Özge Sürer
+  photo: OzgeSurer_cropped.jpg
+  info: Assistant Professor of Analytics, <br> Miami University
+  email: surero@miamioh.edu
+  number_educ: 0
+  education1:
+  bio: >
+     Dr. Sürer’s research interests are to develop approaches encompassing statistical learning,
+     data analytics, and optimization to address data-related problems in different domains
+     such as healthcare and nuclear physics. In BAND, she develops tools and techniques relying
+     on Bayesian statistical learning to predict the future behavior of physical systems with
+     well-quantified uncertainties. She is also passionate about producing open source scientific
+     software. You can follow her research at <a href="https://ozgesurer.github.io">https://ozgesurer.github.io</a> or on
+     twitter @ozgesrr.
 
 - name: Frederi Viens
   photo: frederi-viens.2018.3960medres_cropped.jpg
