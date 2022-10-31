@@ -1,3 +1,16 @@
+- title: "Uncertainties here, there, and everywhere: Bayesian Model Mixing in nuclear physics"
+  image:
+  location: > 
+    Talk at 2022 Fall Meeting of the Division of Nuclear Physics of the American Physical Society
+  date: >
+    October 28, 2022
+  presenter: Daniel Phillips (Ohio) 
+  link:
+    url: https://www.dropbox.com/s/ezsgvzhxkywi5ng/Phillips_DNP2022.pdf?dl=0
+  highlight: 0
+  type: methodology
+  news2:
+
 - title: "Batch Sequential Calibration of a Computationally Intensive Simulation Model Using Parallel Computing"
   image:
   location: > 
