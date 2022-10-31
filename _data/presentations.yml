@@ -1,3 +1,16 @@
+- title: "Training and Projecting: A Reduced Basis Method Emulator for Many-Body Physics"
+  image:
+  location: > 
+    Talk at 2022 Fall Meeting of the Division of Nuclear Physics of the American Physical Society
+  date: >
+    October 28, 2022
+  presenter: Pablo Giuliani (MSU) 
+  link:
+    url: https://drive.google.com/file/d/1mI7zIij1-I58-bAVLKRDyYYwlnjd0Osp/view?usp=share_link
+  highlight: 0
+  type: methodology
+  news2:
+
 - title: "Uncertainties here, there, and everywhere: interpolating between small- and large-g expansions using Bayesian Model Mixing"
   image:
   location: > 
