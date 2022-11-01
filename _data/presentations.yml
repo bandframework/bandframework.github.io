@@ -1,10 +1,10 @@
 - title: "Emulating the R-Matrix"
   image:
-  location: > 
+  location: >
     Talk at 2022 Fall Meeting of the Division of Nuclear Physics of the American Physical Society
   date: >
     October 28, 2022
-  presenter: Daniel Odell (Ohio) 
+  presenter: Daniel Odell (Ohio)
   link:
     url: https://drive.google.com/file/d/12auF39qVujU_3HxYGCQe1cb8qZHerfXr/view?usp=sharing
   highlight: 0
@@ -13,11 +13,11 @@
 
 - title: "Training and Projecting: A Reduced Basis Method Emulator for Many-Body Physics"
   image:
-  location: > 
+  location: >
     Talk at 2022 Fall Meeting of the Division of Nuclear Physics of the American Physical Society
   date: >
     October 28, 2022
-  presenter: Pablo Giuliani (MSU) 
+  presenter: Pablo Giuliani (MSU)
   link:
     url: https://drive.google.com/file/d/1mI7zIij1-I58-bAVLKRDyYYwlnjd0Osp/view?usp=share_link
   highlight: 0
@@ -26,11 +26,11 @@
 
 - title: "Uncertainties here, there, and everywhere: interpolating between small- and large-g expansions using Bayesian Model Mixing"
   image:
-  location: > 
+  location: >
     Talk at 2022 Fall Meeting of the Division of Nuclear Physics of the American Physical Society
   date: >
     October 28, 2022
-  presenter: Daniel Phillips (Ohio) 
+  presenter: Daniel Phillips (Ohio)
   link:
     url: https://www.dropbox.com/s/ezsgvzhxkywi5ng/Phillips_DNP2022.pdf?dl=0
   highlight: 0
@@ -39,7 +39,7 @@
 
 - title: "Batch Sequential Calibration of a Computationally Intensive Simulation Model Using Parallel Computing"
   image:
-  location: > 
+  location: >
     Talk at 2022 INFORMS Annual Meeting
   date: >
     October 16-19, 2022
@@ -52,7 +52,7 @@
 
 - title: "Model Mixing with Bayesian Additive Regression Trees"
   image:
-  location: > 
+  location: >
     Talk at 2022 INFORMS Annual Meeting
   date: >
     October 16-19, 2022
@@ -65,7 +65,7 @@
 
 - title: "Applying Variational Inference on High-dimensional Gaussian Processes with Inducing Points"
   image:
-  location: > 
+  location: >
     Talk at 2022 INFORMS Annual Meeting
   date: >
     October 16-19, 2022
@@ -78,20 +78,33 @@
 
 - title: "Uncertainties here, there, and everywhere: Bayesian Model Mixing in nuclear physics"
   image:
-  location: > 
+  location: >
     Talk at Mid-West Theory Get-together at Argonne National Laboratory
   date: >
     October 1, 2022
-  presenter: Alexandra Semposki (Ohio) 
+  presenter: Alexandra Semposki (Ohio)
   link:
     url: https://www.dropbox.com/s/lgsbii5945n24lb/Semposki_MWTGT.pdf?dl=0
   highlight: 0
   type: methodology
   news2:
 
+- title: "The Bayesian Analysis of Nuclear Dynamics Framework"
+  image:
+  location: >
+    Talk at 2022 Fall Meeting of the Division of Nuclear Physics of the American Physical Society
+  date: >
+    October 29, 2022
+  presenter: Özge Sürer (Miami)
+  link:
+    url: https://meetings.aps.org/Meeting/DNP22/Session/JA.1
+  highlight: 0
+  type: band
+  news2:
+
 - title: "The Bayesian Analysis of Nuclear Dynamics CI Framework"
   image:
-  location: > 
+  location: >
     Talk at Mid-West Theory Get-together at Argonne National Laboratory
   date: >
     September 30, 2022
@@ -104,7 +117,7 @@
 
 - title: "Artificial intelligence and machine learning in nuclear structure theory"
   image:
-  location: > 
+  location: >
     Seminar at Fudan University, Shanghai, China
   date: >
     August 3, 2022
@@ -118,7 +131,7 @@
 
 - title: "A Sequential Approach to Calibration of a Computationally Intensive Model"
   image:
-  location: > 
+  location: >
     Talk at 2022 SIAM Conference on Uncertainty Quantification
   date: >
     April 12-15, 2022
@@ -128,10 +141,10 @@
   highlight: 0
   type: methodology
   news2:
-  
+
 - title: "Taking Shortcuts: Accelerating scientific discovery through physics-informed emulators"
   image:
-  location: > 
+  location: >
     Research discussion at the Facility for Rare Isotope Beams
   date: >
     April 07 2022
@@ -142,10 +155,10 @@
   type: methodology
   news2:
 
-  
+
 - title: "Calibration of a Computationally Intensive Model with Parallel Computing Aspects"
   image:
-  location: > 
+  location: >
     Talk at 2022 SIAM Conference on Parallel Processing for Scientific Computing
   date: >
     February 23-26, 2022
@@ -155,10 +168,10 @@
   highlight: 0
   type: methodology
   news2:
-  
+
 - title: "Bayesian Model Averaging: applications and perspectives"
   image:
-  location: > 
+  location: >
     Talk at INT program "Machine learning for nuclear theory" (INT-22-1)
   date: >
     March 30, 2022
@@ -171,7 +184,7 @@
 
 - title: "Calibration Using Emulation of Filtered Simulation Results"
   image:
-  location: > 
+  location: >
     Talk at 2021 Winter Simulation Conference
   date: >
     December 15-17, 2021
@@ -184,7 +197,7 @@
 
 - title: "Transfer Learning Emulation"
   image:
-  location: > 
+  location: >
     Talk at 2021 ISNET
   date: >
     December 14, 2021
@@ -194,10 +207,10 @@
   highlight: 0
   type: methodology
   news2:
-  
+
 - title: "On the Horizon"
   image:
-  location: > 
+  location: >
     Talk at 2021 ISNET
   date: >
     December 14, 2021
@@ -207,10 +220,10 @@
   highlight: 0
   type: band
   news2:
- 
+
 - title: "Bayesian R-Matrix"
   image:
-  location: > 
+  location: >
     Talk at 2021 ISNET
   date: >
     December 14, 2021
@@ -223,7 +236,7 @@
 
 - title: "The Bayesian Analysis of Nuclear Dynamics (BAND) CI Framework: Coming Attractions"
   image:
-  location: > 
+  location: >
     Talk at 2021 BAND camp
   date: >
     December 13, 2021
@@ -233,7 +246,7 @@
   highlight: 0
   type: band
   news2:
-   
+
 - title: "Statistically rigorous analyses of light nuclei with chiral interactions"
   image:
   location: >
@@ -260,7 +273,7 @@
 
 - title: "Bayesian Surrogate Constructions for Calibration of Expensive Simulation Model"
   image:
-  location: > 
+  location: >
     Talk at 2021 INFORMS Annual Meeting
   date: >
     October 24-27, 2021
@@ -273,7 +286,7 @@
 
 - title: "Calibration Using Emulation of Filtered Simulation Results"
   image:
-  location: > 
+  location: >
     Talk at 2021 INFORMS Annual Meeting
   date: >
     October 24-27, 2021
@@ -286,7 +299,7 @@
 
 - title: "Transfer Learning for Emulation of Hydrodynamic Simulations"
   image:
-  location: > 
+  location: >
     Talk at 2021 Fall Meeting of the APS DNP
   date: >
     October 13, 2021
@@ -296,10 +309,10 @@
   highlight: 0
   type: methodology
   news2:
-  
+
 - title: "Interpolating between small- and large-x expansions using Bayesian Model Mixing"
   image:
-  location: > 
+  location: >
     Talk at 2021 Fall Meeting of the APS DNP
   date: >
     October 12, 2021
@@ -309,10 +322,10 @@
   highlight: 0
   type: methodology
   news2:
-  
+
 - title: "Improved Uncertainties Estimates with R-Matrix Theory"
   image:
-  location: > 
+  location: >
     Virtual Seminar at Tongji University
   date: >
     September 16, 2021
@@ -325,7 +338,7 @@
 
 - title: "The Ultimate Shortcut"
   image:
-  location: > 
+  location: >
     Nuclear Seminar at Florida State University
   date: >
     September 10, 2021
@@ -338,7 +351,7 @@
 
 - title: "Improved Uncertainties Estimates with R-Matrix Theory"
   image:
-  location: > 
+  location: >
     Virtual Seminar at the Joint Institute of Nuclear Astrophysics, University of Notre Dame
   date: >
     September 6, 2021
@@ -348,10 +361,10 @@
   highlight: 0
   type: physics
   news2:
-  
+
 - title: "Transfer Learning Emulation of Relativistic Heavy Ion Simulations"
   image:
-  location: > 
+  location: >
     Virtual Seminar for University of Tennessee Heavy Ion Group
   date: >
     August 10, 2021
@@ -364,7 +377,7 @@
 
 - title: "Bayesian Parameter Estimation For Relativistic Heavy Ion Collisions"
   image:
-  location: > 
+  location: >
     Workshop at 2021 JETSCAPE Summer School
   date: >
     July 29, 2021
@@ -374,11 +387,11 @@
   highlight: 0
   type: physics
   news2:
-  
+
 - title: "The Bayesian Analysis of Nuclear Dynamics (BAND) Framework: An Introduction"
   image:
-  location: > 
-    Talk at joint BAND-JETSCAPE meeting 
+  location: >
+    Talk at joint BAND-JETSCAPE meeting
   date: >
     March 16, 2021
   presenter: Daniel Phillips (Ohio)
@@ -390,7 +403,7 @@
 
 - title: "Bayesian Model Mixing: Nuclear Physics Applications"
   image:
-  location: > 
+  location: >
     Invited talk at the ECT* workshop on <em>Advances in Many Body Theories: from First Principles Methods to Quantum Computing and Machine Learning</em>, Trento, Italy
   date: >
     November 2, 2020
@@ -400,4 +413,3 @@
   highlight: 0
   type: physics
   news2:
-
