@@ -1,3 +1,16 @@
+- title: "Emulating the R-Matrix"
+  image:
+  location: > 
+    Talk at 2022 Fall Meeting of the Division of Nuclear Physics of the American Physical Society
+  date: >
+    October 28, 2022
+  presenter: Daniel Odell (Ohio) 
+  link:
+    url: https://drive.google.com/file/d/12auF39qVujU_3HxYGCQe1cb8qZHerfXr/view?usp=sharing
+  highlight: 0
+  type: methodology
+  news2:
+
 - title: "Training and Projecting: A Reduced Basis Method Emulator for Many-Body Physics"
   image:
   location: > 
