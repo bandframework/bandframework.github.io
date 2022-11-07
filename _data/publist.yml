@@ -385,3 +385,23 @@
     display: Phys. Rev. C 106, 044002 (2022)
   highlight: 1
   news2: 
+  
+- title: "Towards precise and accurate calculations of neutrinoless double-beta decay"
+  image: Ca48_M0v.png
+  description: >
+      We present the results of a National Science Foundation Project Scoping Workshop, the purpose of which was to assess the current status of 
+      calculations for the nuclear matrix elements governing neutrinoless double-beta decay and determine if more work on them is required. After 
+      reviewing important recent progress in the application of effective field theory, lattice quantum chromodynamics, and ab initio nuclear-structure 
+      theory to double-beta decay, we discuss the state of the art in nuclear-physics uncertainty quantification and then construct a 
+      roadmap for work in all these areas to fully complement the increasingly sensitive experiments in operation and under development. The roadmap 
+      includes specific projects in theoretical and computational physics as well as the use of Bayesian methods to quantify both intra- and inter-model 
+      uncertainties. The goal of this ambitious program is a set of accurate and precise matrix elements, in all nuclei of interest to experimentalists, 
+      delivered together with carefully assessed uncertainties. Such calculations will allow crisp conclusions from the observation or non-observation of 
+      neutrinoless double-beta decay, no matter what new physics is at play.
+  authors: V. Cirigliano, Z. Davoudi, J. Engel, R. J. Furnstahl, G. Hagen, U. Heinz, and 17 other authors, including W. Nazarewicz, D. R. Phillips, 
+    M. Plumlee, F. Viens, and S. M. Wild. 
+  link:
+    url: https://doi.org/10.1088/1361-6471/aca03e
+    display: J. Phys. G (2022)
+  highlight: 1
+  news2: 
