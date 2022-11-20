@@ -406,7 +406,7 @@
   highlight: 1
   news2: 
   
-  - title: "Training and projecting: A reduced basis method emulator for many-body physics"
+- title: "Training and projecting: A reduced basis method emulator for many-body physics"
   image: RBMs.png
   description: >
       We present the reduced basis method as a tool for developing emulators for equations with tunable parameters within the context of the nuclear 
