@@ -405,3 +405,22 @@
     display: J. Phys. G (2022)
   highlight: 1
   news2: 
+  
+  - title: "Training and projecting: A reduced basis method emulator for many-body physics"
+  image: RBMs.png
+  description: >
+      We present the reduced basis method as a tool for developing emulators for equations with tunable parameters within the context of the nuclear 
+      many-body problem. The method uses a basis expansion informed by a set of solutions for a few values of the model parameters and then projects 
+      the equations over a well-chosen low-dimensional subspace. We connect some of the results in the eigenvector continuation literature to the 
+      formalism of reduced basis methods and show how these methods can be applied to a broad set of problems. As we illustrate, the possible success 
+      of the formalism on such problems can be diagnosed beforehand by a principal component analysis. We apply the reduced basis method to the 
+      one-dimensional Gross-Pitaevskii equation with a harmonic trapping potential and to nuclear density functional theory for 48Ca, achieving 
+      speed-ups of more than ×150 and ×250, respectively, when compared to traditional solvers. The outstanding performance of the approach, together 
+      with its straightforward implementation, show promise for its application to the emulation of computationally demanding calculations, including 
+      uncertainty quantification.
+  authors: Edgard Bonilla, Pablo Giuliani, Kyle Godbey, and Dean Lee. 
+  link:
+    url: https://doi.org/10.1103/PhysRevC.106.054322
+    display: Phys. Rev. C 106, 054322 (2022)
+  highlight: 1
+  news2: 
