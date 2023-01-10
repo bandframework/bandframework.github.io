@@ -1,3 +1,8 @@
+
+- date: January 9, 2023
+  headline: >
+     Edgard Bonilla, Kyle Godbey, and BAND post-doc Pablo Giuliani are co-authors on two recent publications that employ Reduced Basis Methods (RBM) to speed up the calibration and evaluation of density functionals. In <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.054322">Training and projecting: a reduced basis method for many-body physics</a> they and collaborator Dean Lee lay out the foundation of the method and demonstrate its potential in some simple examples. In <a href="https://www.frontiersin.org/articles/10.3389/fphy.2022.1054524">Bayes goes fast: Uncertainty quantification for a covariant energy density functional emulated by the reduced basis method</a> Bonilla, Godbey, and Giuliani teamed up with BAND member Frederi Viens and Jorge Piekarewicz to calibrate a relativistic energy density functional using a fraction of the computational resources that would have been needed without RBM. 
+
 - date: December 5, 2022
   headline: >
      Congratulations to BAND member Stefan Wild! Stefan took up a <a href="https://cs.lbl.gov/news-media/news/2022/stefan-wild-to-lead-berkeley-labs-applied-mathematics-and-computational-research-division/">new position as division director</a> of Lawrence Berkeley National Laboratory’s Applied Mathematics and Computational Research Division on December 1.
