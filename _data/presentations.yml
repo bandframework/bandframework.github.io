@@ -1,3 +1,16 @@
+- title: "Less is more: Dimensionality reduction for accelerating uncertainty quantification"
+  image:
+  location: >
+    Talk at the Institute of Nuclear & Particle Physics, Ohio University
+  date: >
+    January 24, 2023
+  presenter: Pablo Giuliani (MSU)
+  link:
+    url: https://docs.google.com/presentation/d/1i5iroYQzirRXrRX3mOv1LrPW-EWTjQig/edit?usp=sharing&ouid=108123317698154395922&rtpof=true&sd=true
+  highlight: 0
+  type: physics
+  news2:
+
 - title: "Emulating the R-Matrix"
   image:
   location: >
