@@ -424,3 +424,18 @@
     display: Phys. Rev. C 106, 054322 (2022)
   highlight: 1
   news2: 
+
+- title: "ParMOO: A Python library for parallel multiobjective simulation optimization"
+  image: logo-ParMOO.png
+  description: >
+      ParMOO is a Python framework and library of solver components for building 
+      and deploying highly customized multiobjective simulation optimization solvers. 
+      ParMOO is designed to help engineers, practitioners, and optimization experts 
+      exploit available structures in how simulation outputs are used to formulate 
+      the objectives for a multiobjective optimization problem. 
+  authors: T.H. Chang and S.M. Wild
+  link:
+    url: https://doi.org/10.21105/joss.04468
+    display: J. Open Source Softw. 8(82), 4468 (2023)
+  highlight: 1
+  news2: 
