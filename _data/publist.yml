@@ -463,6 +463,27 @@
   authors: Pablo Giuliani, Kyle Godbey, Edgard Bonilla, Frederi Viens, and Jorge Piekarewicz. 
   link:
     url: https://doi.org/10.3389/fphy.2022.1054524
-    display: Frontiers in Physics 10 (2023): 1212
+    display: Front. Phys. 10:1054524.
+  highlight: 1
+  news2:
+  
+- title: "BUQEYE guide to projection-based emulators in nuclear physics"
+  image: ReducedSpace.png
+  description: >
+      The BUQEYE collaboration (Bayesian Uncertainty Quantification: Errors in Your effective field theory) 
+      presents a pedagogical introduction to projection-based, reduced-order emulators for applications 
+      in low-energy nuclear physics. The term emulator refers here to a fast surrogate model capable of 
+      reliably approximating high-fidelity models. As the general tools employed by these emulators are 
+      not yet well-known in the nuclear physics community, we discuss variational and Galerkin projection 
+      methods, emphasize the benefits of offline-online decompositions, and explore how these concepts 
+      lead to emulators for bound and scattering systems that enable fast and accurate calculations using 
+      many different model parameter sets. We also point to future extensions and applications of these 
+      emulators for nuclear physics, guided by the mature field of model (order) reduction. All examples 
+      discussed here and more are available as interactive, open-source Python code so that practitioners 
+      can readily adapt projection-based emulators for their own work.
+  authors: Christian Drischler, Jordan Melendez, Dick Furnstahl, Alberto Garcia, and Xilin Zhang. 
+  link:
+    url: https://doi.org/10.3389/fphy.2022.1092931
+    display: Front. Phys. 10:1092931.
   highlight: 1
   news2: 
