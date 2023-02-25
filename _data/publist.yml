@@ -439,3 +439,32 @@
     display: J. Open Source Softw. 8(82), 4468 (2023)
   highlight: 1
   news2: 
+  
+  
+- title: "Bayes goes fast: Uncertainty quantification for a covariant energy density functional emulated by the reduced basis method"
+  image: NonLinearCorrelation.png
+  description: >
+      A covariant energy density functional is calibrated using a principled Bayesian statistical 
+      framework informed by experimental binding energies and charge radii of several magic and 
+      semi-magic nuclei. The Bayesian sampling required for the calibration is enabled by the 
+      emulation of the high-fidelity model through the implementation of a reduced basis method 
+      (RBM)—a set of dimensionality reduction techniques that can speed up demanding calculations 
+      involving partial differential equations by several orders of magnitude. The RBM emulator 
+      we build—using only 100 evaluations of the high-fidelity model—is able to accurately reproduce 
+      the model calculations in tens of milliseconds on a personal computer, an increase in speed of 
+      nearly a factor of 3,300 when compared to the original solver. Besides the analysis of the 
+      posterior distribution of parameters, we present model calculations for masses and radii 
+      with properly estimated uncertainties. We also analyze the model correlation between the 
+      slope of the symmetry energy L and the neutron skin of 48Ca and 208Pb. The straightforward 
+      implementation and outstanding performance of the RBM makes it an ideal tool for assisting 
+      the nuclear theory community in providing reliable estimates with properly quantified 
+      uncertainties of physical observables. Such uncertainty quantification tools will become 
+      essential given the expected abundance of data from the recently inaugurated and future 
+      experimental and observational facilities.
+      
+  authors: Pablo Giuliani, Kyle Godbey, Edgard Bonilla, Frederi Viens, and Jorge Piekarewicz. 
+  link:
+    url: https://doi.org/10.3389/fphy.2022.1054524
+    display: Frontiers in Physics 10 (2023): 1212
+  highlight: 1
+  news2: 
