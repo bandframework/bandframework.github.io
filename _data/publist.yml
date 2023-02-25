@@ -439,8 +439,7 @@
     display: J. Open Source Softw. 8(82), 4468 (2023)
   highlight: 1
   news2: 
-  
-  
+
 - title: "Bayes goes fast: Uncertainty quantification for a covariant energy density functional emulated by the reduced basis method"
   image: NonLinearCorrelation.png
   description: >
@@ -461,7 +460,6 @@
       uncertainties of physical observables. Such uncertainty quantification tools will become 
       essential given the expected abundance of data from the recently inaugurated and future 
       experimental and observational facilities.
-      
   authors: Pablo Giuliani, Kyle Godbey, Edgard Bonilla, Frederi Viens, and Jorge Piekarewicz. 
   link:
     url: https://doi.org/10.3389/fphy.2022.1054524
