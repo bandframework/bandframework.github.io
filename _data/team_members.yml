@@ -191,7 +191,7 @@
 
 - name: <a href='https://wildsm.github.io/'>Stefan Wild</a>
   photo: Wild-Stefan-32129D38.jpg
-  info: Computational Mathematician and Deputy Director, Mathematics and Computer Science Division, Argonne National Laboratory; Senior Fellow, Northwestern University
+  info: Director, Applied Mathematics and Computational Research Division, Lawrence Berkeley National Laboratory; Senior Fellow, Northwestern University
   email: stefanwild@northwestern.edu
   number_educ: 0
   education1:
@@ -203,6 +203,6 @@
      In BAND, he is especially interested in the interplay among numerical optimization,
      Bayesian statistics, and computationally expensive simulations of nuclei.
      Wild is the co-director for mathematics and computer science of the
-     <a href="http://computingnuclei.org/">NUCLEI</a> collaboration and
-     leads <a href="https://www.anl.gov/mcs/lans">LANS, the Laboratory for Applied
-     Mathematics, Numerical Software, and Statistics</a> at Argonne National Laboratory.
+     <a href="http://computingnuclei.org/">NUCLEI</a> collaboration, is an adjunct in 
+     <a href="https://www.mccormick.northwestern.edu/industrial/">Northwestern's IEMS</a>,
+      and enjoys working on <a href="https://github.com/POptUS">emerging open-source software for practical optimization</a>.
