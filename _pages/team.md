@@ -140,7 +140,7 @@ Jump to [senior investigators](#senior-investigators), [postdoctoral researchers
 </div>
 {% endif %}
 
-## Postdoctoral Researchers
+## BAND Researchers
 {% assign number_printed = 0 %}
 {% for member in site.data.postdocs %}
 
