@@ -9,17 +9,17 @@
 #  education4:
 
 
-- name: Kyle Godbey
-  photo: kyle_godbey.jpg
-  info: Research Assistant Professor  <br> Facility for Rare Isotope Beams, <br> Michigan State University
-  email: godbey@frib.msu.edu
-  number_educ: 0
-  education1:
-
 - name: Pablo Giuliani
   photo: pablo.jpg
   info: Postdoctoral Research Associate <br> Department of Statistics and Probability, and Facility for Rare Isotope Beams, <br> Michigan State University
   email: giulia27@msu.edu
+  number_educ: 0
+  education1:
+
+- name: Kyle Godbey
+  photo: kyle_godbey.jpg
+  info: Research Assistant Professor  <br> Facility for Rare Isotope Beams, <br> Michigan State University
+  email: godbey@frib.msu.edu
   number_educ: 0
   education1:
 
