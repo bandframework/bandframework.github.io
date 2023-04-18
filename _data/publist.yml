@@ -488,8 +488,8 @@
   highlight: 1
   news2: 
   
-  - title: "Optical potentials for the rare-isotope beam era"
-  image: ca48n-whitepaper.png
+  - title: "The complete quantification of parametric uncertainties in (d,p) transfer reactions"
+  image: ca48dp-anc.png
   description: >
          We review recent progress and motivate the need for further developments in nuclear optical 
          potentials that are widely used in the theoretical analysis of nucleon elastic scattering and 
@@ -497,9 +497,9 @@
          frontier in nuclear science over the coming decade and which will be probed at new rare-isotope 
          beam facilities worldwide, there is a targeted need to quantify and reduce theoretical reaction 
          model uncertainties, especially with respect to nuclear optical potentials.
-  authors: C. Hebborn, F. M. Nunes, et al.
+  authors: M. Catacora-Rios, A. Lovell, , F. M. Nunes
   link:
-    url: https://doi.org/10.1088/1361-6471/acc348
-    display: J. Phys. G accepted
+    url: https://doi.org/XXXX
+    display: Phys. Rev. C in review
   highlight: 1
   news2:
