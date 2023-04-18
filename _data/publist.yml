@@ -487,3 +487,19 @@
     display: Front. Phys. 10, 1092931 (2023)
   highlight: 1
   news2: 
+  
+  - title: "Optical potentials for the rare-isotope beam era"
+  image: ca48n-whitepaper.png
+  description: >
+         We review recent progress and motivate the need for further developments in nuclear optical 
+         potentials that are widely used in the theoretical analysis of nucleon elastic scattering and 
+         reaction cross sections. In regions of the nuclear chart away from stability, which represent a 
+         frontier in nuclear science over the coming decade and which will be probed at new rare-isotope 
+         beam facilities worldwide, there is a targeted need to quantify and reduce theoretical reaction 
+         model uncertainties, especially with respect to nuclear optical potentials.
+  authors: C. Hebborn, F. M. Nunes, et al.
+  link:
+    url: https://doi.org/10.1088/1361-6471/acc348
+    display: J. Phys. G accepted
+  highlight: 1
+  news2:
