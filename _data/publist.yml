@@ -491,13 +491,13 @@
   - title: "The complete quantification of parametric uncertainties in (d,p) transfer reactions"
   image: ca48dp-anc.png
   description: >
-         We review recent progress and motivate the need for further developments in nuclear optical 
+         We review recent progress and motivate the need for further developments in nuclear optical
          potentials that are widely used in the theoretical analysis of nucleon elastic scattering and 
          reaction cross sections. In regions of the nuclear chart away from stability, which represent a 
          frontier in nuclear science over the coming decade and which will be probed at new rare-isotope 
          beam facilities worldwide, there is a targeted need to quantify and reduce theoretical reaction 
          model uncertainties, especially with respect to nuclear optical potentials.
-  authors: M. Catacora-Rios, A. Lovell, , F. M. Nunes
+  authors: M. Catacora-Rios, A. Lovell, F. M. Nunes
   link:
     url: https://doi.org/XXXX
     display: Phys. Rev. C in review
