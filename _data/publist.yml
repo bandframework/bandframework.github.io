@@ -425,6 +425,40 @@
   highlight: 1
   news2: 
 
+- title: "Investigation of the 10B(p,α)7Be reaction from 0.8 to 2.0 MeV"
+  image: brick.jpg
+  description: >
+    A multitude of broad interfering resonances characterize the 10B(p,α)7Be
+    cross section at low energies. The complexity of the reaction mechanism, as
+    well as conflicting experimental measurements, have so far prevented a
+    reliable prediction of the cross section over the energy ranges pertinent
+    for a boron-proton fusion reactor environment. Purpose: To improve the
+    evaluated cross section of the 10B(p,α)7Be reaction, this study
+    targets the proton energy region from 0.8 to 2.0 MeV, where kinematic
+    overlap of the scattered protons and reaction α particles have made past
+    measurements very challenging. Method: New detailed studies of the reaction
+    have been performed at the Edwards Accelerator Laboratory at Ohio University
+    and the Nuclear Science Laboratory at the University of Notre Dame using
+    time-of-flight and degrader foil techniques, respectively. Results: Proton
+    and α -particle signals were clearly resolved using both techniques, and 16
+    point differential cross sections were measured over an angular range of θ
+    lab = 45 ∘ and 157 .  5 ∘ . A comprehensive R -matrix analysis of the
+    experimental data, including data from previous low-energy studies of the
+    10B(p,α)7Be, 10B(p,p)10B, and 10B(p,γ)11C reactions, was achieved over
+    the region of measurement. Using a representative set of previous data, the
+    fit was extended to very low energies.
+    Conclusions: On the basis of this
+    data and R-matrix analysis, a more reliable and consistent description of
+    the 10B(p,α)7Be cross section has been established. The uncertainty
+    over the energy range of this study has been reduced from ≈20 % to ≈10 %,
+    and the level structure over this region has been clarified considerably.
+  authors: B. Vande Kolk,..., D. Odell et al.
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.055802
+    display: Phys. Rev. C 105, 055802 (2022)
+  highlight: 1
+  news2:
+
 - title: "ParMOO: A Python library for parallel multiobjective simulation optimization"
   image: logo-ParMOO.png
   description: >
