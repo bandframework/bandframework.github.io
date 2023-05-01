@@ -442,7 +442,7 @@
     time-of-flight and degrader foil techniques, respectively. Results: Proton
     and α -particle signals were clearly resolved using both techniques, and 16
     point differential cross sections were measured over an angular range of θ
-    lab = 45 ∘ and 157 .  5 ∘ . A comprehensive R -matrix analysis of the
+    lab = 45º and 157.5º. A comprehensive R-matrix analysis of the
     experimental data, including data from previous low-energy studies of the
     10B(p,α)7Be, 10B(p,p)10B, and 10B(p,γ)11C reactions, was achieved over
     the region of measurement. Using a representative set of previous data, the
@@ -456,8 +456,121 @@
   link:
     url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.055802
     display: Phys. Rev. C 105, 055802 (2022)
-  highlight: 1
+  highlight: 0
   news2:
+
+- title: "Investigation of direct capture in the 23Na(p,γ)24Mg reaction"
+  image: brick.jpg
+  description: >
+    The 23 Na (p,γ)24Mg reaction plays an important role in the
+    nucleosynthesis of elements in the hot bottom burning environment of
+    asymptotic giant branch stars by providing a breakout path from the NeNa
+    cycle to the MgAl cycle. At temperatures above ≈ 0.06 GK, the underlying
+    nuclear reaction contributions to the rate are primarily narrow resonances,
+    but at lower temperatures direct and broad resonance tail contributions come
+    to dominate. While there have been recent studies to improve the
+    uncertainties associated with these narrow resonances, little attention has
+    been paid to the nonresonant component. In this work, experimental
+    measurements are reported over the energy range from 0.5 and 1.05 MeV proton
+    beam energy, with a focus on studying the off-resonance region of the cross
+    section. Several transitions were observed where two broad resonances
+    dominate the energy range and whose low energy tails contribute strongly to
+    the low-energy, nonresonant, cross section. In addition, a clear signature
+    of direct capture has been observed for the first time in the 23Na(p,γ)24Mg
+    reaction.
+  authors: A. Boeltzig,..., D.Odell et al.
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.045801
+    display: Phys. Rev. C 106, 045801 (2022)
+  highlight: 0
+
+- title: "Measurement of 19F(p, γ)20Ne reaction suggests CNO breakout in first stars"
+  image: brick.jpg
+  description: >
+    Proposed mechanisms for the production of calcium in the first stars
+    (population III stars)—primordial stars that formed out of the matter of the
+    Big Bang—are at odds with observations. Advanced nuclear burning and
+    supernovae were thought to be the dominant source of the calcium production
+    seen in all stars. Here we suggest a qualitatively different path to
+    calcium production through breakout from the ‘warm’ carbon–nitrogen–oxygen
+    (CNO) cycle through a direct experimental measurement of the 19F(p, γ)20Ne
+    breakout reaction down to a very low energy point of 186 kiloelectronvolts,
+    reporting a key resonance at 225 kiloelectronvolts. In the domain of
+    astrophysical interest2, at around 0.1 gigakelvin, this thermonuclear
+    19F(p, γ)20Ne rate is up to a factor of 7.4 larger than the previous
+    recommended rate. Our stellar models show a stronger breakout during
+    stellar hydrogen burning than previously thought and may reveal the
+    nature of calcium production in population III stars imprinted on the oldest
+    known ultra-iron-poor star, SMSS0313-67086. Our experimental result was
+    obtained in the China JinPing Underground Laboratory7, which offers an
+    environment with an extremely low cosmic-ray-induced background8. Our rate
+    showcases the effect that faint population III star supernovae can have on
+    the nucleosynthesis observed in the oldest known stars and first galaxies,
+    which are key mission targets of the James Webb Space Telescope.
+  authors: L. Zhang,..., D. Odell et al.
+  link:
+    url: https://www.nature.com/articles/s41586-022-05230-x
+    display: Nature volume 610, pages 656–660 (2022)
+  highlight: 1
+
+- title: "Direct measurement of the astrophysical 19F(p,αγ)16O reaction in a deep-underground laboratory"
+  image: brick.jpg
+  description: >
+    Fluorine is one of the most interesting elements in nuclear astrophysics.
+    The 19F(p,α)16O reaction is of astrophysical importance in
+    addressing fluorine abundances in the universe and CNO material loss in the
+    first generation stars. As a day-1 campaign in the Jinping Underground
+    Nuclear Astrophysics experiment facility (JUNA), we report the full direct
+    measurement results of the 19F(p,αγ)16O reaction, which is one of
+    the important channels in the 19F(p,α)16O reaction. The γ-ray
+    yields were measured over a center-of-mass energy range of Ec.m.=72.4–344
+    keV, covering the astrophysical Gamow window. The measurement has reached
+    down to an unprecedentedly low energy of 72.4 keV. The experiment was
+    performed under the extremely low cosmic-ray-induced background environment
+    of the China JinPing underground Laboratory (CJPL), one of the deepest
+    underground laboratories in the world (2400 m). The astrophysical S factors
+    in the energy region of 72.4–188.8 keV have been derived experimentally for
+    the first time. The present low-energy astrophysical S factors deviate
+    significantly from previous theoretical predictions, and the associated
+    uncertainties are remarkably reduced. The thermonuclear 19F(p,αγ)16O rate
+    has been determined down to a low temperature of ≈ 0.05 GK, for
+    astrophysical modeling, based on a firmer experimental basis.  Furthermore,
+    the present work shows that the contribution owing to the (p,α0)
+    channel dominates the total (p,α) rate over the entire low temperature
+    region below 0.12 GK, clarifying the role these two channels contributing to
+    the total rate.
+  authors: L. Zhang,..., D. Odell et al.
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.055803
+    display: Phys.Rev.C 106 (2022)
+  highlight: 0
+
+- title: "First near-threshold measurements of the 13C(α,n1)16O reaction for low-background-environment characterization"
+  image: brick.jpg
+  description: >
+    The modeling of background sources in large volume detection systems
+    requires accurate nuclear cross sections for a variety of reactions. Among
+    the most important are ( α , n ) on light nuclei, where α particles, up to ≈
+    9 MeV, are produced from the decay of actinides present in trace amounts in
+    detection and structural material. In order to model the neutron energy
+    spectra and production of other secondary particles, the partial cross
+    sections are needed. Yet very little experimental data exists for these
+    partial cross sections because past measurements, hampered by the
+    experimental challenges of neutron detection, have focused mostly on total
+    reaction cross section measurements. Here the partial cross section of the 
+    13 C ( α , n 1 ) 16 O reaction is reported for the first time. The
+    measurements were made near the reaction threshold using a high energy
+    resolution helium spectrometer. The measurements show a rapidly increasing
+    cross section, which quickly becomes a significant fraction of the total
+    reaction cross section. Measurements are compared with previous theory
+    estimates and differences of more than an order of magnitude are found. A
+    comparison is made with new total cross section measurements and the current
+    level of consistency is demonstrated.
+  authors: R. J. deBoer,..., D. Odell et al.
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.055808
+    display: Phys.Rev.C 106, 055808 (2022)
+  highlight: 0
 
 - title: "ParMOO: A Python library for parallel multiobjective simulation optimization"
   image: logo-ParMOO.png
