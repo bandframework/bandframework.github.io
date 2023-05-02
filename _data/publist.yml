@@ -488,22 +488,21 @@
   image: brick.jpg
   description: >
     Proposed mechanisms for the production of calcium in the first stars
-    (population III stars)—primordial stars that formed out of the matter of the
-    Big Bang—are at odds with observations. Advanced nuclear burning and
+    that formed out of the matter of the Big Bang are at odds with observations. Advanced nuclear burning and
     supernovae were thought to be the dominant source of the calcium production
     seen in all stars. Here we suggest a qualitatively different path to
-    calcium production through breakout from the ‘warm’ carbon–nitrogen–oxygen
-    (CNO) cycle through a direct experimental measurement of the 19F(p, γ)20Ne
-    breakout reaction down to a very low energy point of 186 kiloelectronvolts,
-    reporting a key resonance at 225 kiloelectronvolts. In the domain of
-    astrophysical interest2, at around 0.1 gigakelvin, this thermonuclear
-    19F(p, γ)20Ne rate is up to a factor of 7.4 larger than the previous
-    recommended rate. Our stellar models show a stronger breakout during
+    calcium production: breakout from the ‘warm’ carbon–nitrogen–oxygen
+    (CNO) cycle. We report a direct experimental measurement of the 19F(p, γ)20Ne
+    breakout reaction down to a very low energy of 186 kiloelectronvolts,
+    and characterize a key resonance at 225 kiloelectronvolts. For temperatures of
+    astrophysical interest--around 0.1 gigakelvin--this thermonuclear
+    19F(p, γ)20Ne rate is roughly a factor of seven larger than the previously
+    recommended one. Our stellar models show a stronger breakout during
     stellar hydrogen burning than previously thought and may reveal the
     nature of calcium production in population III stars imprinted on the oldest
-    known ultra-iron-poor star, SMSS0313-67086. Our experimental result was
+    known ultra-iron-poor star, SMSS0313-67086. This experimental result was
     obtained in the China JinPing Underground Laboratory7, which offers an
-    environment with an extremely low cosmic-ray-induced background8. Our rate
+    environment with an extremely low cosmic-ray-induced background. Our rate
     showcases the effect that faint population III star supernovae can have on
     the nucleosynthesis observed in the oldest known stars and first galaxies,
     which are key mission targets of the James Webb Space Telescope.
