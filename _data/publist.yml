@@ -633,3 +633,24 @@
     display: Front. Phys. 10, 1092931 (2023)
   highlight: 1
   news2: 
+  
+- title: "Constructing a simulation surrogate with partially observed output"
+  image: surmisePCGPwM.png
+  description: >
+      Gaussian process surrogates are a popular alternative to directly using computationally expensive 
+      simulation models. When the simulation output consists of many responses, dimension-reduction 
+      techniques are often employed to construct these surrogates. However, surrogate methods with dimension 
+      reduction generally rely on complete output training data. This article proposes a new Gaussian process 
+      surrogate method that permits the use of partially observed output while remaining computationally 
+      efficient. The new method involves the imputation of missing values and the adjustment of the 
+      covariance matrix used for Gaussian process inference. The resulting surrogate represents the available 
+      responses, disregards the missing responses, and provides meaningful uncertainty quantification. The 
+      proposed approach is shown to offer sharper inference than alternatives in a simulation study and a 
+      case study where an energy density functional model that frequently returns incomplete output is 
+      calibrated.
+  authors: Moses Y-H. Chan, Matthew Plumlee, and Stefan M. Wild.
+  link:
+    url: https://doi.org/10.1080/00401706.2023.2210170
+    display: Technometrics (2023)
+  highlight: 0
+  news2: 
