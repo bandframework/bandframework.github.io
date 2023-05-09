@@ -11,6 +11,19 @@
   type: methodology
   news2:
 
+- title: "Bayesian Parameter Estimation with Viscous Anisotropic Hydrodynamic Modeling"
+  image:
+  location: >
+    Talk at 2022 Fall Meeting of the Division of Nuclear Physics of the American Physical Society
+  date: >
+    October 29, 2022
+  presenter: Dan Liyanage (OSU)
+  link:
+    url: https://drive.google.com/file/d/13UGY2Wsyssd5wLtDRt1k8oRXCLqD0822/view?usp=sharing
+  highlight: 0
+  type: physics
+  news2:
+
 - title: "Emulating the R-Matrix"
   image:
   location: >
