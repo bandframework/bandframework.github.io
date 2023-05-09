@@ -1,3 +1,27 @@
+- date: April 17, 2023
+  headline: >
+    The <a href="https://github.com/bandframework/bandframework/tree/main/software/BRICK">Bayesian R-matrix Inference Code Kit (BRICK)</a>, which is part of the BAND software framework, has recently been used by BAND member Daniel Odell, his collaborator James deBoer, and their experimental colleagues to analyze several nucelar reactions of astrophysical interest. Particularly notable is their <a href="https://www.nature.com/articles/s41586-022-05230-x">Nature paper</a> on the 19F(p, γ)20Ne rate in primordial stars. Odell and deBoer collaborated with scientists from the China JinPing Underground Laboratory to analyze new data on this reaction taken at that facility. They found its rate in primoridal stars was roughly seven times higher than previously thought. This would mean enhanced breakout from the 'warm' carbon-nitrogen-oxygen cycle, and could explain previously puzzling observations of calcium in the first stars.  Further experimental data from underground laboratories, observations from the James Webb Space Telescope, and analyses using Bayesian methods will help refine this picture further. 
+    
+- date: March 6, 2023
+  headline: >
+    BAND member Dick Furnstahl and co-authors Christian Drischler, Jordan Melendez, Alberto Garcia, and Xilin Zhang have two recent publications that present an overview of <a href="https://iopscience.iop.org/article/10.1088/1361-6471/ac83dd">model order reduction methods for the creation of fast & accurate emulators</a> and <a href="https://www.frontiersin.org/articles/10.3389/fphy.2022.1092931/full">a pedagogical introduction to projection-based, reduced-order emulators</a> for applications in low-energy nuclear physics. Stay tuned for the upcoming release of the Reduced Order Scattering Emulator software we are developing at BAND! 
+
+- date: February 8, 2023
+  headline: >
+     This year's <a href="https://physics.wustl.edu/isnet9-band-camp">BAND camp</a> will take place at Washington University, St. Louis, on Monday, May 22nd. The BAND collaboration is sponsoring accommodation for the BAND camp for up to forty participants. And, as a special offer to viewers of this channel, if you attend the BAND camp we'll also pay for you to stay on for the ISNET (Information and Statistics in Nuclear Experiment and Theory) Workshop that immediately follows it! Visit the <a href="https://physics.wustl.edu/isnet9">ISNET-9 meeting website</a> for more details and to register. But register soon! Remember: the early registrant gets the free room!
+
+- date: January 9, 2023
+  headline: >
+     Edgard Bonilla, Kyle Godbey, and BAND post-doc Pablo Giuliani are co-authors on two recent publications that employ Reduced Basis Methods (RBM) to speed up the calibration and evaluation of density functionals. In <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.054322">Training and projecting: a reduced basis method for many-body physics</a> they and collaborator Dean Lee lay out the foundation of the method and demonstrate its potential in some illustrative examples. In <a href="https://www.frontiersin.org/articles/10.3389/fphy.2022.1054524">Bayes goes fast: Uncertainty quantification for a covariant energy density functional emulated by the reduced basis method</a> Bonilla, Godbey, and Giuliani teamed up with BAND member Frederi Viens and Jorge Piekarewicz to calibrate a relativistic energy density functional using a fraction of the computational resources that would have been needed without RBM. 
+
+- date: December 5, 2022
+  headline: >
+     Congratulations to BAND member Stefan Wild! Stefan took up a <a href="https://cs.lbl.gov/news-media/news/2022/stefan-wild-to-lead-berkeley-labs-applied-mathematics-and-computational-research-division/">new position as division director</a> of Lawrence Berkeley National Laboratory’s Applied Mathematics and Computational Research Division on December 1.
+
+- date: November 19, 2022
+  headline: >
+     BAND member Witek Nazarewicz and his 17 co-authors have just published a Reviews of Modern Physics Colloquium on <a href="https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.031003">Machine Learning in Nuclear Physics</a>. You can also read a nice summary of their paper in this <a href="https://phys.org/news/2022-10-machine-nuclear-physics.html">phys.org</a> piece. 
+
 - date: November 5, 2022
   headline: >
      Five BAND members–co-PI, Özge Sürer, post-docs Pablo Giuliani and Daniel Odell, graduate student Dan Liyanage, and BAND leader Daniel Phillips–gave 

@@ -150,30 +150,48 @@
 
 - name: Frederi Viens
   photo: frederi-viens.2018.3960medres_cropped.jpg
-  info: Professor  of Statistics &amp; Probability, <br> Michigan State University
-  email: viens@msu.edu
+  info: Professor  of Statistics &amp; Probability, <br> Michigan State University; Professor of Statistics, <br> Rice University.
+  email: viens@msu.edu  viens@rice.edu
   number_educ: 0
   education1:
   bio: >
-     Dr. Viens directs the Actuarial Science and Quantitative Risk Analytics program,
-     helps to develop academic programs in data science, and assists in the university's
-     Statistical Training and Consulting service. His core training is in probability
-     theory and stochastic processes. He has been applying Bayesian methods to many areas
-     of science for more than twenty years, from climate science, to agricultural economics,
-     and to quantitative finance. In nuclear physics, he is particularly interested in
-     using Bayesian methods to assess the efficiency and honesty of uncertainty quantification
-     for the limits of stability in the nuclear landscape, and to develop more efficient
-     numerical implementations. Together with his MSU colleagues Tapabrata Maiti, and
-     Witek Nazarewicz and his team, he is working on systematic principles for Bayesian
-     model averaging in the presence of varied nuclear models, where improved predictive
-     power is the goal. He is also interested in orienting his BAND collaborators towards
-     a data-informed framework of optimal experimental design based on experiment costs,
-     likelihood of discovery, impact of discovery, and risk preferences.
-     Viens is the lead co-PI at MSU for the BAND collaboration.
+        Dr. Viens's core training is in probability theory and stochastic processes. 
+        He has been applying Bayesian methods to many areas of science for more than twenty years, 
+        from climate science, to agricultural economics, and to quantitative finance. In nuclear physics, 
+        he is particularly interested in using Bayesian methods to assess the efficiency and honesty of 
+        uncertainty quantification for extrapolating measurables in the nuclear landscape, 
+        and to develop more efficient numerical implementations. Together with his MSU BAND colleagues, 
+        he is working on systematic principles for Bayesian model mixing in the presence of varied nuclear 
+        models, where improved predictive power is the goal. He is also interested in orienting his 
+        BAND collaborators towards a data-informed framework of optimal experimental design based on 
+        experiment costs, likelihood of discovery, impact of discovery, and risk preferences. 
+        In his roles at MSU, Dr. Viens has helped operate and direct several educational and research 
+        programs related to data science, including Actuarial Science, and Risk Analytics, the Data 
+        Science MS program, the Center for Statistical Training and Consulting, and the Statistics department. 
+        Viens is the lead co-PI at MSU for the BAND collaboration. At Rice University, he pursues his varied 
+        other research interests, including stochastic analysis, financial mathematics, and applied statistics 
+        in agro-ecology and paleoclimatology.
+  
+#   bio: >
+#      Dr. Viens directs the Actuarial Science and Quantitative Risk Analytics program,
+#      helps to develop academic programs in data science, and assists in the university's
+#      Statistical Training and Consulting service. His core training is in probability
+#      theory and stochastic processes. He has been applying Bayesian methods to many areas
+#      of science for more than twenty years, from climate science, to agricultural economics,
+#      and to quantitative finance. In nuclear physics, he is particularly interested in
+#      using Bayesian methods to assess the efficiency and honesty of uncertainty quantification
+#      for the limits of stability in the nuclear landscape, and to develop more efficient
+#      numerical implementations. Together with his MSU colleagues Tapabrata Maiti, and
+#      Witek Nazarewicz and his team, he is working on systematic principles for Bayesian
+#      model averaging in the presence of varied nuclear models, where improved predictive
+#      power is the goal. He is also interested in orienting his BAND collaborators towards
+#      a data-informed framework of optimal experimental design based on experiment costs,
+#      likelihood of discovery, impact of discovery, and risk preferences.
+#      Viens is the lead co-PI at MSU for the BAND collaboration.
 
 - name: <a href='https://wildsm.github.io/'>Stefan Wild</a>
   photo: Wild-Stefan-32129D38.jpg
-  info: Computational Mathematician and Deputy Director, Mathematics and Computer Science Division, Argonne National Laboratory; Senior Fellow, Northwestern University
+  info: Director, Applied Mathematics and Computational Research Division, Lawrence Berkeley National Laboratory; Senior Fellow, Northwestern University
   email: stefanwild@northwestern.edu
   number_educ: 0
   education1:
@@ -185,6 +203,6 @@
      In BAND, he is especially interested in the interplay among numerical optimization,
      Bayesian statistics, and computationally expensive simulations of nuclei.
      Wild is the co-director for mathematics and computer science of the
-     <a href="http://computingnuclei.org/">NUCLEI</a> collaboration and
-     leads <a href="https://www.anl.gov/mcs/lans">LANS, the Laboratory for Applied
-     Mathematics, Numerical Software, and Statistics</a> at Argonne National Laboratory.
+     <a href="http://computingnuclei.org/">NUCLEI</a> collaboration, is an adjunct in 
+     <a href="https://www.mccormick.northwestern.edu/industrial/">Northwestern's IEMS</a>,
+      and enjoys working on <a href="https://github.com/POptUS">emerging open-source software for practical optimization</a>.

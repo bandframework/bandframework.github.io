@@ -1,3 +1,16 @@
+- title: "Less is more: Dimensionality reduction for accelerating uncertainty quantification"
+  image:
+  location: >
+    Talk at the Institute of Nuclear & Particle Physics, Ohio University
+  date: >
+    January 24, 2023
+  presenter: Pablo Giuliani (MSU)
+  link:
+    url: https://drive.google.com/file/d/1VJ6tKLhsorrVk8ypz3YLesg3zeiryjFV/view?usp=share_link
+  highlight: 0
+  type: methodology
+  news2:
+
 - title: "Bayesian Parameter Estimation with Viscous Anisotropic Hydrodynamic Modeling"
   image:
   location: >

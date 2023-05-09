@@ -402,6 +402,255 @@
     M. Plumlee, F. Viens, and S. M. Wild. 
   link:
     url: https://doi.org/10.1088/1361-6471/aca03e
-    display: J. Phys. G (2022)
+    display: J. Phys. G 49, 120502 (2022)
+  highlight: 1
+  news2: 
+  
+- title: "Training and projecting: A reduced basis method emulator for many-body physics"
+  image: RBMs.png
+  description: >
+      We present the reduced basis method as a tool for developing emulators for equations with tunable parameters within the context of the nuclear 
+      many-body problem. The method uses a basis expansion informed by a set of solutions for a few values of the model parameters and then projects 
+      the equations over a well-chosen low-dimensional subspace. We connect some of the results in the eigenvector continuation literature to the 
+      formalism of reduced basis methods and show how these methods can be applied to a broad set of problems. As we illustrate, the possible success 
+      of the formalism on such problems can be diagnosed beforehand by a principal component analysis. We apply the reduced basis method to the 
+      one-dimensional Gross-Pitaevskii equation with a harmonic trapping potential and to nuclear density functional theory for 48Ca, achieving 
+      speed-ups of more than ×150 and ×250, respectively, when compared to traditional solvers. The outstanding performance of the approach, together 
+      with its straightforward implementation, show promise for its application to the emulation of computationally demanding calculations, including 
+      uncertainty quantification.
+  authors: Edgard Bonilla, Pablo Giuliani, Kyle Godbey, and Dean Lee. 
+  link:
+    url: https://doi.org/10.1103/PhysRevC.106.054322
+    display: Phys. Rev. C 106, 054322 (2022)
+  highlight: 1
+  news2: 
+
+- title: "Investigation of the 10B(p,α)7Be reaction from 0.8 to 2.0 MeV"
+  image: brick.jpg
+  description: >
+    A multitude of broad interfering resonances characterize the 10B(p,α)7Be
+    cross section at low energies. The complexity of the reaction mechanism, as
+    well as conflicting experimental measurements, have so far prevented a
+    reliable prediction of the cross section over the energy ranges pertinent
+    for a boron-proton fusion reactor environment. Purpose: To improve the
+    evaluated cross section of the 10B(p,α)7Be reaction, this study
+    targets the proton energy region from 0.8 to 2.0 MeV, where kinematic
+    overlap of the scattered protons and reaction α particles have made past
+    measurements very challenging. Method: New detailed studies of the reaction
+    have been performed at the Edwards Accelerator Laboratory at Ohio University
+    and the Nuclear Science Laboratory at the University of Notre Dame using
+    time-of-flight and degrader foil techniques, respectively. Results: Proton
+    and α -particle signals were clearly resolved using both techniques, and 16
+    point differential cross sections were measured over an angular range of θ
+    lab = 45º and 157.5º. A comprehensive R-matrix analysis of the
+    experimental data, including data from previous low-energy studies of the
+    10B(p,α)7Be, 10B(p,p)10B, and 10B(p,γ)11C reactions, was achieved over
+    the region of measurement. Using a representative set of previous data, the
+    fit was extended to very low energies.
+    Conclusions: On the basis of this
+    data and R-matrix analysis, a more reliable and consistent description of
+    the 10B(p,α)7Be cross section has been established. The uncertainty
+    over the energy range of this study has been reduced from ≈20 % to ≈10 %,
+    and the level structure over this region has been clarified considerably.
+  authors: B. Vande Kolk,..., D. Odell et al.
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.055802
+    display: Phys. Rev. C 105, 055802 (2022)
+  highlight: 0
+  news2:
+
+- title: "Investigation of direct capture in the 23Na(p,γ)24Mg reaction"
+  image: brick.jpg
+  description: >
+    The 23 Na (p,γ)24Mg reaction plays an important role in the
+    nucleosynthesis of elements in the hot bottom burning environment of
+    asymptotic giant branch stars by providing a breakout path from the NeNa
+    cycle to the MgAl cycle. At temperatures above ≈ 0.06 GK, the underlying
+    nuclear reaction contributions to the rate are primarily narrow resonances,
+    but at lower temperatures direct and broad resonance tail contributions come
+    to dominate. While there have been recent studies to improve the
+    uncertainties associated with these narrow resonances, little attention has
+    been paid to the nonresonant component. In this work, experimental
+    measurements are reported over the energy range from 0.5 and 1.05 MeV proton
+    beam energy, with a focus on studying the off-resonance region of the cross
+    section. Several transitions were observed where two broad resonances
+    dominate the energy range and whose low energy tails contribute strongly to
+    the low-energy, nonresonant, cross section. In addition, a clear signature
+    of direct capture has been observed for the first time in the 23Na(p,γ)24Mg
+    reaction.
+  authors: A. Boeltzig,..., D.Odell et al.
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.045801
+    display: Phys. Rev. C 106, 045801 (2022)
+  highlight: 0
+
+- title: "Measurement of 19F(p, γ)20Ne reaction suggests CNO breakout in first stars"
+  image: brick.jpg
+  description: >
+    Proposed mechanisms for the production of calcium in the first stars
+    that formed out of the matter of the Big Bang are at odds with observations. Advanced nuclear burning and
+    supernovae were thought to be the dominant source of the calcium production
+    seen in all stars. Here we suggest a qualitatively different path to
+    calcium production: breakout from the ‘warm’ carbon–nitrogen–oxygen
+    (CNO) cycle. We report a direct experimental measurement of the 19F(p, γ)20Ne
+    breakout reaction down to a very low energy of 186 kiloelectronvolts,
+    and characterize a key resonance at 225 kiloelectronvolts. For temperatures of
+    astrophysical interest--around 0.1 gigakelvin--this thermonuclear
+    19F(p, γ)20Ne rate is roughly a factor of seven larger than the previously
+    recommended one. Our stellar models show a stronger breakout during
+    stellar hydrogen burning than previously thought and may reveal the
+    nature of calcium production in population III stars imprinted on the oldest
+    known ultra-iron-poor star, SMSS0313-67086. This experimental result was
+    obtained in the China JinPing Underground Laboratory7, which offers an
+    environment with an extremely low cosmic-ray-induced background. Our rate
+    showcases the effect that faint population III star supernovae can have on
+    the nucleosynthesis observed in the oldest known stars and first galaxies,
+    which are key mission targets of the James Webb Space Telescope.
+  authors: L. Zhang,..., D. Odell et al.
+  link:
+    url: https://www.nature.com/articles/s41586-022-05230-x
+    display: Nature volume 610, pages 656–660 (2022)
+  highlight: 1
+
+- title: "Direct measurement of the astrophysical 19F(p,αγ)16O reaction in a deep-underground laboratory"
+  image: brick.jpg
+  description: >
+    Fluorine is one of the most interesting elements in nuclear astrophysics.
+    The 19F(p,α)16O reaction is of astrophysical importance in
+    addressing fluorine abundances in the universe and CNO material loss in the
+    first generation stars. As a day-1 campaign in the Jinping Underground
+    Nuclear Astrophysics experiment facility (JUNA), we report the full direct
+    measurement results of the 19F(p,αγ)16O reaction, which is one of
+    the important channels in the 19F(p,α)16O reaction. The γ-ray
+    yields were measured over a center-of-mass energy range of Ec.m.=72.4–344
+    keV, covering the astrophysical Gamow window. The measurement has reached
+    down to an unprecedentedly low energy of 72.4 keV. The experiment was
+    performed under the extremely low cosmic-ray-induced background environment
+    of the China JinPing underground Laboratory (CJPL), one of the deepest
+    underground laboratories in the world (2400 m). The astrophysical S factors
+    in the energy region of 72.4–188.8 keV have been derived experimentally for
+    the first time. The present low-energy astrophysical S factors deviate
+    significantly from previous theoretical predictions, and the associated
+    uncertainties are remarkably reduced. The thermonuclear 19F(p,αγ)16O rate
+    has been determined down to a low temperature of ≈ 0.05 GK, for
+    astrophysical modeling, based on a firmer experimental basis.  Furthermore,
+    the present work shows that the contribution owing to the (p,α0)
+    channel dominates the total (p,α) rate over the entire low temperature
+    region below 0.12 GK, clarifying the role these two channels contributing to
+    the total rate.
+  authors: L. Zhang,..., D. Odell et al.
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.055803
+    display: Phys.Rev.C 106 (2022)
+  highlight: 0
+
+- title: "First near-threshold measurements of the 13C(α,n1)16O reaction for low-background-environment characterization"
+  image: brick.jpg
+  description: >
+    The modeling of background sources in large volume detection systems
+    requires accurate nuclear cross sections for a variety of reactions. Among
+    the most important are ( α , n ) on light nuclei, where α particles, up to ≈
+    9 MeV, are produced from the decay of actinides present in trace amounts in
+    detection and structural material. In order to model the neutron energy
+    spectra and production of other secondary particles, the partial cross
+    sections are needed. Yet very little experimental data exists for these
+    partial cross sections because past measurements, hampered by the
+    experimental challenges of neutron detection, have focused mostly on total
+    reaction cross section measurements. Here the partial cross section of the 
+    13 C ( α , n 1 ) 16 O reaction is reported for the first time. The
+    measurements were made near the reaction threshold using a high energy
+    resolution helium spectrometer. The measurements show a rapidly increasing
+    cross section, which quickly becomes a significant fraction of the total
+    reaction cross section. Measurements are compared with previous theory
+    estimates and differences of more than an order of magnitude are found. A
+    comparison is made with new total cross section measurements and the current
+    level of consistency is demonstrated.
+  authors: R. J. deBoer,..., D. Odell et al.
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.055808
+    display: Phys.Rev.C 106, 055808 (2022)
+  highlight: 0
+
+- title: "ParMOO: A Python library for parallel multiobjective simulation optimization"
+  image: logo-ParMOO.png
+  description: >
+      ParMOO is a Python framework and library of solver components for building 
+      and deploying highly customized multiobjective simulation optimization solvers. 
+      ParMOO is designed to help engineers, practitioners, and optimization experts 
+      exploit available structures in how simulation outputs are used to formulate 
+      the objectives for a multiobjective optimization problem. 
+  authors: T.H. Chang and S.M. Wild
+  link:
+    url: https://doi.org/10.21105/joss.04468
+    display: J. Open Source Softw. 8(82), 4468 (2023)
+  highlight: 1
+  news2: 
+
+- title: "Bayes goes fast: Uncertainty quantification for a covariant energy density functional emulated by the reduced basis method"
+  image: NonLinearCorrelation.png
+  description: >
+      A covariant energy density functional is calibrated using a principled Bayesian statistical 
+      framework informed by experimental binding energies and charge radii of several magic and 
+      semi-magic nuclei. The Bayesian sampling required for the calibration is enabled by the 
+      emulation of the high-fidelity model through the implementation of a reduced basis method 
+      (RBM)—a set of dimensionality reduction techniques that can speed up demanding calculations 
+      involving partial differential equations by several orders of magnitude. The RBM emulator 
+      we build—using only 100 evaluations of the high-fidelity model—is able to accurately reproduce 
+      the model calculations in tens of milliseconds on a personal computer, an increase in speed of 
+      nearly a factor of 3,300 when compared to the original solver. Besides the analysis of the 
+      posterior distribution of parameters, we present model calculations for masses and radii 
+      with properly estimated uncertainties. We also analyze the model correlation between the 
+      slope of the symmetry energy L and the neutron skin of 48Ca and 208Pb. The straightforward 
+      implementation and outstanding performance of the RBM makes it an ideal tool for assisting 
+      the nuclear theory community in providing reliable estimates with properly quantified 
+      uncertainties of physical observables. Such uncertainty quantification tools will become 
+      essential given the expected abundance of data from the recently inaugurated and future 
+      experimental and observational facilities.
+  authors: Pablo Giuliani, Kyle Godbey, Edgard Bonilla, Frederi Viens, and Jorge Piekarewicz. 
+  link:
+    url: https://doi.org/10.3389/fphy.2022.1054524
+    display: Front. Phys. 10, 1054524 (2023)
+  highlight: 1
+  news2:
+  
+- title: "BUQEYE guide to projection-based emulators in nuclear physics"
+  image: ReducedSpace.png
+  description: >
+      The BUQEYE collaboration (Bayesian Uncertainty Quantification: Errors in Your effective field theory) 
+      presents a pedagogical introduction to projection-based, reduced-order emulators for applications 
+      in low-energy nuclear physics. The term emulator refers here to a fast surrogate model capable of 
+      reliably approximating high-fidelity models. As the general tools employed by these emulators are 
+      not yet well-known in the nuclear physics community, we discuss variational and Galerkin projection 
+      methods, emphasize the benefits of offline-online decompositions, and explore how these concepts 
+      lead to emulators for bound and scattering systems that enable fast and accurate calculations using 
+      many different model parameter sets. We also point to future extensions and applications of these 
+      emulators for nuclear physics, guided by the mature field of model (order) reduction. All examples 
+      discussed here and more are available as interactive, open-source Python code so that practitioners 
+      can readily adapt projection-based emulators for their own work.
+  authors: Christian Drischler, Jordan Melendez, Dick Furnstahl, Alberto Garcia, and Xilin Zhang. 
+  link:
+    url: https://doi.org/10.3389/fphy.2022.1092931
+    display: Front. Phys. 10, 1092931 (2023)
+  highlight: 1
+  news2: 
+  
+- title: "Constructing a simulation surrogate with partially observed output"
+  image: surmisePCGPwM.png
+  description: >
+      Gaussian process surrogates are a popular alternative to directly using computationally expensive 
+      simulation models. When the simulation output consists of many responses, dimension-reduction 
+      techniques are often employed to construct these surrogates. However, surrogate methods with dimension 
+      reduction generally rely on complete output training data. This article proposes a new Gaussian process 
+      surrogate method that permits the use of partially observed output while remaining computationally 
+      efficient. The new method involves the imputation of missing values and the adjustment of the 
+      covariance matrix used for Gaussian process inference. The resulting surrogate represents the available 
+      responses, disregards the missing responses, and provides meaningful uncertainty quantification. The 
+      proposed approach is shown to offer sharper inference than alternatives in a simulation study and a 
+      case study where an energy density functional model that frequently returns incomplete output is 
+      calibrated.
+  authors: Moses Y-H. Chan, Matthew Plumlee, and Stefan M. Wild.
+  link:
+    url: https://doi.org/10.1080/00401706.2023.2210170
+    display: Technometrics (2023)
   highlight: 1
   news2: 
