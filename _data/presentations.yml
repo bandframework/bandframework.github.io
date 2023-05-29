@@ -23,6 +23,65 @@
   highlight: 0
   type: methodology
   news2:
+  
+  - title: "Overview of emulators for nuclear physics"
+  image:
+  location: >
+    Talk at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
+  date: >
+    May 25, 2023
+  presenter: Dick furnstahl (OSU)
+  link:
+    url: https://indico.cern.ch/event/1223721/contributions/5154375/
+  highlight: 0
+  type: methodology
+  news2:
+  
+  
+- title: "Machine learning for nuclear physics"
+  image:
+  location: >
+    Talk at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
+  date: >
+    May 23, 2023
+  presenter: Witek Nazarewicz (MSU)
+  link:
+    url: https://indico.cern.ch/event/1223721/contributions/5152818/
+  highlight: 0
+  type: physics
+  news2:
+
+
+- title: "Bayesian calibration of viscous anisotropic hydrodynamic simulations of heavy-ion collisions"
+  image:
+  location: >
+    Talk at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
+  date: >
+    May 23, 2023
+  presenter: Dan Liyanage (OSU)
+  link:
+    url: https://indico.cern.ch/event/1223721/contributions/5154392/
+  highlight: 0
+  type: physics
+  news2:
+
+
+
+- title: "Sequential Bayesian experimental design for calibration of expensive physics models"
+  image:
+  location: >
+    Talk at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
+  date: >
+    May 23, 2023
+  presenter: Özge Sürer (Miami)
+  link:
+    url: https://indico.cern.ch/event/1223721/contributions/5154380/
+  highlight: 0
+  type: physics
+  news2:
+
+
+
 
 
 - title: "Experimental Design and the BAND software framework"
