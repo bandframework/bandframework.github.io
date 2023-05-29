@@ -1,3 +1,43 @@
+- title: "Reduced Basis Methods & Scattering"
+  image:
+  location: >
+    Talk at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
+  date: >
+    May 25, 2023
+  presenter: Daniel Odell (OU)
+  link:
+    url: https://indico.cern.ch/event/1223721/contributions/5154389/
+  highlight: 0
+  type: methodology
+  news2:
+  
+- title: "Sorry Maria, I forgot to change my title: Dimensionality reduction for accelerating uncertainty quantification"
+  image:
+  location: >
+    Talk at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
+  date: >
+    May 25, 2023
+  presenter: Pablo Giuliani (MSU)
+  link:
+    url: https://indico.cern.ch/event/1223721/contributions/5154376/
+  highlight: 0
+  type: methodology
+  news2:
+   
+  
+   title: "ROSE: Theory and implementation"
+  image:
+  location: >
+    ROSE presentation at the BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
+  date: >
+    May 22, 2023
+  presenter: Daniel Odell (OU) and Pablo Giuliani (MSU)
+  link:
+    url: https://indico.cern.ch/event/1223721/contributions/5394829/
+  highlight: 0
+  type: methodology
+  news2:
+
 - title: "Less is more: Dimensionality reduction for accelerating uncertainty quantification"
   image:
   location: >
