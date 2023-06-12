@@ -85,9 +85,10 @@ Jump to talks about [BAND](#about-band) or [BAND methodology](#band-methodology)
 
 {% if talk.type == "BAND_Camp_2023" %}
 
-  <a href="{{talk.link.url }}" target="_blank"><em>{{ talk.title }}</em></a> <br />
+  <a href="{{talk.link.url }}" target="_blank"><em>{{ talk.title }}</em></a> 
+  \[<a href="{{talk.video_link.url }}" target="_blank">video</a>\]
+  <br />
   {{ talk.presenter }} <br />{{ talk.location }}<br />{{ talk.date}}<br />
-  <a href="{{talk.video_link.url }}" target="_blank">video</a>
 
 {% endif %}
 
