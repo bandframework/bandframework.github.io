@@ -81,6 +81,22 @@
   news2:
 
 
+- title: "Pre-BAND-camp YouTube video introducing Bayesian methods (60 min.)"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
+  date: >
+    May 15, 2023
+  presenter: Pablo Giuliani (MSU) and Federi Viens (MSU) 
+  link:
+    url: https://www.youtube.com/watch?v=n9Kgb72Ozgk
+  video: 0
+  video_link:
+    url: 
+  highlight: 0
+  type: BAND_Camp_2023
+  news2:
+
 
 
 - title: "The Bayesian Analysis of Nuclear Dynamics Framework"
