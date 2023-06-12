@@ -13,7 +13,7 @@ permalink: /presentations/
 
 Jump to 
 * talks about [BAND](#about-band) or [BAND methodology](#band-methodology) or [BAND physics applications](#band-physics-applications).
-* videos and slides from [BAND Camp 2023](#BAND-Camp-2023)
+* videos and slides from [BAND Camp 2023](#band-camp-2023)
 
 ----
 
@@ -38,6 +38,7 @@ Jump to talks about [BAND](#about-band) or [BAND physics applications](#band-phy
 
 ## BAND methodology
 
+See also videos and slides from [BAND Camp 2023](#BAND-Camp-2023).
 
 {% for talk in site.data.presentations %}
 
@@ -85,7 +86,8 @@ Jump to talks about [BAND](#about-band) or [BAND methodology](#band-methodology)
 {% if talk.type == "BAND_Camp_2023" %}
 
   <a href="{{talk.link.url }}" target="_blank"><em>{{ talk.title }}</em></a> <br />
-  {{ talk.presenter }} <br />{{ talk.location }}<br />{{ talk.date}}
+  {{ talk.presenter }} <br />{{ talk.location }}<br />{{ talk.date}}<br />
+  <a href="{{talk.video_link.url }}" target="_blank">video</a>
 
 {% endif %}
 

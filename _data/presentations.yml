@@ -83,6 +83,65 @@
 
 
 
+- title: "The Bayesian Analysis of Nuclear Dynamics Framework"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
+  date: >
+    May 22, 2023
+  presenter: Özge Sürer (Miami) and Moses Chan (Northwestern) 
+  link:
+    url: https://indico.cern.ch/event/1223721/contributions/5394827/
+  video_link:
+    url: https://wustl.box.com/s/5tll4gisijbq4r812t46ja1b37ltraw9__;!!KGKeukY!wtRpYoGgfXupBf8nBWiW0v-gMuqBVTk4x6USUd4aKlZpL8iL3wgAHIGrL4-2cHB0p_DJm9Jl7BH3KvtW$
+  highlight: 0
+  type: BAND_Camp_2023
+  news2:
+
+  
+- title: "ROSE: Theory and implementation"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
+  date: >
+    May 22, 2023
+  presenter: Daniel Odell (OU) and Pablo Giuliani (MSU)
+  link:
+    url: https://indico.cern.ch/event/1223721/contributions/5394829/
+  highlight: 0
+  type: BAND_Camp_2023
+  news2:
+
+
+- title: "Bayesian Model Mixing using Taweret"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
+  date: >
+    May 22, 2023
+  presenter: Matt Pratola (OSU), Alexandra Semposki (OU) and John Yannotty (OSU) 
+  link:
+    url: https://indico.cern.ch/event/1223721/contributions/5394830/
+  highlight: 0
+  type: BAND_Camp_2023
+  news2:   
+   
+
+
+- title: "The Bayesian Mass Explorer, BMEX"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
+  date: >
+    May 22, 2023
+  presenter: Kyle Godbey (MSU) and Witek Nazarewicz (MSU)
+  link:
+    url: https://indico.cern.ch/event/1223721/contributions/5394831/
+  highlight: 0
+  type: BAND_Camp_2023
+  news2:   
+
+
 
 - title: "Experimental Design and the BAND software framework"
   image:
@@ -97,60 +156,6 @@
   type: BAND_Camp_2023
   news2:   
 
-
-- title: "The Bayesian Mass Explorer, BMEX"
-  image:
-  location: >
-    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
-  date: >
-    May 22, 2023
-  presenter: Kyle Godbey (MSU) and Witek Nazarewicz (MSU)
-  link:
-    url: https://indico.cern.ch/event/1223721/contributions/5394831/
-  highlight: 0
-  type: methodology
-  news2:   
-
-
-- title: "Bayesian Model Mixing using Taweret"
-  image:
-  location: >
-    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
-  date: >
-    May 22, 2023
-  presenter: Matt Pratola (OSU), Alexandra Semposki (OU) and John Yannotty (OSU) 
-  link:
-    url: https://indico.cern.ch/event/1223721/contributions/5394830/
-  highlight: 0
-  type: methodology
-  news2:   
-   
-  
-- title: "ROSE: Theory and implementation"
-  image:
-  location: >
-    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
-  date: >
-    May 22, 2023
-  presenter: Daniel Odell (OU) and Pablo Giuliani (MSU)
-  link:
-    url: https://indico.cern.ch/event/1223721/contributions/5394829/
-  highlight: 0
-  type: methodology
-  news2:
-
-- title: "The Bayesian Analysis of Nuclear Dynamics Framework"
-  image:
-  location: >
-    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
-  date: >
-    May 22, 2023
-  presenter: Özge Sürer (Miami) and Moses Chan (Northwestern) 
-  link:
-    url: https://indico.cern.ch/event/1223721/contributions/5394827/
-  highlight: 0
-  type: methodology
-  news2:
 
 
 
