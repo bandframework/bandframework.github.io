@@ -43,6 +43,18 @@ The <b>Bayesian Analysis of Nuclear Dynamics</b> (BAND) Framework will use advan
   <img src="{{ site.url }}{{ site.baseurl }}/images/frameworkpic/flowchart_tikz_paper.png" style="width: 660px; border-radius:0">
 </figure>
 
+<p>
+<b>BAND Code of Conduct</b>
+
+BAND is committed to fostering a safe, diverse, inclusive, and equitable environment that values mutual respect and personal integrity. Therefore, all participants in BAND activities will conduct themselves in a welcoming and professional manner, treating one another respectfully and considerately.  This is particularly important in interdisciplinary work that brings together collaborators from different scientific backgrounds and cultures. Creating such a culture–one that is collegial, inclusive, and professional–is the responsibility of all collaboration members and meeting participants.
+
+Those participating in BAND activities shall not discriminate against, harass, or bully others. If you observe inappropriate comments or actions and personal intervention seems appropriate and safe, you are encouraged to intervene in ways that are, insofar as it is possible, considerate of all parties involved. BAND members and meeting participants will not discriminate against, act in an inappropriate way, or make inappropriate statements related to aspects of each other's identity such as age, race, ethnicity, perceived or actual social class, sexual orientation, gender identity, gender expression, marital status, nationality, political affiliation, religion, ability status, and educational background. No kind of harassment (including sexual harassment) or bullying will be tolerated.
+
+Bullying is unwelcome, aggressive behavior involving the use of influence, threat, intimidation, or coercion to dominate others. Harassment includes but is not limited to: inappropriate or intimidating behavior and language, unwelcome jokes or comments, unwanted touching or attention, offensive images, photography without permission, and stalking. Sexual harassment is unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature that creates an intimidating, hostile, or offensive environment.
+
+Violations of this code of conduct policy should be reported to meeting organizers and/or the BAND "Community Leaders": Daniel Phillips (phillid1@ohio.edu), Dick Furnstahl (furnstahl.1@osu.edu), Frederi Viens (fv15@rice.edu), and Stefan Wild (wild@lbl.gov). Sanctions may range from verbal warning, to ejection from the meeting, to a suspension from future BAND activities, to the notification of appropriate local authorities. Retaliation for complaints of inappropriate conduct will not be tolerated and will result in an escalated sanction.
+</p>
+
 <!--
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/frameworkpic/flowchart_website.png" style="width: 660px; border-radius:0">
