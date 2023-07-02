@@ -132,6 +132,22 @@
   type: BAND_Camp_2023
   news2:
 
+- title: "Bayesian Model Mixing using Taweret"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
+  date: >
+    May 22, 2023
+  presenter: Matt Pratola (OSU)
+  link:
+    url: https://www.dropbox.com/s/if8x3usz9zl04bx/BMMBANDCamp2023.pdf?dl=0
+  video: 1
+  video_link:
+    url: https://wustl.app.box.com/s/jtxnarn1ckj73uewa9fckdk3oq0hksoo
+  highlight: 0
+  type: BAND_Camp_2023
+  news2:   
+
 
 - title: "Bayesian Model Mixing using Taweret"
   image:
@@ -139,7 +155,7 @@
     BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-9) conference.
   date: >
     May 22, 2023
-  presenter: Matt Pratola (OSU), Alexandra Semposki (OU) and John Yannotty (OSU) 
+  presenter: Alexandra Semposki (OU) and John Yannotty (OSU) 
   link:
     url: https://indico.cern.ch/event/1223721/contributions/5394830/
   video: 1
