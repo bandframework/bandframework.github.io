@@ -23,8 +23,9 @@
 * [Tutorial 2](https://colab.research.google.com/drive/1mbxWLHmna-FaauIHx8ZbZLD4wM22qUQ3?usp=sharing), Pablo Giuliani
 * [Video](https://youtu.be/QHLZJMaAARU)
 
-## Tawaret
+## Bayesian Model Mixing and the Tawaret pacakge
 
+* [Bayesian Model Mixing: Theory](https://www.dropbox.com/s/if8x3usz9zl04bx/BMMBANDCamp2023.pdf?dl=0), Matt Pratola
 * [Multivariate Model Mixing Tutorial](https://colab.research.google.com/drive/1KFTdPqY3w3fqTgAOSSXlUAgV4TTRUBWZ?usp=sharing), Alexandra Semposki
 * [BART Model Mixing Tutorial](https://colab.research.google.com/drive/14XRxg60KWeLcbhVSshAYgdwOy_r66VtO?usp=sharing), John Yannotty
 * [Video](https://youtu.be/7wn71B8saZA)
