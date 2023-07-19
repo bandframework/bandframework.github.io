@@ -655,10 +655,7 @@
   highlight: 1
   news2: 
 
-  - title: "Deconvoluting experimental decay energy spectra: The 
-26
-O
- case"
+- title: "Deconvoluting experimental decay energy spectra: The 26O case"
   image: Deblurring.png
   description: >
       In nuclear reaction experiments, the measured decay energy spectra can give insights into the shell structure 
