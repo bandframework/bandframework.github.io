@@ -8,6 +8,13 @@
 #  education3:
 #  education4:
 
+- name: Manuel Catacora-Rios
+  photo: Manuel.jpg
+  info: Department of Physics & Astronomy and FRIB, <br> Michigan State University
+  email: catacora@frib.msu.edu
+  number_educ: 0
+  education1:
+
 - name: Moses Chan
   photo: chan-moses-website.jpg
   info: Industrial Engineering & Management Sciences, <br> Northwestern University
