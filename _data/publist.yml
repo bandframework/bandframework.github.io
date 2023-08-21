@@ -679,3 +679,21 @@
     display: Phys.Rev.C 107.6 (2023)
   highlight: 1
   news2: 
+
+- title: "Sequential Bayesian experimental design for calibration of expensive simulation models"
+  image: eivar_cs.png
+  description: >
+      Simulation models of critical systems often have parameters that need to be calibrated using observed data. 
+      For expensive simulation models, calibration is done using an emulator of the simulation model built on simulation 
+      output at different parameter settings. Using intelligent and adaptive selection of parameters to build the emulator 
+      can drastically improve the efficiency of the calibration process. The article proposes a sequential framework with 
+      a novel criterion for parameter selection that targets learning the posterior density of the parameters. The emergent 
+      behavior from this criterion is that exploration happens by selecting parameters in uncertain posterior regions while 
+      simultaneously exploitation happens by selecting parameters in regions of high posterior density. The advantages of 
+      the proposed method are illustrated using several simulation experiments and a nuclear physics reaction model.
+  authors: Özge Sürer, Matthew Plumlee, and Stefan M. Wild.
+  link:
+    url: https://doi.org/10.1080/00401706.2023.2246157
+    display: Technometrics (2023)
+  highlight: 1
+  news2: 
