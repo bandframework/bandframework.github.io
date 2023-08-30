@@ -10,7 +10,7 @@ permalink: /team/
 
 Jump to [Advisory Board members](#advisory-board)
 
-Jump to [senior investigators](#senior-investigators), [postdoctoral researchers](#postdoctoral-researchers), [graduate students](#graduate-students).
+Jump to [senior investigators](#senior-investigators), [BAND researchers](#band-researchers), [graduate students](#graduate-students).
 
 ## BAND Leader
 {% assign number_printed = 0 %}
