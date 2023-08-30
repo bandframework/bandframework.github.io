@@ -6,8 +6,9 @@ sitemap: false
 permalink: /team/
 ---
 
-# BAND Members and Associates
+# BAND Members and Advisory Board
 
+Jump to [Advisory Board members](#advisory-board)
 
 Jump to [senior investigators](#senior-investigators), [postdoctoral researchers](#postdoctoral-researchers), [graduate students](#graduate-students).
 
@@ -312,7 +313,42 @@ Jump to [senior investigators](#senior-investigators), [postdoctoral researchers
 </div>
 
 
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+
+
+
+## Advisory Committee
+
+{% assign number_printed = 0 %}
+{% for member in site.data.advisory_board %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <p>{{ member.bio }}</p>
+  <ul style="overflow: hidden">
+
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 {% endcomment %}
