@@ -250,8 +250,7 @@ Jump to [senior investigators](#senior-investigators), [BAND researchers](#band-
 </div>
 {% endif %}
 
-
-
+<hr>
 
 ## Advisory Board
 
