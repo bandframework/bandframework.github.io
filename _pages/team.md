@@ -316,7 +316,7 @@ Jump to [senior investigators](#senior-investigators), [postdoctoral researchers
 
 
 
-## Advisory Committee
+## Advisory Board
 
 {% assign number_printed = 0 %}
 {% for member in site.data.advisory_board %}
