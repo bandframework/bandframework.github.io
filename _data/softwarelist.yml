@@ -8,3 +8,14 @@
     display:  surmise Read the Docs
   compatible: submodules/bandframework/software/surmise/surmisebandsdk.md
   authors: O. Surer, M. Plumlee, S. Wild
+
+- name: Taweret
+  imageurl: https://github.com/bandframework/Taweret/blob/main/logos/taweret_logo.PNG
+  info: >
+      A versatile Python package containing multiple model mixing techniques 
+      for a variety of use cases.
+  link:
+    url: https://bandframework.github.io/Taweret/
+    display:  Taweret documentation
+  compatible: submodules/bandframework/software/Taweret/Taweretbandsdk.md
+  authors: K. Ingles, D. Liyanage, A. C. Semposki, J. C. Yannotty
