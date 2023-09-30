@@ -6,7 +6,8 @@
   link:
     url: https://surmise.readthedocs.io/en/latest/
     display:  surmise Read the Docs
-  compatible: submodules/bandframework/software/surmise/surmisebandsdk.md
+  compatible: 
+  comment: submodules/bandframework/software/surmise/surmisebandsdk.md
   authors: O. Surer, M. Plumlee, S. Wild
 
 - name: Taweret
