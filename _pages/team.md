@@ -10,11 +10,10 @@ permalink: /team/
 
 
 <b>Jump to: </b>
-<a href="#advisory-board" class="bandbutton">Advisory Board</a>
 <a href="#AdvisoryBoard" class="bandbutton">Advisory Board</a>
-<a href="#senior-investigators" class="bandbutton">Senior Investigators</a>
-<a href="#band-researchers" class="bandbutton">BAND Researchers</a>
-<a href="#graduate-students" class="bandbutton">Graduate Students</a>
+<a href="#SeniorInvestigators" class="bandbutton">Senior Investigators</a>
+<a href="#BANDResearchers" class="bandbutton">BAND Researchers</a>
+<a href="#GraduateStudents" class="bandbutton">Graduate Students</a>
 
 <!--
 <a href="#graduate-students" class="btn btn-primary">Graduate Students</a>
@@ -85,6 +84,7 @@ permalink: /team/
 {% endif %}
 
 
+<a name="SeniorInvestigators">&nbsp;</a>
 <hr>
 
 
@@ -153,6 +153,7 @@ permalink: /team/
 
 
 
+<a name="BANDResearchers">&nbsp;</a>
 <hr>
 
 ## BAND Researchers
@@ -209,6 +210,8 @@ permalink: /team/
 </div>
 {% endif %}
 
+
+<a name="GraduateStudents">&nbsp;</a>
 <hr>
 
 
