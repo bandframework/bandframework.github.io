@@ -151,8 +151,9 @@ permalink: /team/
 </div>
 {% endif %}
 
-<hr>
 
+
+<hr>
 
 ## BAND Researchers
 {% assign number_printed = 0 %}
@@ -267,7 +268,8 @@ permalink: /team/
 
 
 
-<a name="AdvisoryBoard"><hr></a>
+<a name="AdvisoryBoard">&nbsp;</a>
+<hr>
 
 ## Advisory Board
 
