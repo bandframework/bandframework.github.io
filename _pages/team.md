@@ -17,9 +17,7 @@ Jump to:
 
 <a href="#graduate-students" class="btn btn-primary">Graduate Students</a>
 
-<!--
 <a href="#graduate-students" class="bandbutton">Graduate Students</a>
--->
 
 ## BAND Leader
 {% assign number_printed = 0 %}
