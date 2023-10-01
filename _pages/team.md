@@ -17,7 +17,6 @@ Jump to:
 
 <a href="#graduate-students" class="btn btn-outline-primary btn-sm">Graduate Students</a>
 
-
 <a href="#graduate-students" class="bandbutton">Graduate Students</a>
 
 ## BAND Leader
