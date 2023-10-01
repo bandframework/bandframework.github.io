@@ -1,4 +1,4 @@
-[submodule "submodules/bandframework"]
-	path = _pages/submodules/bandframework
+[submodule "_submodules/bandframework"]
+	path = _pages/_submodules/bandframework
 	url = https://github.com/bandframework/bandframework
 	branch = develop
