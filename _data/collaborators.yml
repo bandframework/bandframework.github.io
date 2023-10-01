@@ -1,4 +1,11 @@
 
+- name: Christian Drischler 
+  photo: drischler.jpg
+  info:  Department of Physics &amp; Astronomy<br> Ohio University
+  email: drischler@ohio.edu
+  number_educ: 0
+  education1:
+
 - name: Kevin Ingles
   photo: Kevin_Ingles_head.jpeg
   info: Physics Department <br> University of Illinois, Urbana-Champaign
