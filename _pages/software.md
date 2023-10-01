@@ -47,7 +47,6 @@ External code delivery will be from the [bandframework github repository](https:
 {% capture rawContent %}
   {% include_relative _submodules/bandframework/resources/sdkpolicies/bandsdk.md %}
 {% endcapture %}
-{{ {% raw %} rawContent {% endraw %} }}
 
 
 <hr>
