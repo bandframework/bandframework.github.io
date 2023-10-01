@@ -11,6 +11,7 @@ permalink: /team/
 
 <b>Jump to: </b>
 <a href="#advisory-board" class="bandbutton">Advisory Board</a>
+<a href="#AdvisoryBoard" class="bandbutton">Advisory Board</a>
 <a href="#senior-investigators" class="bandbutton">Senior Investigators</a>
 <a href="#band-researchers" class="bandbutton">BAND Researchers</a>
 <a href="#graduate-students" class="bandbutton">Graduate Students</a>
@@ -260,6 +261,7 @@ permalink: /team/
 
 <hr>
 
+<a name="AdvisoryBoard"></a>
 ## Advisory Board
 
 {% assign number_printed = 0 %}
