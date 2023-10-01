@@ -17,6 +17,30 @@
      in the UK.
      
 
+
+- name: Anshu Dubey
+  photo: Anshu2020_0.png
+  info: 
+  email: 
+  bio: >
+     Anshu Dubey is a Senior Computational Scientist at Argonne 
+     National Laboratory with extensive 
+     experience in design, architecture and sustainability of 
+     multiphysics scientific software used on high performance 
+     computing platforms.  Her contributions in the area of 
+     software engineering for research scientific software are widely 
+     known and respected. She has been the chief software architect 
+     for FLASH, a multiphysics multicomponent software that is used 
+     by several science domains including astrophysics, cosmology, 
+     solar physics, bio-mechanical systems, computational fluid dynamics 
+     and laser plasma experiments. She continues to lead the development 
+     of Flash-X, a new version of the code designed for heterogeneous 
+     architectures. She serves on scientific advisory of the National 
+     High-Performance Computing Alliance, Germany. She has also served 
+     as the lead for Earth and Space Science Applications in the Exascale 
+     Computing Project. 
+
+
 - name: Jon Engel
   photo: jon_engel.jpg
   info: 
