@@ -261,7 +261,8 @@ permalink: /team/
 
 <hr>
 
-<a name="AdvisoryBoard"></a>
+<a name="AdvisoryBoard">&nbsp;</a>
+
 ## Advisory Board
 
 {% assign number_printed = 0 %}
