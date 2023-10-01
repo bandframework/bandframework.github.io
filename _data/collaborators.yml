@@ -1,4 +1,11 @@
 
+- name: Jason Bub 
+  photo: Jason_Bub.jpg
+  info:  Department of Physics <br> Washington University in St. Louis
+  email: jason.bub@wustl.edu
+  number_educ: 0
+  education1:
+
 - name: Christian Drischler 
   photo: drischler.jpg
   info:  Department of Physics &amp; Astronomy<br> Ohio University
