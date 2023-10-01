@@ -15,7 +15,9 @@ Jump to:
 <a href="#band-researchers"><button>BAND Researchers</button></a>
 <a href="#graduate-students"><button>Graduate Students</button></a>
 
+<!--
 <a href="#graduate-students" class="btn btn-primary">Graduate Students</a>
+-->
 
 <a href="#graduate-students" class="bandbutton">Graduate Students</a>
 
