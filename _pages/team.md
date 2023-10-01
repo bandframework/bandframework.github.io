@@ -267,7 +267,7 @@ permalink: /team/
 
 
 
-<hr><a name="AdvisoryBoard">&nbsp;</a>
+<a name="AdvisoryBoard"><hr></a>
 
 ## Advisory Board
 
