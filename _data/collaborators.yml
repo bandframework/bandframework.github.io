@@ -6,6 +6,13 @@
   number_educ: 0
   education1:
 
+- name: James deBoer 
+  photo: deboer_james.jpg
+  info:  Department of Physics<br> University of Notre Dame
+  email: rdeboer1@nd.edu
+  number_educ: 0
+  education1:
+
 - name: Christian Drischler 
   photo: drischler.jpg
   info:  Department of Physics &amp; Astronomy<br> Ohio University
