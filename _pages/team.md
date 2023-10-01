@@ -9,7 +9,7 @@ permalink: /team/
 # BAND Members and Advisory Board
 
 
-Jump to: 
+<b>Jump to: </b>
 <a href="#advisory-board" class="bandbutton">Advisory Board</a>
 <a href="#senior-investigators" class="bandbutton">Senior Investigators</a>
 <a href="#band-researchers" class="bandbutton">BAND Researchers</a>
