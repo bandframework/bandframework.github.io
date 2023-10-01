@@ -10,7 +10,11 @@ permalink: /team/
 
 Jump to [Advisory Board members](#advisory-board)
 
-Jump to: <a href="#advisory-board"><button>Advisory Board members</button></a>
+Jump to: 
+<a href="#advisory-board"><button>Advisory Board</button></a>
+<a href="#senior-investigators"><button>Senior Investigators</button></a>
+<a href="#band-researchers"><button>BAND Researchers</button></a>
+<a href="#graduate-students"><button>Graduate Students</button></a>
 
 
 Jump to [senior investigators](#senior-investigators), [BAND researchers](#band-researchers), [graduate students](#graduate-students).
