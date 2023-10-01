@@ -117,5 +117,16 @@ table {
     table tr th :last-child, table tr td :last-child {
       margin-bottom: 0; }
 
-
+.bandbutton {
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+}
 
