@@ -85,6 +85,7 @@ permalink: /team/
 {% endif %}
 
 
+<hr>
 
 
 ## Senior Investigators
@@ -150,6 +151,9 @@ permalink: /team/
 </div>
 {% endif %}
 
+<hr>
+
+
 ## BAND Researchers
 {% assign number_printed = 0 %}
 {% for member in site.data.postdocs %}
@@ -203,6 +207,8 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+<hr>
 
 
 ## Graduate Students
@@ -259,9 +265,9 @@ permalink: /team/
 </div>
 {% endif %}
 
-<hr>
 
-<a name="AdvisoryBoard">&nbsp;</a>
+
+<hr><a name="AdvisoryBoard">&nbsp;</a>
 
 ## Advisory Board
 
