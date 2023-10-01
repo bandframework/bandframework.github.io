@@ -4,7 +4,7 @@ The BAND collaboration will carry out the software development in several stages
 
 ## Including code in BAND
 
-All code included in the public Github `bandframework` repository will be open source.  If a piece of code does not contain a open-source LICENSE file as mentioned in the requirements below, then it will be automatically licensed as described in the [LICENSE](/LICENSE) file in the root directory of the `bandframework` repository.  
+All code included in the public Github `bandframework` repository will be open source.  If a piece of code does not contain a open-source LICENSE file as mentioned in the requirements below, then it will be automatically licensed as described in the [LICENSE](https://github.com/bandframework/bandframework/blob/develop/LICENSE) file in the root directory of the `bandframework` repository.  
 
 New code can be included in the `bandframework` repository via a pull request to the `develop` branch.  The name of the software should be the subdirectory name in the `/software` directory.  
 
