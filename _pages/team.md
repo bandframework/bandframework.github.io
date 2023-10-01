@@ -153,6 +153,7 @@ permalink: /team/
 {% endif %}
 
 
+<a href="#Top" class="bandbutton">Jump to top</a>
 
 <a name="BANDResearchers">&nbsp;</a>
 <hr>
@@ -211,6 +212,7 @@ permalink: /team/
 </div>
 {% endif %}
 
+<a href="#Top" class="bandbutton">Jump to top</a>
 
 <a name="GraduateStudents">&nbsp;</a>
 <hr>
@@ -270,6 +272,7 @@ permalink: /team/
 </div>
 {% endif %}
 
+<a href="#Top" class="bandbutton">Jump to top</a>
 
 <a name="Collaborators">&nbsp;</a>
 <hr>
@@ -328,7 +331,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-
+<a href="#Top" class="bandbutton">Jump to top</a>
 
 <a name="AdvisoryBoard">&nbsp;</a>
 <hr>
