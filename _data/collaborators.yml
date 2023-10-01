@@ -1,0 +1,23 @@
+
+- name: Dananjaya Liyanage
+  photo: liyanage.5_cropped.jpg
+  info: Physics Department, <br> The Ohio State University
+  email: liyanage.5@osu.edu
+  number_educ: 0
+  education1:
+
+
+- name: Daniel Odell
+  photo: DanielOdell.jpg
+  info: Postdoctoral Research Scholar <br> Department of Physics and Astronomy and Institute of Nuclear and Particle Physics, <br> Ohio University
+  email: dodell@ohio.edu
+  number_educ: 0
+  education1:
+
+
+- name: Mookyong Son
+  photo: Mookyong_Son.jpg
+  info: Department of Statistics and Probability and FRIB, <br> Michigan State University
+  email: sonmooky@msu.edu
+  number_educ: 0
+  education1:
