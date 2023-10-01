@@ -6,14 +6,15 @@ sitemap: false
 permalink: /team/
 ---
 
-# BAND Members, Collaborators, and Advisory Board
+<h1 id="top">BAND Members, Collaborators, and Advisory Board</h1>
 
 
 <b>Jump to: </b>
-<a href="#AdvisoryBoard" class="bandbutton">Advisory Board</a>
 <a href="#SeniorInvestigators" class="bandbutton">Senior Investigators</a>
 <a href="#BANDResearchers" class="bandbutton">BAND Researchers</a>
 <a href="#GraduateStudents" class="bandbutton">Graduate Students</a>
+<a href="#Collaborators" class="bandbutton">Collaborators</a>
+<a href="#AdvisoryBoard" class="bandbutton">Advisory Board</a>
 
 <!--
 <a href="#graduate-students" class="btn btn-primary">Graduate Students</a>
@@ -366,3 +367,4 @@ permalink: /team/
 </div>
 {% endif %}
 
+<a href="#Top" class="bandbutton">Jump to top</a>

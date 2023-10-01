@@ -1,4 +1,13 @@
 
+
+- name: <a href="https://kejzlar.com/">Vojta Kejzlar</a>
+  photo: vojta.png
+  info: Mathematics and Statistics Department <br> Skidmore College
+  email: vkejzlar@skidmore.edu
+  number_educ: 0
+  education1:
+
+
 - name: Dananjaya Liyanage
   photo: liyanage.5_cropped.jpg
   info: Physics Department, <br> The Ohio State University
