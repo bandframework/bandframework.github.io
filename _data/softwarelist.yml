@@ -10,7 +10,7 @@
   authors: O. Surer, M. Plumlee, S. Wild
 
 - name: Taweret
-  photo: taweret_logo.PNG 
+  imageurl: /images/logopic/taweret_logo.PNG 
   info: >
       A versatile Python package containing multiple model mixing techniques 
       for a variety of use cases.
