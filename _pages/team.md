@@ -8,7 +8,6 @@ permalink: /team/
 
 # BAND Members and Advisory Board
 
-Jump to [Advisory Board members](#advisory-board)
 
 Jump to: 
 <a href="#advisory-board"><button>Advisory Board</button></a>
@@ -16,8 +15,7 @@ Jump to:
 <a href="#band-researchers"><button>BAND Researchers</button></a>
 <a href="#graduate-students"><button>Graduate Students</button></a>
 
-
-Jump to [senior investigators](#senior-investigators), [BAND researchers](#band-researchers), [graduate students](#graduate-students).
+<a href="#graduate-students" class="btn btn-default btn-lg">Graduate Students</a>
 
 ## BAND Leader
 {% assign number_printed = 0 %}
