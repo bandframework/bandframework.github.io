@@ -1,3 +1,4 @@
 [submodule "submodules/bandframework"]
 	path = _pages/submodules/bandframework
 	url = https://github.com/bandframework/bandframework
+	branch = develop
