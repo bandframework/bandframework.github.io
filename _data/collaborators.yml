@@ -7,42 +7,42 @@
 
 - name: Edgard Bonilla
   photo: Edgard.jpg
-  info: Department of Physics, Stanford University, <br> Stanford
+  info: Department of Physics, <br> Stanford University
   email: edgard@stanford.edu
   number_educ: 0
   education1:
 
 - name: Jason Bub 
   photo: Jason_Bub.jpg
-  info:  Department of Physics <br> Washington University in St. Louis
+  info:  Department of Physics, <br> Washington University in St. Louis
   email: jason.bub@wustl.edu
   number_educ: 0
   education1:
 
 - name: James deBoer 
   photo: deboer_james.jpg
-  info:  Department of Physics<br> University of Notre Dame
+  info:  Department of Physics, <br> University of Notre Dame
   email: rdeboer1@nd.edu
   number_educ: 0
   education1:
 
 - name: Christian Drischler 
   photo: drischler.jpg
-  info:  Department of Physics &amp; Astronomy<br> Ohio University
+  info:  Department of Physics &amp; Astronomy,<br> Ohio University
   email: drischler@ohio.edu
   number_educ: 0
   education1:
 
 - name: Kevin Ingles
   photo: Kevin_Ingles_head.jpeg
-  info: Physics Department <br> University of Illinois, Urbana-Champaign
+  info: Physics Department, <br> University of Illinois, Urbana-Champaign
   email: kingles@illinois.edu
   number_educ: 0
   education1:
 
 - name: <a href="https://kejzlar.com/">Vojta Kejzlar</a>
   photo: vojta.png
-  info: Mathematics and Statistics Department <br> Skidmore College
+  info: Mathematics and Statistics Department, <br> Skidmore College
   email: vkejzlar@skidmore.edu
   number_educ: 0
   education1:
@@ -50,7 +50,7 @@
 
 - name: Dananjaya Liyanage
   photo: liyanage.5_cropped.jpg
-  info: Machine Learning Scientist, Global Analytics and Data Science, PayPal
+  info: Machine Learning Scientist, <br> Global Analytics and Data Science, <br> PayPal
   email: liyanage.5@osu.edu
   number_educ: 0
   education1:
@@ -58,7 +58,7 @@
 
 - name: Daniel Odell
   photo: DanielOdell.jpg
-  info: Postdoctoral Research Scholar <br> Department of Physics and Astronomy and Institute of Nuclear and Particle Physics, <br> Ohio University
+  info: Postdoctoral Research Scholar, <br> Department of Physics and Astronomy and Institute of Nuclear and Particle Physics, <br> Ohio University
   email: dodell@ohio.edu
   number_educ: 0
   education1:
