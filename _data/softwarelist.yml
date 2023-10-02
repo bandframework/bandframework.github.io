@@ -1,7 +1,7 @@
 - name: surmise
   imageurl: https://avatars.githubusercontent.com/u/77858356
   info: >
-      A Python package that is designed to provide a surrogate model
+      A Python package designed to provide a surrogate model
       interface for calibration, uncertainty quantification, and other tools.
   link:
     url: https://surmise.readthedocs.io/en/latest/
