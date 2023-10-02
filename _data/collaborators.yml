@@ -1,3 +1,16 @@
+- name: Kyle Beyer
+  photo: KyleB.jpg
+  info: Department of Nuclear Engineering and Radiological Sciences, <br> University of Michigan
+  email: beykyle@umich.edu
+  number_educ: 0
+  education1:
+
+- name: Edgard Bonilla
+  photo: Edgard.jpg
+  info: Department of Physics, Stanford University, <br> Stanford
+  email: edgard@stanford.edu
+  number_educ: 0
+  education1:
 
 - name: Jason Bub 
   photo: Jason_Bub.jpg
@@ -55,19 +68,5 @@
   photo: Mookyong_Son.jpg
   info: Department of Statistics and Probability and FRIB, <br> Michigan State University
   email: sonmooky@msu.edu
-  number_educ: 0
-  education1:
-
-- name: Kyle Beyer
-  photo: KyleB.jpg
-  info: Department of Nuclear Engineering and Radiological Sciences, <br> University of Michigan
-  email: beykyle@umich.edu
-  number_educ: 0
-  education1:
-
-- name: Edgard Bonilla
-  photo: Edgard.jpg
-  info: Department of Physics, Stanford University, <br> Stanford
-  email: edgard@stanford.edu
   number_educ: 0
   education1:
