@@ -25,7 +25,8 @@ External code delivery will be from the [bandframework github repository](https:
    <code style = "font-size-adjust: 1.1; color:black; justify-content: center;"> {{ sw.name }} </code>
    <img src="{{ sw.imageurl }}" class="img-responsive" width="25%" style="float: left;padding: 10px 10px 10px 10px;" />
    <p>{{ sw.info }}</p>
-   <p><em>{{ sw.authors }} </em><br /><a href="{{ sw.link.url }}">{{ sw.link.display }}</a></p>
+   <br style="clear:both" />
+   <em>{{ sw.authors }} </em><br /><a href="{{ sw.link.url }}">{{ sw.link.display }}</a>
  </div>
 </div>
 
