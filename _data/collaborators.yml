@@ -58,7 +58,7 @@
 
 - name: Daniel Odell
   photo: DanielOdell.jpg
-  info: Data Scientist,  Advanced Modeling and Simulation, Savannah River National Laboratory 
+  info: Data Scientist, <br> Advanced Modeling and Simulation, <br> Savannah River National Laboratory 
   email: daniel.odell@srnl.doe.gov
   number_educ: 0
   education1:
