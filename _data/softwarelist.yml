@@ -19,3 +19,14 @@
     display:  Taweret documentation
   compatible: submodules/bandframework/software/Taweret/Taweretbandsdk.md
   authors: K. Ingles, D. Liyanage, A. C. Semposki, J. C. Yannotty
+
+- name: SAMBA
+  imageurl: /images/logopic/samba_logo.jpg 
+  info: >
+      The SAndbox for Mixing using Bayesian Analysis, developed as a testing
+      ground for multivariate model mixing on a toy model setup.
+  link:
+    url: https://github.com/asemposki/SAMBA
+    display:  SAMBA repository
+  compatible: submodules/bandframework/software/SAMBA/SAMBAbandsdk.md
+  authors: A. C. Semposki, R. J. Furnstahl, D. R. Phillips
