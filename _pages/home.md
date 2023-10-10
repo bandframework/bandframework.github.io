@@ -23,7 +23,7 @@ permalink: /
 -->
 
 <p style="text-align:center">
-<b>Check out the tools and examples in <a href='https://github.com/bandframework/bandframework'>BAND Framework v0.2</a>! And stay tuned for additional capabilities in v0.3!</b>
+<b>Check out the new tools and examples in <a href='https://github.com/bandframework/bandframework'>BAND Framework v0.3</a>!</b>
 </p>
 
 <p style="text-align:center">
@@ -56,7 +56,7 @@ Those participating in BAND activities shall not discriminate against, harass, o
 Bullying is unwelcome, aggressive behavior involving the use of influence, threat, intimidation, or coercion to dominate others. Harassment includes but is not limited to: inappropriate or intimidating behavior and language, unwelcome jokes or comments, unwanted touching or attention, offensive images, photography without permission, and stalking. Sexual harassment is unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature that creates an intimidating, hostile, or offensive environment.
 </p>
 <p>
-Violations of this code of conduct policy should be reported to meeting organizers and/or the BAND "Community Leaders": Daniel Phillips (phillid1@ohio.edu), Dick Furnstahl (furnstahl.1@osu.edu), Frederi Viens (fv15@rice.edu), and Stefan Wild (wild@lbl.gov). Sanctions may range from verbal warning, to ejection from the meeting, to a suspension from future BAND activities, to the notification of appropriate local authorities. Retaliation for complaints of inappropriate conduct will not be tolerated and will result in an escalated sanction.
+Violations of this code of conduct policy should be reported to meeting organizers and/or the BAND "Community Leaders": Daniel Phillips (phillid1@ohio.edu), Dick Furnstahl (furnstahl.1@osu.edu), Özge Sürer (surero@miamioh.edu), Frederi Viens (fv15@rice.edu), and Stefan Wild (wild@lbl.gov). Sanctions may range from verbal warning, to ejection from the meeting, to a suspension from future BAND activities, to the notification of appropriate local authorities. Retaliation for complaints of inappropriate conduct will not be tolerated and will result in an escalated sanction.
 </p>
 
 <!--
