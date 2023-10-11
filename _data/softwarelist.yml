@@ -7,7 +7,7 @@
     url: https://surmise.readthedocs.io/en/latest/
     display:  surmise Read the Docs
   compatible: submodules/bandframework/software/surmise/surmisebandsdk.md
-  authors: O. Surer, M. Plumlee, S. Wild, M. Y-H. Chan
+  authors: O. Surer, M. Plumlee, S.M. Wild, M. Y-H. Chan
 
 - name: Taweret
   imageurl: /images/logopic/taweret_logo.PNG 
@@ -30,3 +30,14 @@
     display:  SAMBA repository
   compatible: submodules/bandframework/software/SAMBA/SAMBAbandsdk.md
   authors: A. C. Semposki, R. J. Furnstahl, D. R. Phillips
+
+- name: parmoo
+  imageurl: https://github.com/parmoo/parmoo/blob/main/docs/img/logo-ParMOO.png
+  info: >
+      ParMOO is a parallel multiobjective optimization solver that seeks 
+      to exploit simulation-based structure in objective and constraint functions.
+  link:
+    url: https://parmoo.readthedocs.io
+    display:  parmoo Read the Docs
+  compatible: submodules/bandframework/software/parmoo/parmoo-bandsdk.md
+  authors: T.H. Chang, S.M. Wild, H. Dickinson
