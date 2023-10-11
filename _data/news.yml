@@ -5,7 +5,13 @@
     parMOO, a parallel multiobjective simulation optimization library; rose, a reduced-order scattering emulator; and Taweret, a package containing multiple Bayesian Model Mixing methods.
     It also includes updates to the surmise and SAMBA packages. Pull the repo to try these new capabilities and tell us about your experience! 
 
-
+- date: September 28, 2023
+  headline: >
+    Congratulations to BAND co-PI Stefan Wild (LBNL and Northwestern), for being awarded the 2023 Egon Balas Prize! The 
+    <a href="https://connect.informs.org/optimizationsociety/prizes/egon-balas-prize">Egon Balas Prize</a> of the INFORMS Optimization Society 
+    was established in 2020 and is awarded annually for a body of contributions in the area of optimization. The award ceremony will take place 
+    at the INFORMS annual meeting on October 15 in Phoenix, AZ.
+   
 - date: August 14, 2023
   headline: >
     The third BAND annual retreat has successfully concluded!  The retreat was held from August 8 - 9 at the Ohio University Dublin Integrated Education Center.  
