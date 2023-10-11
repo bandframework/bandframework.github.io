@@ -1,3 +1,11 @@
+- date: October 10, 2023
+  headline: >
+    BAND has released <a href="https://github.com/bandframework/bandframework">v0.3 of our software framework</a>! 
+    This release includes a number of new tools, including: BMEX, a web application for exploring nuclear masses and related quantities;
+    parMOO, a parallel multiobjective simulation optimization library; rose, a reduced-order scattering emulator; and Taweret, a package containing multiple Bayesian Model Mixing methods.
+    It also includes updates to the surmise and SAMBA packages. Pull the repo to try these new capabilities and tell us about your experience! 
+
+
 - date: August 14, 2023
   headline: >
     The third BAND annual retreat has successfully concluded!  The retreat was held from August 8 - 9 at the Ohio University Dublin Integrated Education Center.  
