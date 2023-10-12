@@ -41,3 +41,14 @@
     display:  parmoo Read the Docs
   compatible: submodules/bandframework/software/parmoo/parmoo-bandsdk.md
   authors: T.H. Chang, S.M. Wild, H. Dickinson
+
+- name: BMEX
+  imageurl: https://bmex.dev/bmex-ico.png
+  info: >
+      The Bayesian Mass Explorer (BMEX) is a user-focused web application that provides a
+      one-stop-shop for quantified theoretical model predictions of nuclear masses and related quantities. 
+  link:
+    url: https://bmex.dev
+    display:  BMEX Web Application
+  compatible: submodules/bandframework/software/BMEX/BMEX-bandsdk.md
+  authors: K. Godbey, L. Buskirk, P. Giuliani
