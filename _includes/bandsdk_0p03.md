@@ -53,7 +53,7 @@ As shown in the [template](https://github.com/bandframework/bandframework/blob/d
 Please use the following to cite the BAND Framework:
 
     @techreport{bandframework,
-        title       = {{BANDFramework: An} Open-Source Framework for {B}ayesian Analysis of Nuclear Dynamics},
+        title       = { {BANDFramework: An} Open-Source Framework for {B}ayesian Analysis of Nuclear Dynamics},
         author      = {Kyle Beyer and Landon Buskirk and Moses Y-H. Chan and Tyler H. Chang and Richard James DeBoer and 
         Richard J. Furnstahl and Pablo Giuliani and Kyle Godbey and Kevin Ingles and Dananjaya Liyanage and Filomena M. Nunes and 
         Daniel Odell and Daniel R. Phillips and Matthew Plumlee and Matthew T. Pratola and Alexandra C. Semposki and \"Ozge S\"urer and 
