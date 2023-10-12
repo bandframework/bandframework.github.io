@@ -32,7 +32,7 @@
   authors: A. C. Semposki, R. J. Furnstahl, D. R. Phillips
 
 - name: parmoo
-  imageurl: https://raw.githubusercontent.com/parmoo/parmoo/main/docs/img/logo-ParMOO.png
+  imageurl: https://raw.githubusercontent.com/parmoo/parmoo/main/docs/img/icon-ParMOO.png
   info: >
       ParMOO is a parallel multiobjective optimization solver that seeks 
       to exploit simulation-based structure in objective and constraint functions.
