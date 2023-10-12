@@ -1,5 +1,5 @@
 - name: surmise
-  imageurl: https://avatars.githubusercontent.com/u/77858356
+  imageurl: /images/logopic/surmise-square-logo.png
   info: >
       A Python package designed to provide a surrogate model
       interface for calibration, uncertainty quantification, and other tools.
