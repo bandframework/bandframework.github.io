@@ -1,3 +1,55 @@
+- title: "Performance Analysis of Sequential Experimental Design for Calibration of Simulation Models"
+  image:
+  location: >
+    Talk at the INFORMS Annual Meeting 2023, Phoenix AZ.
+  date: >
+    October 15-18, 2023
+  presenter: Özge Sürer (Miami)
+  link:
+    url: https://meetings.informs.org/wordpress/phoenix2023/agenda/
+  highlight: 0
+  type: methodology
+  news2:
+
+- title: "Simulation Surrogate for Stochastic High-Dimensional Outputs with Heterogeneous Error"
+  image:
+  location: >
+    Talk at the INFORMS Annual Meeting 2023, Phoenix AZ.
+  date: >
+    October 15-18, 2023
+  presenter: Moses Y-H. Chan (Northwestern)
+  link:
+    url: https://meetings.informs.org/wordpress/phoenix2023/agenda/
+  highlight: 0
+  type: methodology
+  news2:
+
+- title: "Bayesian Model Mixing Of Computer Simulators"
+  image:
+  location: >
+    Talk at the INFORMS Annual Meeting 2023, Phoenix AZ.
+  date: >
+    October 15-18, 2023
+  presenter: John C. Yannotty (OSU)
+  link:
+    url: https://meetings.informs.org/wordpress/phoenix2023/agenda/
+  highlight: 0
+  type: methodology
+  news2:
+
+- title: "Accelerating Randomized Adaptive Subspace Trust-Region Algorithms"
+  image:
+  location: >
+    Talk at the INFORMS Annual Meeting 2023, Phoenix AZ.
+  date: >
+    October 15-18, 2023
+  presenter: Stefan M. Wild (LBNL, Northwestern)
+  link:
+    url: https://meetings.informs.org/wordpress/phoenix2023/agenda/
+  highlight: 0
+  type: methodology
+  news2:
+
 - title: "Bayesian calibration of viscous anisotropic hydrodynamic simulations of heavy-ion collisions"
   image:
   location: >
