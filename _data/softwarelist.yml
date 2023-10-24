@@ -58,7 +58,7 @@
   info: >
       The Reduced Order Scattering Emulator (ROSE) is a Python package for building
       emulators using reduced basis methods for calculating nuclear scattering observables for user-defined
-      interactions, including optical potentials. These emulators trade negligible amounts of accuracy for orders-of-magnitude gains in speed. 
+      interactions, including optical potentials. 
   link:
     url: https://github.com/bandframework/rose
     display:  ROSE Github
