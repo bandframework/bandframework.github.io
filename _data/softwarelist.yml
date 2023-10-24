@@ -52,3 +52,15 @@
     display:  BMEX Web Application
   compatible: submodules/bandframework/software/BMEX/BMEX-bandsdk.md
   authors: K. Godbey, L. Buskirk, P. Giuliani
+
+  - name: ROSE
+  imageurl: /images/logopic/ROSE_Logo.png
+  info: >
+      The Reduced Order Scattering Emulator (ROSE) is a Python package for building
+      emulators using reduced basis methods for calculating nuclear scattering observables for user-defined
+      interactions, including optical potentials. These emulators trade negligible amounts of accuracy for orders-of-magnitude gains in speed. 
+  link:
+    url: https://github.com/bandframework/rose
+    display:  ROSE Github
+  compatible: submodules/bandframework/software/ROSE/rosebandsdk.md
+  authors: D. Odell, P. Giuliani, K. Godbey, K. Beyer, M. Y. Chan
