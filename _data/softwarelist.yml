@@ -53,7 +53,7 @@
   compatible: submodules/bandframework/software/BMEX/BMEX-bandsdk.md
   authors: K. Godbey, L. Buskirk, P. Giuliani
 
-  - name: ROSE
+- name: ROSE
   imageurl: /images/logopic/ROSE_Logo.png
   info: >
       The Reduced Order Scattering Emulator (ROSE) is a Python package for building
