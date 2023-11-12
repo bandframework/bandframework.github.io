@@ -37,4 +37,19 @@
   type: methodology 
   display: 1 
 
+- title: Local Bayesian Dirichlet mixing of imperfect models
+  description: >
+    To improve the predictability of complex computational 
+    models in the experimentally-unknown domains, 
+    we propose a Bayesian statistical machine learning  
+    framework utilizing the Dirichlet distribution that 
+    combines results of several imperfect  models. 
+  image: DBMM.png
+  contact: Witek Nazarewicz (<witek@frib.msu.edu>)
+  link:
+    pdf: DBMM.pdf
+    text: Click for one-page pdf highlight slide
+  type: methodology 
+  display: 1 
+
 
