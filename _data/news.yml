@@ -1,10 +1,10 @@
 - date: November 12, 2023
   headline: >
-    BAND member Witek Nazarewicz and co-authors Vojta Kejzlar 
-    and Léo Neufcourt published a paper in Scientific Reports 
-    that proposes a Bayesian statistical machine learning 
-    framework utilizing the Dirichlet distribution that combines 
-    results of several imperfect models. They show that the 
+    BAND member Witek Nazarewicz and two statistician collaborators, Vojta Kejzlar 
+    and Léo Neufcourt, co-authored a paper, published this week in <a href="https://www.nature.com/articles/s41598-023-46568-0">Scientific Reports</a>.
+    In it, they propose a Bayesian statistical machine learning 
+    framework that uses the Dirichlet distribution to combine
+    results of several imperfect models. They show that 
     global and local mixtures of models reach excellent performance 
     on both prediction accuracy and uncertainty quantification 
     and are preferable to classical Bayesian model averaging.
