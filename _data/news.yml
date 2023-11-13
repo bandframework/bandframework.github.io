@@ -1,3 +1,15 @@
+- date: November 12, 2023
+  headline: >
+    BAND member Witek Nazarewicz and co-authors Volta Kejzlar 
+    and Léo Neufcourt published a paper in Scientific Reports 
+    that proposes a Bayesian statistical machine learning 
+    framework utilizing the Dirichlet distribution that combines 
+    results of several imperfect models. They show that the 
+    global and local mixtures of models reach excellent performance 
+    on both prediction accuracy and uncertainty quantification 
+    and are preferable to classical Bayesian model averaging.
+    See the <a href="/highlights/DBMM.pdf">BAND highlight</a> for more details.
+
 - date: October 18, 2023
   headline: >
     BAND members Moses Chan, Özge Sürer, Stefan Wild, and John Yannotty attended the INFORMS annual meeting in Phoenix, AZ, October 15 - 18.  
