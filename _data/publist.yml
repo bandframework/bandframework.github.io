@@ -595,17 +595,11 @@
       emulation of the high-fidelity model through the implementation of a reduced basis method 
       (RBM)—a set of dimensionality reduction techniques that can speed up demanding calculations 
       involving partial differential equations by several orders of magnitude. The RBM emulator 
-      we build—using only 100 evaluations of the high-fidelity model—is able to accurately reproduce 
-      the model calculations in tens of milliseconds on a personal computer, an increase in speed of 
-      nearly a factor of 3,300 when compared to the original solver. Besides the analysis of the 
+      is able to accurately reproduce the model calculations in tens of milliseconds on a personal computer, 
+      an increase in speed of nearly a factor of 3,300. Besides the analysis of the 
       posterior distribution of parameters, we present model calculations for masses and radii 
       with properly estimated uncertainties. We also analyze the model correlation between the 
-      slope of the symmetry energy L and the neutron skin of 48Ca and 208Pb. The straightforward 
-      implementation and outstanding performance of the RBM makes it an ideal tool for assisting 
-      the nuclear theory community in providing reliable estimates with properly quantified 
-      uncertainties of physical observables. Such uncertainty quantification tools will become 
-      essential given the expected abundance of data from the recently inaugurated and future 
-      experimental and observational facilities.
+      slope of the symmetry energy L and the neutron skin of 48Ca and 208Pb. 
   authors: Pablo Giuliani, Kyle Godbey, Edgard Bonilla, Frederi Viens, and Jorge Piekarewicz. 
   link:
     url: https://doi.org/10.3389/fphy.2022.1054524
@@ -661,22 +655,21 @@
       In nuclear reaction experiments, the measured decay energy spectra can give insights into the shell structure 
       of decaying systems. However, extracting the underlying physics from the measurements is challenging due to detector
       resolution and acceptance effects. The Richardson-Lucy (RL) algorithm, a deblurring method that is commonly 
-      used in optics and has proven to be a successful technique for restoring images, was applied to our experimental 
-      nuclear physics data. The only inputs to the method are the observed energy spectrum and the detector's response
-      matrix also known as the transfer matrix. We demonstrate that the technique can help access information about the 
+      used in optics, was applied to our experimental nuclear physics data. The only inputs to the method are the observed 
+      energy spectrum and the detector's response matrix. We demonstrate that the technique can help access information about the 
       shell structure of particle-unbound systems from the measured decay energy spectrum that is not immediately
-      accessible via traditional approaches such as χ-square fitting. For a similar purpose, we developed a machine learning
-      model that uses a deep neural network (DNN) classifier to identify resonance states from the measured decay energy 
+      accessible via traditional approaches such as χ-square fitting. For a similar purpose, we developed a deep neural 
+      network (DNN) classifier to identify resonance states from the measured decay energy 
       spectrum. We tested the performance of both methods on simulated data and experimental measurements. 
       Then, we applied both algorithms to the decay energy spectrum of 26O→24O+n+n measured via invariant mass spectroscopy. 
       The resonance states restored using the RL algorithm to deblur the measured decay energy spectrum agree with those 
-      found by the DNN classifier. Both deblurring and DNN approaches suggest that the raw decay energy spectrum of
+      found by the DNN classifier. Both approaches suggest that the raw decay energy spectrum of
       26O exhibits three peaks at approximately 0.15 MeV, 1.50 MeV, and 5.00 MeV, with half-widths of 0.29 MeV, 0.80 MeV, 
       and 1.85 MeV, respectively.
   authors: Pierre Nzabahimana, Thomas Redpath, Thomas Baumann, Pawel Danielewicz, Pablo Giuliani, and Paul Guèye
   link:
     url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.064315
-    display: Phys.Rev.C 107.6 (2023)
+    display: Phys.Rev.C 107, 064315 (2023)
   highlight: 1
   news2: 
 
