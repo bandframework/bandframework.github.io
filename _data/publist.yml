@@ -707,3 +707,23 @@
     display: Scientific Reports 13, 19600 (2023)
   highlight: 1
   news2: 
+  
+- title: "Bayesian calibration of viscous anisotropic hydrodynamic simulations of heavy-ion collisions"
+  image: VAH_shear.png
+  description: >
+         Due to large pressure gradients at early times, standard hydrodynamic model simulations of relativistic heavy-ion collisions 
+         do not become reliable until O(1)fm/c after the collision. To address this one often introduces a pre-hydrodynamic stage that
+         models the early evolution microscopically, typically as a conformal, weakly interacting gas. In such an approach the transition
+         from the pre-hydrodynamic to the hydrodynamic stage is discontinuous, introducing considerable theoretical model ambiguity. 
+         Alternatively, fluids with large anisotropic pressure gradients can be handled macroscopically using the recently developed 
+         Viscous Anisotropic Hydrodynamics (VAH). In high-energy heavy-ion collisions VAH is applicable already at very early times, 
+         and at later times transitions smoothly into conventional second-order viscous hydrodynamics (VH). We present a Bayesian calibration
+         of the VAH model with experimental data for Pb–Pb collisions at the LHC. We find that the VAH model has the unique capability of 
+         constraining the specific viscosities of the QGP at higher temperatures than other previously used models.
+  authors: D. Liyanage, Ö. Sürer, M. Plumlee, S.M. Wild, U. Heinz.
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.108.054905
+    display: Physical Review C 108, 054905 (2023)
+  highlight: 1
+  news2:
+  
