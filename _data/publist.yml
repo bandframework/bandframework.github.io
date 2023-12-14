@@ -727,3 +727,25 @@
   highlight: 1
   news2:
   
+- title: "Model Mixing Using Bayesian Additive Regression Trees"
+  image: sg2_lg4_res.png
+  description: >
+         We introduce a flexible Bayesian model mixing methodology using tree basis functions.  
+         In modern computer experiment applications, one often encounters the situation where various 
+         models of a physical system are considered, each implemented as a simulator on a computer. 
+         An important question in such a setting is determining the best simulator, or the best 
+         combination of simulators, to use for prediction and inference. Bayesian model averaging (BMA) 
+         and stacking are two statistical approaches used to account for model uncertainty by 
+         aggregating a set of predictions through a simple linear combination or weighted average, 
+         but this ignores the localized behavior of each simulator. This paper proposes a BMM model 
+         based on Bayesian Additive Regression Trees (BART) which has the desired flexibility to 
+         capture each simulators local behavior. The proposed methodology is applied to combine 
+         predictions from Effective Field Theories (EFTs) associated with a motivating nuclear physics 
+         application.
+  authors: J.C. Yannotty, T.J. Santner, R.J. Furnstahl, M.T. Pratola.
+  link:
+    url: https://doi.org/10.1080/00401706.2023.2257765
+    display: Technometrics (2023)
+  highlight: 1
+  news2:
+  
