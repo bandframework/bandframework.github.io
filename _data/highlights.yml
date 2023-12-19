@@ -52,14 +52,14 @@
   type: methodology 
   display: 1 
 
-- title: Bayesian calibration of the VAH model for heavy-ion collisions
+- title:  Calibration of the VAH model for heavy-ion collisions
   description: >
     The novel Viscous Anisotropic Hydrodynamics (VAH) model 
     can simulate relativistic heavy-ion collisions from very early times, 
     eliminating the need for a separate far-off-equilibrium pre-hydrodynamic model. 
     VAH was calibrated on LHC data using  Bayesian tools in the BAND Software Framework. 
     This calibration allowed us to constrain the specific shear and bulk 
-    viscosities of quark-gluon plasma up to tempera-tures of about 700 MeV, 
+    viscosities of quark-gluon plasma up to temperatures of about 700 MeV, 
     much higher than for any previous analysis.
 
   image: VAH.png
