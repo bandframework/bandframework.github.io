@@ -15,12 +15,12 @@
   number_educ: 0
   education1:
 
-- name: Moses Chan
-  photo: chan-moses-website.jpg
-  info: Industrial Engineering & Management Sciences, <br> Northwestern University
-  email: mosesyhc@u.northwestern.edu
-  number_educ: 0
-  education1:
+# - name: Moses Chan
+#   photo: chan-moses-website.jpg
+#   info: Industrial Engineering & Management Sciences, <br> Northwestern University
+#   email: mosesyhc@u.northwestern.edu
+#   number_educ: 0
+#   education1:
 
 # - name: Karina Martirosova
 #   photo: karina_small.jpg
