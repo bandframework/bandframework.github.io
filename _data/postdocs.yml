@@ -8,6 +8,12 @@
 #  education3:
 #  education4:
 
+- name: Moses Chan
+  photo: chan_for_web_400x500.jpg
+  info: Assistant Professor of Instruction <br> Department of Industrial Engineering and Management Sciences, <br> Northwestern University
+  email: moses.chan@northwestern.edu
+  number_educ: 0
+  education1:
 
 - name: Pablo Giuliani
   photo: pablo.jpg
