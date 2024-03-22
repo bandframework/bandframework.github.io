@@ -215,7 +215,6 @@
   news2:
 
 
-
 - title: "The Bayesian Analysis of Nuclear Dynamics Framework"
   image:
   location: >
@@ -439,6 +438,19 @@
   type: methodology
   news2:
 
+- title: "The Bayesian Analysis of Nuclear Dynamics Framework"
+  image:
+  location: >
+    Talk at 2024 STAR Collaboration Meeting Spring Juniors Day
+  date: >
+    March 18, 2024
+  presenter: Özge Sürer (Miami)
+  link:
+    url: https://indico.bnl.gov/event/22219/
+  highlight: 0
+  type: band
+  news2:
+  
 - title: "The Bayesian Analysis of Nuclear Dynamics Framework"
   image:
   location: >
