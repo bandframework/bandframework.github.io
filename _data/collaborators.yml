@@ -55,6 +55,12 @@
   number_educ: 0
   education1:
 
+- name: Jordan Melendez 
+  photo: jordan_melendez.png
+  info:  Department of Physics, The Ohio State University
+  email: melendez.27@osu.edu
+  number_educ: 0
+  education1:
 
 - name: Daniel Odell
   photo: DanielOdell.jpg
