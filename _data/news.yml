@@ -1,3 +1,7 @@
+- date: April 12, 2024
+  headline: >
+   The BAND team working on ROSE (the Reduced Order Scattering Emulator) paper has just published a <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.109.044612">paper</a> describing ROSE in Physical Review C. The paper explains in detail the theory and computational framework behind the <a href="https://github.com/bandframework/rose">ROSE software</a>, as well as demonstrating it's ability to enable Bayesian Uncertainty Quantification of the parameters that appear in nuclear optical potentials. 
+
 - date: March 22, 2024
   headline: >
     On March 18 BAND member Özge Sürer gave an invited talk on the BAND Framework as part of the STAR collaboration's "Spring Juniors Day". 
