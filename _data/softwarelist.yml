@@ -40,7 +40,7 @@
     url: https://parmoo.readthedocs.io
     display:  parmoo Read the Docs
   compatible: submodules/bandframework/software/parmoo/parmoo-bandsdk.md
-  authors: T.H. Chang, S.M. Wild, H. Dickinson
+  authors: T. H. Chang, S. M. Wild, H. Dickinson
 
 - name: BMEX
   imageurl: https://bmex.dev/bmex-ico.png
@@ -54,7 +54,7 @@
   authors: K. Godbey, L. Buskirk, P. Giuliani
 
 - name: ROSE
-  imageurl: /images/logopic/ROSE_Logo.png
+  imageurl: /images/logopic/ROSE_logo.png
   info: >
       The Reduced Order Scattering Emulator (ROSE) is a Python package for building
       emulators using reduced basis methods for calculating nuclear scattering observables for user-defined
@@ -63,4 +63,4 @@
     url: https://github.com/bandframework/rose
     display:  ROSE Github
   compatible: submodules/bandframework/software/ROSE/rosebandsdk.md
-  authors: D. Odell, P. Giuliani, K. Godbey, K. Beyer, M. Y. Chan
+  authors: D. Odell, P. Giuliani, K. Godbey, K. Beyer, M. Y.-H. Chan
