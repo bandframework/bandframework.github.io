@@ -749,7 +749,7 @@
   highlight: 1
   news2:
 
-  - title: "Absolute cross section of the 12C(p,γ)13N reaction"
+- title: "Absolute cross section of the 12C(p,γ)13N reaction"
   image: brick.jpg
   description: >
          Solar neutrino measurements have recently reached a level of sensitivity such that CNO fluxes can now be
@@ -769,7 +769,7 @@
   highlight: 0
   news2:
 
-  - title: "Effective field theory for the bound states and scattering of a heavy charged particle and a neutral atom"
+- title: "Effective field theory for the bound states and scattering of a heavy charged particle and a neutral atom"
   image: flocking.png
   description: >
         We show the system of a heavy charged particle and a neutral atom can be described by a low-energy effective field 
