@@ -572,7 +572,7 @@
   highlight: 0
 
 - title: "Variational inference with vine copulas: an efficient approach for Bayesian computer model calibration"
-  image: copulas.png
+  image: copulas.jpg
   description: >
       With the advancements of computer architectures, the use of computational models proliferates to solve complex
       problems in many scientific applications such as nuclear physics and climate research. However, the potential of such 
