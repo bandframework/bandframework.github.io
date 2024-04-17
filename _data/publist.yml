@@ -748,4 +748,42 @@
     display: Technometrics (2023)
   highlight: 1
   news2:
-  
+
+  - title: "Absolute cross section of the 12C(p,γ)13N reaction"
+  image: brick.jpg
+  description: >
+         Solar neutrino measurements have recently reached a level of sensitivity such that CNO fluxes can now be
+         experimentally determined. While these first measurements are still only sensitive to the higher energy neutrinos 
+         resulting from the β+ decays of 15O produced by the 14N(p,gamma)15O reaction, future measurements will work towards
+         detection of neutrinos from the β+ decay of 13N from the 12C(p,gamma)13N  reaction. This paper reports on a recent
+         measurement of this  reaction covering a broad laboratory energy range between 1.0 and 2.5 MeV. This work takes
+         into account previous radiative capture as well as elastic 12C(p,p)12C scattering data, making uncertainty
+         estimations using a Bayesian framework, to determine a reliable extrapolation of the low energy S-factor towards
+         the stellar energy range of CNO hydrogen burning. These new experimental results, and a detailed investigation of
+         the past literature data, suggest that the resonant component of the cross section should be 30% lower than
+         previously accepted.
+  authors:  K-U. Kettner, H. W. Becker, C. R. Brune, R. J. deBoer, J. Görres, D. Odell, D. Rogalla, and M. Wiescher
+  link:
+    url: https://doi.org/10.1103/PhysRevC.108.035805
+    display: Physical Review C 108, 035805 (2023)
+  highlight: 0
+  news2:
+
+  - title: "Effective field theory for the bound states and scattering of a heavy charged particle and a neutral atom"
+  image: flocking.png
+  description: >
+        We show the system of a heavy charged particle and a neutral atom can be described by a low-energy effective field 
+        theory where the attractive 1/r^4 induced dipole potential determines the long-distance, low-energy wave functions.
+        The 1/r^4 interaction is renormalized by a contact interaction at leading order. Derivative corrections to 
+        that contact interaction give rise to higher-order terms. We show that this “induced-dipole EFT” (ID-EFT) reproduces
+        the π+-hydrogen phase shifts of a more microscopic potential, the Temkin-Lamkin potential, over a wide range of
+        energies. Already at leading order it also describes the highest-lying excited bound states of the pionic-hydrogen 
+        ion. Lower-lying bound states receive substantial corrections at next-to-leading order, with the size of the
+        correction proportional to their distance from the scattering threshold. Our next-to-leading order calculation show
+        that the three highest-lying bound states of the Temkin-Lamkin potential are well described in ID-EFT.
+  authors:  Daniel Odell, Daniel R. Phillips, and Ubirajara van Kolck
+  link:
+    url: https://doi.org/10.1103/PhysRevA.108.062817
+    display: Physical Review C 108, 062817 (2023)
+  highlight: 1
+  news2:
