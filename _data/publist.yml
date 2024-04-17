@@ -571,6 +571,28 @@
     display: Phys.Rev.C 106, 055808 (2022)
   highlight: 0
 
+- title: "Variational inference with vine copulas: an efficient approach for Bayesian computer model calibration"
+  image: copulas.png
+  description: >
+      With the advancements of computer architectures, the use of computational models proliferates to solve complex
+      problems in many scientific applications such as nuclear physics and climate research. However, the potential of such 
+      models is often hindered because they tend to be computationally expensive. We develop a 
+      computationally efficient algorithm based on variational Bayes inference (VBI) for calibration of computer models with
+      Gaussian processes. Unfortunately, the standard fast-to-compute gradient estimates based on subsampling are biased 
+      under the calibration framework due to the conditionally dependent data which diminishes the efficiency of VBI. In 
+      this work, we adopt a pairwise decomposition of the data likelihood using vine copulas that separate the information 
+      on dependence structure in data from their marginal distributions and leads to computationally efficient gradient 
+      estimates that are unbiased and thus scalable calibration. We provide empirical evidence for the computational 
+      scalability of our methodology together with average case analysis and all the necessary details for an 
+      efficient implementation of the proposed algorithm. We also demonstrate the opportunities given by our method for 
+      practitioners on a real data example through calibration of the Liquid Drop Model of nuclear binding energies. 
+  authors: V. Kejzlar and T. Maiti
+  link:
+    url: https://doi.org/10.1007/s11222-022-10194-z
+    display: Statistics and Computing 33, 18 (2022)
+  highlight: 1
+  news2: 
+  
 - title: "ParMOO: A Python library for parallel multiobjective simulation optimization"
   image: logo-ParMOO.png
   description: >
