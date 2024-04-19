@@ -80,7 +80,7 @@
   imageurl: /images/logopic/BRICK_logo.png
   info: >
       The Bayesian R-matrix Inference Code Kit (BRICK) mediates between the R-matrix code AZURE2 and the MCMC sampling software
-      emcee. It therefore enables the exploration of paramter posteriors and uncertainty quatnified predictions in R-matrix calculations.
+      emcee, in order to facilitate uncertainty quantification in R-matrix calculations.
   link:
     url: https://github.com/bandframework/bandframework/tree/main/software/BRICK
     display:  BRICK tutorial
