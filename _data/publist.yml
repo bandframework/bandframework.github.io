@@ -809,3 +809,19 @@
     display: Physical Review C 108, 062817 (2023)
   highlight: 1
   news2:
+
+- title: "Building trees for probabilistic prediction via scoring rules"
+  image: scoreTree.png
+  description: >
+        Decision trees built with data remain in widespread use for nonparametric prediction. Predicting probability distributions 
+        is preferred over point predictions when uncertainty plays a prominent role in analysis and decision-making. We study 
+        modifying a tree to produce nonparametric predictive distributions. We find the standard method for building trees may not 
+        result in good predictive distributions and propose changing the splitting criteria for trees to one based on proper 
+        scoring rules. Analysis of both simulated data and several real datasets demonstrates that using these new splitting 
+        criteria results in trees with improved predictive properties considering the entire predictive distribution.
+  authors:  Sara Shashaani, Özge Sürer, Matthew Plumlee, and Seth Guikema.
+  link:
+    url: https://doi.org/10.1080/00401706.2024.2343062
+    display: Technometrics (2024)
+  highlight: 1
+  news2:
