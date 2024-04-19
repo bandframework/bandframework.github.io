@@ -64,3 +64,25 @@
     display:  ROSE Github
   compatible: submodules/bandframework/software/ROSE/rosebandsdk.md
   authors: D. Odell, P. Giuliani, K. Godbey, K. Beyer, M. Y.-H. Chan
+
+- name: Bfrescox
+  imageurl: /images/logopic/BFRESCOX_logo.png
+  info: >
+      Bfrescox combines an efficient emulator trained on results from the reaction-theory code Fresco 
+      with statistical calibration capabilities to perform uncertainty quantification of nuclear breakup reactions.
+  link:
+    url: https://github.com/bandframework/software/Bfrescox
+    display:  Bfrescox ReadMe and Repo
+  compatible: bandframework/blob/main/software/Bfrescox/frescoxbandsdk.md
+  authors: O. Surer, F. Nunes, M. Plumlee, S. M. Wild
+
+- name: BRICK
+  imageurl: /images/logopic/BRICK_logo.png
+  info: >
+      The Bayesian R-matrix Inference Code Kit (BRICK) mediates between the R-matrix code AZURE2 and the MCMC sampling software
+      emcee. It therefore enables the exploration of paramter posteriors and uncertainty quatnified predictions in R-matrix calculations.
+  link:
+    url: https://github.com/bandframework/BRICK
+    display:  BRICK tutorial
+  compatible: bandframework/blob/main/software/Bfrescox/brickbandsdk.md
+  authors: D. Odell, R. J. deBoer, C. R. Brune, D. R. Phillips
