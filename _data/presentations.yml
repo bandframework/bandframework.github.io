@@ -11,6 +11,19 @@
   type: physics
   news2:
 
+- title: "Fast & accurate emulation using reduced-basis methods"
+  image:
+  location: >
+    Wayne State University Physics Colloquium
+  date: >
+    April 4, 2024
+  presenter: Dick Furnstahl (OSU)
+  link:
+    url: https://go.osu.edu/ws2024
+  highlight: 0
+  type: methodology
+  news2:
+
 - title: "Bayesian Model Mixing with applications in Nuclear Physics and Climate"
   image:
   location: >
