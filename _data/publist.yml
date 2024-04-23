@@ -836,7 +836,7 @@
         emulators highly desirable or even essential. Emulating scattering across different energies or 
         with interactions such as optical potentials is challenging because of the nonaffine parameter 
         dependence, meaning the parameters do not all factorize from individual operators. Here we introduce 
-        and demonstrate the reduced-order scattering emulator (rose) framework, a reduced basis emulator 
+        and demonstrate the reduced-order scattering emulator (ROSE) framework, a reduced basis emulator 
         that can handle nonaffine problems. ROSE is fully extensible and works within the publicly available BAND framework software suite.
         As a demonstration problem, we use ROSE to calibrate a realistic nucleon-target scattering model through the calculation of elastic 
         cross sections. This problem shows the practical value of the ROSE framework for Bayesian uncertainty quantification with controlled 
