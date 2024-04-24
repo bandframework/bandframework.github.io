@@ -11,6 +11,19 @@
   type: physics
   news2:
 
+- title: "Nuclear forecasting: how effective field theory and uncertainty quantification enable predictive nuclear theory"
+  image:
+  location: >
+    Lecture in the Department of Physics, Chalmers University of Technology
+  date: >
+    April 11, 2024
+  presenter: Daniel Phillips (Ohio)
+  link:
+    url: https://www.dropbox.com/scl/fi/kmp72a8v8y242gjg0hs3h/PhillipsChalmersLecture.pdf?rlkey=v8j0rh5q7rzmrtw96d9zyllmi&st=6wnkriwh&dl=0
+  highlight: 0
+  type: physics
+  news2:
+
 - title: "Fast & accurate emulation using reduced-basis methods"
   image:
   location: >
