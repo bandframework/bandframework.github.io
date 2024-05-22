@@ -1,3 +1,7 @@
+- date: May 15, 2024
+  headline: >
+   <a href="https://www.anl.gov/profile/jared-p-o-neal">Jared O'Neal</a> has joined BAND as a Research Software Engineer. Jared has more than a decade of experience writing scientific software. We are excited to be benefitting and learning from that. 
+
 - date: April 12, 2024
   headline: >
    The BAND team working on ROSE (the Reduced Order Scattering Emulator) has just published a <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.109.044612">paper</a> describing ROSE in Physical Review C. The paper explains in detail the theory and computational framework behind the <a href="https://github.com/bandframework/rose">ROSE software</a>, as well as demonstrating it's ability to enable Bayesian Uncertainty Quantification of the parameters that appear in nuclear optical potentials. 
