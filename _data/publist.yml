@@ -847,3 +847,21 @@
     display: Physical Review C 109, 044612 (2024)
   highlight: 1
   news2:
+
+  - title: "Taweret: a Python package for Bayesian model mixing"
+  image: taweret_logo.PNG
+  description: >
+        Uncertainty quantification using Bayesian methods is a growing area of research. Bayesian model mixing (BMM) 
+        is a recent development which combines the predictions from multiple models such that the fidelity of each model 
+        is preserved in the final result. Practical tools and analysis suites that facilitate such methods are therefore 
+        needed. Taweret1 introduces BMM to existing Bayesian uncertainty quantification efforts. Currently, Taweret 
+        contains three individual Bayesian model mixing techniques, each pertaining to a different type of problem 
+        structure; we encourage the future inclusion of user-developed mixing methods. Taweret’s first use case is 
+        in nuclear physics, but the package has been structured such that it should be adaptable to any research 
+        engaged in model comparison or model mixing.
+  authors: K. Ingles, D. Liyanage, A. C. Semposki, J. C. Yannotty
+  link:
+    url: https://doi.org/10.21105/joss.06175
+    display: J. Open Source Softw. 9(97), 6175 (2024)
+  highlight: 1
+  news2:
