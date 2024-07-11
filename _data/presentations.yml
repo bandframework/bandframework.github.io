@@ -1,3 +1,16 @@
+- title: "Heterogeneous multi-output Gaussian process for noisy computer models"
+  image:
+  location: >
+    SIAM Annual Meeting 2024, Spokane, Washington
+  date: >
+    July 11, 2024
+  presenter: Moses Chan (Northwestern)
+  link:
+    url: https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80715
+  highlight: 0
+  type: methodology
+  news2:
+
 - title: "From chiral EFT to perturbative QCD: a Bayesian model mixing approach to symmetric nuclear matter"
   image:
   location: >
