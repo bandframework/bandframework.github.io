@@ -15,7 +15,7 @@
       A versatile Python package containing multiple model mixing techniques 
       for a variety of use cases.
   link:
-    url: https://bandframework.github.io/Taweret/
+    url: https://taweretdocs.readthedocs.io
     display:  Taweret documentation
   compatible: submodules/bandframework/software/Taweret/Taweretbandsdk.md
   authors: K. Ingles, D. Liyanage, A. C. Semposki, J. C. Yannotty
