@@ -865,3 +865,21 @@
     display: J. Open Source Softw. 9(97), 6175 (2024)
   highlight: 1
   news2:
+  
+- title: "Model orthogonalization and Bayesian forecast mixing via principal component analysis"
+  image: PCABMC.png
+  description: >
+        One can improve predictability in the unknown domain by combining forecasts of imperfect complex
+        computational models using a Bayesian statistical machine learning framework. In many cases, however, the
+        models used in the mixing process are similar. In addition to contaminating the model space, the existence of
+        such similar, or even redundant, models during the multimodeling process can result in misinterpretation of
+        results and deterioration of predictive performance. In this paper we describe a method based on the principal
+        component analysis that eliminates model redundancy. We show that by adding model orthogonalization to
+        the proposed Bayesian model combination framework, one can arrive at better prediction accuracy and reach
+        excellent uncertainty quantification performance.
+  authors: P. Giuliani, K. Godbey, V. Kejzlar, W. Nazarewicz 
+  link:
+    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033266
+    display: Phys. Rev. R 6, 033266 (2024)
+  highlight: 1
+  news2: 
