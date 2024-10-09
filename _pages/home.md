@@ -23,7 +23,7 @@ permalink: /
 -->
 
 <p style="text-align:center">
-<b>Check out the new tools and examples in <a href='https://github.com/bandframework/bandframework'>BAND Framework v0.3</a>!</b>
+<b>Check out the new tools and examples in <a href='https://github.com/bandframework/bandframework'>BAND Framework v0.4</a>!</b>
 </p>
 
 <p style="text-align:center">
