@@ -1,3 +1,7 @@
+- date: October 2, 2024
+  headline: >
+    v0.4 of the BAND Framework is out! This version includes updates of existing BAND packages such as surmise, ROSE, and Taweret. It also includes new capabilities, such as PUQ, a Python package that employs novel experimental design techniques with intelligent selection criteria, and nsat, code that implements a Bayesian approach to mixture model approach to quantifying the empirical nuclear saturation point.
+
 - date: September 9, 2024
   headline: >
     BAND members Pablo Giuliani, Kyle Godbey, and Witek Nazarewicz collaborted with statistician Vojtech Kejzlar to show how "Principal Component Analysis" can be used to ensure that only independent---or even better, orthogonal---models get included in forecasts that combine models using Bayesian methods. Their <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033266">paper</a> is out today in Physical Review Research. 
