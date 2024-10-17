@@ -1,3 +1,7 @@
+- date: October 16, 2024
+  headline: >
+    BAND Senior Investigator Dick Furnstahl is the recipient of the <a href="https://www.aps.org/funding-recognition/prize/herman-feshbach-prize">2025 Herman Feshbach Prize in Theoretical Nuclear Physics</a>. Furnstahl was cited "For found foundational contributions to calculations of nuclei, including...using Bayesian methods to quantify the uncertainties in effective field theory predictions of nuclear observables."
+
 - date: October 2, 2024
   headline: >
     v0.4 of the BAND Framework is out! This version includes updates of existing BAND packages such as surmise, ROSE, and Taweret. It also includes new capabilities, such as PUQ, a Python package that employs novel experimental design techniques with intelligent selection criteria, and nsat, code that implements a Bayesian mixture model approach to quantifying the empirical nuclear saturation point.
