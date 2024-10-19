@@ -86,3 +86,16 @@
     display:  BRICK tutorial
   compatible: bandframework/blob/main/software/Bfrescox/brickbandsdk.md
   authors: D. Odell, R. J. deBoer, C. R. Brune, D. R. Phillips
+
+- name: PUQ
+  imageurl: /images/logopic/Logo_PUQ.png
+  info: >
+      Python package for generating experimental designs tailored for uncertainty quantification 
+      and featuring parallel implementations
+  link:
+    url: https://puq.readthedocs.io/en/latest/
+    display:  PUQ Read the Docs
+  compatible: bandframework/blob/main/software/PUQ/PUQ-bandsdk.md
+  authors: O. Surer, M. Plumlee, S.M. Wild
+
+
