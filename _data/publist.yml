@@ -883,3 +883,24 @@
     display: Phys. Rev. R 6, 033266 (2024)
   highlight: 1
   news2: 
+
+- title: "Simulation experiment design for calibration via active learning"
+  image: seq_des.png
+  description: >
+        Simulation models often have parameters as input and return outputs to understand the behavior of complex 
+        systems. Calibration is the process of estimating the values of the parameters in a simulation model in 
+        light of observed data from the system that is being simulated. When simulation models are expensive, 
+        emulators are built with simulation data as a computationally efficient approximation of an expensive model. 
+        An emulator then can be used to predict model outputs, instead of repeatedly running an expensive simulation 
+        model during the calibration process. Sequential design with an intelligent selection criterion can guide 
+        the process of collecting simulation data to build an emulator, making the calibration process more efficient 
+        and effective. This article proposes two novel criteria for sequentially acquiring new simulation data in an 
+        active learning setting by considering uncertainties on the posterior density of parameters. Analysis of several 
+        simulation experiments and real-data simulation experiments from epidemiology demonstrates that proposed approaches 
+        result in improved posterior and field predictions.
+  authors: Özge Sürer
+  link:
+    url: https://doi.org/10.1080/00224065.2024.2391780
+    display: Journal of Quality Technology (2024)
+  highlight: 1
+  news2: 
