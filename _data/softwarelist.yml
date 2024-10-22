@@ -101,7 +101,7 @@
 - name: JITR
   imageurl: /images/logopic/JITR_logo.png
   info: > 
-    A fast solver for parametric reaction models, production ready for calibration and uncertainty-quantification.
+    A fast calculable R-matrix solver for parametric reaction models, production ready for calibration and uncertainty-quantification.
   link:
     url: https://github.com/beykyle/jitr
     display:  JITR repository
