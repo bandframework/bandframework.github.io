@@ -13,7 +13,7 @@ If in-person attendance is impossible for you then let's discuss you participati
 - James de Boer (Notre Dame), "The Bayesian R-matrix Infernece Code Kit"
 - Dave Brown (BNL), "Bayesian Networks for Nuclear Data Evaluation"
 - Dick Furnstahl (OSU)
-- Nathan Gibson (LANL)
+- Nathan Gibson (LANL), "UQ needs of applications that employ nuclear data" 
 - Kyle Godbey (MSU/FRIB), "The Bayesian Mass Explorer"
 - Kostas Kravvaris (LLNL) 
 - Matthew Mumpower (LANL), "A case study of Bayesian methods for the evaluation of cross sections: 239-Pu neutron induced reactions"
@@ -21,7 +21,6 @@ If in-person attendance is impossible for you then let's discuss you participati
 - Filomena Nunes (MSU/FRIB), "The Reduced Order Scattering Emulator and its uses"
 - Mark Paris (LANL), "Breakup reactions in R-matrix analyses"
 - Daniel Phillips (Ohio)
-- Gregory Potel (LLNL)
 - Matt Pratola (Indiana), "The Taweret package"
 - Andre Sieverding (LLNL), "Estimating Hauser-Feshbach model parameters to get at regional systematics"
 - Vlad Sobes (Tennessee/ORNL), "Statistical modeling of uncertainties in nuclear data"
