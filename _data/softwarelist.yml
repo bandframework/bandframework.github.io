@@ -113,7 +113,7 @@
   info: > 
     If your function is well described by Taylor expansion, Smooth Emulator is for you!
   link:
-    url: bandframework/blob/main/software/SmoothEmulator/doc/UserManual.pdf
+    url: https://github.com/bandframework/bandframework/tree/main/software/SmoothEmulator/doc/UserManual.pdf
     display:  Documentation
-  compatible: bandframework/blob/main/software/SmoothEmulator/doc/UserManual.pdf
+  compatible: https://github.com/bandframework/bandframework/tree/main/software/SmoothEmulator/doc/UserManual.pdf
   authors: S.Pratt and O.Savchuk
