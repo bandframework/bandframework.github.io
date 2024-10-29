@@ -111,7 +111,7 @@
 - name: Smooth Emulator
   imageurl: /images/logopic/smooth.png
   info: > 
-    A fast calculable R-matrix solver for parametric reaction models, production ready for calibration and uncertainty-quantification.
+    If your function is well described by Taylor expansion, Smooth Emulator is for you!
   link:
     url: bandframework/blob/main/software/SmoothEmulator/doc/UserManual.pdf
     display:  Documentation
