@@ -107,3 +107,13 @@
     display:  jitR repository
   compatible: bandframework/blob/main/software/jitr/jitrbandsdk.md
   authors: K. A. Beyer
+
+- name: Smooth Emulator
+  imageurl: /images/logopic/smooth.png
+  info: > 
+    A fast calculable R-matrix solver for parametric reaction models, production ready for calibration and uncertainty-quantification.
+  link:
+    url: bandframework/blob/main/software/SmoothEmulator/doc/UserManual.pdf
+    display:  Documentation
+  compatible: bandframework/blob/main/software/SmoothEmulator/doc/UserManual.pdf
+  authors: S.Pratt and O.Savchuk
