@@ -20,12 +20,12 @@ If in-person attendance is impossible for you then let's discuss you participati
 - Witek Nazarewicz (MSU/FRIB)
 - Filomena Nunes (MSU/FRIB), "The Reduced Order Scattering Emulator and its uses"
 - Mark Paris (LANL), "Breakup reactions in R-matrix analyses"
-- Daniel Phillips (Ohio)
+- Daniel Phillips (Ohio), "The BAND Software Framework: Overview"
 - Matt Pratola (Indiana), "The Taweret package"
 - Andre Sieverding (LLNL), "Estimating Hauser-Feshbach model parameters to get at regional systematics"
 - Vlad Sobes (Tennessee/ORNL), "Statistical modeling of uncertainties in nuclear data"
 - Özge Sürer (Miami), "PUQ: parallel implementation of novel uncertainty methods"
    
 *Remote participants*
-- Amy Lovell (LANL)
-- Denise Neudecker (LANL) 
+- Amy Lovell (LANL), "Beyond parametric uncertainties in direct reactions and fission"
+- Denise Neudecker (LANL), "Templates of expected experimental uncertainties and machine learning unexpected experimental uncertainties" 
