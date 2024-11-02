@@ -906,7 +906,7 @@
   news2: 
 
 - title: "Assessing correlated truncation errors in modern nucleon-nucleon potentials"
-  image: 
+  image: SGT_0degrees_truncation_error_credible_intervals_SMS_500MeV_Qsum_prel_6_10_allenergy1_Qofprel_mpi200.png
   description: >
         We test the BUQEYE model of correlated effective field theory (EFT) truncation errors 
         on Reinert, Krebs, and Epelbaum's semilocal momentum-space implementation of the chiral EFT (𝜒⁢EFT)
@@ -914,17 +914,7 @@
         that dimensionless coefficient functions extracted from the order-by-order corrections to 
         NN observables can be treated as draws from a Gaussian process (GP). We combine a variety 
         of graphical and statistical diagnostics to assess when predicted observables have a 𝜒⁢EFT 
-        convergence pattern consistent with the hypothesized GP statistical model. Our conclusions are that, 
-        first, the BUQEYE model is generally applicable to the potential investigated here, which enables 
-        statistically principled estimates of the impact of higher EFT orders on observables. 
-        Second, parameters defining the extracted coefficients such as the expansion parameter 
-        𝑄 must be well chosen for the coefficients to exhibit a regular convergence pattern—a property 
-        we exploit to obtain posterior distributions for such quantities. Third, the assumption of GP 
-        stationarity across lab energy and scattering angle is not generally met; this necessitates 
-        adjustments in future work. We provide a workflow and interpretive guide for our analysis 
-        framework, and show what can be inferred about probability distributions for 𝑄, the EFT breakdown 
-        scale Λ𝑏, the scale associated with soft physics in the 𝜒⁢EFT potential 𝑚eff, and the GP 
-        hyperparameters. All our results can be reproduced using a publicly available Jupyter notebook, 
+        convergence pattern consistent with the hypothesized GP statistical model. All our results can be reproduced using a publicly available Jupyter notebook, 
         which can be straightforwardly modified to analyze other 𝜒⁢EFT NN potentials.
   authors: P. J. Millican, R. J. Furnstahl, J. A. Melendez, D. R. Phillips, and M. T. Pratola
   link:
