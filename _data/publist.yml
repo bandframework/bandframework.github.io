@@ -923,3 +923,27 @@
   highlight: 1
   news2: 
 
+
+- title: "Bayesian mixture model approach to quantifying the empirical nuclear saturation point"
+  image: nsat_figure.png
+  description: >
+        The equation of state (EOS) in the limit of infinite symmetric nuclear matter exhibits 
+        an equilibrium density at which the pressure vanishes and the energy per 
+        particle attains its minimum. Although not directly measurable, the nuclear 
+        saturation point (𝑛0,𝐸0) can be extrapolated by density-functional theory (DFT), providing 
+        tight constraints for microscopic interactions derived from chiral effective-field theory 
+        (EFT). We present a Bayesian mixture 
+        model that combines multiple DFT predictions for (𝑛0,𝐸0) using an efficient conjugate prior 
+        approach. The inferred posterior distribution for the saturation point's mean and 
+        covariance matrix follows a normal-inverse-Wishart (NIW) class, resulting in posterior 
+        predictives in the form of correlated, bivariate 𝑡 distributions. The DFT uncertainty 
+        reports are then used to mix these posteriors using an ordinary Monte Carlo approach. 
+        Our Bayesian framework is publicly available, 
+        so practitioners can readily use and extend our results.
+  authors: C. Drischler, P.G. Giuliani, S. Bezoui, J. Piekarewicz, F. Viens
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.044320
+    display: Physical Review C 110, 044320 (2024)
+  highlight: 1
+  news2: 
+
