@@ -28,11 +28,11 @@ If in-person attendance is impossible for you then let's discuss you participati
 
 **Wednesday, December 18**<br>
 9:00-9:30 Andre Sieverding (LLNL), "Estimating Hauser-Feshbach model parameters to get at regional systematics"<br>
-9:30-10:00 Dave Brown (BNL), "ENDF's data model and the covariances in it"<br>
-10:00-10:30 Denise Neudecker (LANL), "Templates of expected experimental uncertainties and machine learning unexpected experimental uncertainties", virtual<br>
+9:30-10:30 Matt Pratola (Indiana), "The Taweret package"<br>
+10:00-10:30 Amy Lovell (LANL), "Beyond parametric uncertainties in direct reactions and fission" (virtual)<br>
 10:30-11:00 Coffee<br>
-11:00-11:30 Matt Pratola (Indiana), "The Taweret package"<br>
-11:30-12:00 Amy Lovell (LANL), "Beyond parametric uncertainties in direct reactions and fission" (virtual)<br>
+11:00-11:30 Dave Brown (BNL), "ENDF's data model and the covariances in it"<br>
+11:30-12:00 Denise Neudecker (LANL), "Templates of expected experimental uncertainties and machine learning unexpected experimental uncertainties", virtual<br>
 12:00-12:30 Özge Sürer (Miami), "PUQ: parallel implementation of novel uncertainty methods"<br>
 12:30-1:45 Lunch<br>
 1:45-3:15 Discussion groups<br>
