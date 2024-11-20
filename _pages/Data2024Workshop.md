@@ -38,25 +38,3 @@ If in-person attendance is impossible for you then let's discuss you participati
 1:45-3:15 Discussion groups<br>
 3:15-3:30 Close out
 
-
-
-List of speakers, topics, and attendees
-- James de Boer (Notre Dame), "The Bayesian R-matrix Infernece Code Kit"
-- Dave Brown (BNL), "Bayesian Networks for Nuclear Data Evaluation"
-- Dick Furnstahl (OSU)
-- Nathan Gibson (LANL), "UQ needs of applications that employ nuclear data" 
-- Kyle Godbey (MSU/FRIB), "The Bayesian Mass Explorer"
-- Kostas Kravvaris (LLNL) 
-- Matthew Mumpower (LANL), "A case study of Bayesian methods for the evaluation of cross sections: 239-Pu neutron induced reactions"
-- Witek Nazarewicz (MSU/FRIB)
-- Filomena Nunes (MSU/FRIB), "The Reduced Order Scattering Emulator and its uses"
-- Mark Paris (LANL), "Breakup reactions in R-matrix analyses"
-- Daniel Phillips (Ohio), "The BAND Software Framework: Overview"
-- Matt Pratola (Indiana), "The Taweret package"
-- Andre Sieverding (LLNL), "Estimating Hauser-Feshbach model parameters to get at regional systematics"
-- Vlad Sobes (Tennessee/ORNL), "Statistical modeling of uncertainties in nuclear data"
-- Özge Sürer (Miami), "PUQ: parallel implementation of novel uncertainty methods"
-   
-*Remote participants*
-- Amy Lovell (LANL), "Beyond parametric uncertainties in direct reactions and fission"
-- Denise Neudecker (LANL), "Templates of expected experimental uncertainties and machine learning unexpected experimental uncertainties" 
