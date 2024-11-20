@@ -29,21 +29,6 @@
      he hopes to achieve unprecedented predictive power through full theoretical and
      experimental uncertainty quantification on quark-gluon plasma properties.
 
-- name: Taps Maiti
-  photo: taps-maiti_2.jpg
-  info: Professor, Department of Statistics &amp; Probability, <br> Michigan State University Foundation Professor, <br> Michigan State University
-  email: maiti@msu.edu
-  number_educ: 0
-  education1:
-  bio: >
-     Dr. Maiti's research expertise is in statistical theory and methods with a focus on
-     applications to real-life data. He is developing cutting-edge statistical theory and
-     methods encompassing diverse research fields in biomedical engineering, genetics,
-     nuclear physics, imaging, computational modeling, uncertainty quantifications with
-     specific emphasis on artificial intelligence and machine learning for solving complex
-     data science problems.  He is a Fellow of the American Statistical Association (ASA)
-     and the Institute of Mathematical Statistics (IMS).
-
 - name: Witek Nazarewicz
   photo: witek.jpg
   info: FRIB Chief Scientist and Hannah Distinguished Professor, Michigan State University
@@ -80,22 +65,6 @@
      between models and help in identifying the optimum conditions for an experiment.
      More details at <a href="https://people.nscl.msu.edu/~nunes">people.nscl.msu.edu/~nunes</a>
 
-- name: Matt Plumlee
-  photo: plumlee-matthew.jpg
-  info: Assistant Professor of Industrial Engineering and Management Sciences, Northwestern University
-  email: mplumlee@northwestern.edu
-  number_educ: 0
-  education1:
-  bio: >
-    Dr. Plumlee studies statistical methodology with a specific focus on uncertainty
-    quantification for expensive computational models.  This includes the development
-    and deployment of statistical learning tools in high dimensional environments.  
-    Statistical procedures of scientific interest include model emulation, parameter
-    estimation, discrepancy detection and correction.  Specific interests lie in
-    large-scale implementations and well-justified uncertainty quantification of
-    estimates.  Within BAND, his role will be in the design, use, and implementation of
-    cutting edge statistical tools to solve complicated nuclear physics problems
-    n the presence of multiple models.
 
 - name: Matt Pratola
   photo: matt_pratola.jpg

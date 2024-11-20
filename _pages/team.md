@@ -15,6 +15,7 @@ permalink: /team/
 <a href="#GraduateStudents" class="bandbutton">Graduate Students</a>
 <a href="#Collaborators" class="bandbutton">Collaborators</a>
 <a href="#AdvisoryBoard" class="bandbutton">Advisory Board</a>
+<a href="#FormerMembers" class="bandbutton">Former Members</a>
 
 <!--
 <a href="#graduate-students" class="btn btn-primary">Graduate Students</a>
@@ -371,3 +372,75 @@ permalink: /team/
 {% endif %}
 
 <a href="#Top" class="bandbutton">Jump to top</a>
+
+<a name="FormerMembers">&nbsp;</a>
+<hr>
+
+## Former BAND members
+
+{% assign number_printed = 0 %}
+{% for member in site.data.former_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <p>{{ member.bio }}</p>
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
+
+<a href="#Top" class="bandbutton">Jump to top</a>
+
