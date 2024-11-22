@@ -40,5 +40,6 @@ If in-person attendance is impossible for you then let's discuss you participati
 
 **Non-speaking participants**<br>
 Dick Furnstahl (Ohio State)<br>
-Filomena Nunes (Michigan State)
+Witek Nazarewicz (Michigan State/FRIB)<br>
+Filomena Nunes (Michigan State/FRIB)
 
