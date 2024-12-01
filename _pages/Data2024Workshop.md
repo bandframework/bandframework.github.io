@@ -33,10 +33,11 @@ If in-person attendance is impossible for you then let's discuss you participati
 10:30-11:00 Coffee<br>
 11:00-11:30 Vlad Sobes (Tennessee/ORNL), "Statistical modeling of uncertainties in nuclear data"<br>
 11:30-12:00 Denise Neudecker (LANL), "Templates of expected experimental uncertainties and machine learning of unexpected experimental uncertainties" (virtual)<br>
-12:00-12:30 Özge Sürer (Miami), "PUQ: parallel implementation of novel uncertainty methods"<br>
-12:30-1:45 Lunch<br>
-1:45-3:15 Discussion groups<br>
-3:15-3:30 Close out
+12:00-12:30 Kyle Wendt (LLNL), "Machine learning the correlation structure of errors in nuclear data"<br>
+12:30-1:00 Özge Sürer (Miami), "PUQ: parallel implementation of novel uncertainty methods"<br>
+1:00-2:00 Lunch<br>
+2:00-3:30 Discussion groups<br>
+3:30-3:45 Close out
 
 **Non-speaking participants**<br>
 Dick Furnstahl (Ohio State)<br>
