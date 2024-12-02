@@ -15,7 +15,7 @@ permalink: /team/
 <a href="#GraduateStudents" class="bandbutton">Graduate Students</a>
 <a href="#Collaborators" class="bandbutton">Collaborators</a>
 <a href="#AdvisoryBoard" class="bandbutton">Advisory Board</a>
-<a href="#FormerMembers" class="bandbutton">Former Members</a>
+<a href="#FormerMembers" class="bandbutton">BAND Alumni</a>
 
 <!--
 <a href="#graduate-students" class="btn btn-primary">Graduate Students</a>
@@ -376,7 +376,7 @@ permalink: /team/
 <a name="FormerMembers">&nbsp;</a>
 <hr>
 
-## Former BAND members
+## BAND alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.former_members %}
