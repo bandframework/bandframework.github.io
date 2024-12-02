@@ -376,7 +376,7 @@ permalink: /team/
 <a name="FormerMembers">&nbsp;</a>
 <hr>
 
-## BAND alumni
+## BAND Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.former_members %}
