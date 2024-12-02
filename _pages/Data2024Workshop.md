@@ -19,7 +19,7 @@ If in-person attendance is impossible for you then let's discuss you participati
 11:10-11:40 Kyle Godbey (FRIB/MSU), "The Bayesian Mass Explorer"<br>
 11:40-12:10 Matt Pratola (Indiana), "The Taweret package"<br>
 12:10-1:45 Lunch<br>
-1:45-2:15 James de Boer (Notre Dame), "The Bayesian R-matrix Infernece Code Kit"<br>
+1:45-2:15 James de Boer (Notre Dame), "The Bayesian R-matrix Inference Code Kit"<br>
 2:15-2:45 Mark Paris (LANL), "Breakup reactions in R-matrix analyses"<br>
 2:45-3:15 Kyle Beyer (MSU/FRIB), "The Reduced Order Scattering Emulator"<br>
 3:15-3:45 Coffee<br>
