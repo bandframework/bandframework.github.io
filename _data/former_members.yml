@@ -15,17 +15,30 @@
 
 - name: Matt Plumlee
   photo: plumlee-matthew.jpg
-  info: Assistant Professor of Industrial Engineering and Management Sciences, Northwestern University
-  email: mplumlee@northwestern.edu
+  info: #Assistant Professor of Industrial Engineering and Management Sciences, Northwestern University
+  email: #mplumlee@northwestern.edu
   number_educ: 0
   education1:
   bio: >
-    Dr. Plumlee studies statistical methodology with a specific focus on uncertainty
-    quantification for expensive computational models.  This includes the development
-    and deployment of statistical learning tools in high dimensional environments.  
-    Statistical procedures of scientific interest include model emulation, parameter
-    estimation, discrepancy detection and correction.  Specific interests lie in
-    large-scale implementations and well-justified uncertainty quantification of
-    estimates.  Within BAND, his role will be in the design, use, and implementation of
-    cutting edge statistical tools to solve complicated nuclear physics problems
-    n the presence of multiple models.
+    Matt Plumlee was a founding BAND Member in IEMS at Northwestern University. 
+    More recently he is a Principal Applied Scientist at Amazon.
+    # Dr. Plumlee studies statistical methodology with a specific focus on uncertainty
+    # quantification for expensive computational models.  This includes the development
+    # and deployment of statistical learning tools in high dimensional environments.  
+    # Statistical procedures of scientific interest include model emulation, parameter
+    # estimation, discrepancy detection and correction.  Specific interests lie in
+    # large-scale implementations and well-justified uncertainty quantification of
+    # estimates.  Within BAND, his role will be in the design, use, and implementation of
+    # cutting edge statistical tools to solve complicated nuclear physics problems
+    # n the presence of multiple models.
+
+- name: Boyana Norris
+  photo: bnorris26d8672.jpg
+  info: 
+  email: 
+  bio: >
+     While at the University of Oregon, Boyana Norris served on BAND's 
+     advisory board. More recently she is Senior Staff Software Engineer 
+     at Luminous Computing and Tsavorite Scalable Intelligence.
+
+
