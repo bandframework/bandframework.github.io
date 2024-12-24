@@ -13,7 +13,7 @@ If in-person attendance is impossible for you then let's discuss you participati
 **Tuesday, December 17**<br>
 9:00-9:10 Daniel Phillips (Ohio), Welcome<br>
 9:10-9:40 Dave Brown (BNL), "ENDF's data model and the covariances in it"<br>
-9:40-10:10 Daniel Phillips (Ohio), "The BAND Software Framework: Overview"<br>
+9:40-10:10 Daniel Phillips (Ohio), <a href="http://bandframework.github.io/Dataworkshop/Phillips.pdf>"The BAND Software Framework: Overview"</a><br>
 10:10-10:40 Nathan Gibson (LANL), "UQ needs of applications that employ nuclear data"<br>
 10:40-11:10 Coffee<br>
 11:10-11:40 Kyle Godbey (FRIB/MSU), "The Bayesian Mass Explorer"<br>
