@@ -14,26 +14,26 @@ If in-person attendance is impossible for you then let's discuss you participati
 9:00-9:10 Daniel Phillips (Ohio), Welcome<br>
 9:10-9:40 Dave Brown (BNL), "ENDF's data model and the covariances in it"<br>
 9:40-10:10 Daniel Phillips (Ohio), <a href="../Dataworkshoptalks/Phillips.pdf">"The BAND Software Framework: Overview"</a><br>
-10:10-10:40 Nathan Gibson (LANL), "UQ needs of applications that employ nuclear data"<br>
+10:10-10:40 Nathan Gibson (LANL), <a href="../Dataworkshoptalks/Gibson.pdf">"UQ needs of applications that employ nuclear data"</a><br>
 10:40-11:10 Coffee<br>
-11:10-11:40 Kyle Godbey (FRIB/MSU), "The Bayesian Mass Explorer"<br>
-11:40-12:10 Matt Pratola (Indiana), "The Taweret package"<br>
+11:10-11:40 Kyle Godbey (FRIB/MSU), <a href="../Dataworkshoptalks/Godbey.pdf">"The Bayesian Mass Explorer"</a><br>
+11:40-12:10 Matt Pratola (Indiana), <a href="../Dataworkshoptalks/Pratola.pdf">"The Taweret package"</a><br>
 12:10-1:45 Lunch<br>
-1:45-2:15 James de Boer (Notre Dame), "The Bayesian R-matrix Inference Code Kit"<br>
-2:15-2:45 Mark Paris (LANL), "Breakup reactions in R-matrix analyses"<br>
+1:45-2:15 James de Boer (Notre Dame), <a href="../Dataworkshoptalks/DeBoer.pptx">"The Bayesian R-matrix Inference Code Kit"</a><br>
+2:15-2:45 Mark Paris (LANL), <a href="../Dataworkshoptalks/Paris.pptx">"Breakup reactions in R-matrix analyses"</a><br>
 2:45-3:15 Kyle Beyer (MSU/FRIB), "The Reduced Order Scattering Emulator"<br>
 3:15-3:45 Coffee<br>
 3:45-5:30 Discussion groups<br>
 6:30 Workshop Dinner
 
 **Wednesday, December 18**<br>
-9:00-9:30 Andre Sieverding (LLNL), "Estimating Hauser-Feshbach model parameters to get at regional systematics"<br>
+9:00-9:30 Andre Sieverding (LLNL), <a href="../Dataworkshoptalks/Sieverding.pdf">"Estimating Hauser-Feshbach model parameters to get at regional systematics"</a><br>
 9:30-10:00 Matt Mumpower (LANL), "A case study of Bayesian methods for the evaluation of cross sections: 239-Pu neutron induced reactions"<br>
-10:00-10:30 Amy Lovell (LANL), "Beyond parametric uncertainties in direct reactions and fission" (virtual)<br>
+10:00-10:30 Amy Lovell (LANL), <a href="../Dataworkshoptalks/Lovell.pdf">"Beyond parametric uncertainties in direct reactions and fission"</a> (virtual)<br>
 10:30-11:00 Coffee<br>
 11:00-11:30 Özge Sürer (Miami), "PUQ: parallel implementation of novel uncertainty methods"<br>
-11:30-12:00 Vlad Sobes (Tennessee/ORNL), "Statistical modeling of uncertainties in nuclear data"<br>
-12:00-12:30 Denise Neudecker (LANL), "Templates of expected experimental uncertainties and machine learning of unexpected experimental uncertainties" (virtual)<br>
+11:30-12:00 Vlad Sobes (Tennessee/ORNL), <a href="../Dataworkshoptalks/Sobes.pdf">"Statistical modeling of uncertainties in nuclear data"</a><br>
+12:00-12:30 Denise Neudecker (LANL), <a href="../Dataworkshoptalks/Sobes.pdf">"Templates of expected experimental uncertainties and machine learning of unexpected experimental uncertainties"</a> (virtual)<br>
 12:30-1:00 Kyle Wendt (LLNL), "Machine learning the correlation structure of errors in nuclear data"<br>
 1:00-2:00 Lunch<br>
 2:00-3:30 Discussion groups<br>
