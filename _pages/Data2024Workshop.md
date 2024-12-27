@@ -12,7 +12,7 @@ If in-person attendance is impossible for you then let's discuss you participati
 *Preliminary schedule*<br>
 **Tuesday, December 17**<br>
 9:00-9:10 Daniel Phillips (Ohio), Welcome<br>
-9:10-9:40 Dave Brown (BNL), "ENDF's data model and the covariances in it"<br>
+9:10-9:40 Dave Brown (BNL), <a href="../Dataworkshoptalks/Brown">"ENDF's data model and the covariances in it"</a><br>
 9:40-10:10 Daniel Phillips (Ohio), <a href="../Dataworkshoptalks/Phillips.pdf">"The BAND Software Framework: Overview"</a><br>
 10:10-10:40 Nathan Gibson (LANL), <a href="../Dataworkshoptalks/Gibson.pdf">"UQ needs of applications that employ nuclear data"</a><br>
 10:40-11:10 Coffee<br>
@@ -28,10 +28,10 @@ If in-person attendance is impossible for you then let's discuss you participati
 
 **Wednesday, December 18**<br>
 9:00-9:30 Andre Sieverding (LLNL), <a href="../Dataworkshoptalks/Sieverding.pdf">"Estimating Hauser-Feshbach model parameters to get at regional systematics"</a><br>
-9:30-10:00 Matt Mumpower (LANL), "A case study of Bayesian methods for the evaluation of cross sections: 239-Pu neutron induced reactions"<br>
+9:30-10:00 Matt Mumpower (LANL), <a href="../Dataworkshoptalks/Mumpower.pdf">"A case study of Bayesian methods for the evaluation of cross sections: 239-Pu neutron induced reactions"</a><br>
 10:00-10:30 Amy Lovell (LANL), <a href="../Dataworkshoptalks/Lovell.pdf">"Beyond parametric uncertainties in direct reactions and fission"</a> (virtual)<br>
 10:30-11:00 Coffee<br>
-11:00-11:30 Özge Sürer (Miami), "PUQ: parallel implementation of novel uncertainty methods"<br>
+11:00-11:30 Özge Sürer (Miami), <a href="../Dataworkshoptalks/Surer.pdf">"PUQ: parallel implementation of novel uncertainty methods"</a><br>
 11:30-12:00 Vlad Sobes (Tennessee/ORNL), <a href="../Dataworkshoptalks/Sobes.pdf">"Statistical modeling of uncertainties in nuclear data"</a><br>
 12:00-12:30 Denise Neudecker (LANL), <a href="../Dataworkshoptalks/Neudecker.pdf">"Templates of expected experimental uncertainties and machine learning of unexpected experimental uncertainties"</a> (virtual)<br>
 12:30-1:00 Kyle Wendt (LLNL), "Machine learning the correlation structure of errors in nuclear data"<br>
@@ -43,4 +43,19 @@ If in-person attendance is impossible for you then let's discuss you participati
 Dick Furnstahl (Ohio State)<br>
 Witek Nazarewicz (Michigan State/FRIB)<br>
 Filomena Nunes (Michigan State/FRIB)
+
+**Other resources**<br>
+- <a href="https://furnstahl.github.io/Physics-8820/about.html">"Learning from Data" course</a> developed by Christian Forssén, Dick Furnstahl, and Daniel Phillips.
+- <a href="https://lscsoft.docs.ligo.org/bilby/">Bilby: a user-friendly Bayesian Inference library</a> contains several sampler options. Examples are focused on gravitational-wave parameter estimation. 
+- The BAND collaboration's <a href="https://bandframework.github.io/software/">Software page</a>.
+- Selected articles on model discrepancy, both general and as applied in the context of Nuclear Data Evaluation:
+  1. <a href="https://www.asc.ohio-state.edu/statistics/comp_exp/jour.club/KennedyOHagan_2002.pdf">Bayesian calibration of computer models</a> by Kennedy and O'Hagan
+  2. <a href="http://www.tonyohagan.co.uk/academic/pdf/simmach.pdf">Learning about physical parameters: the importance of model disrepancy"</a> by Brynjasdottir and O'Hagan
+  3. <a href="https://arxiv.org/abs/1811.03874">A first sketch: Construction of model defect priors inspired by dynamic time warping</a> by Schnabel and Sjöstrand
+  4. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0168900213005238?via%3Dihub">Impact of model defect and experimental uncertainties on evaluated output</a> by Neudecker, Capote, and Leeb
+  5. <a href="https://www.diva-portal.org/smash/get/diva2:1098683/FULLTEXT01.pdf">Assessment of Novel Techniques for Nuclear Data Evaluation</a> by Helgesson, Sjöstrand, Grosskopf, Smith, and Capote.
+
+
+     
+
 
