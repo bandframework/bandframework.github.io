@@ -21,7 +21,7 @@ If in-person attendance is impossible for you then let's discuss you participati
 12:10-1:45 Lunch<br>
 1:45-2:15 James de Boer (Notre Dame), <a href="../Dataworkshoptalks/DeBoer.pptx">"The Bayesian R-matrix Inference Code Kit"</a><br>
 2:15-2:45 Mark Paris (LANL), <a href="../Dataworkshoptalks/Paris.pptx">"Breakup reactions in R-matrix analyses"</a><br>
-2:45-3:15 Kyle Beyer (MSU/FRIB), "The Reduced Order Scattering Emulator"<br>
+2:45-3:15 Kyle Beyer (MSU/FRIB), <a href="../Dataworkshoptalks/Paris.pptx">"The Reduced Order Scattering Emulator"</a><br>
 3:15-3:45 Coffee<br>
 3:45-5:30 Discussion groups<br>
 6:30 Workshop Dinner
