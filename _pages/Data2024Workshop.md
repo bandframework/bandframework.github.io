@@ -45,7 +45,7 @@ Witek Nazarewicz (Michigan State/FRIB)<br>
 Filomena Nunes (Michigan State/FRIB)
 
 **Other resources**<br>
-- <a href="https://furnstahl.github.io/Physics-8820/about.html">"Learning from Data" course</a> developed by Christian Forssén, Dick Furnstahl, and Daniel Phillips.
+- <a href="https://buqeye.github.io/LearningFromData/about.html">"Learning from Data" course</a> developed by Christian Forssén, Dick Furnstahl, and Daniel Phillips.
 - <a href="https://lscsoft.docs.ligo.org/bilby/">Bilby: a user-friendly Bayesian Inference library</a> contains several sampler options. Examples are focused on gravitational-wave parameter estimation. 
 - The BAND collaboration's <a href="https://bandframework.github.io/software/">Software page</a>.
 - Selected articles on model discrepancy, both general and as applied in the context of Nuclear Data Evaluation:
