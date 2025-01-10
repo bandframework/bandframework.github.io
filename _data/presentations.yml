@@ -1,3 +1,29 @@
+- title: "An active learning performance model for parallel Bayesian calibration of expensive simulations"
+  image:
+  location: >
+    NeurIPS Workshop on Bayesian Decision-making and Uncertainty, Vancouver, Canada
+  date: >
+    December 14, 2024
+  presenter: Stefan Wild (Northwestern/LBNL)
+  link:
+    url: https://gp-seminar-series.github.io/neurips-2024/
+  highlight: 0
+  type: methodology
+  news2:
+ 
+ - title: "Performance analysis of sequential experimental design for calibration in parallel computing environments"
+  image:
+  location: >
+    SIAM Conference on Mathematics for Data Science, Atlanta, Georgia
+  date: >
+    December 14, 2024
+  presenter: Stefan Wild (Northwestern/LBNL)
+  link:
+    url: https://meetings.siam.org/sess/dsp_talk.cfm?p=140313
+  highlight: 0
+  type: methodology
+  news2: 
+
 - title: "Heterogeneous multi-output Gaussian process for noisy computer models"
   image:
   location: >
