@@ -43,9 +43,9 @@
   number_educ: 0
   education1:
 
-- name: John Yannotty
-  photo: Yannotty_John_headshot.jpg
-  info: Department of Statistics, <br> The Ohio State University
-  email: yannotty.1@osu.edu
-  number_educ: 0
-  education1:
+# - name: John Yannotty
+#   photo: Yannotty_John_headshot.jpg
+#   info: Department of Statistics, <br> The Ohio State University
+#   email: yannotty.1@osu.edu
+#   number_educ: 0
+#   education1:

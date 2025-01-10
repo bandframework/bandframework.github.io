@@ -69,10 +69,16 @@
   number_educ: 0
   education1:
 
-
 - name: Mookyong Son
   photo: Mookyong_Son.jpg
   info: Department of Statistics and Probability and FRIB, <br> Michigan State University
   email: sonmooky@msu.edu
+  number_educ: 0
+  education1:
+
+- name: John Yannotty
+  photo: Yannotty_John_headshot.jpg
+  info: Department of Statistics, <br> The Ohio State University
+  email: yannotty.1@osu.edu
   number_educ: 0
   education1:
