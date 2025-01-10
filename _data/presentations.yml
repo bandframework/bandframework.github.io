@@ -24,6 +24,58 @@
   type: methodology
   news2:
 
+- title: "An active learning performance model for parallel Bayesian calibration of expensive simulations"
+  image:
+  location: >
+    NeurIPS Workshop on Bayesian Decision-making and Uncertainty, Vancouver, Canada
+  date: >
+    December 14, 2024
+  presenter: Stefan Wild (Northwestern/LBNL)
+  link:
+    url: https://gp-seminar-series.github.io/neurips-2024/
+  highlight: 0
+  type: methodology
+  news2:
+ 
+ - title: "Performance analysis of sequential experimental design for calibration in parallel computing environments"
+  image:
+  location: >
+    SIAM Conference on Mathematics for Data Science, Atlanta, Georgia
+  date: >
+    December 14, 2024
+  presenter: Stefan Wild (Northwestern/LBNL)
+  link:
+    url: https://meetings.siam.org/sess/dsp_talk.cfm?p=140313
+  highlight: 0
+  type: methodology
+  news2: 
+
+- title: "From chiral EFT to perturbative QCD: a Bayesian model mixing approach to dense nuclear matter"
+  image:
+  location: >
+    Invited FRIB IRL-NPA workshop talk, Facility for Rare Isotope Beams
+  date: >
+    October 31, 2024
+  presenter: Alexandra Semposki (Ohio)
+  link:
+    url:
+  highlight: 0
+  type: physics
+  news2:
+
+- title: "From chiral EFT to perturbative QCD: a Bayesian model mixing approach to dense nuclear matter"
+  image:
+  location: >
+    Invited LANL T-2 (Theoretical Division) seminar, Los Alamos National Laboratory
+  date: >
+    August 20, 2024
+  presenter: Alexandra Semposki (Ohio)
+  link:
+    url:
+  highlight: 0
+  type: physics
+  news2:
+
 - title: "Heterogeneous multi-output Gaussian process for noisy computer models"
   image:
   location: >
@@ -35,6 +87,19 @@
     url: https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80715
   highlight: 0
   type: methodology
+  news2:
+
+- title: "Bridging the gap: a Bayesian model mixing approach to the dense matter equation of state"
+  image:
+  location: >
+    Invited UQNP24 workshop talk, Mainz Institute for Theoretical Physics, Germany
+  date: >
+    June 27, 2024
+  presenter: Alexandra Semposki (Ohio)
+  link:
+    url: https://indico.mitp.uni-mainz.de/event/356/timetable/#20240627
+  highlight: 0
+  type: physics
   news2:
 
 - title: "From chiral EFT to perturbative QCD: a Bayesian model mixing approach to symmetric nuclear matter"
