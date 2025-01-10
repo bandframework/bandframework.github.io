@@ -10,7 +10,7 @@
   highlight: 0
   type: methodology
   news2:
- 
+
 - title: "Performance analysis of sequential experimental design for calibration in parallel computing environments"
   image:
   location: >
@@ -22,7 +22,7 @@
     url: https://meetings.siam.org/sess/dsp_talk.cfm?p=140313
   highlight: 0
   type: methodology
-  news2: 
+  news2:
 
 - title: "Heterogeneous multi-output Gaussian process for noisy computer models"
   image:
