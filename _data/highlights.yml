@@ -70,4 +70,21 @@
   type: physics 
   display: 1 
 
+- title:  The Reduced Order Scattering Emulator 
+  description: >
+    The Reduced Order Scattering Emulator (ROSE) is a piece of the Bayesian Analysis of 
+    Nuclear Dynamics Software framework that enables full Bayesian analysis of nuclear reaction data. 
+    ROSE uses the Reduced Basis Method to dramatically reduce the
+    dimensions of the wavefunctions and operators that describe scattering. It's ability to efficiently 
+    and accurately solve  the Schrödinger equation as the parameters of the nuclear interaction governing the     
+    scattering greaty speeds up the calibration of nuclear reaction models. 
+
+  image: ROSE.png
+  contact: Pablo Giuliani (<giulianp@frib.msu.edu>) 
+  link:
+    pdf: ROSE.pdf
+    text: Click for one-page pdf highlight slide
+  type: methodology 
+  display: 1 
+
 
