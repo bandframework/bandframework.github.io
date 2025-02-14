@@ -37,6 +37,19 @@
   type: physics
   news2:
 
+- title: "Simulation experiment design for calibration via active learning"
+  image:
+  location: >
+    INFORMS Annual Meeting 2024, Seattle, WA
+  date: >
+    October 21, 2024
+  presenter: Özge Sürer (Miami)
+  link:
+    url:
+  highlight: 0
+  type: methodology
+  news2:
+
 - title: "From chiral EFT to perturbative QCD: a Bayesian model mixing approach to dense nuclear matter"
   image:
   location: >
