@@ -89,6 +89,19 @@
   type: physics
   news2:
 
+- title: "Sequential Bayesian experimental design for calibration of expensive simulation models"
+  image:
+  location: >
+    The Design and Analysis of Experiments Conference, Blacksburg, VA
+  date: >
+    May 15-17, 2024
+  presenter: Özge Sürer (Miami)
+  link:
+    url:
+  highlight: 0
+  type: methodology
+  news2:
+
 - title: "From chiral EFT to perturbative QCD: a Bayesian model mixing approach to symmetric nuclear matter"
   image:
   location: >
