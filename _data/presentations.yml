@@ -24,6 +24,19 @@
   type: methodology
   news2:
 
+- title: "An introduction to Bayesian statistics for nuclear physicists"
+  image:
+  location: >
+    10th Workshop on Information and Statistics in Nuclear Experiment and Theory
+  date: >
+    November 11, 2024
+  presenter: Daniel Phillips (Ohio)
+  link:
+    url: https://napp.fudan.edu.cn/event/757/
+  highlight: 0
+  type: methodology
+  news2:
+  
 - title: "From chiral EFT to perturbative QCD: a Bayesian model mixing approach to dense nuclear matter"
   image:
   location: >
@@ -100,6 +113,19 @@
     url:
   highlight: 0
   type: methodology
+  news2:
+
+- title: "Knowing What You Don't Know: Bayesian Uncertainty Quantification of Theoretical Uncertainties in Nuclear Physics"
+  image:
+  location: >
+    Ångstrom Colloquium, Physics Department, Lund University, Sweden
+  date: >
+    May 7, 2024
+  presenter: Daniel Phillips (Ohio)
+  link:
+    url:
+  highlight: 0
+  type: physics
   news2:
 
 - title: "From chiral EFT to perturbative QCD: a Bayesian model mixing approach to symmetric nuclear matter"
