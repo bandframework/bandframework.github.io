@@ -17,7 +17,17 @@
     display:  J. Phys. G 48, 072001 (2021)
   highlight: 1
   news2:
-
+  
+- title: "Bayesian mixture model approach to quantifying the empirical nuclear saturation point"
+  image: vi_ptmc_posteriors.png
+  description: >
+    Two different methods, Monte Carlo sampling and variational inference (VI), were used for Bayesian calibration of the effective-range parameters       in 3He–4He elastic scattering. The parameters were calibrated to data from a recent 3He–4He elastic scattering differential cross section              experiment. Analysis of these data for Elab ≤ 4.3 MeV yields a unimodal posterior for which both methods obtain the same structure. However, the       effective-range expansion amplitude does not account for the 7/2− state of 7Be so, even after calibration, the description of data at the upper        end of this energy range is poor. The data up to Elab = 2.6 MeV can be well described, but calibration to this lower-energy subset of the data         yields a bimodal posterior. After adapting VI to treat such a multi-modal posterior we find good agreement between the VI results and those            obtained with parallel-tempered Monte Carlo sampling.
+  authors: A. Burnelis, V. Kejzlar, D. R. Phillips
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1361-6471/ad9296
+    display: J. Phys. G 52, 015109 (2025)
+  highlight: 1
+  news2: 
 
 - title: "Bayesian mixture model approach to quantifying the empirical nuclear saturation point"
   image: nsat_figure.png
