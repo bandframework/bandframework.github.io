@@ -17,7 +17,18 @@
     display:  J. Phys. G 48, 072001 (2021)
   highlight: 1
   news2:
-  
+
+- title: "From chiral EFT to perturbative QCD: A Bayesian model mixing approach to symmetric nuclear matter"
+  image: joint_subplot_curvewise_priors.PNG
+  description: >
+    Constraining the equation of state (EOS) of strongly interacting, dense matter is the focus of intense experimental, observational, and theoretical effort. Chiral effective field theory (ChEFT) can describe the EOS between the typical densities of nuclei and those in the outer cores of neutron stars while perturbative QCD (pQCD) can be applied to properties of deconfined quark matter, both with quantified theoretical uncertainties. However, describing the full range of densities in between with a single EOS that has well-quantified uncertainties is a challenging problem. Bayesian multi-model inference from ChEFT and pQCD can help bridge the gap between the two theories. In this work, we introduce a correlated Bayesian model mixing framework that uses a Gaussian Process (GP) to assimilate different information into a single QCD EOS for symmetric nuclear matter. The present implementation uses a stationary GP to infer this mixed EOS solely from the EOSs of ChEFT and pQCD while accounting for the truncation errors of each theory. The GP is trained on the pressure as a function of number density in the low- and high-density regions where ChEFT and pQCD are, respectively, valid. We impose priors on the GP kernel hyperparameters to suppress unphysical correlations between these regimes. This, together with the assumption of stationarity, results in smooth ChEFT-to-pQCD curves for both the pressure and the speed of sound. We show that using uncorrelated mixing requires uncontrolled extrapolation of at least one of ChEFT or pQCD into regions where the perturbative series breaks down and leads to an acausal EOS. We also discuss extensions of this framework to non-stationary and less differentiable GP kernels, its future application to neutron-star matter, and the incorporation of additional constraints from nuclear theory, experiment, and multi-messenger astronomy.
+  authors: A. C. Semposki, C. Drischler, R. J. Furnstahl, J. A. Melendez, D. R. Phillips
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.111.035804
+    display: Phys. Rev. C 111, 035804 (2025)
+  highlight: 1
+  news2: 
+
 - title: "Variational inference of effective range parameters for 3He−4He scattering"
   image: vi_ptmc_posteriors.png
   description: >
