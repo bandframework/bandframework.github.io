@@ -968,3 +968,19 @@
     display:  Phys. Rev. C 103, 035502 (2021)
   highlight: 1
   news2:
+
+- title: "Nucleonic shells and nuclear masses"
+  image: shellgaps.png
+  description: >
+    The binding energy of an isotope is a sensitive indicator of the underlying shell structure as it reflects the net energy
+    content of a nucleus. Since magic nuclei are significantly lighter, or more bound, compared to their neighbors, the presence
+    of nucleonic shell structure makes an imprint on nuclear masses. In this work, using a carefully designed binding-energy
+    indicator, we catalog the appearance of spherical and deformed shell and subshell closures throughout the nuclear landscape.
+    After presenting experimental evidence for shell and subshell closures as seen through the lens of nuclear masses, we study
+    the ability of global nuclear mass models to predict local binding-energy variations related to shell effects. 
+  authors: L. Buskirk, K. Godbey, W. Nazarewicz, and W. Satula
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.109.044311
+    display:  Phys. Rev. C 109, 044311 (2024)
+  highlight: 1
+  news2:
