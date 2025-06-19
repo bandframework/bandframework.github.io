@@ -1010,7 +1010,8 @@
   image: Zr90_6Param_UIComparison.png
   description: >
     We revisit the comparison between the frequentist approach and the Bayesian calibration, testing different likelihood assumptions.
-    There is agreement for a simple linear model, but as the complexity of the physics model increase, and the number of parameters gets larger, the Bayesian approach proves to be more robust.
+    There is agreement for a simple linear model, but as the complexity of the physics model increase, and the number of 
+    parameters gets larger, the Bayesian approach proves to be more robust.
   authors: C.D. Pruitt, A.E. Lovell, C. Hebborn, F.M. Nunes
   link:
     url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.064606
@@ -1018,7 +1019,7 @@
   highlight: 1
   news2:
 
-  - title: "Uncertainty quantification in (p,n) reactions"
+- title: "Uncertainty quantification in (p,n) reactions"
   image: Ca_C.png
   description: >
      Charge-exchange reactions are versatile probes for nuclear structure. 
