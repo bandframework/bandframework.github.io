@@ -1007,7 +1007,7 @@
   news2:
 
 - title: "Role of the likelihood for elastic scattering uncertainty quantification"
-  image: likelihood.png
+  image: Zr90_6Param_UIComparison.png
   description: >
     We revisit the comparison between the frequentist approach and the Bayesian calibration, testing different likelihood assumptions.
     There is agreement for a simple linear model, but as the complexity of the physics model increase, and the number of parameters gets larger, the Bayesian approach proves to be more robust.
@@ -1019,7 +1019,7 @@
   news2:
 
   - title: "Uncertainty quantification in (p,n) reactions"
-  image: chex.png
+  image: Ca_C.png
   description: >
      Charge-exchange reactions are versatile probes for nuclear structure. 
      In particular, when populating isobaric analog states, these reactions are used to study isovector nuclear 
