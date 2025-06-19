@@ -1005,3 +1005,32 @@
     display:  Phys. Rev. C 109, 044311 (2024)
   highlight: 1
   news2:
+
+- title: "Role of the likelihood for elastic scattering uncertainty quantification"
+  image: likelihood.png
+  description: >
+    We revisit the comparison between the frequentist approach and the Bayesian calibration, testing different likelihood assumptions.
+    There is agreement for a simple linear model, but as the complexity of the physics model increase, and the number of parameters gets larger, the Bayesian approach proves to be more robust.
+  authors: C.D. Pruitt, A.E. Lovell, C. Hebborn, F.M. Nunes
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.064606
+    display:  Phys. Rev. C 110, 044311 (2024)
+  highlight: 1
+  news2:
+
+  - title: "Uncertainty quantification in (p,n) reactions"
+  image: chex.png
+  description: >
+     Charge-exchange reactions are versatile probes for nuclear structure. 
+     In particular, when populating isobaric analog states, these reactions are used to study isovector nuclear 
+     densities and neutron skins. The quality of the information extracted from charge-exchange data depends 
+     on the accuracy of the reaction models and their inputs. We quantify the uncertainties due to effective nucleon-nucleus 
+     interactions by propagating the parameter posterior distributions of the recent global optical model KDUQ.
+     We also perform a comparison between two- and three-body models that both describe the dynamics of the reaction 
+     within the DWBA.
+  authors: A.J. Smith, C. Hebborn, F.M. Nunes and R. Zegers
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.034602
+    display:  Phys. Rev. C 110, 034602 (2024)
+  highlight: 1
+  news2:
