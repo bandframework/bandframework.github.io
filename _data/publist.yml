@@ -40,6 +40,28 @@
   highlight: 1
   news2: 
 
+
+- title: "An active learning performance model for parallel Bayesian calibration of expensive simulations"
+  image: Figure_WS_2.jpg
+  description: >
+        Estimating parameters of simulation models based on observed data is an especially challenging task
+        when the computational expense of the model -- necessitated by faithfully capturing the real 
+        system -- limits the learning process. When simulation models are expensive to evaluate, 
+        emulators are often built to efficiently approximate model outputs during model calibration. 
+        Computing-informed active learning, guided by intelligent acquisition functions, can improve 
+        data collection for emulators, thereby enhancing the calibration's efficiency. 
+        However, the performance of active learning strategies depends on computational factors 
+        such as computing environment (e.g., parallel resources available), tradeoffs in 
+        (calibration and simulation) algorithm's ability to benefit from parallelism, and 
+        the computational expense of the simulation models. In addition to overviewing these 
+        considerations, this work provides examples exemplifying the tradeoffs that make such learning difficult.
+  authors: Özge Sürer, Stefan M. Wild
+  link:
+    url: https://openreview.net/pdf?id=1iWU1lqtbE
+    display: NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty
+  highlight: 1
+  news2: 
+
 - title: "Bayesian mixture model approach to quantifying the empirical nuclear saturation point"
   image: nsat_figure.png
   description: >
