@@ -18,6 +18,26 @@
   highlight: 1
   news2:
 
+- title: "Batch sequential experimental design for calibration of stochastic simulation models"
+  image: Figure1_batch.png
+  description: >
+    Calibration of expensive simulation models involves an emulator based on simulation outputs generated
+    across various parameter settings to replace the actual model. Noisy outputs of stochastic simulation 
+    models require many simulation evaluations to understand the complex input-output relationship effectively. 
+    Sequential design with an intelligent data collection strategy can improve the efficiency of the calibration process. 
+    The growth of parallel computing environments can further enhance calibration efficiency by enabling 
+    simultaneous evaluation of the simulation model at a batch of parameters within a sequential design. 
+    This article proposes novel criteria that determine if a new batch of simulation evaluations should be 
+    assigned to existing parameter locations or unexplored ones to minimize the uncertainty of posterior 
+    prediction. Analysis of several simulated models and real-data experiments from epidemiology demonstrates
+    that the proposed approach results in improved posterior predictions.
+  authors: Özge Sürer.
+  link:
+    url: https://doi.org/10.1080/00401706.2025.2520860
+    display:  Technometrics (2025)
+  highlight: 1
+  news2:
+
 - title: "From chiral EFT to perturbative QCD: A Bayesian model mixing approach to symmetric nuclear matter"
   image: joint_subplot_curvewise_priors.PNG
   description: >
