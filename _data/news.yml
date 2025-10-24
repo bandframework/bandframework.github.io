@@ -1,3 +1,7 @@
+- date: October 24, 2025
+  headline: >
+    Congratulations to BAND post-doc, Sunil Jaiswal, whose paper <a href="https://www.sciencedirect.com/science/article/pii/S037026932500704X?via%3Dihub">"Bayesian model-data comparison incorporating theoretical uncertainties"</a> is published in Physics Letters B. Sunil and his collaborators, Dick Furnstahl, Uli Heinz, Matt Pratola, and Chun Shen present a Bayesian framework that explicitly quantifies theoretical uncertainties by statistically modeling those errors, guided by qualitative knowledge of the theory’s domain of reliability. This markedly improves the robustness of parameter inference from data.
+    
 - date: September 30, 2025
   headline: >
     On August 11th and 12th the BAND collaboration gathered at the Dublin (Ohio) campus of Ohio University for the fifth annual BAND collaboration retreat. Updates on various BAND projects were presented, including by one of this year's BAND Fellows, Samuel Sullivan of the University of Surrey. The collaboration also discussed plans for the v0.5 release (scheduled for this Fall), and for a publication describing the framework (planned for the middle of next year).
