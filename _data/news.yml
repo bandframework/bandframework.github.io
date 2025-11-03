@@ -1,4 +1,8 @@
-- date: October 24, 2025
+- date: October 31, 2025
+  headline: >
+    BAND featured strongly at the <a href="https://indico.phy.anl.gov/event/58/overview">American Physical Society Division of Nuclear Physics meeting</a> that took place October 17-20 in Chicago, IL. BAND members Alexandra Semposki, Kyle Godbey, Frederi Viens, and Ozge Surer gave talks as part of the workshop <a href="https://schedule.aps.org/dnp/2025/events/1WJ">"Systematic and Model Uncertainties in Nuclear Experiment and Theory: new tools, techniques, and opportunities for collaboration"</a> while Filomena Nunes and Daniel Phillips presented contributed talks on uncertainty quantification in nuclear reaction theory.
+
+- date: October 24, 2025    
   headline: >
     Congratulations to BAND post-doc, Sunil Jaiswal, whose paper <a href="https://www.sciencedirect.com/science/article/pii/S037026932500704X?via%3Dihub">"Bayesian model-data comparison incorporating theoretical uncertainties"</a> is published in Physics Letters B. Sunil and his collaborators, Dick Furnstahl, Uli Heinz, Matt Pratola, and Chun Shen present a Bayesian framework that explicitly quantifies theoretical uncertainties by statistically modeling those errors, guided by qualitative knowledge of the theory’s domain of reliability. This markedly improves the robustness of parameter inference from data.
     
