@@ -1077,3 +1077,22 @@
     display:  Phys. Rev. C 110, 034602 (2024)
   highlight: 1
   news2:
+
+- title: "Extraction of ground-state nuclear deformations from ultrarelativistic heavy-ion collisions: Nuclear structure physics context"
+  image: structure.png
+  description: >
+     The collective-flow-assisted nuclear shape-imaging method in ultrarelativistic heavy-ion collisions (UHICs)
+     has recently been used to characterize nuclear collective states. In this paper, we assess the foundations of
+     the shape-imaging technique employed in these studies. We argue that some current UHIC nuclear imaging techniques
+     neglect fundamental aspects of spontaneous symmetry breaking and symmetry restoration in colliding ions and
+     incorrectly infer one-body multipole moments from studies of nucleonic correlations. Therefore, the impact of this
+     approach on nuclear structure research has been overstated. Conversely, efforts to incorporate existing knowledge on
+     nuclear shapes into analysis pipelines can be beneficial for benchmarking tools and calibrating models used to extract
+     information from ultrarelativistic heavy-ion experiments.
+  authors: J. Dobaczewski, A. Gade, K. Godbey, R. V. F. Janssens, and W. Nazarewicz
+
+  link:
+    url: https://journals.aps.org/prresearch/abstract/10.1103/kngg-1ccb
+    display:  Phys. Rev. Research 7, 043159 (2025)
+  highlight: 1
+  news2:
