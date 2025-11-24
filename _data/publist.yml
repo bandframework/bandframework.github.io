@@ -35,6 +35,25 @@
   highlight: 1
   news2:
 
+
+- title: "Extraction of ground-state nuclear deformations from ultrarelativistic heavy-ion collisions: Nuclear structure physics context"
+  image: structure.png
+  description: >
+     The collective-flow-assisted nuclear shape-imaging method in ultrarelativistic heavy-ion collisions (UHICs)
+     has recently been used to characterize nuclear collective states. In this paper, we assess the foundations of
+     the shape-imaging technique employed in these studies. We argue that some current UHIC nuclear imaging techniques
+     neglect fundamental aspects of spontaneous symmetry breaking and symmetry restoration in colliding ions and
+     incorrectly infer one-body multipole moments from studies of nucleonic correlations. Therefore, the impact of this
+     approach on nuclear structure research has been overstated. Conversely, efforts to incorporate existing knowledge on
+     nuclear shapes into analysis pipelines can be beneficial for benchmarking tools and calibrating models used to extract
+     information from ultrarelativistic heavy-ion experiments.
+  authors: J. Dobaczewski, A. Gade, K. Godbey, R. V. F. Janssens, and W. Nazarewicz
+  link:
+    url: https://journals.aps.org/prresearch/abstract/10.1103/kngg-1ccb
+    display:  Phys. Rev. Research 7, 043159 (2025)
+  highlight: 1
+  news2:
+
 - title: "Batch sequential experimental design for calibration of stochastic simulation models"
   image: Figure1_batch.png
   description: >
@@ -52,6 +71,18 @@
   link:
     url: https://doi.org/10.1080/00401706.2025.2520860
     display:  Technometrics (2025)
+  highlight: 1
+  news2:
+
+- title: "Systematic study of the validity of the eikonal model including uncertainties"
+  image: eikonal.png
+  description: >
+     We perform a systematic study to test the validity of the eikonal approximation for nucleon-nucleus reactions and determine regions of validity for the approximation.
+     We also quantify uncertainties due to the nucleon optical potential on the reaction observables.
+  authors: D. Shiu, C. Hebborn, and F.M. Nunes
+  link:
+    url: https://link.aps.org/doi/10.1103/xhgl-d14x
+    display:  Phys. Rev. C 112, 054609 (2025)
   highlight: 1
   news2:
 
@@ -141,7 +172,21 @@
   highlight: 1
   news2: 
 
-
+- title: "Nucleonic shells and nuclear masses"
+  image: shellgaps.png
+  description: >
+    The binding energy of an isotope is a sensitive indicator of the underlying shell structure as it reflects the net energy
+    content of a nucleus. Since magic nuclei are significantly lighter, or more bound, compared to their neighbors, the presence
+    of nucleonic shell structure makes an imprint on nuclear masses. In this work, using a carefully designed binding-energy
+    indicator, we catalog the appearance of spherical and deformed shell and subshell closures throughout the nuclear landscape.
+    After presenting experimental evidence for shell and subshell closures as seen through the lens of nuclear masses, we study
+    the ability of global nuclear mass models to predict local binding-energy variations related to shell effects. 
+  authors: L. Buskirk, K. Godbey, W. Nazarewicz, and W. Satula
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.109.044311
+    display:  Phys. Rev. C 109, 044311 (2024)
+  highlight: 1
+  news2:
 
 - title: "Assessing correlated truncation errors in modern nucleon-nucleon potentials"
   image: SGT_0degrees_truncation_error_credible_intervals_SMS_500MeV_Qsum_prel_6_10_allenergy1_Qofprel_mpi200.png
@@ -219,6 +264,36 @@
   highlight: 1
   news2:
 
+- title: "Role of the likelihood for elastic scattering uncertainty quantification"
+  image: Zr90_6Param_UIComparison.png
+  description: >
+    We revisit the comparison between the frequentist approach and the Bayesian calibration, testing different likelihood assumptions.
+    There is agreement for a simple linear model, but as the complexity of the physics model increase, and the number of 
+    parameters gets larger, the Bayesian approach proves to be more robust.
+  authors: C.D. Pruitt, A.E. Lovell, C. Hebborn, F.M. Nunes
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.064606
+    display:  Phys. Rev. C 110, 044311 (2024)
+  highlight: 1
+  news2:
+
+- title: "Uncertainty quantification in (p,n) reactions"
+  image: Ca_C.png
+  description: >
+     Charge-exchange reactions are versatile probes for nuclear structure. 
+     In particular, when populating isobaric analog states, these reactions are used to study isovector nuclear 
+     densities and neutron skins. The quality of the information extracted from charge-exchange data depends 
+     on the accuracy of the reaction models and their inputs. We quantify the uncertainties due to effective nucleon-nucleus 
+     interactions by propagating the parameter posterior distributions of the recent global optical model KDUQ.
+     We also perform a comparison between two- and three-body models that both describe the dynamics of the reaction 
+     within the DWBA.
+  authors: A.J. Smith, C. Hebborn, F.M. Nunes and R. Zegers
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.034602
+    display:  Phys. Rev. C 110, 034602 (2024)
+  highlight: 1
+  news2:
+
 - title: "ROSE: A reduced-order scattering emulator for optical models"
   image: cat_plot.png
   description: >
@@ -255,7 +330,6 @@
     display: Technometrics (2024)
   highlight: 1
   news2:
-
 
 - title: "Effective field theory for the bound states and scattering of a heavy charged particle and a neutral atom"
   image: flocking.png
@@ -1046,83 +1120,5 @@
   link:
     url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.035502
     display:  Phys. Rev. C 103, 035502 (2021)
-  highlight: 1
-  news2:
-
-- title: "Nucleonic shells and nuclear masses"
-  image: shellgaps.png
-  description: >
-    The binding energy of an isotope is a sensitive indicator of the underlying shell structure as it reflects the net energy
-    content of a nucleus. Since magic nuclei are significantly lighter, or more bound, compared to their neighbors, the presence
-    of nucleonic shell structure makes an imprint on nuclear masses. In this work, using a carefully designed binding-energy
-    indicator, we catalog the appearance of spherical and deformed shell and subshell closures throughout the nuclear landscape.
-    After presenting experimental evidence for shell and subshell closures as seen through the lens of nuclear masses, we study
-    the ability of global nuclear mass models to predict local binding-energy variations related to shell effects. 
-  authors: L. Buskirk, K. Godbey, W. Nazarewicz, and W. Satula
-  link:
-    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.109.044311
-    display:  Phys. Rev. C 109, 044311 (2024)
-  highlight: 1
-  news2:
-
-- title: "Role of the likelihood for elastic scattering uncertainty quantification"
-  image: Zr90_6Param_UIComparison.png
-  description: >
-    We revisit the comparison between the frequentist approach and the Bayesian calibration, testing different likelihood assumptions.
-    There is agreement for a simple linear model, but as the complexity of the physics model increase, and the number of 
-    parameters gets larger, the Bayesian approach proves to be more robust.
-  authors: C.D. Pruitt, A.E. Lovell, C. Hebborn, F.M. Nunes
-  link:
-    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.064606
-    display:  Phys. Rev. C 110, 044311 (2024)
-  highlight: 1
-  news2:
-
-- title: "Uncertainty quantification in (p,n) reactions"
-  image: Ca_C.png
-  description: >
-     Charge-exchange reactions are versatile probes for nuclear structure. 
-     In particular, when populating isobaric analog states, these reactions are used to study isovector nuclear 
-     densities and neutron skins. The quality of the information extracted from charge-exchange data depends 
-     on the accuracy of the reaction models and their inputs. We quantify the uncertainties due to effective nucleon-nucleus 
-     interactions by propagating the parameter posterior distributions of the recent global optical model KDUQ.
-     We also perform a comparison between two- and three-body models that both describe the dynamics of the reaction 
-     within the DWBA.
-  authors: A.J. Smith, C. Hebborn, F.M. Nunes and R. Zegers
-  link:
-    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.034602
-    display:  Phys. Rev. C 110, 034602 (2024)
-  highlight: 1
-  news2:
-
-  - title: "Systematic study of the validity of the eikonal model including uncertainties"
-  image: eikonal.png
-  description: >
-     We perform a systematic study to test the validity of the eikonal approximation for nucleon-nucleus reactions and determine regions of validity for the approximation.
-     We also quantify uncertainties due to the nucleon optical potential on the reaction observables.
-  authors: D. Shiu, C. Hebborn, and F.M. Nunes
-  link:
-    url: https://link.aps.org/doi/10.1103/xhgl-d14x
-    display:  Phys. Rev. C 112, 054609 (2025)
-  highlight: 1
-  news2:
-
-
-- title: "Extraction of ground-state nuclear deformations from ultrarelativistic heavy-ion collisions: Nuclear structure physics context"
-  image: structure.png
-  description: >
-     The collective-flow-assisted nuclear shape-imaging method in ultrarelativistic heavy-ion collisions (UHICs)
-     has recently been used to characterize nuclear collective states. In this paper, we assess the foundations of
-     the shape-imaging technique employed in these studies. We argue that some current UHIC nuclear imaging techniques
-     neglect fundamental aspects of spontaneous symmetry breaking and symmetry restoration in colliding ions and
-     incorrectly infer one-body multipole moments from studies of nucleonic correlations. Therefore, the impact of this
-     approach on nuclear structure research has been overstated. Conversely, efforts to incorporate existing knowledge on
-     nuclear shapes into analysis pipelines can be beneficial for benchmarking tools and calibrating models used to extract
-     information from ultrarelativistic heavy-ion experiments.
-  authors: J. Dobaczewski, A. Gade, K. Godbey, R. V. F. Janssens, and W. Nazarewicz
-
-  link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/kngg-1ccb
-    display:  Phys. Rev. Research 7, 043159 (2025)
   highlight: 1
   news2:
