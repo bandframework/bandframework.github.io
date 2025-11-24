@@ -18,6 +18,23 @@
   highlight: 1
   news2:
 
+- title: "Bayesian model-data comparison incorporating theoretical uncertainties"
+  image: MD_ball-drop_posterior.PNG
+  description: >
+    Accurate comparisons between theoretical models and experimental data are critical for scientific progress. However, inferred
+    physical model parameters can vary significantly with the chosen physics model, highlighting the importance of properly accounting
+    for theoretical uncertainties. In this Letter, we present a Bayesian framework that explicitly quantifies these uncertainties by
+    statistically modeling theory errors, guided by qualitative knowledge of a theory’s varying reliability across the input domain.
+    We demonstrate the effectiveness of this approach using two systems: a simple ball drop experiment and multi-stage heavy-ion
+    simulations. In both cases incorporating model discrepancy leads to improved parameter estimates, with systematic improvements
+    observed as additional experimental observables are integrated.
+  authors: Sunil Jaiswal, Chun Shen, Richard J. Furnstahl, Ulrich Heinz, Matthew T. Pratola.
+  link:
+    url: https://doi:10.1016/j.physletb.2025.139946
+    display:  Phys. Lett. B 870, 139946 (2025)
+  highlight: 1
+  news2:
+
 - title: "Batch sequential experimental design for calibration of stochastic simulation models"
   image: Figure1_batch.png
   description: >
