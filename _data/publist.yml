@@ -1095,6 +1095,19 @@
   highlight: 1
   news2:
 
+  - title: "Systematic study of the validity of the eikonal model including uncertainties"
+  image: eikonal.png
+  description: >
+     We perform a systematic study to test the validity of the eikonal approximation for nucleon-nucleus reactions and determine regions of validity for the approximation.
+     We also quantify uncertainties due to the nucleon optical potential on the reaction observables.
+  authors: D. Shiu, C. Hebborn, and F.M. Nunes
+  link:
+    url: https://link.aps.org/doi/10.1103/xhgl-d14x
+    display:  Phys. Rev. C 112, 054609 (2025)
+  highlight: 1
+  news2:
+
+
 - title: "Extraction of ground-state nuclear deformations from ultrarelativistic heavy-ion collisions: Nuclear structure physics context"
   image: structure.png
   description: >
