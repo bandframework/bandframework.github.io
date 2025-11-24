@@ -34,8 +34,7 @@
     display:  Phys. Lett. B 870, 139946 (2025)
   highlight: 1
   news2:
-
-
+  
 - title: "Extraction of ground-state nuclear deformations from ultrarelativistic heavy-ion collisions: Nuclear structure physics context"
   image: structure.png
   description: >
@@ -51,6 +50,42 @@
   link:
     url: https://journals.aps.org/prresearch/abstract/10.1103/kngg-1ccb
     display:  Phys. Rev. Research 7, 043159 (2025)
+  highlight: 1
+  news2:
+
+- title: "Emulators for Scarce and Noisy Data: Application to Auxiliary-Field Diffusion Monte Carlo for Neutron Matter"
+  image: PMMNM.png
+  description: >
+    Understanding the equation of state (EOS) of pure neutron matter is necessary for interpreting multimessenger observations of 
+    neutron stars. Reliable data analyses of these observations require well-quantified uncertainties for the EOS input. This, however, 
+    requires calculations of the EOS for a prohibitively larger number of nuclear Hamiltonians, solving the nuclear many-body problem for 
+    each one. Quantum Monte Carlo methods, such as auxiliary-field diffusion Monte Carlo (AFDMC), provide precise and accurate results for 
+    the neutron matter EOS, but they are very computationally expensive, making them unsuitable for the fast evaluations necessary for 
+    uncertainty propagation. Here, we employ parametric matrix models to develop fast emulators for AFDMC calculations of neutron matter 
+    and use them to directly propagate uncertainties of coupling constants in the Hamiltonian to the EOS. This approach provides robust 
+    uncertainty estimates for use in astrophysical data analyses, so enabling novel applications such as using astrophysical observations to 
+    put constraints on coupling constants for nuclear interactions.
+  authors: Cassandra L. Armstrong, Pablo Giuliani, Kyle Godbey, Rahul Somasundaram, and Ingo Tews.
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/9928-wyjm#f3
+    display:  Phys. Rev. Lett. 135, 142501 (2025)
+  highlight: 1
+  news2:
+
+- title: "Emulators for scarce and noisy data: Application to auxiliary field diffusion Monte Carlo for the deuteron"
+  image: DeutPMM.jpg
+  description: >
+    The validation, verification, and uncertainty quantification of computationally expensive theoretical models of quantum many-body 
+    systems require the construction of fast and accurate emulators. In this work, we develop emulators for auxiliary field diffusion 
+    Monte Carlo (AFDMC), a powerful many-body method for nuclear systems. We introduce a reduced-basis method (RBM) emulator for AFDMC 
+    and study it in the simple case of the deuteron. Furthermore, we compare our RBM emulator with the recently proposed parametric matrix 
+    model (PMM). We contrast these two approaches with a traditional Gaussian Process emulator. All three emulators constructed here are 
+    based on a very limited set of 5 training points, as expected for realistic AFDMC calculations, but validated against about 1000 exact solutions. 
+    We find that the PMM outperforms our implementation of the other two emulators when applied to AFDMC.
+  authors: Rahul Somasundaram, Cassandra L. Armstrong, Pablo Giuliani, Kyle Godbey, Stefano Gandolfi, and Ingo Tews.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0370269325003193#ac0010
+    display:  Phys. Lett. B 866, 139558 (2025)
   highlight: 1
   news2:
 
