@@ -135,6 +135,27 @@
     display: Phys. Rev. C 111, 035804 (2025)
   highlight: 1
   news2:
+  
+- title: "Bayesian analysis of nucleon-nucleon scattering data in pionless effective field theory"
+  image: Deutobservables.png
+  description: >
+    We perform Bayesian model calibration of two-nucleon (𝑁⁢𝑁) low-energy constants (LECs) appearing 
+    in an 𝑁⁢𝑁 interaction based on pionless effective field theory. The calibration is carried out for 
+    potentials constructed using naive dimensional analysis in 𝑁⁢𝑁 relative momenta (𝑝) up to 
+    next-to-leading order [NLO] and next-to-next-to-next-to-leading order [N⁢3⁢LO]. We consider two 
+    classes of  potential: one that acts in all partial waves and another that is dominated by 
+    𝑠-wave physics. The two classes produce broadly similar results for calibrations to 𝑁⁢𝑁 data 
+    up to 𝐸_{lab}=5 MeV. Our analysis accounts for the correlated uncertainties that arise from 
+    the truncation of the EFT. We simultaneously estimate both the EFT LECs and the EFT breakdown 
+    scale, Λ𝑏: the 95% intervals are Λ𝑏 ∈ [50,63] MeV at NLO and Λ𝑏 ∈ [72,88] MeV at N3LO. 
+    Invoking naive dimensional analysis for the 𝑁⁢𝑁 potential therefore does not lead to consistent 
+    results across orders.
+  authors: J. M. Bub, M. Piarulli, R. J. Furnstahl, S. Pastore, and D. R. Phillips
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.111.034005
+    display: Phys. Rev. C 111, 034005 (2025)
+  highlight: 1
+  news2:
 
 - title: "Systematic study of the propagation of uncertainties to transfer observables"
   image: transfer-uq-nunes.jpg
