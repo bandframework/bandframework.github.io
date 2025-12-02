@@ -116,4 +116,15 @@
     url: https://github.com/bandframework/bandframework/tree/main/software/SmoothEmulator/doc/UserManual.pdf
     display:  Documentation
   compatible: https://github.com/bandframework/bandframework/tree/main/software/SmoothEmulator/doc/UserManual.pdf
-  authors: S.Pratt and O.Savchuk
+  authors: S. Pratt and O. Savchuk
+
+- name: LCGP
+  imageurl: /images/logopic/logo_lcgp.png
+  info: > 
+    A Python emulator strategy for stochastic high-dimensional simulation outputs.
+  link:
+    url: https://github.com/mosesyhc/lcgp
+    display:  LCGP repository
+  compatible: https://github.com/mosesyhc/LCGP/blob/693ae7aef55b6e2cc209654368633a0135e989d2/lcgp-bandsdk.md
+  authors: M. Y-H. Chan
+
