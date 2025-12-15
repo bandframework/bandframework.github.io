@@ -1,3 +1,29 @@
+- title: "Bayesian framework for model-data comparison with theoretical uncertainty quantification"
+  image:
+  location: >
+    ISNET-11: Information and Statistics in Nuclear Experiment and Theory, Trento, Italy
+  date: >
+    November 18, 2025
+  presenter: Sunil Jaiswal (OSU)
+  link:
+    url: https://indico.ectstar.eu/event/247/contributions/6590/attachments/4089/5925/ISNET11_Jaiswal.pdf
+  highlight: 0
+  type: methodology
+  news2:
+  
+- title: "Phenomenological constraints on transport properties of QCD matter with quantified theoretical uncertainties"
+  image:
+  location: >
+    India-JINR Workshop on Particle, Nuclear, Neutrino Physics and Astrophysics, NISER, India
+  date: >
+    November 12, 2025
+  presenter: Sunil Jaiswal (OSU)
+  link:
+    url: https://indico.niser.ac.in/event/3/contributions/184/attachments/95/142/India-JINR_SJ.pdf
+  highlight: 0
+  type: physics
+  news2:
+  
 - title: "An active learning performance model for parallel Bayesian calibration of expensive simulations"
   image:
   location: >
@@ -50,6 +76,19 @@
   type: physics
   news2:
 
+- title: "Improved heavy-ion model emulators and Bayesian framework to model theoretical uncertainties"
+  image:
+  location: >
+    Hydrodynamics and related observables in heavy-ion collisions workshop, Subatech / IMT-Atlantique, France
+  date: >
+    October 28, 2024
+  presenter: Sunil Jaiswal (OSU)
+  link:
+    url: https://indico.in2p3.fr/event/32630/contributions/144215/attachments/88115/133179/suniljaiswal_IMT_Nantes.pdf
+  highlight: 0
+  type: physics
+  news2:
+  
 - title: "Simulation experiment design for calibration via active learning"
   image:
   location: >
@@ -102,6 +141,19 @@
   type: physics
   news2:
 
+- title: "Bayesian methods and uncertainty quantification in heavy-ion physics"
+  image:
+  location: >
+    UQNP24 workshop talk, Mainz Institute for Theoretical Physics, Germany
+  date: >
+    June 27, 2024
+  presenter: Sunil Jaiswal (OSU)
+  link:
+    url: https://indico.mitp.uni-mainz.de/event/356/contributions/4909/attachments/3576/4636/Jaiswal_UQNP.pdf
+  highlight: 0
+  type: physics
+  news2:
+  
 - title: "Sequential Bayesian experimental design for calibration of expensive simulation models"
   image:
   location: >
