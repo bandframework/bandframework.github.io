@@ -26,8 +26,8 @@
       The SAndbox for Mixing using Bayesian Analysis, developed as a testing
       ground for multivariate model mixing on a toy model setup.
   link:
-    url: https://github.com/asemposki/SAMBA
-    display:  SAMBA repository
+    url: https://asemposki.github.io/SAMBA/
+    display:  SAMBA documentation
   compatible: submodules/bandframework/software/SAMBA/SAMBAbandsdk.md
   authors: A. C. Semposki, R. J. Furnstahl, D. R. Phillips
 
