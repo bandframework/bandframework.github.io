@@ -153,7 +153,22 @@
   highlight: 0
   type: physics
   news2:
-  
+ 
+
+- title: "Overview of Uncertainty Quantification for Nuclear Physics"
+  image:
+  location: >
+    UQNP24 workshop talk, Mainz Institute for Theoretical Physics, Germany
+  date: >
+    June 26, 2024
+  presenter: Dick Furnstahl (OSU)
+  link:
+    url: https://go.osu.edu/mitp2024
+  highlight: 0
+  type: methodology
+  news2:
+
+
 - title: "Sequential Bayesian experimental design for calibration of expensive simulation models"
   image:
   location: >
