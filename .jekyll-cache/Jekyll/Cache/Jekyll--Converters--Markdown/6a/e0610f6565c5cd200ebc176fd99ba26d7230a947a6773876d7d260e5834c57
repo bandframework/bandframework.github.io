@@ -1,0 +1,708 @@
+I"�m<h1 id="top">BAND Members, Collaborators, and Advisory Board</h1>
+
+<p><b>Jump to: </b>
+<a href="#SeniorInvestigators" class="bandbutton">Senior Investigators</a>
+<a href="#BANDResearchers" class="bandbutton">BAND Researchers</a>
+<a href="#GraduateStudents" class="bandbutton">Graduate Students</a>
+<a href="#Collaborators" class="bandbutton">Collaborators</a>
+<a href="#AdvisoryBoard" class="bandbutton">Advisory Board</a></p>
+
+<!--
+<a href="#graduate-students" class="btn btn-primary">Graduate Students</a>
+-->
+
+<h2 id="band-leader">BAND Leader</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/phillips_cropped.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Daniel Phillips</h4>
+    <p><i>Professor of Physics &amp; Astronomy, Ohio University<br />email: <a href="mailto:phillid1@ohio.edu">phillid1@ohio.edu</a></i></p>
+    <p>Dr. Phillips has been applying Bayesian methods to nuclear-physics problems for more  than ten years. He is particularly interested in using Bayesian methods to quantify  the uncertainty in effective field theory (EFT) treatments of nuclear physics.  Together with Dick Furnstahl he founded the  <a href="https://buqeye.github.io/">BUQEYE collaboration</a>, which aims to use  statistical tools to answer fundamental problems in the construction and application  of EFTs, with particular attention to low-energy nuclear physics. This includes  Bayesian parameter estimation, model checking, model selection, and experimental design.  Phillips is the Principal Investigator of the BAND collaboration. 
+</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<p><a name="SeniorInvestigators"> </a></p>
+<hr />
+
+<h2 id="senior-investigators">Senior Investigators</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/furnstahl2_21Jun2017_headshot.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Dick Furnstahl</h4>
+    <p><i>Professor of Physics, The Ohio State University<br />email: <a href="mailto:furnstahl.1@osu.edu">furnstahl.1@osu.edu</a></i></p>
+    <p>Dr. Furnstahl is a theoretical nuclear physicist specializing in the application of effective field theory (EFT) and renormalization group methods to low-energy nuclear structure and reactions. He has been applying Bayesian methods to nuclear-physics problems for many years.  Together with Daniel Phillips he founded the <a href="https://buqeye.github.io/">BUQEYE collaboration</a>, which aims to use statistical tools to answer fundamental problems in the construction and application of EFTs, with particular attention to low-energy nuclear physics. This includes Bayesian parameter estimation, model checking, model selection, and experimental design.
+</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/UH_cropped.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Ulrich Heinz</h4>
+    <p><i>Distinguished University Professor of Physics, <br /> The Ohio State University<br />email: <a href="mailto:heinz.9@osu.edu">heinz.9@osu.edu</a></i></p>
+    <p>Dr. Heinz has been applying Bayesian methods for years to the calibration of large numerical models for the dynamical evolution of highly excited  forms of nuclear matter created in ultra-relativistic heavy-ion collisions. His interests focus in particular on the quantitative extraction of information on the initial state and medium properties of quark-gluon plasma produced in such collisions. Within BAND he hopes to achieve unprecedented predictive power through full theoretical and experimental uncertainty quantification on quark-gluon plasma properties.
+</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/taps-maiti_2.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Taps Maiti</h4>
+    <p><i>Professor, Department of Statistics &amp; Probability, <br /> Michigan State University Foundation Professor, <br /> Michigan State University<br />email: <a href="mailto:maiti@msu.edu">maiti@msu.edu</a></i></p>
+    <p>Dr. Maiti’s research expertise is in statistical theory and methods with a focus on applications to real-life data. He is developing cutting-edge statistical theory and methods encompassing diverse research fields in biomedical engineering, genetics, nuclear physics, imaging, computational modeling, uncertainty quantifications with specific emphasis on artificial intelligence and machine learning for solving complex data science problems.  He is a Fellow of the American Statistical Association (ASA) and the Institute of Mathematical Statistics (IMS).
+</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/witek.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Witek Nazarewicz</h4>
+    <p><i>FRIB Chief Scientist and Hannah Distinguished Professor, Michigan State University<br />email: <a href="mailto:witek@frib.msu.edu">witek@frib.msu.edu</a></i></p>
+    <p>Dr. Nazarewicz is a nuclear theorist. His research invites a strong interaction between nuclear physics, many-body problem, high-performance computing, and statistics.  He has been applying statistical methods of uncertainty quantification to nuclear-physics problems for more than ten years. Most of his statistical work pertains to nuclear density functional theory. It includes various applications of parameter estimation, principal component analysis, correlation analysis, Bayesian model calibration, and model averaging and mixing - especially in the context of the science program of the Facility for Rare Isotope Beams at MSU.  He is particularly interested in using Bayesian model averaging and model mixing to quantify the uncertainty of nuclear models extrapolations.
+</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/nunes.png" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Filomena Nunes</h4>
+    <p><i>Professor of Physics and FRIB Theory Alliance Managing Director, Michigan State University<br />email: <a href="mailto:nunes@frib.msu.edu">nunes@frib.msu.edu</a></i></p>
+    <p>Dr. Nunes is interested in using reactions to address big questions in our field, such as where are the limits of stability, how does matter organize itself and where did heavy matter come from? While some of her work focuses on developing models for reactions with exotic unstable nuclei, another important theme relates to uncertainty quantification, model comparison and experimental design. The few-body methods used rely on effective potentials between constituents that are not well known and thus are the main source of uncertainty in current reaction models. Her group uses Bayesian statistical tools to quantify the uncertainty of the model predictions, to discriminate between models and help in identifying the optimum conditions for an experiment. More details at <a href="https://people.nscl.msu.edu/~nunes">people.nscl.msu.edu/~nunes</a>
+</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/plumlee-matthew.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Matt Plumlee</h4>
+    <p><i>Assistant Professor of Industrial Engineering and Management Sciences, Northwestern University<br />email: <a href="mailto:mplumlee@northwestern.edu">mplumlee@northwestern.edu</a></i></p>
+    <p>Dr. Plumlee studies statistical methodology with a specific focus on uncertainty quantification for expensive computational models.  This includes the development and deployment of statistical learning tools in high dimensional environments.   Statistical procedures of scientific interest include model emulation, parameter estimation, discrepancy detection and correction.  Specific interests lie in large-scale implementations and well-justified uncertainty quantification of estimates.  Within BAND, his role will be in the design, use, and implementation of cutting edge statistical tools to solve complicated nuclear physics problems n the presence of multiple models.
+</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/matt_pratola.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Matt Pratola</h4>
+    <p><i>Associate Professor of Statistics, <br /> The Ohio State University<br />email: <a href="mailto:mpratola@stat.osu.edu">mpratola@stat.osu.edu</a></i></p>
+    <p>Dr. Pratola’s research program is focused on two areas of statistical methodology: (1) statistical models and methodology for calibrating complex simulation models to real-world observations for parameter estimation, prediction and uncertainty quantification; and (2) statistical models and methodology for computationally scalable and flexible Bayesian non-parametric regression models for high-dimensional “big data” and parallel computation.  His work is motivated by applied collaborations and has worked with researchers at the National Center for Atmospheric Research, Los Alamos National Laboratories, the Biocomplexity Institute of Virginia Tech, King Abdullah University of Science and Technology and the JADS Institute.  You can follow his research at <a href="http://www.matthewpratola.com">www.matthewpratola.com</a> or on twitter @MattPratola.
+</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/scott_2009.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Scott Pratt</h4>
+    <p><i>Professor, Theoretical Nuclear Physics, National Superconducting Cyclotron Laboratory, <br /> Michigan State University<br />email: <a href="mailto:prattsc@msu.edu">prattsc@msu.edu</a></i></p>
+    <p>Dr. Pratt is a theoretical nuclear physicist specializing in the theory, phenomenology and modeling of relativistic heavy-ion collisions. The main goal of Dr. Pratt’s research is to extract bulk properties of the quark-gluon plasma (QGP) by advancing theory and modeling, and comparing models to data from the Relativistic Heavy Ion Collider at Brookhaven National Lab and from the heavy ion program at the LHC. To that end, he has spearheaded efforts to develop strategies involving model emulators based on Bayesian statistics to constrain fundamental properties of the QGP, such as the equation of state, from experiment.
+</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/OzgeSurer_cropped.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Özge Sürer</h4>
+    <p><i>Assistant Professor of Analytics, <br /> Miami University<br />email: <a href="mailto:surero@miamioh.edu">surero@miamioh.edu</a></i></p>
+    <p>Dr. Sürer’s research interests are to develop approaches encompassing statistical learning, data analytics, and optimization to address data-related problems in different domains such as healthcare and nuclear physics. In BAND, she develops tools and techniques relying on Bayesian statistical learning to predict the future behavior of physical systems with well-quantified uncertainties. She is also passionate about producing open source scientific software. You can follow her research at <a href="https://ozgesurer.github.io">https://ozgesurer.github.io</a> or on twitter @ozgesrr.
+</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/frederi-viens.2018.3960medres_cropped.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Frederi Viens</h4>
+    <p><i>Professor  of Statistics &amp; Probability, <br /> Michigan State University; Professor of Statistics, <br /> Rice University.<br />email: &lt;viens@msu.edu  viens@rice.edu&gt;</i></p>
+    <p>Dr. Viens’s core training is in probability theory and stochastic processes.  He has been applying Bayesian methods to many areas of science for more than twenty years,  from climate science, to agricultural economics, and to quantitative finance. In nuclear physics,  he is particularly interested in using Bayesian methods to assess the efficiency and honesty of  uncertainty quantification for extrapolating measurables in the nuclear landscape,  and to develop more efficient numerical implementations. Together with his MSU BAND colleagues,  he is working on systematic principles for Bayesian model mixing in the presence of varied nuclear  models, where improved predictive power is the goal. He is also interested in orienting his  BAND collaborators towards a data-informed framework of optimal experimental design based on  experiment costs, likelihood of discovery, impact of discovery, and risk preferences.  In his roles at MSU, Dr. Viens has helped operate and direct several educational and research  programs related to data science, including Actuarial Science, and Risk Analytics, the Data  Science MS program, the Center for Statistical Training and Consulting, and the Statistics department.  Viens is the lead co-PI at MSU for the BAND collaboration. At Rice University, he pursues his varied  other research interests, including stochastic analysis, financial mathematics, and applied statistics  in agro-ecology and paleoclimatology.
+</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Wild-Stefan-32129D38.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4><a href="https://wildsm.github.io/">Stefan Wild</a></h4>
+    <p><i>Director, Applied Mathematics and Computational Research Division, Lawrence Berkeley National Laboratory; Senior Fellow, Northwestern University<br />email: <a href="mailto:stefanwild@northwestern.edu">stefanwild@northwestern.edu</a></i></p>
+    <p>Dr. Wild is a computational mathematician whose primary research focus is developing surrogate-model-based algorithms and software for challenging numerical optimization problems. He applies these techniques for data analysis, machine learning, and the solution of nonlinear inverse and model calibration problems. In BAND, he is especially interested in the interplay among numerical optimization, Bayesian statistics, and computationally expensive simulations of nuclei. Wild is the co-director for mathematics and computer science of the <a href="http://computingnuclei.org/">NUCLEI</a> collaboration, is an adjunct in  <a href="https://www.mccormick.northwestern.edu/industrial/">Northwestern’s IEMS</a>,
+ and enjoys working on <a href="https://github.com/POptUS">emerging open-source software for practical optimization</a>.
+</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<p><a href="#Top" class="bandbutton">Jump to top</a></p>
+
+<p><a name="BANDResearchers"> </a></p>
+<hr />
+
+<h2 id="band-researchers">BAND Researchers</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/pablo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Pablo Giuliani</h4>
+    <p><i>Postdoctoral Research Associate <br /> Department of Statistics and Probability, and Facility for Rare Isotope Beams, <br /> Michigan State University<br />email: <a href="mailto:giulia27@msu.edu">giulia27@msu.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/kyle_godbey.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Kyle Godbey</h4>
+    <p><i>Research Assistant Professor  <br /> Facility for Rare Isotope Beams, <br /> Michigan State University<br />email: <a href="mailto:godbey@frib.msu.edu">godbey@frib.msu.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/sunil_band_cropped.png" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Sunil Jaiswal</h4>
+    <p><i>Postdoctoral Research Associate <br /> Department of Physics, <br /> The Ohio State University<br />email: <a href="mailto:jaiswal.61@osu.edu">jaiswal.61@osu.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<p><a href="#Top" class="bandbutton">Jump to top</a></p>
+
+<p><a name="GraduateStudents"> </a></p>
+<hr />
+
+<h2 id="graduate-students">Graduate Students</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Manuel2.png" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Manuel Catacora-Rios</h4>
+    <p><i>Department of Physics &amp; Astronomy and FRIB, <br /> Michigan State University<br />email: <a href="mailto:catacora@frib.msu.edu">catacora@frib.msu.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/chan-moses-website.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Moses Chan</h4>
+    <p><i>Industrial Engineering &amp; Management Sciences, <br /> Northwestern University<br />email: <a href="mailto:mosesyhc@u.northwestern.edu">mosesyhc@u.northwestern.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/alexandra_cropped.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4><a href="https://www.ohio.edu/cas/as727414">Alexandra Semposki</a></h4>
+    <p><i>Department of Physics and Astronomy, <br /> Ohio University<br />email: <a href="mailto:as727414@ohio.edu">as727414@ohio.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Yannotty_John_headshot.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>John Yannotty</h4>
+    <p><i>Department of Statistics, <br /> The Ohio State University<br />email: <a href="mailto:yannotty.1@osu.edu">yannotty.1@osu.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<p><a href="#Top" class="bandbutton">Jump to top</a></p>
+
+<p><a name="Collaborators"> </a></p>
+<hr />
+
+<h2 id="band-collaborators">BAND Collaborators</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/KyleB.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Kyle Beyer</h4>
+    <p><i>Department of Nuclear Engineering and Radiological Sciences, <br /> University of Michigan<br />email: <a href="mailto:beykyle@umich.edu">beykyle@umich.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Edgard.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Edgard Bonilla</h4>
+    <p><i>Postdoctoral Scholar, <br /> Department of Applied Physics, <br /> Stanford University<br />email: <a href="mailto:edgard@stanford.edu">edgard@stanford.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Jason_Bub.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Jason Bub</h4>
+    <p><i>Department of Physics, <br /> Washington University in St. Louis<br />email: <a href="mailto:jason.bub@wustl.edu">jason.bub@wustl.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/deboer_james.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>James deBoer</h4>
+    <p><i>Department of Physics, <br /> University of Notre Dame<br />email: <a href="mailto:rdeboer1@nd.edu">rdeboer1@nd.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/drischler.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Christian Drischler</h4>
+    <p><i>Department of Physics &amp; Astronomy,<br /> Ohio University<br />email: <a href="mailto:drischler@ohio.edu">drischler@ohio.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Kevin_Ingles_head.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Kevin Ingles</h4>
+    <p><i>Physics Department, <br /> University of Illinois, Urbana-Champaign<br />email: <a href="mailto:kingles@illinois.edu">kingles@illinois.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/vojta.png" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4><a href="https://kejzlar.com/">Vojta Kejzlar</a></h4>
+    <p><i>Mathematics and Statistics Department, <br /> Skidmore College<br />email: <a href="mailto:vkejzlar@skidmore.edu">vkejzlar@skidmore.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/liyanage.5_cropped.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Dananjaya Liyanage</h4>
+    <p><i>Machine Learning Scientist, <br /> Global Analytics and Data Science, <br /> PayPal<br />email: <a href="mailto:liyanagedananjaya@gmail.com">liyanagedananjaya@gmail.com</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/DanielOdell.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Daniel Odell</h4>
+    <p><i>Data Scientist, <br /> Advanced Modeling and Simulation, <br /> Savannah River National Laboratory<br />email: <a href="mailto:daniel.odell@srnl.doe.gov">daniel.odell@srnl.doe.gov</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Mookyong_Son.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Mookyong Son</h4>
+    <p><i>Department of Statistics and Probability and FRIB, <br /> Michigan State University<br />email: <a href="mailto:sonmooky@msu.edu">sonmooky@msu.edu</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<p><a href="#Top" class="bandbutton">Jump to top</a></p>
+
+<p><a name="AdvisoryBoard"> </a></p>
+<hr />
+
+<h2 id="advisory-board">Advisory Board</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Ani-Aprahamian.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Ani Aprahamian</h4>
+    <p>Professor Aprahamian’s research focuses on the evolution of  nuclear structure and the impact of various structure effects  on stellar and explosive astrophysical processes.  She has over 235 invited talks at various National and  International Conferences and over 200 publications in refereed  journals, book chapters, etc. She is active in numerous  international and national advisory committees in nuclear science.  She is the JINA representative to the Extreme Matter Institute:  Helmholtz Center of Excellence at GSI in Germany.  She has served as chair of the scientific council at GANIL  in France and as a reviewer for the Institute of Physics  in the UK.
+</p>
+    <ul style="overflow: hidden">
+
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Anshu2020_0.png" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Anshu Dubey</h4>
+    <p>Anshu Dubey is a Senior Computational Scientist at Argonne  National Laboratory with extensive  experience in design, architecture and sustainability of  multiphysics scientific software used on high performance  computing platforms.  Her contributions in the area of  software engineering for research scientific software are widely  known and respected. She has been the chief software architect  for FLASH, a multiphysics multicomponent software that is used  by several science domains including astrophysics, cosmology,  solar physics, bio-mechanical systems, computational fluid dynamics  and laser plasma experiments. She continues to lead the development  of Flash-X, a new version of the code designed for heterogeneous  architectures. She serves on scientific advisory of the National  High-Performance Computing Alliance, Germany. She has also served  as the lead for Earth and Space Science Applications in the Exascale  Computing Project. 
+</p>
+    <ul style="overflow: hidden">
+
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/jon_engel.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Jon Engel</h4>
+    <p>Jon Engel is the MATTHEW MASON/PHI DELTA THETA DISTINGUISHED  PROFESSOR of Physics &amp; Astronomy at the University of North  Carolina. His research is in nuclear theory and its application  to problems of fundamental importance in particle physics and  astrophysics. Topics in this interdisciplinary line of research  include double beta decay (and the mass of the neutrino);  CP violation in nuclei; Nucleosynthesis in stars and supernovae;  Neutrino scattering and the weak interaction in nuclei.  He is the author of over 400 publications in refereed journals  and is a Fellow of the American Physical Society.
+</p>
+    <ul style="overflow: hidden">
+
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/dave_higdon.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Dave Higdon</h4>
+    <p>David M. Higdon is a professor in the Social Decision Analytics  Laboratory at the Biocomplexity Institute of Virginia Tech.  Previously, he spent 10 years as a scientist or group leader  of the Statistical Sciences Group at Los Alamos National  Laboratory. He is an expert in Bayesian statistical modeling  of environmental and physical systems, combining physical  observations with computer simulation models for prediction  and inference. Dr. Higdon has served on several advisory groups  concerned with statistical modeling and uncertainty quantification  and co-chaired the NRC Committee on Mathematical Foundations of  Validation, Verification, and Uncertainty Quantification.  He is a fellow of the American Statistical Association. 
+</p>
+    <ul style="overflow: hidden">
+
+
+  </ul>
+  </div>
+
+</div>
+
+<p><a href="#Top" class="bandbutton">Jump to top</a></p>
+:ET

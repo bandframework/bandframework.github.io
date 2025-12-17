@@ -1,0 +1,319 @@
+I"�}<h1 id="publications">Publications</h1>
+
+<h2 id="selected-abstracts">Selected abstracts</h2>
+
+<p>(For a full list of publications see <a href="#full-list">below</a>)</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Get on the BAND Wagon: A Bayesian Framework for Quantifying Model Uncertainties in Nuclear Dynamics</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/flowchart_tikz_paper_truncated.png"><img src="http://localhost:4000/images/pubpic/flowchart_tikz_paper_truncated.png" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>We describe the Bayesian Analysis of Nuclear Dynamics (BAND) framework,  a cyberinfrastructure that we are developing which will unify the treatment of nuclear models,  experimental data, and associated uncertainties.  We overview the statistical principles and nuclear-physics contexts underlying the BAND toolset, with an emphasis on Bayesian methodology’s ability to leverage insight from multiple models.  In order to facilitate understanding of these tools we provide a simple and accessible example of the BAND framework’s application.  Four case studies are presented to highlight how elements of the framework will enable progress on complex, far-ranging problems in nuclear physics.  By collecting notation and terminology, providing illustrative examples, and giving an overview of the associated techniques,  this paper aims to open paths through which the nuclear physics and statistics communities can contribute to and build upon the BAND framework. [The R code used to generate the toy model figures is available as a <a href="/code/manifesto-code.zip">zipfile</a>.] 
+</p>
+      <p><em>D.R. Phillips, R.J. Furnstahl, U. Heinz, T. Maiti, W. Nazarewicz, F.M. Nunes, M. Plumlee, M.T. Pratola, S. Pratt, F.G. Viens, and S.M. Wild</em></p>
+      <p><strong><a href="https://iopscience.iop.org/article/10.1088/1361-6471/abf1df">J. Phys. G 48, 072001 (2021)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Machine-Learning-Based Inversion of Nuclear Responses</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/bestworstresponse6.png"><img src="http://localhost:4000/images/pubpic/bestworstresponse6.png" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>A microscopic description of the interaction of atomic nuclei with external electroweak probes is required for elucidating  aspects of short-range nuclear dynamics and for the correct interpretation of neutrino oscillation experiments. Nuclear  quantum Monte Carlo methods infer the nuclear electroweak response functions from their Laplace transforms. Inverting the  Laplace transform is a notoriously ill-posed problem; and Bayesian techniques, such as maximum entropy, are typically used  to reconstruct the original response functions in the quasielastic region. In this work, we present a physics-informed  artificial neural network architecture suitable for approximating the inverse of the Laplace transform. Utilizing simulated,  albeit realistic, electromagnetic response functions, we show that this physics-informed artificial neural network outperforms  maximum entropy in both the low-energy transfer and the quasielastic regions, thereby allowing for robust calculations of  electron scattering and neutrino scattering on nuclei and inclusive muon capture rates. 
+</p>
+      <p><em>K. Raghavan, P. Balaprakash, A. Lovato, N. Rocco, and S.M. Wild</em></p>
+      <p><strong><a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.035502">Phys. Rev. C 103, 035502 (2021)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Fast &amp; accurate emulation of two-body scattering observables without wave functions</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/np_tot_cs_werr_SMS_n4lo_plus_Lambda450MeV.png"><img src="http://localhost:4000/images/pubpic/np_tot_cs_werr_SMS_n4lo_plus_Lambda450MeV.png" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>We combine Newton’s variational method with ideas from eigenvector continuation to construct a fast &amp; accurate emulator  for two-body scattering observables. The emulator will facilitate the application of rigorous statistical methods for  interactions that depend smoothly on a set of free parameters.  When used to emulate the neutron-proton cross section with a modern chiral interaction as a function of 26 free parameters,  it reproduces the exact calculation with negligible error and provides an over 300x improvement in CPU time.
+</p>
+      <p><em>J.A. Melendez, C. Drischler, A.J. Garcia, R.J. Furnstahl, and Xilin Zhang</em></p>
+      <p><strong><a href="https://doi.org/10.1016/j.physletb.2021.136608">Physics Letters B 821, 136608 (2021)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Efficient emulators for scattering using eigenvector continuation</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/EC_parameters.png"><img src="http://localhost:4000/images/pubpic/EC_parameters.png" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>Eigenvector continuation (EC), which accurately and efficiently reproduces ground states  for targeted sets of Hamiltonian parameters, is extended to scattering using the Kohn  variational principle. Proofs-of-principle imply EC will be a valuable emulator for  applying Bayesian inference to parameter estimation constrained by scattering observables. 
+</p>
+      <p><em>R.J. Furnstahl, A.J. Garcia, P.J. Millican, and Xilin Zhang</em></p>
+      <p><strong><a href="https://doi.org/10.1016/j.physletb.2020.135719">Physics Letters B 809, 135719 (2020)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Does Bayesian Model Averaging improve polynomial extrapolations? Two toy problems as tests</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/g2far.png"><img src="http://localhost:4000/images/pubpic/g2far.png" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>We assess the accuracy of Bayesian polynomial extrapolations from small parameter values to large ones. We employ Bayesian Model Averaging (BMA) to combine results from different order polynomials.  Our study considers two “toy problems” where the underlying function used to generate data sets is known.  We use Bayesian parameter estimation to extract the polynomial coefficients and BMA different polynomial degrees  by weighting each according to its Bayesian evidence. We compare the predictive performance of this Bayesian Model Average with that of the individual polynomials. 
+</p>
+      <p><em>M. A. Connell, I. Billig, and D. R. Phillips</em></p>
+      <p><strong><a href="https://doi.org/10.1088/1361-6471/ac215a">J. Phys. G 48, 104001 (2021)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Toward emulating nuclear reactions using eigenvector continuation</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/TowardsEmulating.png"><img src="http://localhost:4000/images/pubpic/TowardsEmulating.png" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>We construct an efficient emulator for two-body scattering observables using the general (complex) Kohn  variational principle and trial wave functions derived from eigenvector continuation. The emulator simultaneously  evaluates an array of Kohn variational principles associated with different boundary conditions, which allows for the detection  and removal of spurious singularities known as Kohn anomalies. When applied to the K-matrix only, our emulator resembles the one constructed  by Furnstahl et al. (2020) although with reduced numerical noise. After a few applications to real potentials, we emulate differential  cross sections for 40Ca(n,n) scattering based on a realistic optical potential and quantify the model uncertainties using Bayesian methods. These  calculations serve as a proof of principle for future studies aimed at improving optical models.
+</p>
+      <p><em>C. Drischler, M. Quinonez, P.G. Giuliani, A.E. Lovell, and F.M. Nunes</em></p>
+      <p><strong><a href="https://doi.org/10.1016/j.physletb.2021.136777">Physics Letters B 823, 136777 (2021)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Precision measurement of lightweight self-conjugate nucleus 80Zr</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/80ZrBMAEDFs.png"><img src="http://localhost:4000/images/pubpic/80ZrBMAEDFs.png" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>Protons and neutrons in the atomic nucleus move in shells analogous to the electronic shell structures of atoms.  The nuclear shell structure varies as a result of changes in the nuclear mean field with the number of neutrons N  and protons Z, and these variations can be probed by measuring the mass differences between nuclei. The N = Z = 40  self-conjugate nucleus 80Zr is of particular interest, as its proton and neutron shell structures are expected to  be very similar, and its ground state is highly deformed. Here we provide evidence for the existence of a deformed  double-shell closure in 80Zr through high-precision Penning trap mass measurements of 80–83Zr. Our mass values show  that 80Zr is substantially lighter, and thus more strongly bound than predicted. This can be attributed to the  deformed shell closure at N = Z = 40 and the large Wigner energy. A statistical Bayesian-model mixing analysis  employing several global nuclear mass models demonstrates difficulties with reproducing the observed mass anomaly  using current theory.
+</p>
+      <p><em>A. Hamaker, E. Leistenschneider, R. Jain, G. Bollen, S. A. Giuliani, K. Lund, W. Nazarewicz, L. Neufcourt, C. R. Nicoloff, D. Puentes, R. Ringle, C. S. Sumithrarachchi, and I. T. Yandow</em></p>
+      <p><strong><a href="https://www.nature.com/articles/s41567-021-01395-w">Nature Physics (2021)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Rigorous constraints on three-nucleon forces in chiral effective field theory from fast and accurate calculations of few-body observables</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/Qcbarposterior.png"><img src="http://localhost:4000/images/pubpic/Qcbarposterior.png" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>We explore the constraints on the three-nucleon force (3NF) of chiral effective field theory (ChiEFT) that are provided by bound-state observables in the A=3 and A=4 sectors. Our statistically rigorous  analysis incorporates experimental error, computational method uncertainty, and the uncertainty due to  truncation of the ChiEFT expansion at next-to-next-to-leading order. A consistent solution for the  3H binding energy, the 4He binding energy and radius, and the 3H beta-decay rate can only be obtained if  ChiEFT truncation errors are included in the analysis. The beta-decay rate is the only one of these that  yields a nondegenerate constraint on the 3NF low-energy constants, which makes it crucial for the parameter  estimation. We use eigenvector continuation for fast and accurate emulation of no-core shell model  calculations of the few-nucleon observables. This facilitates sampling of the posterior probability  distribution, allowing us to also determine the distributions of the parameters that quantify the truncation error.  We find a ChiEFT expansion parameter of Q=0.33 ± 0.06 for these observables.
+</p>
+      <p><em>S. Wesolowski, I. Svensson, A. Ekström, C. Forssén, R. J. Furnstahl, J. A. Melendez, and D. R. Phillips</em></p>
+      <p><strong><a href="https://doi.org/10.1103/PhysRevC.104.064001">Physical Review C 104, 064001 (2021)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Statistical tools for a better optical model</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/48CaSensitivities.png"><img src="http://localhost:4000/images/pubpic/48CaSensitivities.png" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>Modern statistical tools provide the ability to compare the information content of observables and  provide a path to explore which experiments would be most useful to give insight into and constrain theoretical models. In this work we study three such tools, (i) the principal component analysis, (ii) the sensitivity analysis based on derivatives,  and (iii) the Bayesian evidence. This is done in the context of nuclear reactions with the goal of constraining the optical potential. We first apply these tools to a toy-model case. Then we consider two different reaction observables, elastic angular distributions and polarization data for reactions on 48Ca and 208Pb at two different beam energies. For the toy-model case, we find significant  discrimination power in the sensitivities and the Bayesian evidence, showing clearly that the volume imaginary term is more useful  to describe scattering at higher energies. When comparing between elastic cross sections and polarization data using realistic optical  models, sensitivity studies indicate that both observables are roughly equally sensitive but the variability of the optical model  parameters is strongly angle dependent. The Bayesian evidence shows some variability between the two observables, but the Bayes factor  obtained is not sufficient to discriminate between angular distributions and polarization.
+</p>
+      <p><em>M. Catacora-Rios, G. B. King, A. E. Lovell, and F. M. Nunes</em></p>
+      <p><strong><a href="https://doi.org/10.1103/PhysRevC.104.064611">Physical Review C 104, 064611 (2021)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Efficient emulation of relativistic heavy ion collisions with transfer learning</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/cpu_hours.png"><img src="http://localhost:4000/images/pubpic/cpu_hours.png" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>Measurements from the Large Hadron Collider (LHC) and the Relativistic Heavy Ion Collider (RHIC) can be used to study the properties of quark-gluon plasma. Systematic constraints on these properties must combine measurements from different collision systems and methodically  account for experimental and theoretical uncertainties. Such studies require a vast number of costly numerical simulations. While computationally  inexpensive surrogate models (“emulators”) can be used to efficiently approximate the predictions of heavy ion simulations across a broad range of model parameters, training a reliable emulator remains a computationally expensive task. We use transfer learning to map the parameter dependencies of one model emulator onto another, leveraging similarities between different simulations of heavy ion collisions. By limiting the need for large  numbers of simulations to only one of the emulators, this technique reduces the numerical cost of comprehensive uncertainty quantification when  studying multiple collision systems and exploring different models.
+</p>
+      <p><em>D. Liyanage, Y. Ji, D. Everett, M. Heffernan, U. Heinz, S. Mak, J-F. Paquet</em></p>
+      <p><strong><a href="https://doi.org/10.1103/PhysRevC.105.034910">Physical Review C 105, 034910 (2022)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Black Box Variational Bayesian Model Averaging</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/VBMAPredictiveCoverage.png"><img src="http://localhost:4000/images/pubpic/VBMAPredictiveCoverage.png" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>For many decades now, Bayesian Model Averaging (BMA) has been a popular framework to systematically account for model uncertainty  that arises in situations when multiple competing models are available to describe the same or similar physical process. The implementation  of this framework, however, comes with a multitude of practical challenges including posterior approximation via Markov Chain Monte Carlo  and numerical integration. We present a Variational Bayesian Inference approach to BMA as a viable alternative to the standard solutions  which avoids many of the aforementioned pitfalls. The proposed method is “black box” in the sense that it can be readily applied to many  models with little to no model-specific derivation. We illustrate the utility of our variational approach on a suite of examples and discuss  all the necessary implementation details. Fully documented Python code with all the examples is provided as well.
+</p>
+      <p><em>V. Kejzlar, S. Bhattacharya, M. Son, T. Maiti</em></p>
+      <p><strong><a href="https://www.tandfonline.com/doi/abs/10.1080/00031305.2022.2058611?journalCode=utas20">The American Statistician (2022)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Effective field theory analysis of 3He-alpha scattering data</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/Bimodal.png"><img src="http://localhost:4000/images/pubpic/Bimodal.png" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>We treat low-energy 3He-alpha elastic scattering  in an Effective Field Theory (EFT) that exploits the separation of scales in this reaction.  We compute the amplitude up to Next-to-Next-to-Leading Order (NNLO), developing a hierarchy of the effective-range parameters that contribute  at various orders. We use the resulting formalism to analyze data for recent measurements at center-of-mass energies of 0.38-3.12 MeV using the  SONIK gas target at TRIUMF as well as older data in this energy regime. We employ a likelihood function that incorporates the theoretical  uncertainty due to truncation of the EFT and use Markov Chain Monte Carlo sampling to obtain the resulting posterior probability distribution.  We find that the inclusion of a small amount of data on the analysing power $A_y$ is crucial to determine the sign of the p-wave splitting in  such an analysis. The combination of Ay and SONIK data constrains all effective-range parameters up to O(p^4) in both s- and p-waves quite well.  The ANCs and s-wave scattering length are consistent with a recent EFT analysis of the capture reaction 3He(alpha,gamma)7Be.
+</p>
+      <p><em>M. Poudel, D. R. Phillips</em></p>
+      <p><strong><a href="https://iopscience.iop.org/article/10.1088/1361-6471/ac4da6">J. Phys. G 49, 045102 (2022)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Nudged elastic band approach to nuclear fission pathways</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/NEBfission.png"><img src="http://localhost:4000/images/pubpic/NEBfission.png" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>The nuclear fission process is a dramatic example of the large-amplitude collective motion in which the nucleus undergoes a series of shape changes before splitting into distinct fragments. This motion can be represented by a pathway in the many-dimensional space of collective coordinates. Within  a stationary framework rooted in a static collective Schrödinger equation, the collective action along the fission pathway determines the spontaneous  fission half-lives as well as mass and charge distributions of fission fragments. We study the performance and precision of various methods to  determine the minimum-action and minimum-energy fission trajectories in two- and three-dimensional collective spaces. These methods include the nudged  elastic band method (NEB), grid-based methods, and the Euler-Lagrange approach to the collective action minimization. The NEB method is capable of  efficient determination of the exit points on the outer turning surface that characterize the most probable fission pathway and constitute the key  input for fission studies. The NEB method will be particularly useful in large-scale static fission calculations of superheavy nuclei and neutron-rich  fissioning nuclei contributing to the astrophysical r-process recycling.
+</p>
+      <p><em>Eric Flynn, Daniel Lay, Sylvester Agbemava, Pablo Giuliani, Kyle Godbey, Witold Nazarewicz, Jhilam Sadhukhan</em></p>
+      <p><strong><a href="https://doi.org/10.1103/PhysRevC.105.054302">Phys. Rev. C 105, 054302 (2022)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>The Interplay of Femtoscopic and Charge-Balance Correlations</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/bf_phi_onepanel.png"><img src="http://localhost:4000/images/pubpic/bf_phi_onepanel.png" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>Correlations driven by the constraints of local charge conservationprovide insight into the chemical evolution and diffusivity of the high-temperature matter created in ultra-relativistic heavy ion collisions. Two-particle correlations driven by final-state interactions have allowed the extraction of critical femtoscopic space-time information about the expansion and dissolution of the same collisions. As first steps toward a Bayesian analysis of charge-balance functions, this study quantifies the contribution from final-state interactions, which needs to be subtracted in order to quantitatively infer the diffusivity and chemical evolution of the QGP. As seen in the figure, the correction from final-state interactions is small.
+</p>
+      <p><em>Scott Pratt and Karina Martirosova</em></p>
+      <p><strong><a href="https://journals.aps.org/prc/pdf/10.1103/PhysRevC.105.054906">Phys. Rev. C 105, 054906 (2022)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Prehydrodynamic evolution and its impact on quark-gluon plasma signatures</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/initial_mom_anisotropy.png"><img src="http://localhost:4000/images/pubpic/initial_mom_anisotropy.png" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>State-of-the-art hydrodynamic models of heavy-ion collisions have considerable theoretical model uncertainties in the description of the  very early pre-hydrodynamic stage. We add a new computational module, KTIso, that describes the pre-hydrodynamic evolution kinetically,  based on the relativistic Boltzmann equation with collisions treated in the Isotropization Time Approximation. As a novelty, KTIso allows  for the inclusion and evolution of initial-state momentum anisotropies. To maintain computational efficiency KTIso assumes strict  longitudinal boost invariance and allows collisions to isotropize only the transverse momenta. We use it to explore the sensitivity  of hadronic observables measured in relativistic heavy-ion collisions to initial-state momentum anisotropies and microscopic scattering  during the pre-hydrodynamic stage.
+</p>
+      <p><em>D. Liyanage, D. Everett, C. Chattopadhyay, U. Heinz</em></p>
+      <p><strong><a href="https://doi.org/10.1103/PhysRevC.105.064908">Physical Review C 105, 064908 (2022)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Statistical correlations of nuclear quadrupole deformations and charge radii</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/quadrupolecorr.png"><img src="http://localhost:4000/images/pubpic/quadrupolecorr.png" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>The statistical correlations between nuclear deformations and charge radii of different nuclei are affected by the underlying shell structure. Even for well deformed and superfluid nuclei for which these observables change smoothly, the correlation range is rather short. This result suggests that the frequently made assumption of reduced statistical errors for the differences between smoothly-varying observables cannot be generally justified.
+</p>
+      <p><em>Paul-Gerhard Reinhard and Witold Nazarewicz</em></p>
+      <p><strong><a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.014303">Phys. Rev. C 106, 014303 (2022)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Fast emulation of quantum three-body scattering</pubtit>
+      <p><a href="http://localhost:4000/images/pubpic/Emulator_roles_2.jpeg"><img src="http://localhost:4000/images/pubpic/Emulator_roles_2.jpeg" class="img-responsive" width="33%" style="float: left" /></a></p>
+      <p>We develop a class of emulators for solving quantum three-body scattering problems based on combining the variational method for scattering observables and eigenvector continuation.  The emulators are first trained by the exact scattering solutions for a small number of parameter sets, and then employed to make interpolations and extrapolations in the parameter space.  Using a schematic nuclear-physics model with finite-range two and three-body interactions, we demonstrate the emulators to be extremely accurate and efficient.  The general strategies used here may be applicable for building the same type of emulators in other fields, wherever variational methods can be developed for evaluating physical models.  <br />
+</p>
+      <p><em>Xilin Zhang and R. J. Furnstahl</em></p>
+      <p><strong><a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.064004">Phys. Rev. C 105, 064004 (2022)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="all-band-publications">All BAND Publications</h2>
+
+<p>Get on the BAND Wagon: A Bayesian Framework for Quantifying Model Uncertainties in Nuclear Dynamics <br />
+  <em>D.R. Phillips, R.J. Furnstahl, U. Heinz, T. Maiti, W. Nazarewicz, F.M. Nunes, M. Plumlee, M.T. Pratola, S. Pratt, F.G. Viens, and S.M. Wild </em><br /><a href="https://iopscience.iop.org/article/10.1088/1361-6471/abf1df">J. Phys. G 48, 072001 (2021)</a></p>
+
+<p>Machine-Learning-Based Inversion of Nuclear Responses <br />
+  <em>K. Raghavan, P. Balaprakash, A. Lovato, N. Rocco, and S.M. Wild </em><br /><a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.035502">Phys. Rev. C 103, 035502 (2021)</a></p>
+
+<p>Fast &amp; accurate emulation of two-body scattering observables without wave functions <br />
+  <em>J.A. Melendez, C. Drischler, A.J. Garcia, R.J. Furnstahl, and Xilin Zhang </em><br /><a href="https://doi.org/10.1016/j.physletb.2021.136608">Physics Letters B 821, 136608 (2021)</a></p>
+
+<p>Efficient emulators for scattering using eigenvector continuation <br />
+  <em>R.J. Furnstahl, A.J. Garcia, P.J. Millican, and Xilin Zhang </em><br /><a href="https://doi.org/10.1016/j.physletb.2020.135719">Physics Letters B 809, 135719 (2020)</a></p>
+
+<p>Does Bayesian Model Averaging improve polynomial extrapolations? Two toy problems as tests <br />
+  <em>M. A. Connell, I. Billig, and D. R. Phillips </em><br /><a href="https://doi.org/10.1088/1361-6471/ac215a">J. Phys. G 48, 104001 (2021)</a></p>
+
+<p>Toward emulating nuclear reactions using eigenvector continuation <br />
+  <em>C. Drischler, M. Quinonez, P.G. Giuliani, A.E. Lovell, and F.M. Nunes </em><br /><a href="https://doi.org/10.1016/j.physletb.2021.136777">Physics Letters B 823, 136777 (2021)</a></p>
+
+<p>Precision measurement of lightweight self-conjugate nucleus 80Zr <br />
+  <em>A. Hamaker, E. Leistenschneider, R. Jain, G. Bollen, S. A. Giuliani, K. Lund, W. Nazarewicz, L. Neufcourt, C. R. Nicoloff, D. Puentes, R. Ringle, C. S. Sumithrarachchi, and I. T. Yandow </em><br /><a href="https://www.nature.com/articles/s41567-021-01395-w">Nature Physics (2021)</a></p>
+
+<p>Rigorous constraints on three-nucleon forces in chiral effective field theory from fast and accurate calculations of few-body observables <br />
+  <em>S. Wesolowski, I. Svensson, A. Ekström, C. Forssén, R. J. Furnstahl, J. A. Melendez, and D. R. Phillips </em><br /><a href="https://doi.org/10.1103/PhysRevC.104.064001">Physical Review C 104, 064001 (2021)</a></p>
+
+<p>Statistical tools for a better optical model <br />
+  <em>M. Catacora-Rios, G. B. King, A. E. Lovell, and F. M. Nunes </em><br /><a href="https://doi.org/10.1103/PhysRevC.104.064611">Physical Review C 104, 064611 (2021)</a></p>
+
+<p>Efficient emulation of relativistic heavy ion collisions with transfer learning <br />
+  <em>D. Liyanage, Y. Ji, D. Everett, M. Heffernan, U. Heinz, S. Mak, J-F. Paquet </em><br /><a href="https://doi.org/10.1103/PhysRevC.105.034910">Physical Review C 105, 034910 (2022)</a></p>
+
+<p>Black Box Variational Bayesian Model Averaging <br />
+  <em>V. Kejzlar, S. Bhattacharya, M. Son, T. Maiti </em><br /><a href="https://www.tandfonline.com/doi/abs/10.1080/00031305.2022.2058611?journalCode=utas20">The American Statistician (2022)</a></p>
+
+<p>Effective field theory analysis of 3He-alpha scattering data <br />
+  <em>M. Poudel, D. R. Phillips </em><br /><a href="https://iopscience.iop.org/article/10.1088/1361-6471/ac4da6">J. Phys. G 49, 045102 (2022)</a></p>
+
+<p>Nudged elastic band approach to nuclear fission pathways <br />
+  <em>Eric Flynn, Daniel Lay, Sylvester Agbemava, Pablo Giuliani, Kyle Godbey, Witold Nazarewicz, Jhilam Sadhukhan </em><br /><a href="https://doi.org/10.1103/PhysRevC.105.054302">Phys. Rev. C 105, 054302 (2022)</a></p>
+
+<p>The Interplay of Femtoscopic and Charge-Balance Correlations <br />
+  <em>Scott Pratt and Karina Martirosova </em><br /><a href="https://journals.aps.org/prc/pdf/10.1103/PhysRevC.105.054906">Phys. Rev. C 105, 054906 (2022)</a></p>
+
+<p>Prehydrodynamic evolution and its impact on quark-gluon plasma signatures <br />
+  <em>D. Liyanage, D. Everett, C. Chattopadhyay, U. Heinz </em><br /><a href="https://doi.org/10.1103/PhysRevC.105.064908">Physical Review C 105, 064908 (2022)</a></p>
+
+<p>Statistical correlations of nuclear quadrupole deformations and charge radii <br />
+  <em>Paul-Gerhard Reinhard and Witold Nazarewicz </em><br /><a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.014303">Phys. Rev. C 106, 014303 (2022)</a></p>
+
+<p>Fast emulation of quantum three-body scattering <br />
+  <em>Xilin Zhang and R. J. Furnstahl </em><br /><a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.064004">Phys. Rev. C 105, 064004 (2022)</a></p>
+
+:ET

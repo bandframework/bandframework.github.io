@@ -1,0 +1,200 @@
+I"q(<h1 id="software">Software</h1>
+
+<p>External code delivery will be from the <a href="https://github.com/bandframework/bandframework">bandframework github repository</a></p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <p><code style="font-size-adjust: 1.1; color:black; justify-content: center;"> surmise </code>
+   <img src="https://avatars.githubusercontent.com/u/77858356" class="img-responsive" width="25%" style="float: left;padding: 10px 10px 10px 10px;" /></p>
+      <p>A Python package designed to provide a surrogate model interface for calibration, uncertainty quantification, and other tools.
+</p>
+      <p style="clear:both">
+   <em>O. Surer, M. Plumlee, S. Wild, M. Y-H. Chan </em><br /><a href="https://surmise.readthedocs.io/en/latest/">surmise Read the Docs</a>
+    </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <p><code style="font-size-adjust: 1.1; color:black; justify-content: center;"> Taweret </code>
+   <img src="/images/logopic/taweret_logo.PNG" class="img-responsive" width="25%" style="float: left;padding: 10px 10px 10px 10px;" /></p>
+      <p>A versatile Python package containing multiple model mixing techniques  for a variety of use cases.
+</p>
+      <p style="clear:both">
+   <em>K. Ingles, D. Liyanage, A. C. Semposki, J. C. Yannotty </em><br /><a href="https://bandframework.github.io/Taweret/">Taweret documentation</a>
+    </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <p><code style="font-size-adjust: 1.1; color:black; justify-content: center;"> SAMBA </code>
+   <img src="/images/logopic/samba_logo.jpg" class="img-responsive" width="25%" style="float: left;padding: 10px 10px 10px 10px;" /></p>
+      <p>The SAndbox for Mixing using Bayesian Analysis, developed as a testing ground for multivariate model mixing on a toy model setup.
+</p>
+      <p style="clear:both">
+   <em>A. C. Semposki, R. J. Furnstahl, D. R. Phillips </em><br /><a href="https://github.com/asemposki/SAMBA">SAMBA repository</a>
+    </p>
+    </div>
+  </div>
+
+</div>
+
+<h1 id="software-development-kit">Software Development Kit</h1>
+
+<h2 id="band-software-development-kit-sdk">BAND Software Development Kit (SDK)</h2>
+
+<p>The BAND collaboration will carry out the software development in several stages that will include parallel lines of development and testing. External code delivery will happen via a <a href="https://github.com/bandframework/bandframework">public Github repository</a>. To suggest changes to these requirements or obtain more information, please contact members of <a href="https://bandframework.github.io/team">BAND</a>.</p>
+
+<h2 id="including-code-in-band">Including code in BAND</h2>
+
+<p>All code included in the public Github <code class="language-plaintext highlighter-rouge">bandframework</code> repository will be open source.  If a piece of code does not contain a open-source LICENSE file as mentioned in the requirements below, then it will be automatically licensed as described in the <a href="https://github.com/bandframework/bandframework/blob/develop/LICENSE">LICENSE</a> file in the root directory of the <code class="language-plaintext highlighter-rouge">bandframework</code> repository.</p>
+
+<p>New code can be included in the <code class="language-plaintext highlighter-rouge">bandframework</code> repository via a pull request to the <code class="language-plaintext highlighter-rouge">develop</code> branch.  The name of the software should be the subdirectory name in the <code class="language-plaintext highlighter-rouge">/software</code> directory.</p>
+
+<p>BAND packages should include a compatibility document and a <a href="https://github.com/bandframework/bandframework/blob/develop/resources/sdkpolicies/template.md">template</a> is provided. The compatibility  file should be placed in the root directory of the new subdirectory and labeled by the software name appended by <code class="language-plaintext highlighter-rouge">bandsdk</code>.  For example, if you have a software <code class="language-plaintext highlighter-rouge">foo</code>, you should create a directory <code class="language-plaintext highlighter-rouge">/software/foo</code> and place the compatibility file named <code class="language-plaintext highlighter-rouge">foobandsdk.md</code> in the directory <code class="language-plaintext highlighter-rouge">/software/foo</code> alongside contributed code.  All pull requests for inclusion of a new <code class="language-plaintext highlighter-rouge">/software</code> directory  that do not include this document will be rejected.  You can also include a repository as a submodule in the <code class="language-plaintext highlighter-rouge">bandframework</code> repository by placing a pull request.  Please see the <a href="https://github.com/bandframework/bandframework/blob/develop/resources/dev_guide/git_instructions_for_submodules.md">additional instructions for including a submodule</a>; all submodules must meet the same requirements as outlined here.</p>
+
+<h2 id="band-sdk-v02-community-policies">BAND SDK v0.2 Community Policies</h2>
+
+<p>The BAND Framework will conform with BAND Software Development Kit (SDK) requirements, summarized below. By using such requirements we envision ready interoperability across the BAND software ecosystem, large-scale scientific simulation codes, and other numerical libraries.</p>
+
+<p>As shown in the <a href="https://github.com/bandframework/bandframework/blob/develop/resources/sdkpolicies/template.md">template</a> and <a href="https://github.com/bandframework/bandframework/blob/develop/resources/sdkpolicies/README.md">linked SDK compatibility examples</a>, we note that there are different levels to which packages can satisfy BAND’s mandatory and recommended policies in order to facilitate interoperability with other BAND compatible tools. We emphasize that the most important thing is for packages to state their compliance with each policy.</p>
+
+<h3 id="mandatory-policies">Mandatory Policies</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Policy</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.</td>
+      <td>Support BAND community GNU Autoconf, CMake, or other build options.</td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>Have a README file in the top directory that states a specific set of testing procedures for a user to verify the software was installed and run correctly.</td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td>Provide a documented, reliable way to contact the development team.</td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td>Come with an open-source license.</td>
+    </tr>
+    <tr>
+      <td>5.</td>
+      <td>Provide a runtime API to return the current version number of the software.</td>
+    </tr>
+    <tr>
+      <td>6.</td>
+      <td>Provide a BAND team-accessible repository.</td>
+    </tr>
+    <tr>
+      <td>7.</td>
+      <td>Must allow installing, building, and linking against an outside copy of all imported software that is externally developed and maintained.</td>
+    </tr>
+    <tr>
+      <td>8.</td>
+      <td>Have no hardwired print or IO statements that cannot be turned off.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="recommended-policies">Recommended Policies</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Policy</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>R1.</strong></td>
+      <td>Have a public repository.</td>
+    </tr>
+    <tr>
+      <td><strong>R2.</strong></td>
+      <td>Free all system resources acquired as soon as they are no longer needed.</td>
+    </tr>
+    <tr>
+      <td><strong>R3.</strong></td>
+      <td>Provide a mechanism to export ordered list of library dependencies.</td>
+    </tr>
+    <tr>
+      <td><strong>R4.</strong></td>
+      <td>Document versions of packages that it works with or depends upon, preferably in machine-readable form.</td>
+    </tr>
+    <tr>
+      <td><strong>R5.</strong></td>
+      <td>Have SUPPORT, LICENSE, and CHANGELOG files in top directory.</td>
+    </tr>
+    <tr>
+      <td><strong>R6.</strong></td>
+      <td>Have sufficient documentation to support use and further development.</td>
+    </tr>
+    <tr>
+      <td><strong>R7.</strong></td>
+      <td>Be buildable using 64-bit pointers; 32-bit is optional.</td>
+    </tr>
+    <tr>
+      <td><strong>R8.</strong></td>
+      <td>Do not assume a full MPI communicator; allow for user-provided MPI communicator.</td>
+    </tr>
+    <tr>
+      <td><strong>R9.</strong></td>
+      <td>Use a limited and well-defined name space (e.g., symbol, macro, library, include).</td>
+    </tr>
+    <tr>
+      <td><strong>R10.</strong></td>
+      <td>Give best effort at portability to key architectures.</td>
+    </tr>
+    <tr>
+      <td><strong>R11.</strong></td>
+      <td>Install headers and libraries under <code class="language-plaintext highlighter-rouge">&lt;prefix&gt;/include</code> and <code class="language-plaintext highlighter-rouge">&lt;prefix&gt;/lib</code>, respectively.</td>
+    </tr>
+    <tr>
+      <td><strong>R12.</strong></td>
+      <td>All BAND compatibility changes should be sustainable.</td>
+    </tr>
+    <tr>
+      <td><strong>R13.</strong></td>
+      <td>Respect system resources and settings made by other previously called packages.</td>
+    </tr>
+    <tr>
+      <td><strong>R14.</strong></td>
+      <td>Provide a comprehensive, automated test suite for correctness of installation verification.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="citing-the-band-framework">Citing the BAND Framework</h2>
+
+<p>Please use the following to cite the BAND Framework:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@techreport{bandframework,
+    title       = { {BANDFramework: An} Open-Source Framework for {B}ayesian Analysis of Nuclear Dynamics},
+    author      = {Moses Y-H. Chan and Richard James DeBoer and Richard J. Furnstahl and Dananjaya Liyanage and Filomena M. Nunes and 
+    Daniel Odell and Daniel R. Phillips and Matthew Plumlee and Alexandra C. Semposki and \"Ozge S\"urer and Stefan M. Wild},
+    institution = {},
+    number      = {Version 0.2.0},
+    year        = {2022},
+    url         = {https://github.com/bandframework/bandframework}
+}
+</code></pre></div></div>
+
+<hr />
+
+:ET

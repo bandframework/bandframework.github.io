@@ -1,0 +1,160 @@
+I"{H<h1 id="news">News</h1>
+
+<p>August 14, 2023 <br />
+<em>The third BAND annual retreat has successfully concluded!  The retreat was held from August 8 - 9 at the Ohio University Dublin Integrated Education Center.   During the retreat, BAND members gathered to review the progress made for various projects and share exciting updates in software development.  Prior to the retreat on August 7, the external Advisory Board met with BAND members.  We greatly appreciate the Board for their advice and support for BAND!
+</em></p>
+
+<p>June 29, 2023 <br />
+<em>BAND members Pablo Giuliani, Kyle Godbey, Frederi Viens, and Alexandra Semposki co-organized the <a href="https://indico.frib.msu.edu/event/65/">FRIB-TA Summer School on Practical Uncertainty Quantification and Emulator Development in Nuclear Physics</a>. The school ran from June 26th to June 28th at the Facility for Rare Isotope Beams on the campus of Michigan State University. 
+</em></p>
+
+<p>June 9, 2023 <br />
+<em>Postdoc Sunil Jaiswal has joined the BAND team!  Sunil received his Ph.D. from the Tata Institute of Fundamental Research in Mumbai, India. He will be working at the Ohio State University with Dick Furnstahl, Ulrich Heinz, and Matt Pratola.
+</em></p>
+
+<p>May 26, 2023 <br />
+<em>ISNET-9, held at Washington University in St. Louis from May 23 to 26, 2023, featured presentations by BAND researchers: Ozge Sürer, Dan Liyanage, Witek Nazarewicz, Dick Furnstahl, Pablo Giuliani, Daniel Odell, and Kyle Godbey, and former BAND Fellow Jason Bub. Slides are available at the <a href="https://indico.cern.ch/event/1223721/contributions/">ISNET-9 website</a>.
+</em></p>
+
+<p>May 22, 2023 <br />
+<em>BAND Camp 2023 was a great success! It was held just before ISNET-9 at Washington University in St. Louis on May 22, 2023, and featured interactive presentations (with Python code via Google Colab) by BAND researchers Matt Pratola, Moses Chan, Ozge Sürer, Daniel Odell,  Pablo Giuliani, Alexandra Semposki, John Yanotty, Kyle Godbey, Witek Nazarewicz, and Dick Furnstahl. Slides and videos are available <a href="https://bandframework.github.io/presentations/#band-camp-2023">here</a>. 
+</em></p>
+
+<p>May 16, 2023 <br />
+<em>Double congratulations to BAND graduate student Moses Chan! First off, the paper he wrote <a href="https://www.tandfonline.com/doi/abs/10.1080/00401706.2023.2210170?journalCode=utch20">“Constructing a simulation surrogate with missing output”</a> together with fellow BAND members Matt Plumlee and Stefan Wild, was published earlier this month in Technometrics. Second, in Fall 2023 Moses will join the faculty at Northwestern as an Assistant Professor of Instruction; he will spearhead their Data Science &amp; Engineering program.
+</em></p>
+
+<p>April 17, 2023 <br />
+<em>The <a href="https://github.com/bandframework/bandframework/tree/main/software/BRICK">Bayesian R-matrix Inference Code Kit (BRICK)</a>, which is part of the BAND software framework, has recently been used by BAND member Daniel Odell, his collaborator James deBoer, and their experimental colleagues to analyze several nuclear reactions of astrophysical interest. Particularly notable is their <a href="https://www.nature.com/articles/s41586-022-05230-x">Nature paper</a> on the 19F(p, γ)20Ne rate in primordial stars. Odell and deBoer collaborated with scientists from the China JinPing Underground Laboratory to analyze new data on this reaction taken at that facility. They found its rate in the first stars was roughly seven times higher than previously thought. This would mean enhanced breakout from the ‘warm’ carbon-nitrogen-oxygen cycle, and could explain previously puzzling observations of calcium in the first stars.  Further experimental data from underground laboratories, observations from the James Webb Space Telescope, and analyses using Bayesian methods will help refine this picture further. 
+</em></p>
+
+<p>March 6, 2023 <br />
+<em>BAND member Dick Furnstahl and co-authors Christian Drischler, Jordan Melendez, Alberto Garcia, and Xilin Zhang have two recent publications that present an overview of <a href="https://iopscience.iop.org/article/10.1088/1361-6471/ac83dd">model order reduction methods for the creation of fast &amp; accurate emulators</a> and <a href="https://www.frontiersin.org/articles/10.3389/fphy.2022.1092931/full">a pedagogical introduction to projection-based, reduced-order emulators</a> for applications in low-energy nuclear physics. Stay tuned for the upcoming release of the Reduced Order Scattering Emulator software we are developing at BAND! 
+</em></p>
+
+<p>February 8, 2023 <br />
+<em>This year’s <a href="https://physics.wustl.edu/isnet9-band-camp">BAND camp</a> will take place at Washington University, St. Louis, on Monday, May 22nd. The BAND collaboration is sponsoring accommodation for the BAND camp for up to forty participants. And, as a special offer to viewers of this channel, if you attend the BAND camp we’ll also pay for you to stay on for the ISNET (Information and Statistics in Nuclear Experiment and Theory) Workshop that immediately follows it! Visit the <a href="https://physics.wustl.edu/isnet9">ISNET-9 meeting website</a> for more details and to register. But register soon! Remember: the early registrant gets the free room!
+</em></p>
+
+<p>January 9, 2023 <br />
+<em>Edgard Bonilla, Kyle Godbey, and BAND post-doc Pablo Giuliani are co-authors on two recent publications that employ Reduced Basis Methods (RBM) to speed up the calibration and evaluation of density functionals. In <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.054322">Training and projecting: a reduced basis method for many-body physics</a> they and collaborator Dean Lee lay out the foundation of the method and demonstrate its potential in some illustrative examples. In <a href="https://www.frontiersin.org/articles/10.3389/fphy.2022.1054524">Bayes goes fast: Uncertainty quantification for a covariant energy density functional emulated by the reduced basis method</a> Bonilla, Godbey, and Giuliani teamed up with BAND member Frederi Viens and Jorge Piekarewicz to calibrate a relativistic energy density functional using a fraction of the computational resources that would have been needed without RBM. 
+</em></p>
+
+<p>December 5, 2022 <br />
+<em>Congratulations to BAND member Stefan Wild! Stefan took up a <a href="https://cs.lbl.gov/news-media/news/2022/stefan-wild-to-lead-berkeley-labs-applied-mathematics-and-computational-research-division/">new position as division director</a> of Lawrence Berkeley National Laboratory’s Applied Mathematics and Computational Research Division on December 1.
+</em></p>
+
+<p>November 19, 2022 <br />
+<em>BAND member Witek Nazarewicz and his 17 co-authors have just published a Reviews of Modern Physics Colloquium on <a href="https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.94.031003">Machine Learning in Nuclear Physics</a>. You can also read a nice summary of their paper in this <a href="https://phys.org/news/2022-10-machine-nuclear-physics.html">phys.org</a> piece. 
+</em></p>
+
+<p>November 5, 2022 <br />
+<em>Five BAND members–co-PI, Özge Sürer, post-docs Pablo Giuliani and Daniel Odell, graduate student Dan Liyanage, and BAND leader Daniel Phillips–gave  presentations at the recently concluded <a href="https://tigers.phys.lsu.edu/dnp2022/overview.html">2022 Fall Meeting of the Division of Nuclear Physics  of the American Physical Society</a>. You can check out what they all said at our <a href="https://bandframework.github.io/presentations/">Presentations</a> page. 
+</em></p>
+
+<p>October 24, 2022 <br />
+<em>The paper <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.044002">Interpolating between small- and large-g expansions using      Bayesian model mixing</a> written by BAND members Alexandra Semposki, Dick Furnstahl, and Daniel Phillips has been published in Phys. Rev. C. It tests BAND’s linear, bivariate, and multivariate model mixing approaches on a toy model and paves the way for applications to crucial nuclear physics problems in the very near future!
+</em></p>
+
+<p>October 14, 2022 <br />
+<em>BAND has released <a href="https://github.com/bandframework/bandframework">v0.2 of our software framework</a>! This release includes two “BAND tools”  intended to facilitate Bayesian analyses: surmise for model emulation &amp; calibration and SaMBA for model mixing. It also includes three “BAND examples”  where we apply these tools and methods to forefront Nuclear Physics problems: BFRESCOX for coupled-channel analyses of nuclear reactions, BRICK for  R-matrix calculations, and a tutorial (QGP_Bayes) on the use of JETSCAPE_SIMS tools to analyze the quark-glion plasma. Pull the repo to get all of them,  or pull some of it to get particular pieces you want, but please go ahead and play and tell us what you think when you do!
+</em></p>
+
+<p>Setpember 13, 2022 <br />
+<em>A guide to the use of <a href="https://iopscience.iop.org/article/10.1088/1361-6471/ac83dd">Order-Reduction Methods in Nuclear Physics</a>,  written by Jordan Melendez, BAND co-PI Dick Furnstahl, Christian Drischler, Alberto Garcia, and Xilin Zhang, has  been published in J. Phys. G. 
+</em></p>
+
+<p>July 17, 2022 <br />
+<em>The annual BAND Retreat will be held July 21 and 22 in Dublin, Ohio.  Details (schedule, directions, etc.) are available <a href="/retreat">here</a>.
+</em></p>
+
+<p>May 1, 2022 <br />
+<em>Congratulations to BAND post-doc, Özge Sürer! She will be joining the faculty at Miami  University. No, not that one, the one in Oxford. No, not that Oxford, the one in Ohio.  Dr Sürer will be taking up a position as an Assistant Professor of Business Analytics  in August. 
+</em></p>
+
+<p>February 28, 2022 <br />
+<em>Multiple members of BAND participated in the NSF Project Scoping Workshop  <a href="https://a51.lbl.gov/~0nubb/nsf_0nubb/">Towards Precise and  Accurate Calculations of Neutrinoless Double Beta Decay</a>. The workshop took place on January 31  and February 1 over Zoom, and involved statisticians, computer scientists, and physicists working on calculations of neutrinoless double beta decay of nuclei. It was organized by Jon Engel, from  the University of North Carolina, together with BAND members Witek Nazarewicz and Daniel Phillips. A white paper summarizing the conclusions of the workshop is in preparation. 
+</em></p>
+
+<p>January 26, 2022 <br />
+<em>We are very proud to anounce that two BAND team members, Taps Maiti and Filomena Nunes, were named  <a href="https://msutoday.msu.edu/news/2022/record-year-for-spartan-scientists">2021 Fellows</a> of the  American Association for the Advancement of Science. Congratulations on their distinguished contributions  in statistics and nuclear physics -both foundation pillars of BAND-, as well as their continuous excellence  and engagement in teaching the next generation of scientists!
+</em></p>
+
+<p>December 17, 2021 <br />
+<em>The Second Annual BAND camp was a lot of fun. We had 47 particpants, 21 of whom attended in person. Talk .pdfs can be downloaded  <a href="https://indico.frib.msu.edu/event/47/timetable/#20211213">here</a>. Ozge Surer’s excellent tutorial on BFRESCOX is  available on <a href="https://github.com/bandframework/bandframework/blob/development/software/Bfrescox/Tutorial_I/BANDCamp21.rst">github</a>.
+</em></p>
+
+<p>December 7, 2021 <br />
+<em>Join the BAND team! The Ohio State University has a post-doc <a href="https://academicjobsonline.org/ajo/jobs/20766">opening</a>. The successful candidate will  work effectively in an inter-disciplinary team to build a sustainable code base that can solve problems at the statistics-physics interface.  The position will focus on Bayesian modeling and methodology development for mixing multiple physics simulation models of nuclear dynamics, and building  scalable computational algorithms for inference, prediction and uncertainty quantification. 
+</em></p>
+
+<p>November 30, 2021 <br />
+<em>The <a href="https://indico.frib.msu.edu/event/47/timetable/#20211213">schedule</a> for the Second Annual BAND Camp is now set! We are looking forward to  pedagogical presentations on BAND research by Frederi Viens, Ozge Surer, and Jordan Melendez. BAND leader Daniel Phillips will preview  BAND’s “comming attractions”. And we’ll hear talks by recent Ph.D.s in this area who now work in the insurance industry. 
+</em></p>
+
+<p>November 26, 2021 <br />
+<em>The paper <a href="https://www.nature.com/articles/s41567-021-01395-w">Precision mass measurement of light self-conjugate nucleus 80Zr</a> by BAND team member  Witek Nazarewicz and his experimental and theoretical collaborators has been published in Nature Physics. The journal selected the paper as a  <a href="https://www.nature.com/articles/s41567-021-01443-5">highlight</a> pointing in particular to the use of one of the techniques at the heart of BAND,  Bayesian Model Averaging. 
+</em></p>
+
+<p>September 13, 2021 <br />
+<em>Post-doc <a href="https://www.linkedin.com/in/daniel-odell-42861334/">Daniel Odell</a> will be joining the BAND team at Ohio University on October 1! Daniel has been a postdoc at OU since summer 2019 after completing his Ph.D. at the University of Tennessee under the direction of Lucas Platter.<br />
+</em></p>
+
+<p>August 18, 2021 <br />
+<em>Check out BAND-supported research on emulators: <a href="https://www.sciencedirect.com/science/article/pii/S0370269321005487?via%3Dihub"><i>Fast &amp; accurate emulation of two-body scattering observables without wave functions</i></a> and  <a href="https://doi.org/10.1016/j.physletb.2021.136777"><i>Toward emulating nuclear reactions using eigenvector continuation</i></a>.
+</em></p>
+
+<p>August 2, 2021 <br />
+<em>The ISNET 8 conference will be held in hybrid mode on December 14-16, 2021, preceded on December 13 by pedagogical lectures at the <a href="https://indico.frib.msu.edu/event/47/page/472-band-camp">Second Annual BAND Camp</a>. All talks will be delivered on-site, but sessions will also be broadcasted via zoom for remote participants. For more information and to register, see the <a href="https://indico.frib.msu.edu/event/47/overview">ISNET 8 page</a>. 
+</em></p>
+
+<p>June 22, 2021 <br />
+<em>The 2021 BAND Retreat was held on June 21 jointly on zoom and with in-person contingents in Michigan and Ohio. It was great to see everyone (some in person
+  for the first time in over a year) and to hear all the progress!
+</em></p>
+
+<p>June 16, 2021 <br />
+<em>The external BAND Advisory Board met with BAND members on June 14 via zoom. Our thanks to the Board for their advice and support!
+</em></p>
+
+<p>May 20, 2021 <br />
+<em>The BAND Manifesto, <i>Get on the BAND Wagon: A Bayesian Framework for Quantifying Model Uncertainties in Nuclear Dynamics</i>, is now published in Journal of Physics G. Full text <a href="https://iopscience.iop.org/article/10.1088/1361-6471/abf1df">here</a>.
+</em></p>
+
+<p>February 6, 2021 <br />
+<em>We’ve released <a href="https://surmise.readthedocs.io/en/latest/">surmise</a>. surmise is a Python package that’s designed to provide a surrogate model interface for calibration, uncertainty quantification, and sensitivity analysis. An example is provided with the package so please go ahead and get in and play! Comments &amp; questions to <a href="mailto:ozgesurer2019@u.northwestern.edu">Ozge Surer</a> who, together with Moses Chan, Matt Plumlee and Stefan Wild, developed this very useful tool.
+</em></p>
+
+<p>January 1, 2021 <br />
+<em>Post-doc <a href="https://ozgesurer.github.io/OS/">Ozge Surer</a> joined the BAND team! Ozge completed her Ph.D. at Northwestern University under the supervision of Dan Apley and Ed Malthouse in December 2020. She will be working at the Northwestern-Argonne Institute of Science &amp; Engineering under the supervision of Matt Plumlee and Stefan Wild.
+</em></p>
+
+<p>January 1, 2021 <br />
+<em>Post-doc <a href="https://stt.natsci.msu.edu/directory/faculty/pablo-giuliani/">Pablo Giuliani</a> joined the BAND team! Pablo completed his Ph.D. at Florida State University under the direction of Jorge Piekarewicz in December 2020. He will be working at Michigan State University with a joint appointment in the Department of Statistics and Probability under the supervision of Frederi Viens and the Facility for Rare Isotope Beams.
+</em></p>
+
+<p>December 18, 2020 <br />
+<em>The First Annual BAND Camp was a great success! Daniel Phillips (OU) gave an overview of BAND, Michael Grosskopf (LANL) reviewed “Bayesian Basics”, Simon Mak (Duke) and Derek Everitt (OSU) explained “Model Emulation and Parameter Estimation”, and Matt Pratola (OSU) went through “Bayesian Analysis of Nuclear Dynamics: Early Directions in Bayesian Model Mixing”. The slides for the BAND Camp as well as for the Virtual ISNET 8 workshop that followed can be found <a href="https://indico.frib.msu.edu/event/21/page/353-program-zoom-links">here</a>.
+</em></p>
+
+<p>December 14, 2020 <br />
+<em>The BAND Manifesto, entitled <i>Get on the BAND Wagon: A Bayesian Framework for Quantifying Model Uncertainties in Nuclear Dynamics</i>, is online <a href="https://arxiv.org/abs/2012.07704">on arXiv</a>. Check it out!
+</em></p>
+
+<p>September 24, 2020 <br />
+<em>Registration for Virtual ISNET 8 and for the First Annual BAND Camp is now open. Information and registration can be found <a href="https://indico.frib.msu.edu/event/21/">here</a>. The website also lists confirmed speakers for both events.
+</em></p>
+
+<p>September 17, 2020 <br />
+<em>Opening for Post-doctoral Research Associate in BAND collaboration at Ohio University (see <a href="https://inspirehep.net/jobs/1817480">online ad to apply)</a>. Review begins November 24, 2020.
+</em></p>
+
+<p>August 26, 2020 <br />
+<em>Paper on <i>Efficient emulators for scattering using eigenvector continuation</i> is online in <a href="https://doi.org/10.1016/j.physletb.2020.135719">Physics Letters B 809, 135719 (2020)</a> [also <a href="https://arxiv.org/abs/2007.03635">on arXiv</a>].
+</em></p>
+
+<p>July 1, 2020 <br />
+<em>The BAND Framework project officially begins! Press releases from <a href="https://www.ohio-forum.com/2020/05/phillips-leads-3-7-million-project-to-advance-nuclear-physics-experiments/">Ohio University</a>, <a href="https://artsandsciences.osu.edu/news/band-physics-collaboration">The Ohio State University</a>, and <a href="https://natsci.msu.edu/news/msu-part-of-multi-institutional-nsf-funded-project-to-advance-nuclear-physics-experiments/">Michigan State University</a>.
+</em></p>
+
+:ET

@@ -1,0 +1,104 @@
+I"é<h1 id="band-retreat-in-2022">BAND Retreat in 2022</h1>
+
+<p>
+The 2022 retreat will be held at the Ohio University
+<!-- College of Health Sciences and Professions -->
+<a href="https://www.ohio.edu/chsp/dublin-center/dublin-integrated-education-center">Dublin Integrated Education Center</a> in Dublin, Ohio on July 21 and 22.
+
+</p>
+
+<hr />
+
+<h2 id="directions-and-local-information">Directions and local information</h2>
+
+<p>
+A map and driving directions to the Dublin Integrated Education Center are <a href="/images/pdfs/Dublin_MapDirections.pdf">here</a>.
+</p>
+
+<p>
+You can find information on the meeting hotel, the Hilton Garden Inn, Dublin <a href="https://www.hilton.com/en/hotels/cmhdhgi-hilton-garden-inn-columbus-dublin/?SEO_id=GMB-AMER-GI-CMHDHGI&amp;y_source=1_MjA4NDMzOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D">here</a>. 
+The hotel address is <a href="https://www.google.com/maps?q=500+Metro+Place+North,+Dublin,+Ohio,+43017,+USA">500 Metro Place North, Dublin, OH</a>.
+</p>
+
+<hr />
+
+<h2 id="schedule">Schedule</h2>
+
+<p>
+All times are EDT.
+</p>
+
+<h3 id="thursday-july-21">Thursday, July 21</h3>
+
+<h4 id="900-welcome-and-intro">9:00 Welcome and Intro</h4>
+<ul>
+  <li>Phillips  (10 minutes)</li>
+</ul>
+
+<h4 id="910-1050-student-talks-15--5-each">9:10-10:50 Student talks, 15 + 5 each</h4>
+<ul>
+  <li>Chan [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/BAND_20220721_update_mosesyhc.pdf">pdf</a>]</li>
+  <li>Semposki [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/SAMBA_talk_split.pdf">pdf</a>]</li>
+  <li>Son [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/beta_fit_MK_simplified_Tong_2022_Summer_final-2.pptx">pptx</a>]</li>
+  <li>Yanotty [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/Yannotty_BAND_Retreat_2022.pdf">pdf</a>] (remote)</li>
+  <li>Liyanage [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/VAH_final_dan_liyanage.pptx">pptx</a>] (remote)</li>
+</ul>
+
+<h4 id="1050-1120-coffee-break">10:50-11:20 Coffee break</h4>
+
+<ul>
+  <li>11:20-11:50 Bub, BAND Fellow project [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/Bub_BAND_retreat_talk.pdf">pdf</a>]  (20 + 10)</li>
+  <li>11:50-12:10 Giuliani/Phillips, JAM session update, social-hour participation, meeting frequency, etc. [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/JAM_Sessions_Pres.pptx">pptx</a>]</li>
+  <li>12:10-12:30 Plans for next BAND camp</li>
+</ul>
+
+<h4 id="1230-145-lunch">12:30-1:45 Lunch</h4>
+
+<h4 id="145-230-v02-and-beyond">1:45-2:30 v0.2 and beyond</h4>
+<ul>
+  <li>Phillips [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/BANDv0.2andBeyond.pdf">pdf</a>] (remote, 15 + 30)</li>
+</ul>
+
+<h4 id="230-350-brainstorming-tools-for-v03-25--15-each">2:30-3:50 Brainstorming tools for v0.3 (25 + 15 each)</h4>
+<ul>
+  <li>2:30-3:10 Giuliani: Reduced-basis methods + [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/New_Instrument_RBM.pptx">pptx</a>]</li>
+  <li>3:10-3:50 Surer: Active learning for the calibration of computer models [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/BANDRetreat_OS.pdf">pdf</a>] (remote)</li>
+</ul>
+
+<h4 id="350-420-coffee-break">3:50-4:20 Coffee break</h4>
+
+<h4 id="420-540-more-v03-tools-brainstorming">4:20-5:40 More v0.3 tools brainstorming</h4>
+<ul>
+  <li>4:20-5:00 Pratola, Model-mixing software [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/Pratola_band.pdf">pdf</a>] (remote)</li>
+  <li>5:00-5:40 Maiti, Variational Bayesian inference [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/VBI_talk_Kejzlar.pdf">pdf</a>]</li>
+</ul>
+
+<h4 id="dinner">Dinner</h4>
+<p>Somewhere in Dublin (Witek &amp; Daniel suggest <a href="https://www.cafeistanbuldublin.com/">Cafe Istanbul</a>)</p>
+
+<h3 id="friday-july-22">Friday, July 22</h3>
+
+<h4 id="900-1040-brainstorming-analyses-for-year-3">9:00-10:40 Brainstorming analyses for Year 3</h4>
+<ul>
+  <li>9:00-9:30 Furnstahl, Mixing EFTs [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/Mixing_EFTs_Furnstahl_July2022.pdf">pdf</a>] (15 + 15)</li>
+  <li>9:30-10:10 Nunes, Building a better optical model with BAND [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/nunes-band2022.pdf">pdf</a>] (25 + 15)</li>
+  <li>10:10-10:40 Godbey, BMEX [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/BMEX_BAND_Retreat.pdf">pdf</a>] (15 + 15)</li>
+</ul>
+
+<h4 id="1040-1110-coffee">10:40-11:10 Coffee</h4>
+
+<h4 id="1110-1240-more-brainstorming-analyses">11:10-12:40 More brainstorming analyses</h4>
+<ul>
+  <li>11:10-11:40 Heinz, Model mixing for heavy ions: VAH vs VH [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/model_mixing_BAND_retreat_2022.pptx">pptx</a>] (remote, 15 + 15)</li>
+  <li>11:40-12:10 Odell, Emulating the R-matrix [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/Odell_BAND_Retreat_2022.pdf">pdf</a>] (15 + 15)</li>
+  <li>12:10-12:40 Godbey, BAND &amp; Quantum Computing [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/QC_BAND_Retreat.pdf">pdf</a>] (15 + 15)</li>
+</ul>
+
+<h4 id="1240-130-outstanding-issues--closeout-long-range-plan">12:40-1:30 Outstanding issues &amp; closeout; Long Range Plan</h4>
+<ul>
+  <li>12:40-1:20 Phillips [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/OutstandingIssues.pdf">pdf</a>]</li>
+  <li>1:20-1:30 Nazarewicz [<a href="https://github.com/bandframework/privateband/blob/team/Meetings/Retreat2022/Talks/LRP.pdf">pdf</a>]</li>
+</ul>
+
+<h4 id="130-230-lunch--departure">1:30-2:30 Lunch &amp; departure</h4>
+:ET

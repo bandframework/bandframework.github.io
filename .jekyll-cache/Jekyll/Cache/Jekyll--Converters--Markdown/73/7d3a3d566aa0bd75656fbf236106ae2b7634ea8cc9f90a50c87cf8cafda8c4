@@ -1,0 +1,96 @@
+I"�$<h1 id="news">News</h1>
+
+<p>July 17, 2022 <br />
+<em>The annual BAND Retreat will be held July 21 and 22 in Dublin, Ohio.  Details (schedule, directions, etc.) are available <a href="/retreat">here</a>.
+</em></p>
+
+<p>May 1, 2022 <br />
+<em>Congratulations to BAND post-doc, Özge Sürer! She will be joining the faculty at Miami  University. No, not that one, the one in Oxford. No, not that Oxford, the one in Ohio.  Dr Sürer will be taking up a position as an Assistant Professor of Business Analytics  in August. 
+</em></p>
+
+<p>February 28, 2022 <br />
+<em>Multiple members of BAND participated in the NSF Project Scoping Workshop  <a href="https://a51.lbl.gov/~0nubb/nsf_0nubb/">Towards Precise and  Accurate Calculations of Neutrinoless Double Beta Decay</a>. The workshop took place on January 31  and February 1 over Zoom, and involved statisticians, computer scientists, and physicists working on calculations of neutrinoless double beta decay of nuclei. It was organized by Jon Engel, from  the University of North Carolina, together with BAND members Witek Nazarewicz and Daniel Phillips. A white paper summarizing the conclusions of the workshop is in preparation. 
+</em></p>
+
+<p>January 26, 2022 <br />
+<em>We are very proud to anounce that two BAND team members, Taps Maiti and Filomena Nunes, were named  <a href="https://msutoday.msu.edu/news/2022/record-year-for-spartan-scientists">2021 Fellows</a> of the  American Association for the Advancement of Science. Congratulations on their distinguished contributions  in statistics and nuclear physics -both foundation pillars of BAND-, as well as their continuous excellence  and engagement in teaching the next generation of scientists!
+</em></p>
+
+<p>December 17, 2021 <br />
+<em>The Second Annual BAND camp was a lot of fun. We had 47 particpants, 21 of whom attended in person. Talk .pdfs can be downloaded  <a href="https://indico.frib.msu.edu/event/47/timetable/#20211213">here</a>. Ozge Surer’s excellent tutorial on BFRESCOX is  available on <a href="https://github.com/bandframework/bandframework/blob/development/software/Bfrescox/Tutorial_I/BANDCamp21.rst">github</a>.
+</em></p>
+
+<p>December 7, 2021 <br />
+<em>Join the BAND team! The Ohio State University has a post-doc <a href="https://academicjobsonline.org/ajo/jobs/20766">opening</a>. The successful candidate will  work effectively in an inter-disciplinary team to build a sustainable code base that can solve problems at the statistics-physics interface.  The position will focus on Bayesian modeling and methodology development for mixing multiple physics simulation models of nuclear dynamics, and building  scalable computational algorithms for inference, prediction and uncertainty quantification. 
+</em></p>
+
+<p>November 30, 2021 <br />
+<em>The <a href="https://indico.frib.msu.edu/event/47/timetable/#20211213">schedule</a> for the Second Annual BAND Camp is now set! We are looking forward to  pedagogical presentations on BAND research by Frederi Viens, Ozge Surer, and Jordan Melendez. BAND leader Daniel Phillips will preview  BAND’s “comming attractions”. And we’ll hear talks by recent Ph.D.s in this area who now work in the insurance industry. 
+</em></p>
+
+<p>November 26, 2021 <br />
+<em>The paper <a href="https://www.nature.com/articles/s41567-021-01395-w">Precision mass measurement of light self-conjugate nucleus 80Zr</a> by BAND team member  Witek Nazarewicz and his experimental and theoretical collaborators has been published in Nature Physics. The journal selected the paper as a  <a href="https://www.nature.com/articles/s41567-021-01443-5">highlight</a> pointing in particular to the use of one of the techniques at the heart of BAND,  Bayesian Model Averaging. 
+</em></p>
+
+<p>September 13, 2021 <br />
+<em>Post-doc <a href="https://www.linkedin.com/in/daniel-odell-42861334/">Daniel Odell</a> will be joining the BAND team at Ohio University on October 1! Daniel has been a postdoc at OU since summer 2019 after completing his Ph.D. at the University of Tennessee under the direction of Lucas Platter.<br />
+</em></p>
+
+<p>August 18, 2021 <br />
+<em>Check out BAND-supported research on emulators: <a href="https://www.sciencedirect.com/science/article/pii/S0370269321005487?via%3Dihub"><i>Fast &amp; accurate emulation of two-body scattering observables without wave functions</i></a> and  <a href="https://doi.org/10.1016/j.physletb.2021.136777"><i>Toward emulating nuclear reactions using eigenvector continuation</i></a>.
+</em></p>
+
+<p>August 2, 2021 <br />
+<em>The ISNET 8 conference will be held in hybrid mode on December 14-16, 2021, preceded on December 13 by pedagogical lectures at the <a href="https://indico.frib.msu.edu/event/47/page/472-band-camp">Second Annual BAND Camp</a>. All talks will be delivered on-site, but sessions will also be broadcasted via zoom for remote participants. For more information and to register, see the <a href="https://indico.frib.msu.edu/event/47/overview">ISNET 8 page</a>. 
+</em></p>
+
+<p>June 22, 2021 <br />
+<em>The 2021 BAND Retreat was held on June 21 jointly on zoom and with in-person contingents in Michigan and Ohio. It was great to see everyone (some in person
+  for the first time in over a year) and to hear all the progress!
+</em></p>
+
+<p>June 16, 2021 <br />
+<em>The external BAND Advisory Board met with BAND members on June 14 via zoom. Our thanks to the Board for their advice and support!
+</em></p>
+
+<p>May 20, 2021 <br />
+<em>The BAND Manifesto, <i>Get on the BAND Wagon: A Bayesian Framework for Quantifying Model Uncertainties in Nuclear Dynamics</i>, is now published in Journal of Physics G. Full text <a href="https://iopscience.iop.org/article/10.1088/1361-6471/abf1df">here</a>.
+</em></p>
+
+<p>February 6, 2021 <br />
+<em>We’ve released <a href="https://surmise.readthedocs.io/en/latest/">surmise</a>. surmise is a Python package that’s designed to provide a surrogate model interface for calibration, uncertainty quantification, and sensitivity analysis. An example is provided with the package so please go ahead and get in and play! Comments &amp; questions to <a href="mailto:ozgesurer2019@u.northwestern.edu">Ozge Surer</a> who, together with Moses Chan, Matt Plumlee and Stefan Wild, developed this very useful tool.
+</em></p>
+
+<p>January 1, 2021 <br />
+<em>Post-doc <a href="https://ozgesurer.github.io/OS/">Ozge Surer</a> joined the BAND team! Ozge completed her Ph.D. at Northwestern University under the supervision of Dan Apley and Ed Malthouse in December 2020. She will be working at the Northwestern-Argonne Institute of Science &amp; Engineering under the supervision of Matt Plumlee and Stefan Wild.
+</em></p>
+
+<p>January 1, 2021 <br />
+<em>Post-doc <a href="https://stt.natsci.msu.edu/directory/faculty/pablo-giuliani/">Pablo Giuliani</a> joined the BAND team! Pablo completed his Ph.D. at Florida State University under the direction of Jorge Piekarewicz in December 2020. He will be working at Michigan State University with a joint appointment in the Department of Statistics and Probability under the supervision of Frederi Viens and the Facility for Rare Isotope Beams.
+</em></p>
+
+<p>December 18, 2020 <br />
+<em>The First Annual BAND Camp was a great success! Daniel Phillips (OU) gave an overview of BAND, Michael Grosskopf (LANL) reviewed “Bayesian Basics”, Simon Mak (Duke) and Derek Everitt (OSU) explained “Model Emulation and Parameter Estimation”, and Matt Pratola (OSU) went through “Bayesian Analysis of Nuclear Dynamics: Early Directions in Bayesian Model Mixing”. The slides for the BAND Camp as well as for the Virtual ISNET 8 workshop that followed can be found <a href="https://indico.frib.msu.edu/event/21/page/353-program-zoom-links">here</a>.
+</em></p>
+
+<p>December 14, 2020 <br />
+<em>The BAND Manifesto, entitled <i>Get on the BAND Wagon: A Bayesian Framework for Quantifying Model Uncertainties in Nuclear Dynamics</i>, is online <a href="https://arxiv.org/abs/2012.07704">on arXiv</a>. Check it out!
+</em></p>
+
+<p>September 24, 2020 <br />
+<em>Registration for Virtual ISNET 8 and for the First Annual BAND Camp is now open. Information and registration can be found <a href="https://indico.frib.msu.edu/event/21/">here</a>. The website also lists confirmed speakers for both events.
+</em></p>
+
+<p>September 17, 2020 <br />
+<em>Opening for Post-doctoral Research Associate in BAND collaboration at Ohio University (see <a href="https://inspirehep.net/jobs/1817480">online ad to apply)</a>. Review begins November 24, 2020.
+</em></p>
+
+<p>August 26, 2020 <br />
+<em>Paper on <i>Efficient emulators for scattering using eigenvector continuation</i> is online in <a href="https://doi.org/10.1016/j.physletb.2020.135719">Physics Letters B 809, 135719 (2020)</a> [also <a href="https://arxiv.org/abs/2007.03635">on arXiv</a>].
+</em></p>
+
+<p>July 1, 2020 <br />
+<em>The BAND Framework project officially begins! Press releases from <a href="https://www.ohio-forum.com/2020/05/phillips-leads-3-7-million-project-to-advance-nuclear-physics-experiments/">Ohio University</a>, <a href="https://artsandsciences.osu.edu/news/band-physics-collaboration">The Ohio State University</a>, and <a href="https://natsci.msu.edu/news/msu-part-of-multi-institutional-nsf-funded-project-to-advance-nuclear-physics-experiments/">Michigan State University</a>.
+</em></p>
+
+:ET
