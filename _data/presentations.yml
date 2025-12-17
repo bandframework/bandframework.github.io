@@ -10,6 +10,20 @@
   highlight: 0
   type: methodology
   news2:
+
+- title: "Meeting nuclear challenges with RBM emulators"
+  image:
+  location: >
+    ISNET-11: Information and Statistics in Nuclear Experiment and Theory, Trento, Italy
+  date: >
+    November 17, 2025
+  presenter: Dick Furnstahl (OSU)
+  link:
+    url: https://indico.ectstar.eu/event/247/contributions/6585/attachments/4075/5903/Furnstahl_ISNET11_ECT_2025.pdf
+  highlight: 0
+  type: methodology
+  news2:
+
   
 - title: "Phenomenological constraints on transport properties of QCD matter with quantified theoretical uncertainties"
   image:
@@ -23,6 +37,21 @@
   highlight: 0
   type: physics
   news2:
+
+  
+- title: "Frontiers in Bayesian Statistics for Nuclear Physics"
+  image:
+  location: >
+    PAINT25 Workshop, Vancouver, BC, Canada
+  date: >
+    February 28, 2025
+  presenter: Dick Furnstahl (OSU)
+  link:
+    url: https://indico.triumf.ca/event/608/contributions/6429/attachments/4656/6679/Furnstahl_TRIUMF_PAINT_Feb_2025.pdf
+  highlight: 0
+  type: methodology
+  news2:
+
   
 - title: "An active learning performance model for parallel Bayesian calibration of expensive simulations"
   image:
