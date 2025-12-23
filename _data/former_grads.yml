@@ -16,6 +16,13 @@
   number_educ: 0
   education1:
 
+- name: Dananjaya Liyanage
+  photo: liyanage.5_cropped.jpg
+  info: Machine Learning Scientist, <br> Global Analytics and Data Science, <br> PayPal
+  email: liyanagedananjaya@gmail.com
+  number_educ: 0
+  education1:
+
 - name: Karina Martirosova
   photo: karina_small.jpg
   info: Department of Physics and Facility for Rare Isotope Beams, <br> Michigan State University
