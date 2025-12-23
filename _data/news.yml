@@ -1,3 +1,7 @@
+- date: December 23, 2025
+  headline: > 
+     v0.5 of the <a href="https://github.com/bandframework/bandframework/tree/main">BAND Framework</a> is out! This version includes updates of existing BAND packages such as surmise, jitr, PUQ, and Taweret. It also includes new capabilities, e.g., pybmc, a Python package for performing Bayesian model combination on various predictive models, and ModelDiscrepancy, a set of notebooks exemplifying model-data comparison in the presence of theoretical uncertainties.
+
 - date: November 30, 2025
   headline: > 
     BAND members Kyle Beyer, Dick Furnstahl, Kyle Godbey, Sunil Jaiswal, Filomena Nunes, Daniel Phillips, Alexandra Semposki, and Özge Sürer gave talks at the recent <a href="https://indico.ectstar.eu/event/247/overview">11th workshop on Information and Statistics in Nuclear Experiment and Theory</a>, which took place at the <a href="https://www.ectstar.eu">European Center for Theoretical Studies in Nuclear Physics</a> in Trento, Italy. 
