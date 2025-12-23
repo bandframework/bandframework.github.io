@@ -281,7 +281,7 @@ permalink: /team/
 <hr>
 
 
-## Former Graduate Students
+## Graduate Student Alumni
 {% assign number_printed = 0 %}
 {% for member in site.data.former_grads %}
 
