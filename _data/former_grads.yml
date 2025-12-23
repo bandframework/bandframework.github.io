@@ -1,0 +1,46 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+
+- name: Moses Chan
+  photo: chan-moses-website.jpg
+  info: Industrial Engineering & Management Sciences, <br> Northwestern University
+  email: mosesyhc@u.northwestern.edu
+  number_educ: 0
+  education1:
+
+- name: Karina Martirosova
+  photo: karina_small.jpg
+  info: Department of Physics and Facility for Rare Isotope Beams, <br> Michigan State University
+  email: martiros@frib.msu.edu
+  number_educ: 0
+  education1:
+
+- name: <a href='https://pa.msu.edu/profile/quinonez/'>Michael Qui&#241;onez</a>
+  photo: michael.png
+  info: Department of Physics and Facility for Rare Isotope Beams, <br> Michigan State University
+  email: quinonez@nscl.msu.edu
+  number_educ: 0
+  education1:
+
+- name: <a href='https://www.ohio.edu/cas/as727414'>Alexandra Semposki</a>
+  photo: alexandra_cropped.jpg
+  info: Department of Physics and Astronomy, <br> Ohio University
+  email: as727414@ohio.edu
+  number_educ: 0
+  education1:
+
+- name: John Yannotty
+  photo: Yannotty_John_headshot.jpg
+  info: Department of Statistics, <br> The Ohio State University
+  email: yannotty.1@osu.edu
+  number_educ: 0
+  education1:
+

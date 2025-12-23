@@ -69,6 +69,13 @@
   number_educ: 0
   education1:
 
+- name: <a href='https://www.ohio.edu/cas/as727414'>Alexandra Semposki</a>
+  photo: alexandra_cropped.jpg
+  info: Department of Physics and Astronomy, <br> Ohio University
+  email: as727414@ohio.edu
+  number_educ: 0
+  education1:
+
 - name: Mookyong Son
   photo: Mookyong_Son.jpg
   info: Department of Statistics and Probability and FRIB, <br> Michigan State University
