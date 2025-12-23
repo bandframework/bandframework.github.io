@@ -1,10 +1,3 @@
-- name: Kyle Beyer
-  photo: KyleB.jpg
-  info: Department of Nuclear Engineering and Radiological Sciences, <br> University of Michigan
-  email: beykyle@umich.edu
-  number_educ: 0
-  education1:
-
 - name: Edgard Bonilla
   photo: Edgard.jpg
   info: Postdoctoral Scholar, <br> Department of Applied Physics, <br> Stanford University
@@ -30,6 +23,13 @@
   photo: drischler.jpg
   info:  Department of Physics &amp; Astronomy,<br> Ohio University
   email: drischler@ohio.edu
+  number_educ: 0
+  education1:
+
+- name: Pablo Giuliani
+  photo: pablo.jpg
+  info: Postdoctoral Research Associate <br> Department of Statistics and Probability, and Facility for Rare Isotope Beams, <br> Michigan State University
+  email: giulia27@msu.edu
   number_educ: 0
   education1:
 
