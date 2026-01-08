@@ -19,7 +19,7 @@
   news2:
 
 - title: "Surrogate models for linear response"
-  image: SpectrumImage.PNG
+  image: SpectrumImage.png
   description: >
     Linear response theory is a well-established method in physics and chemistry for exploring excitations of many-body systems.
     In particular, the quasiparticle random-phase approximation (QRPA) provides a powerful microscopic framework by building
