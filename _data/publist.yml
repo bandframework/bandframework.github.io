@@ -18,6 +18,27 @@
   highlight: 1
   news2:
 
+- title: "Surrogate models for linear response"
+  image: SpectrumImage.PNG
+  description: >
+    Linear response theory is a well-established method in physics and chemistry for exploring excitations of many-body systems.
+    In particular, the quasiparticle random-phase approximation (QRPA) provides a powerful microscopic framework by building
+    excitations on top of the mean-field vacuum; however, its high computational cost limits model calibration and uncertainty
+    quantification studies. Here, we present two complementary QRPA surrogate models and apply them to study response functions
+    of finite nuclei. One is a reduced-order model that exploits the underlying QRPA structure, while the other utilizes the
+    recently developed parametric matrix model algorithm to construct a map between the system’s Hamiltonian and observables.
+    Our benchmark applications, the calculation of the electric dipole polarizability of 180Yb and the 𝛽-decay half-life of
+    80Ni, show that both emulators can achieve 0.1%–1% accuracy while offering a 6–7 orders of magnitude speedup compared
+    to state-of-the-art QRPA solvers. These results demonstrate that the developed QRPA emulators are well positioned to
+    enable Bayesian calibration and large-scale studies of computationally expensive physics models describing the properties
+    of many-body systems.
+  authors: Lauren Jin, Ante Ravlic, Pablo Giuliani, Kyle Godbey, Witold Nazarewicz.
+  link:
+    url: https://journals.aps.org/prresearch/abstract/10.1103/vvxs-3mnk
+    display:  Phys. Rev. Research 7, 043347 (2025)
+  highlight: 1
+  news2:
+
 - title: "Bayesian model-data comparison incorporating theoretical uncertainties"
   image: MD_ball-drop_posterior.PNG
   description: >
