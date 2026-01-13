@@ -18,6 +18,25 @@
   highlight: 1
   news2:
 
+- title: "A new database website for nuclear level densities"
+  image: CANDL.png
+  description: >
+    We introduce a new open-access, web-based database (<a href="https://nld.ascsn.net">https://nld.ascsn.net</a>), Current Archive of Nuclear Density of Levels (CANDL),
+    that hosts experimental nuclear level density (NLD) datasets from a variety of techniques and energy ranges. Built using the
+    Dash framework in Python, the database is designed to be interactive and user-friendly, allowing researchers to search, visualize,
+    fit, and export NLD data with minimal effort. This resource includes data extracted from evaporation spectra, Oslo method variants,
+    and other experimental techniques that cover excitation energies beyond the neutron resonance region. The database supports
+    on-the-fly fitting with two widely-used phenomenological models—the Constant Temperature (CT) model and the Back-Shifted Fermi Gas (BSFG)
+    model—selected for their simplicity and computational efficiency. Future versions aim to include additional datasets and model types,
+    as well as easy-to-use interfaces to data science techniques. This platform offers a vital tool for the nuclear physics, astrophysics,
+    medicine, and reactor design communities.
+  authors: Chirag Rathi, Alexander Voinov, Kyle Godbey, Zach Meisel, Kristen Leibensperger
+  link:
+    url: https://doi.org/10.1016/j.cpc.2025.110018
+    display:  Computer Physics Communications 321 (2026) 110018
+  highlight: 1
+  news2:
+
 - title: "Surrogate models for linear response"
   image: SpectrumImage.png
   description: >
@@ -32,7 +51,7 @@
     to state-of-the-art QRPA solvers. These results demonstrate that the developed QRPA emulators are well positioned to
     enable Bayesian calibration and large-scale studies of computationally expensive physics models describing the properties
     of many-body systems.
-  authors: Lauren Jin, Ante Ravlic, Pablo Giuliani, Kyle Godbey, Witold Nazarewicz.
+  authors: Lauren Jin, Ante Ravlic, Pablo Giuliani, Kyle Godbey, Witold Nazarewicz
   link:
     url: https://journals.aps.org/prresearch/abstract/10.1103/vvxs-3mnk
     display:  Phys. Rev. Research 7, 043347 (2025)
