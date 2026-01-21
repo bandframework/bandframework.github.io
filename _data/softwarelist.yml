@@ -68,24 +68,12 @@
 - name: Bfrescox
   imageurl: /images/logopic/BFRESCOX_logo.png
   info: >
-      Bfrescox combines an efficient emulator trained on results from the reaction-theory code Fresco 
-      with statistical calibration capabilities to perform uncertainty quantification of nuclear breakup reactions.
+      Bfrescox is a python package wrapping Frescox, a Fortran application for coupled-reaction-channels calculations in nuclear physics. 
   link:
-    url: https://github.com/bandframework/bandframework/tree/main/software/Bfrescox
+    url: https://github.com/bandframework/Bfrescox/tree/151c20896d9673037e5b82f13b0c1711931e62d5
     display:  Bfrescox ReadMe and Repo
-  compatible: bandframework/blob/main/software/Bfrescox/frescoxbandsdk.md
-  authors: O. Surer, F. Nunes, M. Plumlee, S. M. Wild
-
-- name: BRICK
-  imageurl: /images/logopic/BRICK_logo.png
-  info: >
-      The Bayesian R-matrix Inference Code Kit (BRICK) mediates between the R-matrix code AZURE2 and the MCMC sampling software
-      emcee, in order to facilitate uncertainty quantification in R-matrix calculations.
-  link:
-    url: https://github.com/bandframework/bandframework/tree/main/software/BRICK
-    display:  BRICK tutorial
-  compatible: bandframework/blob/main/software/Bfrescox/brickbandsdk.md
-  authors: D. Odell, R. J. deBoer, C. R. Brune, D. R. Phillips
+  compatible: https://github.com/bandframework/Bfrescox/blob/151c20896d9673037e5b82f13b0c1711931e62d5/Bfrescoxbandsdk.md
+  authors: K. Beyer and M. Catacora-Rios and J. O'Neal
 
 - name: PUQ
   imageurl: /images/logopic/Logo_PUQ.png
