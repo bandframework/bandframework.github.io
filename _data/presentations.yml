@@ -1,3 +1,42 @@
+- title: "The BAND approach to optical potentials"
+  image:
+  location: >
+    Nuclear data week 2025, Brookhaven National Lab, Upton, NY
+  date: >
+    January 8, 2026
+  presenter: Kyle Beyer (Michigan State)
+  link:
+    url: https://indico.bnl.gov/event/29405/contributions/114773/attachments/67216/115486/beyerk_csweg25.pdf
+  highlight: 0
+  type: physics
+  news2:
+
+- title: "The Bayesian Analysis of Nuclear Dynamics CI Framework"
+  image:
+  location: >
+    Nuclear data week 2025, Brookhaven National Lab, Upton, NY
+  date: >
+    January 8, 2026
+  presenter: Daniel Phillips (Ohio)
+  link:
+    url: https://indico.bnl.gov/event/29405/contributions/114772/attachments/67217/115487/BAND_Nuclear_Data_week.pdf
+  highlight: 0
+  type: band
+  news2:
+
+- title: "ISNET-11 Closing Talk"
+  image:
+  location: >
+    ISNET-11: Information and Statistics in Nuclear Experiment and Theory, Trento, Italy
+  date: >
+    November 21, 2025
+  presenter: Daniel Phillips (Ohio)
+  link:
+    url: https://indico.ectstar.eu/event/247/contributions/6550/attachments/4121/5971/Closing%20Talk%20ISNET.pdf
+  highlight: 0
+  type: methodology
+  news2:
+  
 - title: "Microscopic constraints for the equation of state and structure of neutron stars: a Bayesian model mixing framework"
   image:
   location: >
@@ -51,7 +90,45 @@
   type: physics
   news2:
 
-  
+- title: "Tools for treating model uncertainty in ab initio calculations of nuclei"
+  image:
+  location: >
+    Workshop on next generation ab initio nuclear theory, Trento, Italy
+  date: >
+    July 16, 2025
+  presenter: Daniel Phillips (Ohio)
+  link:
+    url: https://indico.ectstar.eu/event/238/contributions/5788/attachments/3811/5505/ECTstarAbInitio_Phillips.pdf
+  highlight: 0
+  type: physics
+  news2:
+
+- title: "A tool kit for assessing theory uncertainty in calculations of neutrinoless double beta decay"
+  image:
+  location: >
+    Virtual seminar to @NDB Focused Research Hub in Theoretical Physics
+  date: >
+    July 11, 2025
+  presenter: Daniel Phillips (Ohio)
+  link:
+    url: https://tarheels.live/atndb/wp-content/uploads/sites/6819/2025/07/Phillips-slides.pdf
+  highlight: 0
+  type: physics
+  news2:
+
+- title: "From chiral effective field theory to perturbative QCD: a Bayesian model mixing approach to neutron-star matter"
+  image:
+  location: >
+    American Physical Society Global Physics Summit, Anaheim, CA
+  date: >
+    March 19, 2025
+  presenter: Daniel Phillips (Ohio)
+  link:
+    url: 
+  highlight: 0
+  type: physics
+  news2:
+
 - title: "Frontiers in Bayesian Statistics for Nuclear Physics"
   image:
   location: >
