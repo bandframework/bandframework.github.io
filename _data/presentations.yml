@@ -11,6 +11,7 @@
   type: physics
   news2:
 
+
 - title: "The Bayesian Analysis of Nuclear Dynamics CI Framework"
   image:
   location: >
@@ -24,6 +25,7 @@
   type: band
   news2:
 
+
 - title: "ISNET-11 Closing Talk"
   image:
   location: >
@@ -36,6 +38,7 @@
   highlight: 0
   type: methodology
   news2:
+
   
 - title: "Microscopic constraints for the equation of state and structure of neutron stars: a Bayesian model mixing framework"
   image:
