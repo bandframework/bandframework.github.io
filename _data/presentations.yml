@@ -53,6 +53,19 @@
   type: physics
   news2:
 
+- title: "The East Lansing Model: towards an optical potential for rare isotopes"
+  image:
+  location: >
+    ISNET-11: Information and Statistics in Nuclear Experiment and Theory, Trento, Italy
+  date: >
+    November 18, 2025
+  presenter: Kyle Beyer (Michigan State/FRIB)
+  link:
+    url: https://indico.ectstar.eu/event/247/contributions/6580/attachments/4091/5944/beyerk_isnet_25-1.pdf
+  highlight: 0
+  type: methodology
+  news2:
+
 - title: "Bayesian framework for model-data comparison with theoretical uncertainty quantification"
   image:
   location: >
