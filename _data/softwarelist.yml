@@ -77,7 +77,7 @@
 
 - name: jitR
   imageurl: /images/logopic/JITR_logo.png
-  info: > 
+  info: >
     A fast calculable R-matrix solver for parametric reaction models, production ready for calibration and uncertainty-quantification.
   link:
     url: https://github.com/beykyle/jitr
@@ -87,7 +87,7 @@
 
 - name: Smooth Emulator
   imageurl: /images/logopic/smooth.png
-  info: > 
+  info: >
     If your function is well described by Taylor expansion, Smooth Emulator is for you!
   link:
     url: https://github.com/bandframework/bandframework/tree/main/software/SmoothEmulator/doc/UserManual.pdf
@@ -97,7 +97,7 @@
 
 - name: LCGP
   imageurl: /images/logopic/logo_lcgp.png
-  info: > 
+  info: >
     A Python emulator strategy for stochastic high-dimensional simulation outputs.
   link:
     url: https://github.com/mosesyhc/lcgp
