@@ -18,6 +18,28 @@
   highlight: 1
   news2:
 
+- title: "Microscopic constraints for the equation of state and structure of neutron stars: A Bayesian model mixing framework"
+  image: mr_curve.pdf
+  description: >
+    Bayesian model mixing (BMM) is a statistical technique that can combine constraints from different regions of an input space 
+    in a principled way. Here we extend our BMM framework for the equation of state (EOS) of strongly interacting matter from symmetric
+    nuclear matter to asymmetric matter, specifically focusing on zero-temperature, charge-neutral, 𝛽-equilibrated matter. We 
+    use Gaussian processes (GPs) to infer constraints on the neutron-star matter EOS at intermediate densities from two different 
+    microscopic theories: chiral effective-field theory (𝜒⁢EFT) at baryon densities around nuclear saturation, 𝑛𝐵∼𝑛0, and perturbative 
+    QCD at asymptotically high baryon densities, 𝑛𝐵⩾20⁢𝑛0. The uncertainties of the 𝜒⁢EFT and pQCD EOSs are obtained using the BUQEYE 
+    truncation error model. We demonstrate the flexibility of our framework through the use of two categories of GP kernels: 
+    conventional stationary kernels and a nonstationary changepoint kernel. We use the latter to explore potential constraints on 
+    the dense matter EOS by including exogenous data representing theory predictions and heavy-ion collision measurements at 
+    densities ⩾2⁢𝑛0. We also use our EOSs to obtain neutron-star mass-radius relations and their uncertainties. Our framework, whose 
+    implementation will be available through a GitHub repository, provides a prior distribution for the EOS that can be used in 
+    large-scale neutron-star inference frameworks.
+  authors: Alexandra C. Semposki, Christian Drischler, Richard J. Furnstahl, Daniel R. Phillips
+  link: https://journals.aps.org/prc/abstract/10.1103/fxv6-gdnw
+    url: 
+    display: Phys. Rev. C 113, 015808 (2026)
+  highlight: 1
+  news2:
+
 - title: "A new database website for nuclear level densities"
   image: CANDL.png
   description: >
