@@ -34,8 +34,8 @@
     implementation will be available through a GitHub repository, provides a prior distribution for the EOS that can be used in 
     large-scale neutron-star inference frameworks.
   authors: Alexandra C. Semposki, Christian Drischler, Richard J. Furnstahl, Daniel R. Phillips
-  link: https://journals.aps.org/prc/abstract/10.1103/fxv6-gdnw
-    url: 
+  link:
+    url: https://journals.aps.org/prc/abstract/10.1103/fxv6-gdnw
     display: Phys. Rev. C 113, 015808 (2026)
   highlight: 1
   news2:
