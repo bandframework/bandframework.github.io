@@ -1,3 +1,7 @@
+- date: January 22, 2025
+  headline: > 
+     Dimensionality reduction is a way to reduce the computational burden of expensive nuclear models and simulations. The technique--which has been a focus of BAND's research--was highlighted in <a href="https://www.youtube.com/watch?v=fXkV3uo9bZQ">this video</a>. The video, produced by Pablo Giuliani, Kyle Godbey, and Edgard Bonilla won second place in the <a href="https://www.annualreviews.org/page/ARNPS_VideoContest_Results">2025 Annual Reviews of Nuclear and Particle Science video competition</a>. 
+
 - date: December 23, 2025
   headline: > 
      v0.5 of the <a href="https://github.com/bandframework/bandframework/tree/main">BAND Framework</a> is out! This version includes updates of existing BAND packages such as surmise, jitr, PUQ, and Taweret. It also includes new capabilities, e.g., pybmc, a Python package for performing Bayesian model combination on various predictive models, and ModelDiscrepancy, a set of notebooks exemplifying model-data comparison in the presence of theoretical uncertainties.
