@@ -21,9 +21,9 @@
 - title: "Phenomenological constraints on QCD transport with quantified theory uncertainties"
   image: MDheavy-ion_viscosities.png
   description: >
-    We present data-driven, state-of-the-art constraints on the temperature-dependent specific shear and bulk viscosities of the 
-    quark–gluon plasma from Pb--Pb collisions at $\sqrt{s_{\rm NN}}=2.76\,$TeV. We perform global Bayesian calibration 
-    using the JETSCAPE multistage framework with two particlization ansätze, Grad 14-moment and first-order Chapman–Enskog, and 
+    We present data-driven, state-of-the-art constraints on the temperature-dependent specific shear and bulk viscosities 
+    of the quark–gluon plasma from Pb--Pb collisions at √sₙₙ=2.76 TeV. We perform global Bayesian calibration using the 
+    JETSCAPE multistage framework with two particlization ansätze, Grad 14-moment and first-order Chapman–Enskog, and 
     quantify theoretical uncertainties via a centrality-dependent model discrepancy term. When theoretical uncertainties are neglected, 
     the specific bulk viscosity and some model parameters inferred using the two ansätze exhibit clear tension. Once theoretical 
     uncertainties are quantified, the Grad and Chapman–Enskog posteriors for all model parameters become almost statistically 
