@@ -1,6 +1,6 @@
 - date: February 6, 2025
   headline: > 
-    Congratulations to BAND researcher, Kyle Godbey, and his Ohio University collaborators, on the publication of their <a href="https://www.sciencedirect.com/science/article/pii/S0010465525005193?via%3Dihub">New database website for nuclear level densities</a> in Computer Physics Communications. The <href="https://nld.ascsn.net">Current Archive of Nuclear Density of Levels (CANDL)</a> hosts experimental nuclear level density datasets from a variety of techniques and energy ranges. Built using the Dash framework in Python, the database is designed to be interactive and user-friendly, allowing researchers to search, visualize, fit, and export NLD data with minimal effort. It offers a vital tool for the nuclear physics, astrophysics, medicine, and reactor design communities.
+    Congratulations to BAND researcher, Kyle Godbey, and his Ohio University and AFIT collaborators, on the publication of their <a href="https://www.sciencedirect.com/science/article/pii/S0010465525005193?via%3Dihub">New database website for nuclear level densities</a> in Computer Physics Communications. The <a href="https://nld.ascsn.net">Current Archive of Nuclear Density of Levels (CANDL)</a> hosts experimental nuclear level density datasets from a variety of techniques and energy ranges. The database is interactive and user-friendly, allowing researchers nuclear physics, reactor design, and other communities to search, visualize, fit, and export data with minimal effort. 
      
 - date: January 22, 2025
   headline: > 
