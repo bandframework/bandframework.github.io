@@ -21,17 +21,17 @@
 - title: "Wavefunction-based emulation of coupled-channels scattering with nonaffinely parametrized interactions"
   image: wavefunction-couple-channels.png
   description: >
-  Accurate nuclear reaction calculations are essential for connecting nuclear structure, reaction dynamics, and uncertainty quantification,
-  but repeated coupled-channel calculations can become computationally expensive. In this work, we extend reduced-basis emulation methods
-  from single-channel scattering to coupled-channel problems, enabling fast surrogate calculations for elastic and inelastic neutron-nucleus
-  scattering with non-affinely parametrized interactions. The coupled-channel reduced-basis emulator uses training wave functions to construct
-  a low-dimensional basis, solves the resulting Petrov-Galerkin equations in that reduced space, and employs empirical interpolation to
-  handle non-affine coupling potentials. Benchmarks for neutron scattering from (^{48}\mathrm{Ca}), including quadrupole excitation of
-  the first (2^+) state, and (^{208}\mathrm{Pb}), including octupole excitation of the first (3^-) state, show that the emulator reproduces
-  high-fidelity coupled-channel cross sections across different energy regimes while providing roughly 1.5 orders of magnitude speedup at percent-level accuracy.
+    Accurate nuclear reaction calculations are essential for connecting nuclear structure, reaction dynamics, and uncertainty quantification,
+    but repeated coupled-channel calculations can become computationally expensive. In this work, we extend reduced-basis emulation methods
+    from single-channel scattering to coupled-channel problems, enabling fast surrogate calculations for elastic and inelastic neutron-nucleus
+    scattering with non-affinely parametrized interactions. The coupled-channel reduced-basis emulator uses training wave functions to construct
+    a low-dimensional basis, solves the resulting Petrov-Galerkin equations in that reduced space, and employs empirical interpolation to
+    handle non-affine coupling potentials. Benchmarks for neutron scattering from (^{48}\mathrm{Ca}), including quadrupole excitation of
+    the first (2^+) state, and (^{208}\mathrm{Pb}), including octupole excitation of the first (3^-) state, show that the emulator reproduces
+    high-fidelity coupled-channel cross sections across different energy regimes while providing roughly 1.5 orders of magnitude speedup at percent-level accuracy.
   authors: M. Catacora-Rios, K. Beyer, P. Giuliani, K. Godbey, R.J. Furnstahl, and F.M. Nunes
   link:
-    url: DOI: https://doi.org/10.1103/tgf9-f2st
+    url: https://doi.org/10.1103/tgf9-f2st
     display:  Phys. Rev. C 113, 044623 (2026)
   highlight: 1
   news2:
