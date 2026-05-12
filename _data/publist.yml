@@ -95,6 +95,23 @@
   highlight: 1
   news2:
 
+- title: "Dynamic calibration framework for digital twins using active learning and conformal prediction"
+  image: wsc_Figure4a.png
+  description: >
+    This work presents an adaptive framework for dynamically calibrating digital twins (DTs) in response to evolving real-world (RW) conditions. 
+    Traditional simulation-based models often rely on fixed parameter estimates, limiting their adaptability over time. To address this, our 
+    approach integrates active learning (AL) with a dynamic calibration mechanism that keeps the DT aligned with RW observations. At each time 
+    step, a new data batch is received, and a conformal prediction-based monitoring system assesses whether recalibration is needed. When a change 
+    in the RW system state is detected, DT parameters are updated using an efficient AL strategy. The framework reduces computational overhead 
+    by avoiding unnecessary DT evaluations while maintaining accurate system representation. We demonstrate the effectiveness of the proposed 
+    approach in achieving adaptive, cost-efficient DT calibration over time.
+  authors: Özge Sürer, Xi Chen, Sara Shashaani
+  link:
+    url: https://ieeexplore.ieee.org/document/11338975
+    display:  Proceedings of the Winter Simulation Conference (WSC) (2025)
+  highlight: 1
+  news2:
+  
 - title: "Surrogate models for linear response"
   image: SpectrumImage.png
   description: >
