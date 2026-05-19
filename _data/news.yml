@@ -1,6 +1,6 @@
 - date: May 2, 2026
   headline: > 
-    Nuclear reaction dynamics is often modeled using a large set of coupled equations. To enable further Bayesian analysis of nuclear reactions, BAND members Manuel Catacora-Rios, Kyle Beyer, Pablo Giuliani, Kyle Godbey, Dick Furnstahl, and Filomena Nunes developed a reduced-basis coupled-channel emulator (CC-RBM) that precisely reproduces the full coupled-channel solution at lower cost. <a href="https://journals.aps.org/prc/abstract/10.1103/tgf9-f2st">Their article on this work</a> was an Editors' suggestion in the April issue of Physical Review C.
+    Nuclear reaction dynamics is often modeled using a large set of coupled equations. To enable further Bayesian analysis of nuclear reactions, BAND members Manuel Catacora-Rios, Kyle Beyer, Pablo Giuliani, Kyle Godbey, Dick Furnstahl, and Filomena Nunes developed a reduced-basis coupled-channel emulator (CC-RBM) that precisely reproduces the full coupled-channel solution at substantially lower computational cost. <a href="https://journals.aps.org/prc/abstract/10.1103/tgf9-f2st">Their article on this work</a> was an Editors' suggestion in the April issue of Physical Review C.
   
 - date: March 31, 2026
   headline: > 
