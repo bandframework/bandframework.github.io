@@ -369,6 +369,71 @@
   type: methodology
   news2:
 
+- title: "Multi-model Mixing via Bayesian Trees"
+  image:
+  location: >
+    Digital Twins for Nuclear and Particle Physics, Trento
+  date: >
+    May 12, 2026
+  presenter: Matt Pratola (Indiana University)
+  link:
+    url:
+  highlight: 0
+  type: methodology
+  news2:
+
+- title: "Bayesian Model Mixing, Bayesian Trees and Experimental Design"
+  image:
+  location: >
+    ISNET v11, Trento
+  date: >
+    November 19, 2025
+  presenter: Matt Pratola (Indiana University)
+  link:
+    url:
+  highlight: 0
+  type: methodology
+  news2:
+
+- title: "Emulation and Model Mixing with Random Path Bayesian Additive Regression Trees"
+  image:
+  location: >
+    JSM 2025, Nashville
+  date: >
+    August 6, 2025
+  presenter: Matt Pratola (Indiana University)
+  link:
+    url:
+  highlight: 0
+  type: methodology
+  news2:
+
+- title: "Bayesian Model Mixing with applications in Nuclear Physics"
+  image:
+  location: >
+    ISNET v10, Shanghai
+  date: >
+    November 11, 2024
+  presenter: Matt Pratola (Indiana University)
+  link:
+    url:
+  highlight: 0
+  type: methodology
+  news2:
+
+- title: "Bayesian Model Mixing with applications in Nuclear Physics and Climate"
+  image:
+  location: >
+    JRC 2024, Waterloo
+  date: >
+    June 18, 2024
+  presenter: Matt Pratola (Ohio State)
+  link:
+    url:
+  highlight: 0
+  type: methodology
+  news2:
+
 - title: "Bayesian Model Mixing with applications in Nuclear Physics and Climate"
   image:
   location: >
