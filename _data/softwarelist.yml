@@ -103,5 +103,14 @@
     url: https://github.com/mosesyhc/lcgp
     display:  LCGP repository
   compatible: https://github.com/mosesyhc/LCGP/blob/693ae7aef55b6e2cc209654368633a0135e989d2/lcgp-bandsdk.md
-  authors: M. Y-H. Chan
+  authors: M. Y-H. Chan, E. Handjaja
 
+- name: mooGP
+  imageurl: /images/logopic/moogp_logo_core.svg
+  info: >
+    Emulator for vector-valued stochastic outputs with interpretable trend.
+  link:
+    url: https://github.com/evancbarnett/mooGP
+    display:  mooGP repository
+  compatible: https://github.com/evancbarnett/mooGP/blob/main/bandframework-moogp-sdk.md
+  authors: E. C. Barnett, M. Y-H. Chan
