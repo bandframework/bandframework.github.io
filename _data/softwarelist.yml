@@ -62,7 +62,7 @@
     url: https://github.com/bandframework/Bfrescox/tree/151c20896d9673037e5b82f13b0c1711931e62d5
     display:  Bfrescox ReadMe and Repo
   compatible: https://github.com/bandframework/Bfrescox/blob/151c20896d9673037e5b82f13b0c1711931e62d5/Bfrescoxbandsdk.md
-  authors: K. Beyer and M. Catacora-Rios and J. O'Neal
+  authors: K. Beyer and M. Catacora-Rios
 
 - name: PUQ
   imageurl: /images/logopic/Logo_PUQ.png
@@ -105,3 +105,12 @@
   compatible: https://github.com/mosesyhc/LCGP/blob/693ae7aef55b6e2cc209654368633a0135e989d2/lcgp-bandsdk.md
   authors: M. Y-H. Chan
 
+- name: OpenBT
+  imageurl: /images/logopic/openbt_logo_rect.png
+  info: >
+    C++, Python, and R packages implementing Bayesian tree models, including regression, model mixing, sensitivity analysis and multiobjective optimization.
+  link:
+    url: https://openbt.readthedocs.io
+    display: OpenBT Read the Docs
+  compatible: bandframework/blob/main/software/OpenBT/OpenBTbandsdk.md
+  authors: M. Pratola and J. Yannotty
