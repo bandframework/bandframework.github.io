@@ -106,7 +106,7 @@
   authors: M. Y-H. Chan
 
 - name: OpenBT
-  imageurl: /images/logopic/openbt_logo_rect.png
+  imageurl: /images/logopic/openbt_logo_square.png
   info: >
     C++, Python, and R packages implementing Bayesian tree models, including regression, model mixing, sensitivity analysis and multiobjective optimization.
   link:
