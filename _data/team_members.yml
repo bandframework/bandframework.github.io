@@ -49,7 +49,7 @@
 
 - name: Filomena Nunes
   photo: nunes.png
-  info: Professor of Physics and FRIB Theory Alliance Managing Director, Michigan State University
+  info: Professor of Physics, Michigan State University
   email: nunes@frib.msu.edu
   number_educ: 0
   education1:
@@ -68,8 +68,8 @@
 
 - name: Matt Pratola
   photo: matt_pratola.jpg
-  info: Associate Professor of Statistics, <br> The Ohio State University
-  email: mpratola@stat.osu.edu
+  info: Professor of Statistics, <br> Indiana University
+  email: mpratola@iu.edu
   number_educ: 0
   education1:
   bio: >
@@ -120,7 +120,7 @@
 - name: Frederi Viens
   photo: frederi-viens.2018.3960medres_cropped.jpg
   info: Professor  of Statistics &amp; Probability, <br> Michigan State University; Professor of Statistics, <br> Rice University.
-  email: viens@msu.edu  viens@rice.edu
+  email: viens@rice.edu
   number_educ: 0
   education1:
   bio: >
