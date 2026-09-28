@@ -1,3 +1,7 @@
+- date: September 19, 2026
+  headline: > 
+   Congratulations to BAND Fellow, Samuel Sullivan and his collaborators both inside and outside BAND: their paper "Bayesian calibration of a regional optical potential and uncertainty-quantified predictions for compound nucleus reactions was <a href="https://arxiv.org/abs/2609.20120">posted to the arXiv</a> this week. Sullivan, together with his BAND co-authors Kyle Beyer and Filomena Nunes, as well as co-authors from the University of Surrey and AWE Nuclear Security Technologies, propose a regional approach to the optical potential, suited for a specific region of the nuclear landscape. The goal is to calibrate the potential along isotopic chains to enable both strong data coverage and improved extrapolative power.
+    
 - date: May 2, 2026
   headline: > 
     Nuclear reaction dynamics is often modeled using a large set of coupled equations. To enable further Bayesian analysis of nuclear reactions, BAND members Manuel Catacora-Rios, Kyle Beyer, Pablo Giuliani, Kyle Godbey, Dick Furnstahl, and Filomena Nunes developed a reduced-basis coupled-channel emulator (CC-RBM) that precisely reproduces the full coupled-channel solution at substantially lower computational cost. <a href="https://journals.aps.org/prc/abstract/10.1103/tgf9-f2st">Their article on this work</a> was an Editors' suggestion in the April issue of Physical Review C.
