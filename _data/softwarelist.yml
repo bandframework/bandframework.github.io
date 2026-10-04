@@ -114,6 +114,7 @@
     display:  mooGP repository
   compatible: https://github.com/evancbarnett/mooGP/blob/main/bandframework-moogp-sdk.md
   authors: E. C. Barnett, M. Y-H. Chan
+  
 - name: OpenBT
   imageurl: /images/logopic/openbt_logo_square.png
   info: >
