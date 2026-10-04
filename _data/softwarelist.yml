@@ -42,18 +42,6 @@
   compatible: submodules/bandframework/software/BMEX/BMEX-bandsdk.md
   authors: K. Godbey, L. Buskirk, P. Giuliani
 
-- name: ROSE
-  imageurl: /images/logopic/ROSE_logo.png
-  info: >
-      The Reduced Order Scattering Emulator (ROSE) is a Python package for building
-      emulators using reduced basis methods for calculating nuclear scattering observables for user-defined
-      interactions, including optical potentials. 
-  link:
-    url: https://github.com/bandframework/rose
-    display:  ROSE Github
-  compatible: submodules/bandframework/software/ROSE/rosebandsdk.md
-  authors: D. Odell, P. Giuliani, K. Godbey, K. Beyer, M. Y.-H. Chan
-
 - name: Bfrescox
   imageurl: /images/logopic/BFRESCOX_logo.png
   info: >
@@ -90,9 +78,9 @@
   info: >
     If your function is well described by Taylor expansion, Smooth Emulator is for you!
   link:
-    url: https://github.com/bandframework/bandframework/tree/main/software/SmoothEmulator/doc/UserManual.pdf
+    url: https://github.com/bandframework/SmoothEmulator/blob/main/doc/UserManual.pdf
     display:  Documentation
-  compatible: https://github.com/bandframework/bandframework/tree/main/software/SmoothEmulator/doc/UserManual.pdf
+  compatible: https://github.com/bandframework/SmoothEmulator/blob/main/doc/UserManual.pdf
   authors: S. Pratt and O. Savchuk
 
 - name: LCGP
