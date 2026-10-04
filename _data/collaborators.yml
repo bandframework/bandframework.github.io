@@ -1,3 +1,10 @@
+- name: Pranav Agarwal
+  photo: Pranav.jpg
+  info: Ph.D. student, <br> Department of Physics, <br> University of York
+  email: pranavagarwal2911@gmail.com
+  number_educ: 0
+  education1:
+  
 - name: Edgard Bonilla
   photo: Edgard.jpg
   info: Postdoctoral Scholar, <br> Department of Applied Physics, <br> Stanford University
