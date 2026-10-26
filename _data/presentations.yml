@@ -1,3 +1,122 @@
+
+
+
+- title: "Introduction to the BAND software framework"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-12) conference.
+  date: >
+    October 5, 2026
+  presenter: Daniel Phillips (OU) 
+  link:
+    url: https://conferences.lbl.gov/event/2526/contributions/12530/attachments/6483/7078/BAND%20camp%20opening%20talk.pdf
+  video: 0
+  video_link:
+    url: 
+  highlight: 0
+  type: BAND_Camp_2026
+  news2:
+
+- title: "Gaussian Process emulation and surmise"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-12) conference.
+  date: >
+    October 5, 2026
+  presenter: Moses Chan (NW)
+  link:
+    url: https://github.com/mosesyhc/BAND-camp-surmise-demo/blob/main/GP_emulation_surmise-2026.ipynb
+  video: 0
+  video_link:
+    url: 
+  highlight: 0
+  type: BAND_Camp_2026
+  news2:
+
+- title: "Calibrating an optical model using BAND tools"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-12) conference.
+  date: >
+    October 5, 2026
+  presenter: Kyle Beyer (MSU)
+  link:
+    url: https://colab.research.google.com/github/beykyle/breakup-calibration-demo/blob/main/breakup_calibration_demo.ipynb
+  video: 0
+  video_link:
+    url: 
+  highlight: 0
+  type: BAND_Camp_2026
+  news2:
+
+- title: "Discrepancy functions and using them in calibration"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-12) conference.
+  date: >
+    October 5, 2026
+  presenter: Sunil Jaiswal (WSU) and Dick Furnstahl (OSU)
+  link:
+    url: https://github.com/sjaiswal-tifr/ISNET12-model-discrepancy/blob/main/README.md
+  video: 0
+  video_link:
+    url: 
+  highlight: 0
+  type: BAND_Camp_2026
+  news2:
+
+- title: "Bayesian Model Combination and the example of nuclear masses"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-12) conference.
+  date: >
+    October 5, 2026
+  presenter: Kyle Godbey (NVIDIA)
+  link:
+    url: https://pybmc.kyle.ee/#s00_title/1
+  video: 0
+  video_link:
+    url: 
+  highlight: 0
+  type: BAND_Camp_2026
+  news2:
+
+- title: "Bayesian Tree mixing using Taweret"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-12) conference.
+  date: >
+    October 5, 2026
+  presenter: Matt Pratola (IU) 
+  link:
+    url: https://conferences.lbl.gov/event/2526/contributions/12535/attachments/6489/7084/isnet12.pdf
+  video: 0
+  video_link:
+    url: 
+  highlight: 0
+  type: BAND_Camp_2026
+  news2:
+
+- title: "Gaussian Process mixing using Taweret"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-12) conference.
+  date: >
+    October 5, 2026
+  presenter: Alexandra Semposki (OSU) 
+  link:
+    url: 
+  video: 0
+  video_link:
+    url: 
+  highlight: 0
+  type: BAND_Camp_2026
+  news2:
+
+
+
+
+
 - title: "The BAND approach to optical potentials"
   image:
   location: >
