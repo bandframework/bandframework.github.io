@@ -1343,3 +1343,139 @@
   highlight: 0
   type: physics
   news2:
+
+
+- title: "Bayesian Modeling: Mixing and Averaging"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-v8) conference.
+  date: >
+    December 13, 2021
+  presenter: Frederi Viens (MSU) 
+  link:
+    url: https://drive.google.com/file/d/1uAjKu6p4liMDRBtkOaJLLsst8S1Vsu0E/view
+  video: 0
+  video_link:
+    url: 
+  highlight: 0
+  type: BAND_Camp_2021
+  news2:
+
+- title: "BAND Software Overview"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-8) conference.
+  date: >
+    December 13, 2021
+  presenter: Ozge Surer 
+  link:
+    url: 
+  video: 0
+  video_link:
+    url: 
+  highlight: 0
+  type: BAND_Camp_2021
+  news2:
+
+- title: "Emulators"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-8) conference.
+  date: >
+    December 13, 2021
+  presenter: Jordan Melendez (Root, OSU)
+  link:
+    url: https://indico.frib.msu.edu/event/47/contributions/542/attachments/178/1379/subspace_emulation.pdf
+  video: 0
+  video_link:
+    url: 
+  highlight: 0
+  type: BAND_Camp_2021
+  news2:
+
+- title: "Coming attractions"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-8) conference.
+  date: >
+    December 13, 2021
+  presenter: Daniel Phillips (OU)
+  link:
+    url: https://indico.frib.msu.edu/event/47/contributions/543/attachments/181/1385/BANDComingAttractions.pdf
+  video: 0
+  video_link:
+    url: 
+  highlight: 0
+  type: BAND_Camp_2021
+  news2:
+
+
+
+
+- title: "The Bayesian Analysis of Nuclear Dynamics Framework: A Brief Introduction"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-v8) conference.
+  date: >
+    December 14, 2020
+  presenter: Daniel Phillips (OU)
+  link:
+    url: https://drive.google.com/drive/folders/1FAQkexoU9NrQwMfdyVgkquNdDW7UEJ8x
+  video: 0
+  video_link:
+    url: 
+  highlight: 0
+  type: BAND_Camp_2020
+  news2:
+
+
+- title: "Bayesian Basics"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-v8) conference.
+  date: >
+    December 14, 2020
+  presenter: Michael Grosskopf (LANL)
+  link:
+    url: https://drive.google.com/drive/folders/1FAQkexoU9NrQwMfdyVgkquNdDW7UEJ8x
+  video: 0
+  video_link:
+    url: 
+  highlight: 0
+  type: BAND_Camp_2020
+  news2:
+
+
+- title: "Model Emulation and Parameter Estimation"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-v8) conference.
+  date: >
+    December 14, 2020
+  presenter: Simon Mak (Duke U) and Derek Everett (OSU)
+  link:
+    url: https://github.com/derekeverett/simple_bayes_with_GP/blob/master/BANDCamp2020_Bayes_Param_Est_GP.ipynb
+  video: 0
+  video_link:
+    url: 
+  highlight: 0
+  type: BAND_Camp_2020
+  news2:
+
+
+- title: "Bayesian Analysis of Nuclear Dynamics: Early Directions in Bayesian Model Mixing"
+  image:
+  location: >
+    BAND Camp at the Information and Statistics in Nuclear Experiment and Theory (ISNET-v8) conference.
+  date: >
+    December 14, 2020
+  presenter: Matt Pratola (OSU)
+  link:
+    url: https://drive.google.com/drive/folders/1FAQkexoU9NrQwMfdyVgkquNdDW7UEJ8x
+  video: 0
+  video_link:
+    url: 
+  highlight: 0
+  type: BAND_Camp_2020
+  news2:
+
