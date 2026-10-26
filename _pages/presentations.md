@@ -76,7 +76,7 @@ Jump to talks about [BAND](#about-band) or [BAND methodology](#band-methodology)
 
 Jump to talks about [BAND](#about-band) or [BAND methodology](#band-methodology).
 
-----
+<!-- ----
 
 ## BAND Camp 2023
 
@@ -96,3 +96,4 @@ Jump to talks about [BAND](#about-band) or [BAND methodology](#band-methodology)
 
 {% endfor %}
 
+ -->
