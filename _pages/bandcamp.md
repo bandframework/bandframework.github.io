@@ -21,7 +21,7 @@ Jump to
 
 ## BAND Camp 2026 (October 5, 2026) 
 
-BAND Camp was a one-day set of pedagogical presentations and tutorials organized by the Bayesian Analysis of Nuclear Dynamics (BAND) collaboration. Materials were geared towards students and earlier career researchers, and aimed to provide an introduction to the software tools developed by BAND and to the corresponding concepts and methods of Bayesian uncertainty quantification. 
+BAND Camp 2026 was a one-day set of pedagogical presentations and tutorials organized by the Bayesian Analysis of Nuclear Dynamics (BAND) collaboration. Materials were geared towards students and earlier career researchers, and aimed to provide an introduction to the software tools developed by BAND and to the corresponding concepts and methods of Bayesian uncertainty quantification. 
 
 The camp taught attendees to use Bayesian statistics, which is a mathematical method for updating the probability of a hypothesis as more evidence becomes available. In nuclear physics, researchers can use BAND tools when fitting (or "calibrating") a model to experimental data, when estimating the uncertainties in a particular model, and in order to combine disparate models of a particular observable. 
 

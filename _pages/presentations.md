@@ -13,7 +13,7 @@ permalink: /presentations/
 
 Jump to 
 * talks about [BAND](#about-band) or [BAND methodology](#band-methodology) or [BAND physics applications](#band-physics-applications).
-* videos and slides from [BAND Camp 2023](#band-camp-2023)
+* presentations from all the [BAND Camps](/bandcamp/)
 
 ----
 
